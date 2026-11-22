@@ -138,11 +138,11 @@
 
 ## Assembly
 
-* [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) ⭐ 18,945 | 🐛 15 | 🌐 Assembly | 📅 2026-05-30 - Collection of malware source code for a variety of platforms in an array of different programming languages.
-* [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) ⭐ 15,221 | 🐛 0 | 🌐 Assembly | 📅 2026-11-21 - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
+* [vxunderground/MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode) ⭐ 18,946 | 🐛 15 | 🌐 Assembly | 📅 2026-05-30 - Collection of malware source code for a variety of platforms in an array of different programming languages.
+* [mytechnotalent/Reverse-Engineering](https://github.com/mytechnotalent/Reverse-Engineering) ⭐ 15,234 | 🐛 0 | 🌐 Assembly | 📅 2026-11-22 - A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit/64-bit ARM, 8-bit AVR and 32-bit RISC-V architectures.
 * [jthuraisamy/SysWhispers](https://github.com/jthuraisamy/SysWhispers) ⭐ 2,030 | 🐛 6 | 🌐 Assembly | 📅 2023-01-01 - AV/EDR evasion via direct system calls.
 * [klezVirus/inceptor](https://github.com/klezVirus/inceptor) ⭐ 1,842 | 🐛 15 | 🌐 Assembly | 📅 2023-11-03 - Template-Driven AV/EDR Evasion Framework
-* [jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) ⭐ 1,837 | 🐛 3 | 🌐 Assembly | 📅 2022-09-03 - AV/EDR evasion via direct system calls.
+* [jthuraisamy/SysWhispers2](https://github.com/jthuraisamy/SysWhispers2) ⭐ 1,838 | 🐛 3 | 🌐 Assembly | 📅 2022-09-03 - AV/EDR evasion via direct system calls.
 * [Cybereason/siofra](https://github.com/Cybereason/siofra) ⭐ 514 | 🐛 1 | 🌐 Assembly | 📅 2017-10-05 -
 * [enkomio/AlanFramework](https://github.com/enkomio/AlanFramework) ⭐ 488 | 🐛 2 | 🌐 Assembly | 📅 2024-01-24 - A C2 post-exploitation framework
 * [antonioCoco/Mapping-Injection](https://github.com/antonioCoco/Mapping-Injection) ⭐ 408 | 🐛 0 | 🌐 Assembly | 📅 2020-08-07 - Just another Windows Process Injection
@@ -167,14 +167,14 @@
 
 ## Batchfile
 
-* [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ⭐ 200,384 | 🐛 7 | 🌐 Batchfile | 📅 2026-11-11 - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
-* [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) ⭐ 27,148 | 🐛 5 | 🌐 Python | 📅 2026-11-19 - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+* [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) ⭐ 200,499 | 🐛 9 | 🌐 Batchfile | 📅 2026-11-11 - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+* [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) ⭐ 27,160 | 🐛 5 | 🌐 Python | 📅 2026-11-19 - An open-source Chinese font derived from Fontworks' Klee One. 一款开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 * [NextronSystems/APTSimulator](https://github.com/NextronSystems/APTSimulator) ⭐ 2,790 | 🐛 4 | 🌐 Batchfile | 📅 2025-09-23 - A toolset to make a system look as if it was the victim of an APT attack
 * [sagishahar/lpeworkshop](https://github.com/sagishahar/lpeworkshop) ⭐ 2,145 | 🐛 0 | 🌐 Batchfile | 📅 2022-10-09 - Windows / Linux Local Privilege Escalation Workshop
 * [maguowei/k8s-docker-desktop-for-mac](https://github.com/maguowei/k8s-docker-desktop-for-mac) ⭐ 1,476 | 🐛 1 | 🌐 Batchfile | 📅 2024-05-26 - Docker Desktop for Mac 开启并使用 Kubernetes
 * [frizb/Windows-Privilege-Escalation](https://github.com/frizb/Windows-Privilege-Escalation) ⭐ 1,007 | 🐛 3 | 🌐 Batchfile | 📅 2020-03-25 - Windows Privilege Escalation Techniques and Scripts
 * [so87/CISSP-Study-Guide](https://github.com/so87/CISSP-Study-Guide) ⭐ 581 | 🐛 1 | 🌐 Batchfile | 📅 2020-12-21 - study material used for the 2018 CISSP exam
-* [Tai7sy/fuckcdn](https://github.com/Tai7sy/fuckcdn) ⭐ 481 | 🐛 1 | 🌐 Batchfile | 📅 2021-06-27 - CDN真实IP扫描，易语言开发
+* [Tai7sy/fuckcdn](https://github.com/Tai7sy/fuckcdn) ⭐ 482 | 🐛 1 | 🌐 Batchfile | 📅 2021-06-27 - CDN真实IP扫描，易语言开发
 * [mxk/windows-secure-group-policy](https://github.com/mxk/windows-secure-group-policy) ⭐ 257 | 🐛 0 | 🌐 Batchfile | 📅 2025-12-14 - Windows 11 secure group policy for standalone devices
 * [wafinfo/cobaltstrike](https://github.com/wafinfo/cobaltstrike) ⭐ 179 | 🐛 1 | 🌐 Batchfile | 📅 2021-03-11 - cobaltstrike插件
 * [chroblert/JC-jEnv](https://github.com/chroblert/JC-jEnv) ⭐ 154 | 🐛 6 | 🌐 Batchfile | 📅 2023-07-08 - windows java environ manage
@@ -198,11 +198,11 @@
 
 ## Blade
 
-* [dbarzin/mercator](https://github.com/dbarzin/mercator) ⭐ 560 | 🐛 125 | 🌐 PHP | 📅 2026-11-19 - Mapping the information system / Cartographie du système d'information
+* [dbarzin/mercator](https://github.com/dbarzin/mercator) ⭐ 562 | 🐛 126 | 🌐 PHP | 📅 2026-11-21 - Mapping the information system / Cartographie du système d'information
 
 ## BlitzBasic
 
-* [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) ⭐ 4,001 | 🐛 4 | 🌐 BlitzBasic | 📅 2021-09-27 - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
+* [1N3/IntruderPayloads](https://github.com/1N3/IntruderPayloads) ⭐ 4,000 | 🐛 4 | 🌐 BlitzBasic | 📅 2021-09-27 - A collection of Burpsuite Intruder payloads, BurpBounty payloads, fuzz lists, malicious file uploads and web pentesting methodologies and checklists.
 * [six2dez/burp-bounty-profiles](https://github.com/six2dez/burp-bounty-profiles) ⚠️ Archived - Burp Bounty profiles compilation, feel free to contribute!
 * [Sy3Omda/burp-bounty](https://github.com/Sy3Omda/burp-bounty) ⭐ 80 | 🐛 1 | 🌐 BlitzBasic | 📅 2022-01-02 - Burp Bounty profiles
 * [PortSwigger/scan-check-builder](https://github.com/PortSwigger/scan-check-builder) ⭐ 73 | 🐛 0 | 🌐 BlitzBasic | 📅 2022-02-04 - Burp Bounty is a extension of Burp Suite that improve an active and passive scanner by yourself. This extension requires Burp Suite Pro.
@@ -214,64 +214,64 @@
 
 ## C
 
-* [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 155,331 | 🐛 2,960 | 🌐 C | 📅 2026-11-19 - Display and control your Android device
-* [netdata/netdata](https://github.com/netdata/netdata) ⭐ 81,572 | 🐛 472 | 🌐 Go | 📅 2026-11-21 - X-Ray Vision for your infrastructure!
-* [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ⭐ 81,033 | 🐛 1,017 | 🌐 C | 📅 2026-11-20 - A new bootable USB solution.
-* [wg/wrk](https://github.com/wg/wrk) ⭐ 40,427 | 🐛 202 | 🌐 C | 📅 2023-12-30 - Modern HTTP benchmarking tool
-* [mpv-player/mpv](https://github.com/mpv-player/mpv) ⭐ 38,234 | 🐛 1,188 | 🌐 C | 📅 2026-11-21 - 🎥 Command line media player
-* [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) ⭐ 32,723 | 🐛 2,462 | 🌐 C | 📅 2025-03-11 - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
-* [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,882 | 🐛 152 | 🌐 C | 📅 2026-01-19 - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-* [iovisor/bcc](https://github.com/iovisor/bcc) ⭐ 22,753 | 🐛 1,103 | 🌐 C | 📅 2026-11-17 - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+* [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 155,396 | 🐛 2,958 | 🌐 C | 📅 2026-11-22 - Display and control your Android device
+* [netdata/netdata](https://github.com/netdata/netdata) ⭐ 81,585 | 🐛 474 | 🌐 Go | 📅 2026-11-22 - X-Ray Vision for your infrastructure!
+* [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ⭐ 81,122 | 🐛 1,017 | 🌐 C | 📅 2026-11-20 - A new bootable USB solution.
+* [wg/wrk](https://github.com/wg/wrk) ⭐ 40,425 | 🐛 202 | 🌐 C | 📅 2023-12-30 - Modern HTTP benchmarking tool
+* [mpv-player/mpv](https://github.com/mpv-player/mpv) ⭐ 38,255 | 🐛 1,184 | 🌐 C | 📅 2026-11-22 - 🎥 Command line media player
+* [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) ⭐ 32,726 | 🐛 2,462 | 🌐 C | 📅 2025-03-11 - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
+* [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) ⭐ 28,884 | 🐛 152 | 🌐 C | 📅 2026-01-19 - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+* [iovisor/bcc](https://github.com/iovisor/bcc) ⭐ 22,754 | 🐛 1,104 | 🌐 C | 📅 2026-11-17 - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 * [SamyPesse/How-to-Make-a-Computer-Operating-System](https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System) ⭐ 22,394 | 🐛 86 | 🌐 C | 📅 2021-12-16 - How to Make a Computer Operating System in C++
-* [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,984 | 🐛 199 | 🌐 C | 📅 2026-10-30 - A little tool to play with Windows security
-* [ish-app/ish](https://github.com/ish-app/ish) ⭐ 20,770 | 🐛 653 | 🌐 C | 📅 2026-11-07 - Linux shell for iOS
-* [reactos/reactos](https://github.com/reactos/reactos) ⭐ 18,545 | 🐛 163 | 🌐 C | 📅 2026-11-20 - A free Windows-compatible Operating System
-* [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) ⭐ 18,045 | 🐛 41 | 🌐 C | 📅 2026-11-21 - SumatraPDF reader
-* [swaywm/sway](https://github.com/swaywm/sway) ⭐ 17,540 | 🐛 1,432 | 🌐 C | 📅 2026-11-21 - i3-compatible Wayland compositor
-* [skywind3000/kcp](https://github.com/skywind3000/kcp) ⭐ 16,965 | 🐛 201 | 🌐 C | 📅 2026-06-23 - :zap: KCP - A Fast and Reliable ARQ Protocol
-* [gojue/ecapture](https://github.com/gojue/ecapture) ⭐ 15,577 | 🐛 2 | 🌐 C | 📅 2026-11-21 - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-* [haiwen/seafile](https://github.com/haiwen/seafile) ⭐ 15,482 | 🐛 99 | 🌐 C | 📅 2026-11-11 - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
-* [SpacehuhnTech/esp8266\_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) ⭐ 15,117 | 🐛 99 | 🌐 C | 📅 2024-08-14 - Affordable WiFi hacking platform for testing and learning
-* [openwall/john](https://github.com/openwall/john) ⭐ 13,958 | 🐛 527 | 🌐 C | 📅 2026-11-16 - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
-* [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) ⭐ 13,479 | 🐛 25 | 🌐 C | 📅 2026-06-06 - A Compiler Writing Journey
-* [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,895 | 🐛 42 | 🌐 C | 📅 2026-11-16 - Small and highly portable detection tests based on MITRE's ATT\&CK.
-* [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) ⭐ 12,552 | 🐛 47 | 🌐 C | 📅 2026-11-15 - hydra
+* [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) ⭐ 21,989 | 🐛 199 | 🌐 C | 📅 2026-10-30 - A little tool to play with Windows security
+* [ish-app/ish](https://github.com/ish-app/ish) ⭐ 20,773 | 🐛 653 | 🌐 C | 📅 2026-11-07 - Linux shell for iOS
+* [reactos/reactos](https://github.com/reactos/reactos) ⭐ 18,553 | 🐛 164 | 🌐 C | 📅 2026-11-21 - A free Windows-compatible Operating System
+* [sumatrapdfreader/sumatrapdf](https://github.com/sumatrapdfreader/sumatrapdf) ⭐ 18,055 | 🐛 38 | 🌐 C | 📅 2026-11-22 - SumatraPDF reader
+* [swaywm/sway](https://github.com/swaywm/sway) ⭐ 17,545 | 🐛 1,432 | 🌐 C | 📅 2026-11-22 - i3-compatible Wayland compositor
+* [skywind3000/kcp](https://github.com/skywind3000/kcp) ⭐ 16,964 | 🐛 201 | 🌐 C | 📅 2026-06-23 - :zap: KCP - A Fast and Reliable ARQ Protocol
+* [gojue/ecapture](https://github.com/gojue/ecapture) ⭐ 15,579 | 🐛 2 | 🌐 C | 📅 2026-11-22 - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+* [haiwen/seafile](https://github.com/haiwen/seafile) ⭐ 15,484 | 🐛 104 | 🌐 C | 📅 2026-11-11 - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+* [SpacehuhnTech/esp8266\_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) ⭐ 15,120 | 🐛 99 | 🌐 C | 📅 2024-08-14 - Affordable WiFi hacking platform for testing and learning
+* [openwall/john](https://github.com/openwall/john) ⭐ 13,962 | 🐛 527 | 🌐 C | 📅 2026-11-16 - John the Ripper jumbo - advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs
+* [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj) ⭐ 13,481 | 🐛 25 | 🌐 C | 📅 2026-06-06 - A Compiler Writing Journey
+* [redcanaryco/atomic-red-team](https://github.com/redcanaryco/atomic-red-team) ⭐ 12,899 | 🐛 41 | 🌐 C | 📅 2026-11-16 - Small and highly portable detection tests based on MITRE's ATT\&CK.
+* [vanhauser-thc/thc-hydra](https://github.com/vanhauser-thc/thc-hydra) ⭐ 12,560 | 🐛 47 | 🌐 C | 📅 2026-11-15 - hydra
 * [google/sanitizers](https://github.com/google/sanitizers) ⭐ 12,535 | 🐛 549 | 🌐 C | 📅 2026-11-08 - AddressSanitizer, ThreadSanitizer, MemorySanitizer
-* [screetsec/TheFatRat](https://github.com/screetsec/TheFatRat) ⭐ 11,625 | 🐛 152 | 🌐 C | 📅 2024-03-17 - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then
-* [pymumu/smartdns](https://github.com/pymumu/smartdns) ⭐ 11,435 | 🐛 339 | 🌐 C | 📅 2026-11-20 - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT, DoQ。
-* [telekom-security/tpotce](https://github.com/telekom-security/tpotce) ⭐ 9,743 | 🐛 0 | 🌐 Shell | 📅 2026-11-19 - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
+* [screetsec/TheFatRat](https://github.com/screetsec/TheFatRat) ⭐ 11,626 | 🐛 152 | 🌐 C | 📅 2024-03-17 - Thefatrat a massive exploiting tool : Easy tool to generate backdoor and easy tool to post exploitation attack like browser attack and etc . This tool compiles a malware with popular payload and then
+* [pymumu/smartdns](https://github.com/pymumu/smartdns) ⭐ 11,442 | 🐛 339 | 🌐 C | 📅 2026-11-21 - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT, DoQ。
+* [telekom-security/tpotce](https://github.com/telekom-security/tpotce) ⭐ 9,743 | 🐛 0 | 🌐 Shell | 📅 2026-11-22 - 🍯 T-Pot - The All In One Multi Honeypot Platform 🐝
 * [nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms) ⭐ 9,028 | 🐛 8 | 🌐 C | 📅 2025-06-13 - 算法学习笔记
-* [esnet/iperf](https://github.com/esnet/iperf) ⭐ 8,890 | 🐛 262 | 🌐 C | 📅 2026-11-21 - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
+* [esnet/iperf](https://github.com/esnet/iperf) ⭐ 8,893 | 🐛 263 | 🌐 C | 📅 2026-11-21 - iperf3:  A TCP, UDP, and SCTP network bandwidth measurement tool
 * [Wind4/vlmcsd](https://github.com/Wind4/vlmcsd) ⚠️ Archived - KMS Emulator in C (currently runs on Linux including Android, FreeBSD, Solaris, Minix, Mac OS, iOS, Windows with or without Cygwin)
-* [SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) ⭐ 8,770 | 🐛 10 | 🌐 C | 📅 2021-06-11 - windows-kernel-exploits   Windows平台提权漏洞集合
-* [skeeto/endlessh](https://github.com/skeeto/endlessh) ⭐ 8,590 | 🐛 49 | 🌐 C | 📅 2024-06-03 - SSH tarpit that slowly sends an endless banner
-* [yarrick/iodine](https://github.com/yarrick/iodine) ⭐ 8,043 | 🐛 9 | 🌐 C | 📅 2026-11-21 - Official git repo for iodine dns tunnel
-* [ufrisk/pcileech](https://github.com/ufrisk/pcileech) ⭐ 8,003 | 🐛 10 | 🌐 C | 📅 2026-10-05 - Direct Memory Access (DMA) Attack Software
-* [merbanan/rtl\_433](https://github.com/merbanan/rtl_433) ⭐ 7,941 | 🐛 114 | 🌐 C | 📅 2026-11-14 - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
+* [SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits) ⭐ 8,771 | 🐛 10 | 🌐 C | 📅 2021-06-11 - windows-kernel-exploits   Windows平台提权漏洞集合
+* [skeeto/endlessh](https://github.com/skeeto/endlessh) ⭐ 8,591 | 🐛 49 | 🌐 C | 📅 2024-06-03 - SSH tarpit that slowly sends an endless banner
+* [yarrick/iodine](https://github.com/yarrick/iodine) ⭐ 8,045 | 🐛 8 | 🌐 C | 📅 2026-11-22 - Official git repo for iodine dns tunnel
+* [ufrisk/pcileech](https://github.com/ufrisk/pcileech) ⭐ 8,005 | 🐛 10 | 🌐 C | 📅 2026-10-05 - Direct Memory Access (DMA) Attack Software
+* [merbanan/rtl\_433](https://github.com/merbanan/rtl_433) ⭐ 7,943 | 🐛 115 | 🌐 C | 📅 2026-11-14 - Program to decode radio transmissions from devices on the ISM bands (and other frequencies)
 * [hfiref0x/UACME](https://github.com/hfiref0x/UACME) ⭐ 7,880 | 🐛 1 | 🌐 C | 📅 2026-07-24 - Defeating Windows User Account Control
-* [netblue30/firejail](https://github.com/netblue30/firejail) ⭐ 7,745 | 🐛 529 | 🌐 C | 📅 2026-11-18 - Linux namespaces and seccomp-bpf sandbox
-* [ntop/n2n](https://github.com/ntop/n2n) ⭐ 7,062 | 🐛 153 | 🌐 C | 📅 2026-10-17 - Peer-to-peer VPN
-* [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) ⭐ 6,896 | 🐛 20 | 🌐 C | 📅 2026-11-20 - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn\_mode, and a lot more!
-* [akopytov/sysbench](https://github.com/akopytov/sysbench) ⭐ 6,814 | 🐛 218 | 🌐 C | 📅 2025-03-09 - Scriptable database and system performance benchmark
+* [netblue30/firejail](https://github.com/netblue30/firejail) ⭐ 7,746 | 🐛 529 | 🌐 C | 📅 2026-11-18 - Linux namespaces and seccomp-bpf sandbox
+* [ntop/n2n](https://github.com/ntop/n2n) ⭐ 7,063 | 🐛 153 | 🌐 C | 📅 2026-10-17 - Peer-to-peer VPN
+* [AFLplusplus/AFLplusplus](https://github.com/AFLplusplus/AFLplusplus) ⭐ 6,899 | 🐛 20 | 🌐 C | 📅 2026-11-20 - The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn\_mode, and a lot more!
+* [akopytov/sysbench](https://github.com/akopytov/sysbench) ⭐ 6,815 | 🐛 218 | 🌐 C | 📅 2025-03-09 - Scriptable database and system performance benchmark
 * [nelhage/reptyr](https://github.com/nelhage/reptyr) ⭐ 6,368 | 🐛 28 | 🌐 C | 📅 2026-10-19 - Reparent a running program to a new terminal
-* [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) ⭐ 6,253 | 🐛 91 | 🌐 C | 📅 2026-11-16 - Iceman Fork - Proxmark3
-* [RPISEC/MBE](https://github.com/RPISEC/MBE) ⭐ 6,109 | 🐛 11 | 🌐 C | 📅 2021-12-09 - Course materials for Modern Binary Exploitation by RPISEC
+* [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) ⭐ 6,257 | 🐛 92 | 🌐 C | 📅 2026-11-16 - Iceman Fork - Proxmark3
+* [RPISEC/MBE](https://github.com/RPISEC/MBE) ⭐ 6,108 | 🐛 11 | 🌐 C | 📅 2021-12-09 - Course materials for Modern Binary Exploitation by RPISEC
 * [tinyproxy/tinyproxy](https://github.com/tinyproxy/tinyproxy) ⭐ 6,066 | 🐛 142 | 🌐 C | 📅 2026-11-18 - tinyproxy - a light-weight HTTP/HTTPS proxy daemon for POSIX operating systems
-* [seL4/seL4](https://github.com/seL4/seL4) ⭐ 5,912 | 🐛 229 | 🌐 C | 📅 2026-11-18 - The seL4 microkernel
-* [SecWiki/linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) ⭐ 5,668 | 🐛 4 | 🌐 C | 📅 2020-07-13 - linux-kernel-exploits Linux平台提权漏洞集合
-* [baidu/dperf](https://github.com/baidu/dperf) ⭐ 5,659 | 🐛 1 | 🌐 C | 📅 2026-08-07 - dperf is a 100Gbps network load tester.
-* [3proxy/3proxy](https://github.com/3proxy/3proxy) ⭐ 5,614 | 🐛 17 | 🌐 C | 📅 2026-11-21 - 3proxy - tiny free proxy server
-* [hengyoush/kyanos](https://github.com/hengyoush/kyanos) ⭐ 5,082 | 🐛 32 | 🌐 C | 📅 2026-11-20 - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
-* [ossec/ossec-hids](https://github.com/ossec/ossec-hids) ⭐ 5,074 | 🐛 39 | 🌐 C | 📅 2026-11-19 - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
-* [easychen/pushdeer](https://github.com/easychen/pushdeer) ⭐ 5,026 | 🐛 61 | 🌐 C | 📅 2026-10-28 - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
+* [seL4/seL4](https://github.com/seL4/seL4) ⭐ 5,919 | 🐛 229 | 🌐 C | 📅 2026-11-18 - The seL4 microkernel
+* [SecWiki/linux-kernel-exploits](https://github.com/SecWiki/linux-kernel-exploits) ⭐ 5,669 | 🐛 4 | 🌐 C | 📅 2020-07-13 - linux-kernel-exploits Linux平台提权漏洞集合
+* [baidu/dperf](https://github.com/baidu/dperf) ⭐ 5,660 | 🐛 1 | 🌐 C | 📅 2026-08-07 - dperf is a 100Gbps network load tester.
+* [3proxy/3proxy](https://github.com/3proxy/3proxy) ⭐ 5,615 | 🐛 17 | 🌐 C | 📅 2026-11-21 - 3proxy - tiny free proxy server
+* [hengyoush/kyanos](https://github.com/hengyoush/kyanos) ⭐ 5,082 | 🐛 32 | 🌐 C | 📅 2026-11-21 - Kyanos is a networking analysis tool using eBPF. It can visualize the time packets spend in the kernel, capture requests/responses, makes troubleshooting more efficient.
+* [ossec/ossec-hids](https://github.com/ossec/ossec-hids) ⭐ 5,075 | 🐛 39 | 🌐 C | 📅 2026-11-19 - OSSEC is an Open Source Host-based Intrusion Detection System that performs log analysis, file integrity checking, policy monitoring, rootkit detection, real-time alerting and active response.
+* [easychen/pushdeer](https://github.com/easychen/pushdeer) ⭐ 5,027 | 🐛 61 | 🌐 C | 📅 2026-10-28 - 开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备
 * [TheWover/donut](https://github.com/TheWover/donut) ⭐ 4,758 | 🐛 36 | 🌐 C | 📅 2025-07-08 - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters
-* [google/security-research](https://github.com/google/security-research) ⭐ 4,748 | 🐛 57 | 🌐 C | 📅 2026-11-18 - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
+* [google/security-research](https://github.com/google/security-research) ⭐ 4,749 | 🐛 57 | 🌐 C | 📅 2026-11-18 - This project hosts security advisories and their accompanying proof-of-concepts related to research conducted at Google which impact non-Google owned code.
 * [session-replay-tools/tcpcopy](https://github.com/session-replay-tools/tcpcopy) ⭐ 4,688 | 🐛 1 | 🌐 C | 📅 2025-06-18 - An online request replication and TCP stream replay tool, ideal for real testing, performance testing, stability testing, stress testing, load testing, smoke testing, and more.
-* [ntop/nDPI](https://github.com/ntop/nDPI) ⭐ 4,675 | 🐛 60 | 🌐 C | 📅 2026-11-20 - Open Source Deep Packet Inspection Software Toolkit
+* [ntop/nDPI](https://github.com/ntop/nDPI) ⭐ 4,678 | 🐛 63 | 🌐 C | 📅 2026-11-20 - Open Source Deep Packet Inspection Software Toolkit
 * [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) ⭐ 4,516 | 🐛 6 | 🌐 C | 📅 2024-07-27 - CTF竞赛权威指南
-* [F-Stack/f-stack](https://github.com/F-Stack/f-stack) ⭐ 4,294 | 🐛 3 | 🌐 C | 📅 2026-10-29 - F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
-* [NixOS/patchelf](https://github.com/NixOS/patchelf) ⭐ 4,278 | 🐛 151 | 🌐 C | 📅 2026-10-30 - A small utility to modify the dynamic linker and RPATH of ELF executables
-* [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) ⭐ 4,218 | 🐛 38 | 🌐 C | 📅 2026-11-17 - State-of-the-art native debugging tools
+* [F-Stack/f-stack](https://github.com/F-Stack/f-stack) ⭐ 4,295 | 🐛 3 | 🌐 C | 📅 2026-10-29 - F-Stack is an user space  network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
+* [NixOS/patchelf](https://github.com/NixOS/patchelf) ⭐ 4,279 | 🐛 151 | 🌐 C | 📅 2026-10-30 - A small utility to modify the dynamic linker and RPATH of ELF executables
+* [HyperDbg/HyperDbg](https://github.com/HyperDbg/HyperDbg) ⭐ 4,222 | 🐛 38 | 🌐 C | 📅 2026-11-17 - State-of-the-art native debugging tools
 * [huntergregal/mimipenguin](https://github.com/huntergregal/mimipenguin) ⭐ 4,190 | 🐛 7 | 🌐 C | 📅 2025-09-05 - A tool to dump the login password from the current linux user
 * [a0rtega/pafish](https://github.com/a0rtega/pafish) ⚠️ Archived - Pafish is a testing tool that uses different techniques to detect virtual machines and malware analysis environments in the same way that malware families do
 * [blechschmidt/massdns](https://github.com/blechschmidt/massdns) ⭐ 3,670 | 🐛 14 | 🌐 C | 📅 2026-09-27 - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
@@ -281,7 +281,7 @@
 * [osqzss/gps-sdr-sim](https://github.com/osqzss/gps-sdr-sim) ⚠️ Archived - Software-Defined GPS Signal Simulator
 * [axel-download-accelerator/axel](https://github.com/axel-download-accelerator/axel) ⭐ 3,431 | 🐛 87 | 🌐 C | 📅 2026-09-30 - Lightweight CLI download accelerator
 * [google/honggfuzz](https://github.com/google/honggfuzz) ⭐ 3,416 | 🐛 32 | 🌐 C | 📅 2026-09-25 - Security oriented software fuzzer. Supports evolutionary, feedback-driven fuzzing based on code coverage (SW and HW based)
-* [traviscross/mtr](https://github.com/traviscross/mtr) ⭐ 3,390 | 🐛 142 | 🌐 C | 📅 2026-11-02 - Official repository for mtr, a network diagnostic tool
+* [traviscross/mtr](https://github.com/traviscross/mtr) ⭐ 3,391 | 🐛 140 | 🌐 C | 📅 2026-11-22 - Official repository for mtr, a network diagnostic tool
 * [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) ⭐ 3,386 | 🐛 16 | 🌐 C | 📅 2026-03-06 - A library for audio and music analysis, feature extraction.
 * [DhavalKapil/icmptunnel](https://github.com/DhavalKapil/icmptunnel) ⭐ 3,253 | 🐛 17 | 🌐 C | 📅 2022-04-12 - Transparently tunnel your IP traffic through ICMP echo and reply packets.
 * [Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub) ⭐ 3,199 | 🐛 0 | 🌐 C | 📅 2023-02-15 - :palm\_tree:Linux、macOS、Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集)
@@ -291,17 +291,17 @@
 * [inspektor-gadget/inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) ⭐ 2,975 | 🐛 440 | 🌐 C | 📅 2026-11-20 - Inspektor Gadget is a set of tools and framework for data collection and system inspection on Kubernetes clusters and Linux hosts using eBPF
 * [rewardone/OSCPRepo](https://github.com/rewardone/OSCPRepo) ⭐ 2,754 | 🐛 1 | 🌐 C | 📅 2020-06-22 - A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and readi
 * [f0rb1dd3n/Reptile](https://github.com/f0rb1dd3n/Reptile) ⭐ 2,751 | 🐛 31 | 🌐 C | 📅 2026-08-17 - LKM Linux rootkit
-* [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) ⭐ 2,718 | 🐛 122 | 🌐 C | 📅 2026-10-31 - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
+* [dlundquist/sniproxy](https://github.com/dlundquist/sniproxy) ⭐ 2,719 | 🐛 122 | 🌐 C | 📅 2026-10-31 - Proxies incoming HTTP and TLS connections based on the hostname contained in the initial request of the TCP session.
 * [rbsec/sslscan](https://github.com/rbsec/sslscan) ⭐ 2,637 | 🐛 67 | 🌐 C | 📅 2026-11-14 - sslscan tests SSL/TLS enabled services to discover supported cipher suites
 * [bytedance/bhook](https://github.com/bytedance/bhook) ⭐ 2,634 | 🐛 18 | 🌐 C | 📅 2026-06-16 - :fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86\_64.
 * [googleprojectzero/winafl](https://github.com/googleprojectzero/winafl) ⭐ 2,629 | 🐛 170 | 🌐 C | 📅 2026-03-13 - A fork of AFL for fuzzing Windows binaries
-* [hmgle/graftcp](https://github.com/hmgle/graftcp) ⭐ 2,615 | 🐛 8 | 🌐 C | 📅 2026-11-20 - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
-* [s0lst1c3/eaphammer](https://github.com/s0lst1c3/eaphammer) ⭐ 2,615 | 🐛 42 | 🌐 C | 📅 2024-09-22 - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
+* [hmgle/graftcp](https://github.com/hmgle/graftcp) ⭐ 2,619 | 🐛 8 | 🌐 C | 📅 2026-11-20 - A flexible tool for redirecting a given program's TCP traffic to SOCKS5 or HTTP proxy.
+* [s0lst1c3/eaphammer](https://github.com/s0lst1c3/eaphammer) ⭐ 2,617 | 🐛 42 | 🌐 C | 📅 2024-09-22 - Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks.
 * [gloxec/CrossC2](https://github.com/gloxec/CrossC2) ⭐ 2,576 | 🐛 41 | 🌐 C | 📅 2023-11-20 - generate CobaltStrike's cross-platform payload
 * [brendan-rius/c-jwt-cracker](https://github.com/brendan-rius/c-jwt-cracker) ⭐ 2,566 | 🐛 16 | 🌐 C | 📅 2023-06-02 - JWT brute force cracker written in C
 * [r4j0x00/exploits](https://github.com/r4j0x00/exploits) ⭐ 2,521 | 🐛 1 | 🌐 C | 📅 2023-01-02 -
 * [m0nad/Diamorphine](https://github.com/m0nad/Diamorphine) ⭐ 2,498 | 🐛 2 | 🌐 C | 📅 2026-11-03 - LKM rootkit for Linux Kernels 2.6.x/3.x/4.x/5.x/6.x (x86/x86\_64 and ARM64)
-* [hasherezade/hollows\_hunter](https://github.com/hasherezade/hollows_hunter) ⭐ 2,440 | 🐛 2 | 🌐 C | 📅 2026-11-08 - Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
+* [hasherezade/hollows\_hunter](https://github.com/hasherezade/hollows_hunter) ⭐ 2,441 | 🐛 2 | 🌐 C | 📅 2026-11-08 - Scans all running processes. Recognizes and dumps a variety of potentially malicious implants (replaced/implanted PEs, shellcodes, hooks, in-memory patches).
 * [hzqst/VmwareHardenedLoader](https://github.com/hzqst/VmwareHardenedLoader) ⭐ 2,427 | 🐛 11 | 🌐 C++ | 📅 2026-10-31 - Vmware Hardened VM detection mitigation loader (anti anti-vm)
 * [bootleg/ret-sync](https://github.com/bootleg/ret-sync) ⭐ 2,416 | 🐛 31 | 🌐 C | 📅 2026-02-15 - ret-sync is a set of plugins that helps to synchronize a debugging session (WinDbg/GDB/LLDB/OllyDbg2/x64dbg) with IDA/Ghidra/Binary Ninja disassemblers.
 * [helloexp/0day](https://github.com/helloexp/0day) ⭐ 2,372 | 🐛 5 | 🌐 C | 📅 2023-09-12 - 各种CMS、各种平台、各种系统、各种软件漏洞的EXP、POC ,该项目将持续更新
@@ -309,26 +309,26 @@
 * [WireGuard/wireguard-monolithic-historical](https://github.com/WireGuard/wireguard-monolithic-historical) ⚠️ Archived - Historical monolithic WireGuard repository, split into wireguard-tools, wireguard-linux, and wireguard-linux-compat.
 * [topotam/PetitPotam](https://github.com/topotam/PetitPotam) ⭐ 2,300 | 🐛 0 | 🌐 C | 📅 2024-08-15 - PoC tool to coerce Windows hosts to authenticate to other machines via MS-EFSRPC EfsRpcOpenFileRaw or other functions.
 * [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure) ⭐ 2,296 | 🐛 2 | 🌐 C | 📅 2024-05-20 - 2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结
-* [gsliepen/tinc](https://github.com/gsliepen/tinc) ⭐ 2,268 | 🐛 123 | 🌐 C | 📅 2026-06-27 - a VPN daemon
+* [gsliepen/tinc](https://github.com/gsliepen/tinc) ⭐ 2,270 | 🐛 123 | 🌐 C | 📅 2026-06-27 - a VPN daemon
 * [itm4n/PrintSpoofer](https://github.com/itm4n/PrintSpoofer) ⚠️ Archived - Abusing impersonation privileges through the "Printer Bug"
 * [bytecode77/r77-rootkit](https://github.com/bytecode77/r77-rootkit) ⭐ 2,221 | 🐛 10 | 🌐 C | 📅 2026-11-03 - Fileless ring 3 rootkit with installer and persistence that hides processes, files, network connections, etc.
 * [bats3c/shad0w](https://github.com/bats3c/shad0w) ⭐ 2,178 | 🐛 10 | 🌐 C | 📅 2021-09-29 - A post exploitation framework designed to operate covertly on heavily monitored environments
 * [fortra/nanodump](https://github.com/fortra/nanodump) ⭐ 2,154 | 🐛 0 | 🌐 C | 📅 2024-09-17 - The swiss army knife of LSASS dumping
-* [phra/PEzor](https://github.com/phra/PEzor) ⭐ 2,147 | 🐛 9 | 🌐 C | 📅 2024-02-03 - Open-Source Shellcode & PE Packer
+* [phra/PEzor](https://github.com/phra/PEzor) ⭐ 2,149 | 🐛 9 | 🌐 C | 📅 2024-02-03 - Open-Source Shellcode & PE Packer
 * [snooda/net-speeder](https://github.com/snooda/net-speeder) ⭐ 2,133 | 🐛 6 | 🌐 C | 📅 2021-11-10 - net-speeder 在高延迟不稳定链路上优化单线程下载速度
 * [gurnec/HashCheck](https://github.com/gurnec/HashCheck) ⭐ 2,107 | 🐛 67 | 🌐 C | 📅 2021-12-30 - HashCheck Shell Extension for Windows with added SHA2, SHA3, and multithreading; originally from code.kliu.org
 * [berdav/CVE-2021-4034](https://github.com/berdav/CVE-2021-4034) ⭐ 2,051 | 🐛 7 | 🌐 C | 📅 2022-06-08 - CVE-2021-4034 1day
 * [h3xduck/TripleCross](https://github.com/h3xduck/TripleCross) ⭐ 1,997 | 🐛 19 | 🌐 C | 📅 2024-04-07 - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities.
 * [hackerschoice/gsocket](https://github.com/hackerschoice/gsocket) ⭐ 1,987 | 🐛 35 | 🌐 C | 📅 2026-11-12 - Connect like there is no firewall. Securely.
 * [ambrop72/badvpn](https://github.com/ambrop72/badvpn) ⚠️ Archived - NCD scripting language, tun2socks proxifier, P2P VPN
+* [wavestone-cdt/EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast) ⭐ 1,871 | 🐛 7 | 🌐 C | 📅 2024-08-30 -
 * [glmcdona/Process-Dump](https://github.com/glmcdona/Process-Dump) ⭐ 1,871 | 🐛 13 | 🌐 C++ | 📅 2026-10-03 - Windows tool for dumping malware PE files from memory back to disk for analysis.
-* [wavestone-cdt/EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast) ⭐ 1,870 | 🐛 7 | 🌐 C | 📅 2024-08-30 -
 * [hlldz/Phant0m](https://github.com/hlldz/Phant0m) ⚠️ Archived - Windows Event Log Killer
 * [Lojii/Knot](https://github.com/Lojii/Knot) ⭐ 1,802 | 🐛 14 | 🌐 Swift | 📅 2026-07-17 - 一款iOS端基于MITM(中间人攻击技术)实现的HTTPS抓包工具，完整的App，核心代码使用SwiftNIO实现
 * [jtesta/ssh-mitm](https://github.com/jtesta/ssh-mitm) ⚠️ Archived - SSH man-in-the-middle tool
 * [gamelinux/passivedns](https://github.com/gamelinux/passivedns) ⭐ 1,737 | 🐛 7 | 🌐 C | 📅 2026-11-09 - A network sniffer that logs all DNS server replies for use in a passive DNS setup
 * [krisnova/boopkit](https://github.com/krisnova/boopkit) ⭐ 1,681 | 🐛 13 | 🌐 C | 📅 2023-10-19 - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin.
-* [Mr-Un1k0d3r/SCShell](https://github.com/Mr-Un1k0d3r/SCShell) ⭐ 1,679 | 🐛 1 | 🌐 C | 📅 2023-07-10 - Fileless lateral movement tool that relies on ChangeServiceConfigA to run command
+* [Mr-Un1k0d3r/SCShell](https://github.com/Mr-Un1k0d3r/SCShell) ⭐ 1,680 | 🐛 1 | 🌐 C | 📅 2023-07-10 - Fileless lateral movement tool that relies on ChangeServiceConfigA to run command
 * [taviso/ctftool](https://github.com/taviso/ctftool) ⭐ 1,668 | 🐛 15 | 🌐 C | 📅 2021-09-17 - Interactive CTF Exploration Tool
 * [AltraMayor/gatekeeper](https://github.com/AltraMayor/gatekeeper) ⭐ 1,656 | 🐛 97 | 🌐 C | 📅 2026-09-23 - The first open-source DDoS protection system
 * [github/securitylab](https://github.com/github/securitylab) ⭐ 1,642 | 🐛 2 | 🌐 C | 📅 2026-06-08 - Resources related to GitHub Security Lab
@@ -338,13 +338,13 @@
 * [gentilkiwi/kekeo](https://github.com/gentilkiwi/kekeo) ⭐ 1,529 | 🐛 14 | 🌐 C | 📅 2021-12-14 - A little toolbox to play with Microsoft Kerberos in C
 * [antonioCoco/RemotePotato0](https://github.com/antonioCoco/RemotePotato0) ⭐ 1,480 | 🐛 2 | 🌐 C | 📅 2022-12-18 - Windows Privilege Escalation from User to Domain Admin.
 * [henkman/virgo](https://github.com/henkman/virgo) ⭐ 1,461 | 🐛 17 | 🌐 C | 📅 2023-08-18 - :virgo::computer::computer::computer::computer: Virtual desktops for Windows
-* [spacehuhn/wifi\_ducky](https://github.com/spacehuhn/wifi_ducky) ⭐ 1,453 | 🐛 46 | 🌐 C | 📅 2021-05-05 - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
+* [spacehuhn/wifi\_ducky](https://github.com/spacehuhn/wifi_ducky) ⭐ 1,454 | 🐛 46 | 🌐 C | 📅 2021-05-05 - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
 * [boku7/BokuLoader](https://github.com/boku7/BokuLoader) ⭐ 1,440 | 🐛 5 | 🌐 C | 📅 2023-11-22 - A proof-of-concept Cobalt Strike Reflective Loader which aims to recreate, integrate, and enhance Cobalt Strike's evasion features!
-* [outflanknl/C2-Tool-Collection](https://github.com/outflanknl/C2-Tool-Collection) ⭐ 1,429 | 🐛 3 | 🌐 C | 📅 2026-11-10 - A collection of tools which integrate with Cobalt Strike (and possibly other C2 frameworks) through BOF and reflective DLL loading techniques.
+* [outflanknl/C2-Tool-Collection](https://github.com/outflanknl/C2-Tool-Collection) ⭐ 1,430 | 🐛 3 | 🌐 C | 📅 2026-11-10 - A collection of tools which integrate with Cobalt Strike (and possibly other C2 frameworks) through BOF and reflective DLL loading techniques.
 * [ele7enxxh/Android-Inline-Hook](https://github.com/ele7enxxh/Android-Inline-Hook) ⭐ 1,400 | 🐛 15 | 🌐 C | 📅 2020-06-23 - thumb16 thumb32 arm32 inlineHook in Android
 * [danigargu/CVE-2020-0796](https://github.com/danigargu/CVE-2020-0796) ⭐ 1,362 | 🐛 1 | 🌐 C | 📅 2020-12-07 - CVE-2020-0796 - Windows SMBv3 LPE exploit #SMBGhost
 * [rosehgal/BinExp](https://github.com/rosehgal/BinExp) ⭐ 1,358 | 🐛 4 | 🌐 C | 📅 2021-06-15 - Linux Binary Exploitation
-* [ly4k/PwnKit](https://github.com/ly4k/PwnKit) ⭐ 1,344 | 🐛 5 | 🌐 C | 📅 2022-06-21 - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation
+* [ly4k/PwnKit](https://github.com/ly4k/PwnKit) ⭐ 1,345 | 🐛 5 | 🌐 C | 📅 2022-06-21 - Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation
 * [yifengyou/learn-kvm](https://github.com/yifengyou/learn-kvm) ⭐ 1,336 | 🐛 4 | 🌐 C | 📅 2022-12-13 - Qemu  KVM(Kernel Virtual Machine)学习笔记
 * [agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx) ⭐ 1,302 | 🐛 6 | 🌐 C | 📅 2026-11-17 - A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:
 * [DhavalKapil/heap-exploitation](https://github.com/DhavalKapil/heap-exploitation) ⭐ 1,301 | 🐛 6 | 🌐 C | 📅 2022-10-07 - This book on heap exploitation is a guide to understanding the internals of glibc's heap and various attacks possible on the heap structure.
@@ -366,13 +366,13 @@
 * [Arinerron/CVE-2022-0847-DirtyPipe-Exploit](https://github.com/Arinerron/CVE-2022-0847-DirtyPipe-Exploit) ⭐ 1,141 | 🐛 9 | 🌐 C | 📅 2022-03-08 - A root exploit for CVE-2022-0847 (Dirty Pipe)
 * [gianlucaborello/libprocesshider](https://github.com/gianlucaborello/libprocesshider) ⭐ 1,138 | 🐛 11 | 🌐 C | 📅 2019-08-02 - Hide a process under Linux using the ld preloader (<https://sysdig.com/blog/hiding-linux-processes-for-fun-and-profit/>)
 * [mtrojnar/osslsigncode](https://github.com/mtrojnar/osslsigncode) ⭐ 1,119 | 🐛 5 | 🌐 C | 📅 2026-11-18 - OpenSSL based Authenticode signing for PE/MSI/Java CAB files
-* [mohuihui/antispy](https://github.com/mohuihui/antispy) ⭐ 1,107 | 🐛 3 | 🌐 C | 📅 2021-04-22 - AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its
+* [mohuihui/antispy](https://github.com/mohuihui/antispy) ⭐ 1,108 | 🐛 3 | 🌐 C | 📅 2021-04-22 - AntiSpy is a free but powerful anti virus and rootkits toolkit.It offers you the ability with the highest privileges that can detect,analyze and restore various kernel modifications and hooks.With its
 * [blasty/CVE-2021-3156](https://github.com/blasty/CVE-2021-3156) ⭐ 1,032 | 🐛 17 | 🌐 C | 📅 2021-02-02 -
 * [client9/libinjection](https://github.com/client9/libinjection) ⭐ 1,029 | 🐛 61 | 🌐 C | 📅 2023-10-04 - SQL / SQLI tokenizer parser analyzer
-* [mitchellkrogza/apache-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker) ⭐ 995 | 🐛 68 | 🌐 C | 📅 2026-11-19 - Apache Block Bad Bots, (Referer) Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious Sites, Wordpress Theme Detectors and Fail2Ban Jail for Repeat Offenders
+* [mitchellkrogza/apache-ultimate-bad-bot-blocker](https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker) ⭐ 995 | 🐛 68 | 🌐 C | 📅 2026-11-21 - Apache Block Bad Bots, (Referer) Spam Referrer Blocker, Vulnerability Scanners, Malware, Adware, Ransomware, Malicious Sites, Wordpress Theme Detectors and Fail2Ban Jail for Repeat Offenders
 * [boazsegev/iodine](https://github.com/boazsegev/iodine) ⭐ 989 | 🐛 21 | 🌐 C++ | 📅 2026-11-09 - iodine - HTTP / WebSockets Server for Ruby with Pub/Sub support
 * [nil0x42/duplicut](https://github.com/nil0x42/duplicut) ⭐ 984 | 🐛 7 | 🌐 C++ | 📅 2026-11-10 - Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
-* [OWASP/IoTGoat](https://github.com/OWASP/IoTGoat) ⭐ 967 | 🐛 2 | 🌐 C | 📅 2025-10-05 - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
+* [OWASP/IoTGoat](https://github.com/OWASP/IoTGoat) ⭐ 969 | 🐛 2 | 🌐 C | 📅 2025-10-05 - IoTGoat is a deliberately insecure firmware created to educate software developers and security professionals with testing commonly found vulnerabilities in IoT devices.
 * [abcz316/rwProcMem33](https://github.com/abcz316/rwProcMem33) ⭐ 965 | 🐛 17 | 🌐 C | 📅 2025-12-04 - Linux ARM64内核硬件进程内存读写驱动、硬件断点调试驱动。硬件级读写Linux进程内存、硬件级下断点。
 * [spieglt/whatfiles](https://github.com/spieglt/whatfiles) ⭐ 952 | 🐛 0 | 🌐 C | 📅 2026-09-17 - Log what files are accessed by any Linux process
 * [ybdt/evasion-hub](https://github.com/ybdt/evasion-hub) ⭐ 933 | 🐛 0 | 🌐 C | 📅 2026-08-30 - 免杀对抗
@@ -407,14 +407,14 @@
 * [SkewwG/domainTools](https://github.com/SkewwG/domainTools) ⭐ 733 | 🐛 3 | 🌐 C | 📅 2021-04-20 - 内网域渗透小工具
 * [orangetw/tsh](https://github.com/orangetw/tsh) ⭐ 713 | 🐛 0 | 🌐 C | 📅 2013-09-28 - Tiny SHell is an open-source UNIX backdoor.
 * [DerekSelander/yacd](https://github.com/DerekSelander/yacd) ⭐ 701 | 🐛 0 | 🌐 C | 📅 2024-03-19 - Decrypts FairPlay applications on iOS 13.4.1 and lower, no jb required
-* [hasherezade/process\_ghosting](https://github.com/hasherezade/process_ghosting) ⭐ 698 | 🐛 7 | 🌐 C | 📅 2024-03-11 - Process Ghosting - a PE injection technique, similar to Process Doppelgänging, but using a delete-pending file instead of a transacted file
+* [hasherezade/process\_ghosting](https://github.com/hasherezade/process_ghosting) ⭐ 699 | 🐛 7 | 🌐 C | 📅 2024-03-11 - Process Ghosting - a PE injection technique, similar to Process Doppelgänging, but using a delete-pending file instead of a transacted file
 * [thefLink/Hunt-Sleeping-Beacons](https://github.com/thefLink/Hunt-Sleeping-Beacons) ⭐ 691 | 🐛 0 | 🌐 C | 📅 2026-01-25 - Aims to identify sleeping beacons
 * [lockedbyte/CVE-Exploits](https://github.com/lockedbyte/CVE-Exploits) ⭐ 690 | 🐛 3 | 🌐 C | 📅 2021-08-21 - PoC exploits for software vulnerabilities
 * [ScottyBauer/Android\_Kernel\_CVE\_POCs](https://github.com/ScottyBauer/Android_Kernel_CVE_POCs) ⭐ 684 | 🐛 3 | 🌐 C | 📅 2020-12-15 - A list of my CVE's with POCs
 * [suvllian/process-inject](https://github.com/suvllian/process-inject) ⭐ 675 | 🐛 4 | 🌐 C | 📅 2018-09-22 - 在Windows环境下的进程注入方法：远程线程注入、创建进程挂起注入、反射注入、APCInject、SetWindowHookEX注入
 * [timwhitez/Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts) ⭐ 674 | 🐛 4 | 🌐 C | 📅 2021-08-31 - Cobalt Strike Aggressor 插件包
 * [ANSSI-FR/AD-control-paths](https://github.com/ANSSI-FR/AD-control-paths) ⚠️ Archived - Active Directory Control Paths auditing and graphing tools
-* [trustedsec/COFFLoader](https://github.com/trustedsec/COFFLoader) ⭐ 671 | 🐛 0 | 🌐 C | 📅 2026-09-28 -
+* [trustedsec/COFFLoader](https://github.com/trustedsec/COFFLoader) ⭐ 672 | 🐛 0 | 🌐 C | 📅 2026-09-28 -
 * [geokb/yabar](https://github.com/geokb/yabar) ⚠️ Archived - A modern and lightweight status bar for X window managers.
 * [Al1ex/WindowsElevation](https://github.com/Al1ex/WindowsElevation) ⭐ 665 | 🐛 0 | 🌐 C | 📅 2022-02-19 - Windows Elevation(持续更新)
 * [coolstar/electra](https://github.com/coolstar/electra) ⭐ 664 | 🐛 100 | 🌐 C | 📅 2018-07-19 - Electra iOS 11.0 - 11.1.2 jailbreak toolkit based on async\_awake
@@ -449,7 +449,7 @@
 * [juuso/keychaindump](https://github.com/juuso/keychaindump) ⭐ 513 | 🐛 11 | 🌐 C | 📅 2019-03-11 - A proof-of-concept tool for reading OS X keychain passwords
 * [kyleavery/inject-assembly](https://github.com/kyleavery/inject-assembly) ⭐ 509 | 🐛 2 | 🌐 C | 📅 2022-01-19 - Inject .NET assemblies into an existing process
 * [boku7/azureOutlookC2](https://github.com/boku7/azureOutlookC2) ⭐ 507 | 🐛 1 | 🌐 C | 📅 2023-05-16 - Azure Outlook Command & Control (C2) - Remotely control a compromised Windows Device from your Outlook mailbox. Threat Emulation Tool for North Korean APT InkySquid / ScarCruft / APT37. TTP: Use Micro
-* [idealeer/xmap](https://github.com/idealeer/xmap) ⭐ 500 | 🐛 4 | 🌐 C | 📅 2026-03-10 - XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.
+* [idealeer/xmap](https://github.com/idealeer/xmap) ⭐ 501 | 🐛 4 | 🌐 C | 📅 2026-03-10 - XMap is a fast network scanner designed for performing Internet-wide IPv6 & IPv4 network research scanning.
 * [mgeeky/ElusiveMice](https://github.com/mgeeky/ElusiveMice) ⭐ 499 | 🐛 2 | 🌐 C | 📅 2023-07-12 - Cobalt Strike User-Defined Reflective Loader with AV/EDR Evasion in mind
 * [Bonfee/CVE-2022-0995](https://github.com/Bonfee/CVE-2022-0995) ⭐ 498 | 🐛 0 | 🌐 C | 📅 2022-03-27 - CVE-2022-0995 exploit
 * [dosgo/ngrok-c](https://github.com/dosgo/ngrok-c) ⭐ 497 | 🐛 2 | 🌐 C | 📅 2023-11-30 - ngrok client for c language,Due to the use of GO ngrok language development, porting to embedded devices some inconvenience, such as openwrt, so use C language rewrite a client. Very mini, the need to
@@ -478,7 +478,7 @@
 * [V-E-O/rdp2tcp](https://github.com/V-E-O/rdp2tcp) ⭐ 385 | 🐛 8 | 🌐 C | 📅 2025-08-04 - rdp2tcp: open tcp tunnel through remote desktop connection.
 * [gatieme/AderXCoding](https://github.com/gatieme/AderXCoding) ⭐ 385 | 🐛 0 | 🌐 C | 📅 2022-01-03 - 介绍各类语言，库，系统编程以及算法的学习
 * [vulhub/redis-rogue-getshell](https://github.com/vulhub/redis-rogue-getshell) ⭐ 384 | 🐛 4 | 🌐 C | 📅 2020-02-03 - redis 4.x/5.x master/slave getshell module
-* [greenbone/gvmd](https://github.com/greenbone/gvmd) ⭐ 380 | 🐛 64 | 🌐 C | 📅 2026-11-20 - Greenbone Vulnerability Manager - The database backend for the Greenbone Community Edition
+* [greenbone/gvmd](https://github.com/greenbone/gvmd) ⭐ 380 | 🐛 65 | 🌐 C | 📅 2026-11-22 - Greenbone Vulnerability Manager - The database backend for the Greenbone Community Edition
 * [opsxcq/exploit-CVE-2017-7494](https://github.com/opsxcq/exploit-CVE-2017-7494) ⭐ 380 | 🐛 1 | 🌐 C | 📅 2022-12-27 - SambaCry exploit and vulnerable container (CVE-2017-7494)
 * [boku7/injectAmsiBypass](https://github.com/boku7/injectAmsiBypass) ⭐ 379 | 🐛 0 | 🌐 C | 📅 2023-03-08 - Cobalt Strike BOF - Bypass AMSI in a remote process with code injection.
 * [blunderbuss-wctf/wacker](https://github.com/blunderbuss-wctf/wacker) ⭐ 379 | 🐛 2 | 🌐 C | 📅 2023-07-10 - A WPA3 dictionary cracker
@@ -604,7 +604,7 @@
 * [noptrix/lulzbuster](https://github.com/noptrix/lulzbuster) ⭐ 141 | 🐛 0 | 🌐 C | 📅 2026-07-06 - A very fast and smart web directory and file enumeration tool written in C.
 * [NoOne-hub/Beacon.dll](https://github.com/NoOne-hub/Beacon.dll) ⭐ 139 | 🐛 1 | 🌐 C | 📅 2021-09-05 - Beacon.dll reverse
 * [axi0mX/ios-kexec-utils](https://github.com/axi0mX/ios-kexec-utils) ⭐ 139 | 🐛 2 | 🌐 C | 📅 2019-09-24 - boot LLB/iBoot/iBSS/iBEC image from a jailbroken iOS kernel
-* [ARM-software/CSAL](https://github.com/ARM-software/CSAL) ⭐ 138 | 🐛 9 | 🌐 C | 📅 2026-10-29 - Coresight Access Library
+* [ARM-software/CSAL](https://github.com/ARM-software/CSAL) ⭐ 138 | 🐛 10 | 🌐 C | 📅 2026-10-29 - Coresight Access Library
 * [brainsmoke/ptrace-burrito](https://github.com/brainsmoke/ptrace-burrito) ⭐ 137 | 🐛 0 | 🌐 C | 📅 2022-03-18 - a friendly wrapper around ptrace
 * [0vercl0k/sic](https://github.com/0vercl0k/sic) ⭐ 135 | 🐛 0 | 🌐 C | 📅 2021-02-14 - Enumerate user mode shared memory mappings on Windows.
 * [elfmaster/dsym\_obfuscate](https://github.com/elfmaster/dsym_obfuscate) ⭐ 135 | 🐛 0 | 🌐 C | 📅 2019-01-10 - Obfuscates dynamic symbol table
@@ -675,7 +675,7 @@
 * [LukaSikic/Unix-Privilege-Escalation-Exploits-Pack](https://github.com/LukaSikic/Unix-Privilege-Escalation-Exploits-Pack) ⭐ 46 | 🐛 0 | 🌐 C | 📅 2014-12-24 - Exploits for getting local root on Linux, BSD, AIX, HP-UX, Solaris, RHEL, SUSE etc.
 * [y11en/BlockRDPBrute](https://github.com/y11en/BlockRDPBrute) ⭐ 45 | 🐛 0 | 🌐 C | 📅 2019-02-28 - \[HIPS]RDP(3389)爆破防护
 * [NoahhhRyan/krackattacks-test](https://github.com/NoahhhRyan/krackattacks-test) ⭐ 44 | 🐛 0 | 🌐 C | 📅 2017-11-08 -
-* [linktools-toolkit/linktools](https://github.com/linktools-toolkit/linktools) ⭐ 43 | 🐛 2 | 🌐 Python | 📅 2026-11-21 - 记录了在移动端漏洞分析和合规扫描过程中涉及的一些常用功能，以Python库的方式提供使用
+* [linktools-toolkit/linktools](https://github.com/linktools-toolkit/linktools) ⭐ 43 | 🐛 0 | 🌐 Python | 📅 2026-11-22 - 记录了在移动端漏洞分析和合规扫描过程中涉及的一些常用功能，以Python库的方式提供使用
 * [inspiringz/CVE-2021-3493](https://github.com/inspiringz/CVE-2021-3493) ⚠️ Archived - CVE-2021-3493 Ubuntu OverlayFS Local Privesc (Interactive Bash Shell & Execute Command Entered)
 * [cgwalters/cve-2020-14386](https://github.com/cgwalters/cve-2020-14386) ⭐ 42 | 🐛 0 | 🌐 C | 📅 2020-09-18 -
 * [havocykp/Gh0st](https://github.com/havocykp/Gh0st) ⭐ 42 | 🐛 1 | 🌐 C | 📅 2019-02-13 - 远控源码
@@ -732,35 +732,35 @@
 
 ## C\#
 
-* [ShareX/ShareX](https://github.com/ShareX/ShareX) ⭐ 41,279 | 🐛 622 | 🌐 C# | 📅 2026-11-21 - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
-* [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) ⭐ 39,353 | 🐛 59 | 🌐 C# | 📅 2026-11-17 - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-* [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,462 | 🐛 231 | 🌐 C# | 📅 2026-02-27 - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-* [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) ⭐ 20,868 | 🐛 2 | 🌐 C# | 📅 2026-11-21 - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
-* [dotnet/roslyn](https://github.com/dotnet/roslyn) ⭐ 20,789 | 🐛 6,790 | 🌐 C# | 📅 2026-11-21 - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
-* [rocksdanister/lively](https://github.com/rocksdanister/lively) ⭐ 20,173 | 🐛 415 | 🌐 C# | 📅 2026-09-30 - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
-* [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ⭐ 19,763 | 🐛 33 | 🌐 C# | 📅 2026-09-20 - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
-* [netchx/netch](https://github.com/netchx/netch) ⭐ 17,696 | 🐛 7 | 🌐 C# | 📅 2026-11-21 - A simple proxy client
-* [duplicati/duplicati](https://github.com/duplicati/duplicati) ⭐ 15,221 | 🐛 450 | 🌐 C# | 📅 2026-11-21 - Store securely encrypted backups in the cloud!
+* [ShareX/ShareX](https://github.com/ShareX/ShareX) ⭐ 41,307 | 🐛 608 | 🌐 C# | 📅 2026-11-22 - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of file
+* [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) ⭐ 39,355 | 🐛 59 | 🌐 C# | 📅 2026-11-17 - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+* [thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) ⭐ 21,464 | 🐛 231 | 🌐 C# | 📅 2026-02-27 - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
+* [peass-ng/PEASS-ng](https://github.com/peass-ng/PEASS-ng) ⭐ 20,873 | 🐛 2 | 🌐 C# | 📅 2026-11-22 - PEASS - Privilege Escalation Awesome Scripts SUITE (with colors)
+* [dotnet/roslyn](https://github.com/dotnet/roslyn) ⭐ 20,791 | 🐛 6,796 | 🌐 C# | 📅 2026-11-22 - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
+* [rocksdanister/lively](https://github.com/rocksdanister/lively) ⭐ 20,185 | 🐛 415 | 🌐 C# | 📅 2026-09-30 - Free and open-source software that allows users to set animated desktop wallpapers and screensavers powered by WinUI 3.
+* [TGSAN/CMWTAT\_Digital\_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) ⭐ 19,764 | 🐛 33 | 🌐 C# | 📅 2026-09-20 - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
+* [netchx/netch](https://github.com/netchx/netch) ⭐ 17,692 | 🐛 7 | 🌐 C# | 📅 2026-11-22 - A simple proxy client
+* [duplicati/duplicati](https://github.com/duplicati/duplicati) ⭐ 15,221 | 🐛 448 | 🌐 C# | 📅 2026-11-21 - Store securely encrypted backups in the cloud!
 * [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) ⚠️ Archived - Yet Another System Region and Language Simulator
-* [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) ⭐ 9,464 | 🐛 156 | 🌐 C# | 📅 2026-11-20 - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
-* [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) ⭐ 8,949 | 🐛 34 | 🌐 C# | 📅 2026-11-19 - A powerful tool for managing networks and troubleshoot network problems!
-* [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) ⭐ 6,193 | 🐛 0 | 🌐 C# | 📅 2026-11-19 - 全龄段友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
+* [git-ecosystem/git-credential-manager](https://github.com/git-ecosystem/git-credential-manager) ⭐ 9,466 | 🐛 156 | 🌐 C# | 📅 2026-11-20 - Secure, cross-platform Git credential storage with authentication to GitHub, Azure Repos, and other popular Git hosting services.
+* [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) ⭐ 8,972 | 🐛 31 | 🌐 C# | 📅 2026-11-22 - A powerful tool for managing networks and troubleshoot network problems!
+* [ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools) ⭐ 6,196 | 🐛 0 | 🌐 C# | 📅 2026-11-19 - 全龄段友好的C#万能工具库，码数吐司库，包含一些常用的操作类，大都是静态类，加密解密，反射操作，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展、Excel导出等常用封装。诸多功能集一身，代码量不到2MB！
 * [canton7/SyncTrayzor](https://github.com/canton7/SyncTrayzor) ⚠️ Archived - Windows tray utility / filesystem watcher / launcher for Syncthing
-* [1Remote/1Remote](https://github.com/1Remote/1Remote) ⭐ 6,155 | 🐛 17 | 🌐 C# | 📅 2026-11-16 - One Remote Access Manager to Rule Them All
-* [gerardog/gsudo](https://github.com/gerardog/gsudo) ⭐ 6,081 | 🐛 52 | 🌐 C# | 📅 2026-08-12 - Sudo for Windows
+* [1Remote/1Remote](https://github.com/1Remote/1Remote) ⭐ 6,156 | 🐛 17 | 🌐 C# | 📅 2026-11-16 - One Remote Access Manager to Rule Them All
+* [gerardog/gsudo](https://github.com/gerardog/gsudo) ⭐ 6,082 | 🐛 52 | 🌐 C# | 📅 2026-08-12 - Sudo for Windows
 * [proxysu/ProxySU](https://github.com/proxysu/ProxySU) ⭐ 5,723 | 🐛 26 | 🌐 C# | 📅 2026-08-12 - Xray,V2ray，Trojan，NaiveProxy, Trojan-Go, ShadowsocksR(SSR),Shadowsocks-libev及相关插件,MTProto+TLS 一键安装工具，windows下用（一键科学上网）
 * [k8gege/Ladon](https://github.com/k8gege/Ladon) ⭐ 5,346 | 🐛 44 | 🌐 C# | 📅 2025-03-24 - Ladon大型内网渗透扫描器，PowerShell、Cobalt Strike插件、内存加载、无文件扫描。含端口扫描、服务识别、网络资产探测、密码审计、高危漏洞检测、漏洞利用、密码读取以及一键GetShell，支持批量A段/B段/C段以及跨网段扫描，支持URL、主机、域名列表扫描等。网络资产探测32种协议(ICMP\NBT\DNS\MAC\SMB\WMI\SSH\HTTP\HTTPS\Exchan
-* [greenshot/greenshot](https://github.com/greenshot/greenshot) ⭐ 5,279 | 🐛 563 | 🌐 C# | 📅 2026-11-18 - Greenshot for Windows - Report bugs & features go here: <https://greenshot.atlassian.net> or look for information on:
-* [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,237 | 🐛 50 | 🌐 C# | 📅 2026-05-21 - Trying to tame the three-headed dog.
-* [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt) ⭐ 4,768 | 🐛 11 | 🌐 C# | 📅 2025-01-10 - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
-* [cobbr/Covenant](https://github.com/cobbr/Covenant) ⭐ 4,752 | 🐛 89 | 🌐 C# | 📅 2024-07-18 - Covenant is a collaborative .NET C2 framework for red teamers.
-* [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev) ⭐ 4,032 | 🐛 24 | 🌐 C# | 📅 2026-11-21 - smtp4dev - the fake smtp email server for development and testing
+* [greenshot/greenshot](https://github.com/greenshot/greenshot) ⭐ 5,282 | 🐛 563 | 🌐 C# | 📅 2026-11-22 - Greenshot for Windows - Report bugs & features go here: <https://greenshot.atlassian.net> or look for information on:
+* [GhostPack/Rubeus](https://github.com/GhostPack/Rubeus) ⭐ 5,238 | 🐛 50 | 🌐 C# | 📅 2026-05-21 - Trying to tame the three-headed dog.
+* [GhostPack/Seatbelt](https://github.com/GhostPack/Seatbelt) ⭐ 4,769 | 🐛 11 | 🌐 C# | 📅 2025-01-10 - Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.
+* [cobbr/Covenant](https://github.com/cobbr/Covenant) ⭐ 4,755 | 🐛 90 | 🌐 C# | 📅 2024-07-18 - Covenant is a collaborative .NET C2 framework for red teamers.
+* [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev) ⭐ 4,032 | 🐛 26 | 🌐 C# | 📅 2026-11-22 - smtp4dev - the fake smtp email server for development and testing
 * [pwntester/ysoserial.net](https://github.com/pwntester/ysoserial.net) ⭐ 3,810 | 🐛 11 | 🌐 C# | 📅 2026-09-07 - Deserialization payload generator for a variety of .NET formatters
 * [yck1509/ConfuserEx](https://github.com/yck1509/ConfuserEx) ⚠️ Archived - An open-source, free protector for .NET applications
 * [odedshimon/BruteShark](https://github.com/odedshimon/BruteShark) ⭐ 3,431 | 🐛 38 | 🌐 C# | 📅 2023-04-10 - Network Analysis Tool
 * [waf/CSharpRepl](https://github.com/waf/CSharpRepl) ⭐ 3,365 | 🐛 32 | 🌐 C# | 📅 2026-11-13 - A command line C# REPL with syntax highlighting – explore the language, libraries and nuget packages interactively.
 * [Kevin-Robertson/Inveigh](https://github.com/Kevin-Robertson/Inveigh) ⭐ 3,062 | 🐛 20 | 🌐 C# | 📅 2025-11-19 - .NET IPv4/IPv6 machine-in-the-middle tool for penetration testers
-* [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) ⭐ 3,014 | 🐛 24 | 🌐 C# | 📅 2026-03-14 - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
+* [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) ⭐ 3,015 | 🐛 24 | 🌐 C# | 📅 2026-03-14 - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
 * [netwrix/pingcastle](https://github.com/netwrix/pingcastle) ⭐ 3,008 | 🐛 63 | 🌐 C# | 📅 2026-11-05 - PingCastle - Get Active Directory Security at 80% in 20% of the time
 * [SnaffCon/Snaffler](https://github.com/SnaffCon/Snaffler) ⭐ 3,000 | 🐛 32 | 🌐 C# | 📅 2026-02-27 - a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4\_hax )
 * [chromelyapps/Chromely](https://github.com/chromelyapps/Chromely) ⚠️ Archived - Build Cross Platform HTML Desktop Apps on .NET using native GUI, HTML5, JavaScript, CSS, Owin, AspNetCore (MVC, RazorPages, Blazor)
@@ -771,30 +771,30 @@
 * [LazoVelko/Windows-Hacks](https://github.com/LazoVelko/Windows-Hacks) ⭐ 2,538 | 🐛 5 | 🌐 C# | 📅 2022-08-22 - Creative and unusual things that can be done with the Windows API.
 * [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) ⭐ 2,470 | 🐛 146 | 🌐 C# | 📅 2026-03-19 - A simple management tool for dnscrypt-proxy
 * [BeichenDream/GodPotato](https://github.com/BeichenDream/GodPotato) ⭐ 2,391 | 🐛 7 | 🌐 C# | 📅 2023-11-24 -
-* [googleprojectzero/sandbox-attacksurface-analysis-tools](https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools) ⭐ 2,351 | 🐛 19 | 🌐 C# | 📅 2026-10-19 - Set of tools to analyze Windows sandboxes for exposed attack surface.
+* [googleprojectzero/sandbox-attacksurface-analysis-tools](https://github.com/googleprojectzero/sandbox-attacksurface-analysis-tools) ⭐ 2,352 | 🐛 19 | 🌐 C# | 📅 2026-10-19 - Set of tools to analyze Windows sandboxes for exposed attack surface.
 * [outflanknl/EvilClippy](https://github.com/outflanknl/EvilClippy) ⭐ 2,264 | 🐛 21 | 🌐 C# | 📅 2023-12-27 - A cross-platform assistant for creating malicious MS Office documents. Can hide VBA macros, stomp VBA code (via P-Code) and confuse macro analysis tools. Runs on Linux, OSX and Windows.
 * [aduskin/AduSkin](https://github.com/aduskin/AduSkin) ⭐ 2,220 | 🐛 17 | 🌐 C# | 📅 2026-10-16 - A Beautiful WPF Control UI
 * [dahall/Vanara](https://github.com/dahall/Vanara) ⭐ 2,104 | 🐛 1 | 🌐 C# | 📅 2026-10-24 - A set of .NET libraries for Windows implementing PInvoke calls to many native Windows APIs with supporting wrappers.
 * [GhostPack/Certify](https://github.com/GhostPack/Certify) ⭐ 2,053 | 🐛 0 | 🌐 C# | 📅 2026-09-30 - Active Directory certificate abuse.
 * [cube0x0/CVE-2021-1675](https://github.com/cube0x0/CVE-2021-1675) ⭐ 2,009 | 🐛 38 | 🌐 C# | 📅 2021-07-20 - C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527
-* [MichaelGrafnetter/DSInternals](https://github.com/MichaelGrafnetter/DSInternals) ⭐ 1,982 | 🐛 20 | 🌐 C# | 📅 2026-10-12 - Directory Services Internals (DSInternals) PowerShell Module and Framework
+* [MichaelGrafnetter/DSInternals](https://github.com/MichaelGrafnetter/DSInternals) ⭐ 1,983 | 🐛 20 | 🌐 C# | 📅 2026-10-12 - Directory Services Internals (DSInternals) PowerShell Module and Framework
 * [cobbr/SharpSploit](https://github.com/cobbr/SharpSploit) ⭐ 1,894 | 🐛 13 | 🌐 C# | 📅 2021-08-12 - SharpSploit is a .NET post-exploitation library written in C#
 * [CCob/SweetPotato](https://github.com/CCob/SweetPotato) ⭐ 1,848 | 🐛 8 | 🌐 C# | 📅 2024-09-04 - Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019
 * [p3nt4/PowerShdll](https://github.com/p3nt4/PowerShdll) ⭐ 1,830 | 🐛 0 | 🌐 C# | 📅 2021-03-17 - Run PowerShell with rundll32. Bypass software restrictions.
 * [Dec0ne/KrbRelayUp](https://github.com/Dec0ne/KrbRelayUp) ⭐ 1,689 | 🐛 18 | 🌐 C# | 📅 2022-08-06 - KrbRelayUp - a universal no-fix local privilege escalation in windows domain environments where LDAP signing is not enforced (the default settings).
 * [rasta-mouse/Watson](https://github.com/rasta-mouse/Watson) ⚠️ Archived - Enumerate missing KBs and suggest exploits for useful Privilege Escalation vulnerabilities
-* [rasta-mouse/ThreatCheck](https://github.com/rasta-mouse/ThreatCheck) ⭐ 1,643 | 🐛 1 | 🌐 C# | 📅 2026-03-17 - Identifies the bytes that Microsoft Defender  / AMSI Consumer flags on.
+* [rasta-mouse/ThreatCheck](https://github.com/rasta-mouse/ThreatCheck) ⭐ 1,644 | 🐛 1 | 🌐 C# | 📅 2026-03-17 - Identifies the bytes that Microsoft Defender  / AMSI Consumer flags on.
 * [yingDev/WGestures](https://github.com/yingDev/WGestures) ⭐ 1,625 | 🐛 98 | 🌐 C# | 📅 2022-09-09 - Modern mouse gestures for Windows. (C#)
 * [Viralmaniar/BigBountyRecon](https://github.com/Viralmaniar/BigBountyRecon) ⭐ 1,579 | 🐛 9 | 🌐 C# | 📅 2021-01-29 - BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.
 * [Cn33liz/p0wnedShell](https://github.com/Cn33liz/p0wnedShell) ⭐ 1,550 | 🐛 6 | 🌐 C# | 📅 2019-08-02 - PowerShell Runspace Post Exploitation Toolkit
 * [mandiant/SharPersist](https://github.com/mandiant/SharPersist) ⚠️ Archived -
 * [harleyQu1nn/AggressorScripts](https://github.com/harleyQu1nn/AggressorScripts) ⭐ 1,525 | 🐛 3 | 🌐 C# | 📅 2023-06-30 - Collection of Aggressor scripts for Cobalt Strike 3.0+ pulled from multiple sources
-* [chvancooten/OSEP-Code-Snippets](https://github.com/chvancooten/OSEP-Code-Snippets) ⭐ 1,488 | 🐛 1 | 🌐 C# | 📅 2025-07-27 - A repository with my notable code snippets for Offensive Security's PEN-300 (OSEP) course.
+* [chvancooten/OSEP-Code-Snippets](https://github.com/chvancooten/OSEP-Code-Snippets) ⭐ 1,489 | 🐛 1 | 🌐 C# | 📅 2025-07-27 - A repository with my notable code snippets for Offensive Security's PEN-300 (OSEP) course.
 * [GhostPack/SharpDPAPI](https://github.com/GhostPack/SharpDPAPI) ⭐ 1,470 | 🐛 14 | 🌐 C# | 📅 2024-06-27 - SharpDPAPI is a C# port of some Mimikatz DPAPI functionality.
 * [antonioCoco/RunasCs](https://github.com/antonioCoco/RunasCs) ⭐ 1,456 | 🐛 10 | 🌐 C# | 📅 2024-07-12 - RunasCs - Csharp and open version of windows builtin runas.exe
 * [QAX-A-Team/BrowserGhost](https://github.com/QAX-A-Team/BrowserGhost) ⭐ 1,455 | 🐛 5 | 🌐 C# | 📅 2022-05-21 - 这是一个抓取浏览器密码的工具，后续会添加更多功能
 * [RythmStick/AMSITrigger](https://github.com/RythmStick/AMSITrigger) ⭐ 1,425 | 🐛 1 | 🌐 C# | 📅 2025-05-13 - The Hunt for Malicious Strings
-* [cube0x0/noPac](https://github.com/cube0x0/noPac) ⭐ 1,416 | 🐛 3 | 🌐 C# | 📅 2021-12-16 - CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.
+* [cube0x0/noPac](https://github.com/cube0x0/noPac) ⭐ 1,417 | 🐛 3 | 🌐 C# | 📅 2021-12-16 - CVE-2021-42287/CVE-2021-42278 Scanner & Exploiter.
 * [bitsadmin/fakelogonscreen](https://github.com/bitsadmin/fakelogonscreen) ⭐ 1,374 | 🐛 6 | 🌐 C# | 📅 2020-02-03 - Fake Windows logon screen to steal passwords
 * [FSecureLABS/SharpGPOAbuse](https://github.com/FSecureLABS/SharpGPOAbuse) ⭐ 1,367 | 🐛 9 | 🌐 C# | 📅 2020-12-15 - SharpGPOAbuse is a .NET application written in C# that can be used to take advantage of a user's edit rights on a Group Policy Object (GPO) in order to compromise the objects that are controlled by th
 * [dahall/TaskScheduler](https://github.com/dahall/TaskScheduler) ⭐ 1,348 | 🐛 6 | 🌐 C# | 📅 2026-06-21 - Provides a .NET wrapper for the Windows Task Scheduler. It aggregates the multiple versions, provides an editor and allows for localization.
@@ -808,18 +808,18 @@
 * [leechristensen/SpoolSample](https://github.com/leechristensen/SpoolSample) ⭐ 1,148 | 🐛 0 | 🌐 C# | 📅 2024-05-29 - PoC tool to coerce Windows hosts authenticate to other machines via the MS-RPRN RPC interface.  This is possible via other protocols as well.
 * [FuzzySecurity/Sharp-Suite](https://github.com/FuzzySecurity/Sharp-Suite) ⭐ 1,146 | 🐛 0 | 🌐 C# | 📅 2022-12-22 - Also known by Microsoft as Knifecoat :hot\_pepper:
 * [med0x2e/GadgetToJScript](https://github.com/med0x2e/GadgetToJScript) ⭐ 1,145 | 🐛 0 | 🌐 C# | 📅 2021-07-26 - A tool for generating .NET serialized gadgets that can trigger .NET assembly load/execution when deserialized using BinaryFormatter from JS/VBS/VBA based scripts.
-* [tevora-threat/SharpView](https://github.com/tevora-threat/SharpView) ⭐ 1,110 | 🐛 8 | 🌐 C# | 📅 2024-03-22 - C# implementation of harmj0y's PowerView
-* [3F/DllExport](https://github.com/3F/DllExport) ⭐ 1,102 | 🐛 24 | 🌐 C# | 📅 2026-11-07 - .NET DllExport with .NET Core support (aka 3F/DllExport aka DllExport.bat)
+* [tevora-threat/SharpView](https://github.com/tevora-threat/SharpView) ⭐ 1,111 | 🐛 8 | 🌐 C# | 📅 2024-03-22 - C# implementation of harmj0y's PowerView
+* [3F/DllExport](https://github.com/3F/DllExport) ⭐ 1,104 | 🐛 24 | 🌐 C# | 📅 2026-11-07 - .NET DllExport with .NET Core support (aka 3F/DllExport aka DllExport.bat)
 * [wwh1004/ExtremeDumper](https://github.com/wwh1004/ExtremeDumper) ⭐ 1,063 | 🐛 13 | 🌐 C# | 📅 2023-02-02 - .NET Assembly Dumper
-* [bitsadmin/nopowershell](https://github.com/bitsadmin/nopowershell) ⭐ 1,060 | 🐛 2 | 🌐 C# | 📅 2026-10-06 - PowerShell rebuilt in C# for Red Teaming purposes
 * [EquiFox/KsDumper](https://github.com/EquiFox/KsDumper) ⭐ 1,060 | 🐛 18 | 🌐 C# | 📅 2023-11-06 - Dumping processes using the power of kernel space !
+* [bitsadmin/nopowershell](https://github.com/bitsadmin/nopowershell) ⭐ 1,059 | 🐛 2 | 🌐 C# | 📅 2026-10-06 - PowerShell rebuilt in C# for Red Teaming purposes
 * [daem0nc0re/PrivFu](https://github.com/daem0nc0re/PrivFu) ⭐ 1,032 | 🐛 2 | 🌐 C# | 📅 2026-09-28 - Kernel mode WinDbg extension and PoCs for token privilege investigation.
 * [b4rtik/SharpKatz](https://github.com/b4rtik/SharpKatz) ⭐ 1,020 | 🐛 4 | 🌐 C# | 📅 2021-11-07 - Porting of mimikatz sekurlsa::logonpasswords,  sekurlsa::ekeys and lsadump::dcsync commands
 * [qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat) ⚠️ Archived - A simple remote tool in C#.
 * [Group3r/Group3r](https://github.com/Group3r/Group3r) ⭐ 985 | 🐛 6 | 🌐 C# | 📅 2025-04-08 - Find vulnerabilities in AD Group Policy, but do it better than Grouper2 did.
 * [uknowsec/SharpSQLTools](https://github.com/uknowsec/SharpSQLTools) ⭐ 972 | 🐛 6 | 🌐 C# | 📅 2021-08-05 - SharpSQLTools 和@Rcoil一起写的小工具，可上传下载文件，xp\_cmdshell与sp\_oacreate执行命令回显和clr加载程序集执行相应操作。
+* [eladshamir/Whisker](https://github.com/eladshamir/Whisker) ⭐ 963 | 🐛 3 | 🌐 C# | 📅 2024-11-11 - Whisker is a C# tool for taking over Active Directory user and computer accounts by manipulating their msDS-KeyCredentialLink attribute, effectively adding "Shadow Credentials" to the target account.
 * [CCob/BeaconEye](https://github.com/CCob/BeaconEye) ⭐ 963 | 🐛 4 | 🌐 C# | 📅 2024-09-04 - Hunts out CobaltStrike beacons and logs operator command output
-* [eladshamir/Whisker](https://github.com/eladshamir/Whisker) ⭐ 962 | 🐛 3 | 🌐 C# | 📅 2024-11-11 - Whisker is a C# tool for taking over Active Directory user and computer accounts by manipulating their msDS-KeyCredentialLink attribute, effectively adding "Shadow Credentials" to the target account.
 * [daem0nc0re/TangledWinExec](https://github.com/daem0nc0re/TangledWinExec) ⭐ 961 | 🐛 1 | 🌐 C# | 📅 2026-02-02 - PoCs and tools for investigation of Windows process execution techniques
 * [cube0x0/KrbRelay](https://github.com/cube0x0/KrbRelay) ⭐ 958 | 🐛 8 | 🌐 C# | 📅 2022-05-29 - Framework for Kerberos relaying
 * [p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) ⭐ 950 | 🐛 4 | 🌐 C# | 📅 2025-10-30 - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
@@ -827,7 +827,7 @@
 * [Flangvik/SharpDllProxy](https://github.com/Flangvik/SharpDllProxy) ⭐ 929 | 🐛 0 | 🌐 C# | 📅 2020-07-21 - Retrieves exported functions from a legitimate DLL and generates a proxy DLL source code/template for DLL proxy loading or sideloading
 * [Apr4h/CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan) ⭐ 917 | 🐛 3 | 🌐 C# | 📅 2021-08-19 - Scan files or process memory for CobaltStrike beacons and parse their configuration
 * [BeichenDream/BadPotato](https://github.com/BeichenDream/BadPotato) ⭐ 901 | 🐛 4 | 🌐 C# | 📅 2020-05-10 - Windows 权限提升 BadPotato
-* [TalAloni/SMBLibrary](https://github.com/TalAloni/SMBLibrary) ⭐ 890 | 🐛 4 | 🌐 C# | 📅 2026-09-20 - Free, Open Source, User-Mode SMB 1.0/CIFS, SMB 2.0, SMB 2.1 and SMB 3.0 server and client library
+* [TalAloni/SMBLibrary](https://github.com/TalAloni/SMBLibrary) ⭐ 891 | 🐛 4 | 🌐 C# | 📅 2026-09-20 - Free, Open Source, User-Mode SMB 1.0/CIFS, SMB 2.0, SMB 2.1 and SMB 3.0 server and client library
 * [Flangvik/BetterSafetyKatz](https://github.com/Flangvik/BetterSafetyKatz) ⭐ 888 | 🐛 0 | 🌐 C# | 📅 2021-03-29 - Fork of SafetyKatz that dynamically fetches the latest pre-compiled release of Mimikatz directly from gentilkiwi GitHub repo, runtime patches signatures and uses SharpSploit DInvoke to PE-Load into me
 * [bats3c/ADCSPwn](https://github.com/bats3c/ADCSPwn) ⭐ 880 | 🐛 2 | 🌐 C# | 📅 2023-03-20 - A tool to escalate privileges in an active directory network by coercing authenticate from machine accounts and relaying to the certificate service.
 * [xhnbzdl/feishu-doc-export](https://github.com/xhnbzdl/feishu-doc-export) ⭐ 860 | 🐛 30 | 🌐 C# | 📅 2026-03-17 - 飞书文档导出服务
@@ -841,15 +841,15 @@
 * [skahwah/SQLRecon](https://github.com/skahwah/SQLRecon) ⭐ 820 | 🐛 1 | 🌐 C# | 📅 2026-06-16 - A C# MS SQL toolkit designed for offensive reconnaissance and post-exploitation.
 * [uknowsec/SweetPotato](https://github.com/uknowsec/SweetPotato) ⭐ 800 | 🐛 1 | 🌐 C# | 📅 2021-06-02 - Modifying SweetPotato to support load shellcode and webshell
 * [StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb) ⭐ 798 | 🐛 3 | 🌐 C# | 📅 2024-11-15 - 一个浏览器数据（密码|历史记录|Cookie|书签|下载记录）的导出工具，支持主流浏览器。
-* [darktohka/FlashPatch](https://github.com/darktohka/FlashPatch) ⭐ 795 | 🐛 22 | 🌐 C# | 📅 2026-04-01 - FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.
+* [darktohka/FlashPatch](https://github.com/darktohka/FlashPatch) ⭐ 796 | 🐛 22 | 🌐 C# | 📅 2026-04-01 - FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.
 * [TheWover/DInvoke](https://github.com/TheWover/DInvoke) ⭐ 795 | 🐛 18 | 🌐 C# | 📅 2022-12-21 - Dynamically invoke arbitrary unmanaged code from managed code without PInvoke.
 * [pengw0048/WechatExport-iOS](https://github.com/pengw0048/WechatExport-iOS) ⭐ 793 | 🐛 11 | 🌐 C# | 📅 2021-02-03 - Save iOS WeChat history as HTML or TXT with neat layout and picture & audio support.
 * [ly4k/SpoolFool](https://github.com/ly4k/SpoolFool) ⭐ 792 | 🐛 7 | 🌐 C# | 📅 2022-02-09 - Exploit for CVE-2022-21999 - Windows Print Spooler Elevation of Privilege Vulnerability (LPE)
 * [oneo-me/Arthas-WPFUI](https://github.com/oneo-me/Arthas-WPFUI) ⭐ 785 | 🐛 0 | 🌐 C# | 📅 2023-05-24 - WPF 控件库，支持 .Net 7.0 Windows Desktop
-* [rnchg/Apt](https://github.com/rnchg/Apt) ⭐ 768 | 🐛 12 | 🌐 C# | 📅 2025-12-13 - AI Productivity Tool - Free and open source, improve user productivity, protect privacy and data security. Provide efficient and convenient AI solutions, built-in local exclusive ChatGPT, Phi, DeepSee
+* [rnchg/Apt](https://github.com/rnchg/Apt) ⭐ 767 | 🐛 12 | 🌐 C# | 📅 2025-12-13 - AI Productivity Tool - Free and open source, improve user productivity, protect privacy and data security. Provide efficient and convenient AI solutions, built-in local exclusive ChatGPT, Phi, DeepSee
 * [GhostPack/SharpWMI](https://github.com/GhostPack/SharpWMI) ⭐ 767 | 🐛 1 | 🌐 C# | 📅 2021-01-15 - SharpWMI is a C# implementation of various WMI functionality.
 * [vivami/SauronEye](https://github.com/vivami/SauronEye) ⭐ 767 | 🐛 5 | 🌐 C# | 📅 2026-05-19 - Search tool to find specific files containing specific words, i.e. files containing passwords..
-* [Kyrodan/KeeAnywhere](https://github.com/Kyrodan/KeeAnywhere) ⭐ 764 | 🐛 121 | 🌐 C# | 📅 2026-05-08 - A cloud storage provider plugin for KeePass Password Safe
+* [Kyrodan/KeeAnywhere](https://github.com/Kyrodan/KeeAnywhere) ⭐ 765 | 🐛 121 | 🌐 C# | 📅 2026-05-08 - A cloud storage provider plugin for KeePass Password Safe
 * [PwnDexter/SharpEDRChecker](https://github.com/PwnDexter/SharpEDRChecker) ⭐ 759 | 🐛 1 | 🌐 C# | 📅 2026-02-24 - Checks running processes, process metadata, Dlls loaded into your current process and the each DLLs metadata, common install directories, installed services and each service binaries metadata, install
 * [punk-security/smbeagle](https://github.com/punk-security/smbeagle) ⭐ 745 | 🐛 12 | 🌐 C# | 📅 2025-11-04 - SMBeagle - Fileshare auditing tool.
 * [gabrielxvx/zh-fiddler](https://github.com/gabrielxvx/zh-fiddler) ⭐ 732 | 🐛 10 | 🌐 C# | 📅 2020-10-29 - Fiddler Web Debugger 中文版
@@ -859,7 +859,7 @@
 * [Mr-Un1k0d3r/RedTeamCSharpScripts](https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts) ⭐ 716 | 🐛 0 | 🌐 C# | 📅 2021-11-16 - C# Script used for Red Team
 * [QAX-A-Team/sharpwmi](https://github.com/QAX-A-Team/sharpwmi) ⭐ 713 | 🐛 4 | 🌐 C# | 📅 2021-08-03 - sharpwmi是一个基于rpc的横向移动工具，具有上传文件和执行命令功能。
 * [microsoft/DbgShell](https://github.com/microsoft/DbgShell) ⭐ 702 | 🐛 21 | 🌐 C# | 📅 2024-04-03 - A PowerShell front-end for the Windows debugger engine.
-* [cube0x0/SharpMapExec](https://github.com/cube0x0/SharpMapExec) ⭐ 667 | 🐛 1 | 🌐 C# | 📅 2021-11-17 -
+* [cube0x0/SharpMapExec](https://github.com/cube0x0/SharpMapExec) ⭐ 668 | 🐛 1 | 🌐 C# | 📅 2021-11-17 -
 * [RCStep/CSSG](https://github.com/RCStep/CSSG) ⭐ 664 | 🐛 1 | 🌐 C# | 📅 2025-01-08 - Cobalt Strike Shellcode Generator
 * [GhostPack/SharpDump](https://github.com/GhostPack/SharpDump) ⭐ 663 | 🐛 1 | 🌐 C# | 📅 2019-02-07 - SharpDump is a C# port of PowerSploit's Out-Minidump.ps1 functionality.
 * [tomcarver16/ADSearch](https://github.com/tomcarver16/ADSearch) ⭐ 655 | 🐛 2 | 🌐 C# | 📅 2024-09-25 - A tool to help query AD via the LDAP protocol
@@ -871,7 +871,7 @@
 * [mrd0x/EvilSelenium](https://github.com/mrd0x/EvilSelenium) ⭐ 610 | 🐛 2 | 🌐 C# | 📅 2022-03-19 - EvilSelenium is a tool that weaponizes Selenium to attack Chromium based browsers.
 * [lithnet/ad-password-protection](https://github.com/lithnet/ad-password-protection) ⭐ 580 | 🐛 21 | 🌐 C# | 📅 2026-10-24 - Active Directory password filter featuring breached password checking and custom complexity rules
 * [DeEpinGh0st/WindowsBaselineAssistant](https://github.com/DeEpinGh0st/WindowsBaselineAssistant) ⭐ 570 | 🐛 4 | 🌐 C# | 📅 2024-05-12 - Windows安全基线核查加固助手
-* [MythicAgents/Apollo](https://github.com/MythicAgents/Apollo) ⭐ 564 | 🐛 14 | 🌐 C# | 📅 2026-11-10 - A .NET Framework 4.0 Windows Agent
+* [MythicAgents/Apollo](https://github.com/MythicAgents/Apollo) ⭐ 564 | 🐛 16 | 🌐 C# | 📅 2026-11-10 - A .NET Framework 4.0 Windows Agent
 * [lintstar/SharpHunter](https://github.com/lintstar/SharpHunter) ⭐ 561 | 🐛 1 | 🌐 C# | 📅 2025-04-15 - Automated Hosting Information Hunting Tool - Windows 主机信息自动化狩猎工具
 * [FDlucifer/Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain) ⭐ 561 | 🐛 2 | 🌐 C# | 📅 2026-11-19 - Proxylogon & Proxyshell & Proxyoracle & Proxytoken & All exchange server history vulns summarization :)
 * [knight0x07/ImpulsiveDLLHijack](https://github.com/knight0x07/ImpulsiveDLLHijack) ⭐ 558 | 🐛 5 | 🌐 C# | 📅 2021-09-15 - C# based tool which automates the process of discovering and exploiting DLL Hijacks in target binaries. The Hijacked paths discovered can later be weaponized during Red Team Operations to evade EDR's.
@@ -1013,7 +1013,7 @@
 * [VbScrub/Rubeus-GUI](https://github.com/VbScrub/Rubeus-GUI) ⭐ 185 | 🐛 0 | 🌐 C# | 📅 2022-01-09 - GUI alternative to the Rubeus command line tool, for all your Kerberos exploit requirements
 * [srini0x00/dvta](https://github.com/srini0x00/dvta) ⭐ 185 | 🐛 1 | 🌐 C# | 📅 2023-08-17 - Damn Vulnerable Thick Client App developed in C# .NET
 * [mo-xiaoxi/CTFtools](https://github.com/mo-xiaoxi/CTFtools) ⭐ 183 | 🐛 0 | 🌐 C# | 📅 2017-11-18 - 本项目主要搜集一些关于信息安全攻防相关的知识与工具，便于个人的渗透工作。
-* [GangZhuo/kcptun-gui-windows](https://github.com/GangZhuo/kcptun-gui-windows) ⚠️ Archived - GUI for kcptun (<https://github.com/xtaci/kcptun> ⭐ 5 | 🐛 4 | 🌐 Go | 📅 2026-11-19). (Need .NET framework 4.5)
+* [GangZhuo/kcptun-gui-windows](https://github.com/GangZhuo/kcptun-gui-windows) ⚠️ Archived - GUI for kcptun (<https://github.com/xtaci/kcptun> ⭐ 5 | 🐛 2 | 🌐 Go | 📅 2026-11-22). (Need .NET framework 4.5)
 * [Flangvik/DeployPrinterNightmare](https://github.com/Flangvik/DeployPrinterNightmare) ⭐ 181 | 🐛 0 | 🌐 C# | 📅 2021-08-04 - C# tool for installing a shared network printer abusing the PrinterNightmare bug to allow other network machines easy privesc!
 * [ReverendThing/Carnivore](https://github.com/ReverendThing/Carnivore) ⭐ 177 | 🐛 1 | 🌐 C# | 📅 2022-12-08 - Microsoft External Attack Tool
 * [VahidN/GitHubFolderDownloader](https://github.com/VahidN/GitHubFolderDownloader) ⚠️ Archived - It lets you to download a single folder of a repository without cloning or downloading the whole repository.
@@ -1086,7 +1086,7 @@
 * [rasta-mouse/ExternalC2.NET](https://github.com/rasta-mouse/ExternalC2.NET) ⭐ 88 | 🐛 0 | 🌐 C# | 📅 2021-11-12 - .NET implementation of Cobalt Strike's External C2 Spec
 * [zcgonvh/cve-2017-7269-tool](https://github.com/zcgonvh/cve-2017-7269-tool) ⭐ 88 | 🐛 1 | 🌐 C# | 📅 2017-05-16 - CVE-2017-7269 to webshell or shellcode loader
 * [deadjakk/Reg1c1de](https://github.com/deadjakk/Reg1c1de) ⭐ 86 | 🐛 0 | 🌐 C# | 📅 2021-03-09 - Registry permission scanner written in C# for finding potential privesc avenues within registry
-* [AdamWhiteHat/Judge-Jury-and-Executable](https://github.com/AdamWhiteHat/Judge-Jury-and-Executable) ⭐ 86 | 🐛 1 | 🌐 C# | 📅 2026-04-07 - A file system forensics analysis scanner and threat hunting tool. Scans file systems at the MFT  and OS level and stores data in SQL, SQLite or CSV. Threats and data can be probed harnessing the power
+* [AdamWhiteHat/Judge-Jury-and-Executable](https://github.com/AdamWhiteHat/Judge-Jury-and-Executable) ⭐ 86 | 🐛 3 | 🌐 C# | 📅 2026-04-07 - A file system forensics analysis scanner and threat hunting tool. Scans file systems at the MFT  and OS level and stores data in SQL, SQLite or CSV. Threats and data can be probed harnessing the power
 * [NVISOsecurity/DInvisibleRegistry](https://github.com/NVISOsecurity/DInvisibleRegistry) ⭐ 82 | 🐛 1 | 🌐 C# | 📅 2020-11-20 - DInvisibleRegistry
 * [mez-0/DecryptRDCManager](https://github.com/mez-0/DecryptRDCManager) ⭐ 80 | 🐛 0 | 🌐 C# | 📅 2020-09-29 - .NET 4.0 Remote Desktop Manager Password Gatherer
 * [AaronRobinsonMSFT/COMInterop](https://github.com/AaronRobinsonMSFT/COMInterop) ⭐ 79 | 🐛 2 | 🌐 C# | 📅 2019-10-16 - Example on how to consume a COM server from a .NET client and a .NET server from a COM client. Examples are for both using the Registry and for RegFree.
@@ -1168,84 +1168,84 @@
 
 ## C++
 
-* [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 135,930 | 🐛 2,609 | 🌐 C++ | 📅 2026-11-21 - LLM inference in C/C++
-* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,330 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-* [WerWolv/ImHex](https://github.com/WerWolv/ImHex) ⭐ 55,993 | 🐛 424 | 🌐 C++ | 📅 2026-11-17 - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-* [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) ⭐ 50,363 | 🐛 577 | 🌐 C++ | 📅 2026-11-20 - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
-* [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) ⭐ 47,017 | 🐛 1,372 | 🌐 C++ | 📅 2026-09-27 - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-* [aristocratos/btop](https://github.com/aristocratos/btop) ⭐ 35,488 | 🐛 620 | 🌐 C++ | 📅 2026-11-11 - A monitor of resources
-* [SerenityOS/serenity](https://github.com/SerenityOS/serenity) ⭐ 33,982 | 🐛 749 | 🌐 C++ | 📅 2026-11-20 - The Serenity Operating System 🐞
-* [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) ⭐ 33,564 | 🐛 705 | 🌐 C++ | 📅 2026-11-21 - Build your own AI friend
-* [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) ⭐ 32,939 | 🐛 419 | 🌐 Rust | 📅 2026-11-14 - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding
-* [deskflow/deskflow](https://github.com/deskflow/deskflow) ⭐ 31,544 | 🐛 263 | 🌐 C++ | 📅 2026-11-18 - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
-* [ossrs/srs](https://github.com/ossrs/srs) ⭐ 29,447 | 🐛 8 | 🌐 C++ | 📅 2026-11-18 - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
-* [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) ⭐ 23,134 | 🐛 19 | 🌐 C++ | 📅 2026-11-21 - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
-* [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) ⭐ 20,888 | 🐛 354 | 🌐 C++ | 📅 2026-11-05 - A lightweight utility that makes the Windows taskbar translucent/transparent.
-* [rizinorg/cutter](https://github.com/rizinorg/cutter) ⭐ 20,248 | 🐛 503 | 🌐 C++ | 📅 2026-11-13 - Free and Open Source Reverse Engineering Platform powered by rizin
+* [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 136,077 | 🐛 2,642 | 🌐 C++ | 📅 2026-11-22 - LLM inference in C/C++
+* [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) ⭐ 77,329 | 🐛 772 | 🌐 C++ | 📅 2025-05-27 - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+* [WerWolv/ImHex](https://github.com/WerWolv/ImHex) ⭐ 56,005 | 🐛 424 | 🌐 C++ | 📅 2026-11-17 - 🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+* [x64dbg/x64dbg](https://github.com/x64dbg/x64dbg) ⭐ 50,367 | 🐛 576 | 🌐 C++ | 📅 2026-11-22 - An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.
+* [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) ⭐ 47,030 | 🐛 1,367 | 🌐 C++ | 📅 2026-09-27 - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+* [aristocratos/btop](https://github.com/aristocratos/btop) ⭐ 35,495 | 🐛 623 | 🌐 C++ | 📅 2026-11-11 - A monitor of resources
+* [SerenityOS/serenity](https://github.com/SerenityOS/serenity) ⭐ 33,985 | 🐛 751 | 🌐 C++ | 📅 2026-11-20 - The Serenity Operating System 🐞
+* [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) ⭐ 33,597 | 🐛 705 | 🌐 C++ | 📅 2026-11-21 - Build your own AI friend
+* [Zackriya-Solutions/meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) ⭐ 32,962 | 🐛 419 | 🌐 Rust | 📅 2026-11-14 - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding
+* [deskflow/deskflow](https://github.com/deskflow/deskflow) ⭐ 31,571 | 🐛 264 | 🌐 C++ | 📅 2026-11-18 - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
+* [ossrs/srs](https://github.com/ossrs/srs) ⭐ 29,450 | 🐛 7 | 🌐 C++ | 📅 2026-11-21 - SRS is a simple, high-efficiency, real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181.
+* [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) ⭐ 23,139 | 🐛 19 | 🌐 C++ | 📅 2026-11-21 - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
+* [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) ⭐ 20,907 | 🐛 358 | 🌐 C++ | 📅 2026-11-05 - A lightweight utility that makes the Windows taskbar translucent/transparent.
+* [rizinorg/cutter](https://github.com/rizinorg/cutter) ⭐ 20,250 | 🐛 503 | 🌐 C++ | 📅 2026-11-13 - Free and Open Source Reverse Engineering Platform powered by rizin
 * [trojan-gfw/trojan](https://github.com/trojan-gfw/trojan) ⭐ 19,747 | 🐛 97 | 🌐 C++ | 📅 2024-08-21 - An unidentifiable mechanism that helps you bypass GFW.
-* [upx/upx](https://github.com/upx/upx) ⭐ 18,024 | 🐛 15 | 🌐 C++ | 📅 2026-11-21 - UPX - the Ultimate Packer for eXecutables
-* [wazuh/wazuh](https://github.com/wazuh/wazuh) ⭐ 17,853 | 🐛 2,746 | 🌐 C++ | 📅 2026-11-21 - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
-* [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) ⭐ 17,711 | 🐛 150 | 🌐 C++ | 📅 2026-11-19 - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
+* [upx/upx](https://github.com/upx/upx) ⭐ 18,026 | 🐛 15 | 🌐 C++ | 📅 2026-11-22 - UPX - the Ultimate Packer for eXecutables
+* [wazuh/wazuh](https://github.com/wazuh/wazuh) ⭐ 17,862 | 🐛 2,751 | 🌐 C++ | 📅 2026-11-21 - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
+* [ZLMediaKit/ZLMediaKit](https://github.com/ZLMediaKit/ZLMediaKit) ⭐ 17,713 | 🐛 150 | 🌐 C++ | 📅 2026-11-19 - WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11
 * [microsoft/CNTK](https://github.com/microsoft/CNTK) ⚠️ Archived - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
-* [tindy2013/subconverter](https://github.com/tindy2013/subconverter) ⭐ 17,126 | 🐛 255 | 🌐 C++ | 📅 2026-07-09 - Utility to convert between various subscription format
+* [tindy2013/subconverter](https://github.com/tindy2013/subconverter) ⭐ 17,129 | 🐛 255 | 🌐 C++ | 📅 2026-07-09 - Utility to convert between various subscription format
 * [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) ⭐ 16,861 | 🐛 49 | 🌐 C++ | 📅 2026-10-29 - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
-* [sogou/workflow](https://github.com/sogou/workflow) ⭐ 14,425 | 🐛 28 | 🌐 C++ | 📅 2026-11-19 - C++ Parallel Computing and Asynchronous Networking Framework
-* [webview/webview](https://github.com/webview/webview) ⭐ 14,341 | 🐛 216 | 🌐 C++ | 📅 2026-10-22 - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
-* [daijro/camoufox](https://github.com/daijro/camoufox) ⭐ 13,539 | 🐛 79 | 🌐 C | 📅 2026-11-19 - 🦊 Anti-detect browser
-* [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) ⭐ 13,274 | 🐛 149 | 🌐 C++ | 📅 2026-10-27 - FlashMLA: Efficient MLA decoding kernels
-* [vnotex/vnote](https://github.com/vnotex/vnote) ⭐ 13,063 | 🐛 164 | 🌐 C++ | 📅 2026-11-21 - A pleasant note-taking platform in native C++.
-* [DayBreak-u/chineseocr\_lite](https://github.com/DayBreak-u/chineseocr_lite) ⭐ 12,362 | 🐛 262 | 🌐 C++ | 📅 2026-05-18 - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
-* [snowie2000/mactype](https://github.com/snowie2000/mactype) ⭐ 12,025 | 🐛 342 | 🌐 C++ | 📅 2026-04-29 - Better font rendering for Windows.
-* [facebook/hermes](https://github.com/facebook/hermes) ⭐ 11,448 | 🐛 300 | 🌐 JavaScript | 📅 2026-11-20 - A JavaScript engine optimized for running React Native.
-* [tstack/lnav](https://github.com/tstack/lnav) ⭐ 10,813 | 🐛 302 | 🌐 C++ | 📅 2026-11-21 - Log file navigator
-* [rr-debugger/rr](https://github.com/rr-debugger/rr) ⭐ 10,757 | 🐛 478 | 🌐 C++ | 📅 2026-11-20 - Record and Replay Framework
-* [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) ⭐ 10,490 | 🐛 184 | 🌐 C++ | 📅 2026-11-17 - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
-* [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) ⭐ 9,884 | 🐛 400 | 🌐 C++ | 📅 2026-11-18 - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
-* [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) ⭐ 9,669 | 🐛 2 | 🌐 C++ | 📅 2026-11-01 - Make a fortune quietly
-* [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) ⭐ 9,347 | 🐛 174 | 🌐 C++ | 📅 2024-02-10 - Linux System Optimizer and Monitoring - <https://oguzhaninan.github.io/Stacer-Web>
+* [sogou/workflow](https://github.com/sogou/workflow) ⭐ 14,424 | 🐛 28 | 🌐 C++ | 📅 2026-11-19 - C++ Parallel Computing and Asynchronous Networking Framework
+* [webview/webview](https://github.com/webview/webview) ⭐ 14,343 | 🐛 216 | 🌐 C++ | 📅 2026-10-22 - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
+* [daijro/camoufox](https://github.com/daijro/camoufox) ⭐ 13,568 | 🐛 77 | 🌐 C | 📅 2026-11-22 - 🦊 Anti-detect browser
+* [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) ⭐ 13,276 | 🐛 149 | 🌐 C++ | 📅 2026-10-27 - FlashMLA: Efficient MLA decoding kernels
+* [vnotex/vnote](https://github.com/vnotex/vnote) ⭐ 13,062 | 🐛 164 | 🌐 C++ | 📅 2026-11-22 - A pleasant note-taking platform in native C++.
+* [DayBreak-u/chineseocr\_lite](https://github.com/DayBreak-u/chineseocr_lite) ⭐ 12,363 | 🐛 262 | 🌐 C++ | 📅 2026-05-18 - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
+* [snowie2000/mactype](https://github.com/snowie2000/mactype) ⭐ 12,028 | 🐛 342 | 🌐 C++ | 📅 2026-04-29 - Better font rendering for Windows.
+* [facebook/hermes](https://github.com/facebook/hermes) ⭐ 11,453 | 🐛 301 | 🌐 JavaScript | 📅 2026-11-21 - A JavaScript engine optimized for running React Native.
+* [tstack/lnav](https://github.com/tstack/lnav) ⭐ 10,814 | 🐛 298 | 🌐 C++ | 📅 2026-11-21 - Log file navigator
+* [rr-debugger/rr](https://github.com/rr-debugger/rr) ⭐ 10,758 | 🐛 478 | 🌐 C++ | 📅 2026-11-20 - Record and Replay Framework
+* [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) ⭐ 10,494 | 🐛 185 | 🌐 C++ | 📅 2026-11-17 - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
+* [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) ⭐ 9,885 | 🐛 401 | 🌐 C++ | 📅 2026-11-18 - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range o
+* [klzgrad/naiveproxy](https://github.com/klzgrad/naiveproxy) ⭐ 9,671 | 🐛 2 | 🌐 C++ | 📅 2026-11-01 - Make a fortune quietly
+* [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) ⭐ 9,346 | 🐛 174 | 🌐 C++ | 📅 2024-02-10 - Linux System Optimizer and Monitoring - <https://oguzhaninan.github.io/Stacer-Web>
 * [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) ⭐ 9,037 | 🐛 12 | 🌐 C++ | 📅 2023-01-15 - 🎤⌨️ Acoustic keyboard eavesdropping
 * [anbox/anbox](https://github.com/anbox/anbox) ⚠️ Archived - Anbox is a container-based approach to boot a full Android system on a regular GNU/Linux system
-* [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) ⭐ 8,614 | 🐛 132 | 🌐 C++ | 📅 2025-02-26 - Wechat Chat History Exporter 微信聊天记录导出备份程序
+* [BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter) ⭐ 8,615 | 🐛 132 | 🌐 C++ | 📅 2026-11-22 - Wechat Chat History Exporter 微信聊天记录导出备份程序
 * [wangyu-/udp2raw](https://github.com/wangyu-/udp2raw) ⭐ 8,591 | 🐛 287 | 🌐 C++ | 📅 2025-10-12 - A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)
-* [zeek/zeek](https://github.com/zeek/zeek) ⭐ 8,270 | 🐛 267 | 🌐 C++ | 📅 2026-11-21 - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
-* [ggerganov/ggwave](https://github.com/ggerganov/ggwave) ⭐ 7,928 | 🐛 66 | 🌐 C++ | 📅 2026-04-16 - Tiny data-over-sound library
-* [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) ⭐ 6,793 | 🐛 29 | 🌐 C++ | 📅 2026-11-15 - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
-* [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) ⭐ 6,479 | 🐛 88 | 🌐 C++ | 📅 2023-11-09 - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0\~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in sever
+* [zeek/zeek](https://github.com/zeek/zeek) ⭐ 8,271 | 🐛 268 | 🌐 C++ | 📅 2026-11-21 - Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.
+* [ggerganov/ggwave](https://github.com/ggerganov/ggwave) ⭐ 7,929 | 🐛 66 | 🌐 C++ | 📅 2026-04-16 - Tiny data-over-sound library
+* [Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI) ⭐ 6,795 | 🐛 29 | 🌐 C++ | 📅 2026-11-15 - No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.
+* [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) ⭐ 6,481 | 🐛 88 | 🌐 C++ | 📅 2023-11-09 - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0\~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in sever
 * [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) ⭐ 6,364 | 🐛 54 | 🌐 C++ | 📅 2023-06-22 - Google SafetyNet attestation workarounds for Magisk
 * [gnuradio/gnuradio](https://github.com/gnuradio/gnuradio) ⭐ 6,351 | 🐛 604 | 🌐 C++ | 📅 2026-11-12 - GNU Radio – the Free and Open Software Radio Ecosystem
 * [0xZ0F/Z0FCourse\_ReverseEngineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering) ⭐ 6,008 | 🐛 3 | 🌐 C++ | 📅 2026-07-25 - Reverse engineering focusing on x64 Windows.
 * [ffffffff0x/1earn](https://github.com/ffffffff0x/1earn) ⭐ 5,738 | 🐛 1 | 🌐 C++ | 📅 2024-06-06 - ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup
 * [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) ⭐ 5,198 | 🐛 172 | 🌐 C++ | 📅 2026-07-31 - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
-* [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) ⭐ 4,896 | 🐛 392 | 🌐 C++ | 📅 2026-11-18 - rTorrent BitTorrent client
+* [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) ⭐ 4,896 | 🐛 391 | 🌐 C++ | 📅 2026-11-22 - rTorrent BitTorrent client
 * [gatieme/CodingInterviews](https://github.com/gatieme/CodingInterviews) ⭐ 4,850 | 🐛 13 | 🌐 C++ | 📅 2021-02-20 - 剑指Offer——名企面试官精讲典型编程题
-* [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) ⭐ 4,750 | 🐛 5 | 🌐 C++ | 📅 2026-10-28 - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
-* [rime/librime](https://github.com/rime/librime) ⭐ 4,731 | 🐛 168 | 🌐 C++ | 📅 2026-11-16 - Rime Input Method Engine, the core library
-* [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) ⭐ 4,721 | 🐛 304 | 🌐 C++ | 📅 2026-10-30 - Wallpaper Engine backgrounds for Linux!
-* [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) ⭐ 4,390 | 🐛 55 | 🌐 C++ | 📅 2024-06-04 - Advanced usermode anti-anti-debugger. Forked from <https://bitbucket.org/NtQuery/scyllahide>
-* [unum-cloud/usearch](https://github.com/unum-cloud/usearch) ⭐ 4,389 | 🐛 25 | 🌐 C++ | 📅 2026-11-18 - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
+* [vaibhavpandeyvpz/apkstudio](https://github.com/vaibhavpandeyvpz/apkstudio) ⭐ 4,749 | 🐛 5 | 🌐 C++ | 📅 2026-10-28 - Open-source, cross platform Qt based IDE for reverse-engineering Android application packages.
+* [rime/librime](https://github.com/rime/librime) ⭐ 4,733 | 🐛 169 | 🌐 C++ | 📅 2026-11-16 - Rime Input Method Engine, the core library
+* [Almamu/linux-wallpaperengine](https://github.com/Almamu/linux-wallpaperengine) ⭐ 4,727 | 🐛 304 | 🌐 C++ | 📅 2026-10-30 - Wallpaper Engine backgrounds for Linux!
+* [x64dbg/ScyllaHide](https://github.com/x64dbg/ScyllaHide) ⭐ 4,392 | 🐛 55 | 🌐 C++ | 📅 2024-06-04 - Advanced usermode anti-anti-debugger. Forked from <https://bitbucket.org/NtQuery/scyllahide>
+* [unum-cloud/usearch](https://github.com/unum-cloud/usearch) ⭐ 4,390 | 🐛 25 | 🌐 C++ | 📅 2026-11-18 - Fast Open-Source Search & Clustering engine × for Vectors & 🔜 Strings × in C++, C, Python, JavaScript, Rust, Java, Objective-C, Swift, C#, GoLang, and Wolfram 🔍
 * [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) ⚠️ Archived - Automatic PageSpeed optimization module for Nginx
-* [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) ⭐ 4,274 | 🐛 166 | 🌐 C++ | 📅 2026-11-21 - 🛡 I2P: End-to-End encrypted and anonymous Internet
+* [PurpleI2P/i2pd](https://github.com/PurpleI2P/i2pd) ⭐ 4,277 | 🐛 163 | 🌐 C++ | 📅 2026-11-21 - 🛡 I2P: End-to-End encrypted and anonymous Internet
 * [Motion-Project/motion](https://github.com/Motion-Project/motion) ⭐ 4,062 | 🐛 1 | 🌐 C++ | 📅 2026-11-18 - Motion, a software motion detector.     Home page:  <https://motion-project.github.io/>
-* [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) ⭐ 3,991 | 🐛 53 | 🌐 C++ | 📅 2026-11-21 - 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，全程不需要暂停SELinux，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
+* [abcz316/SKRoot-linuxKernelRoot](https://github.com/abcz316/SKRoot-linuxKernelRoot) ⭐ 3,995 | 🐛 53 | 🌐 C++ | 📅 2026-11-21 - 新一代SKRoot，挑战全网root检测手段，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，全程不需要暂停SELinux，实现真正的SELinux 0%触碰，通用性强，通杀所有内核，不需要内核源码，直接patch内核，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
 * [google/lyra](https://github.com/google/lyra) ⭐ 3,986 | 🐛 88 | 🌐 C++ | 📅 2024-08-20 - A Very Low-Bitrate Codec for Speech Compression
 * [pavel-odintsov/fastnetmon](https://github.com/pavel-odintsov/fastnetmon) ⭐ 3,731 | 🐛 61 | 🌐 C++ | 📅 2026-11-15 - FastNetMon - very fast DDoS sensor with sFlow/Netflow/IPFIX/SPAN support
 * [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) ⭐ 3,722 | 🐛 297 | 🌐 C++ | 📅 2026-10-27 - Software defined radio receiver powered by GNU Radio and Qt.
-* [snort3/snort3](https://github.com/snort3/snort3) ⭐ 3,480 | 🐛 81 | 🌐 C++ | 📅 2026-11-05 - Snort++
-* [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) ⭐ 3,425 | 🐛 128 | 🌐 C++ | 📅 2026-11-20 - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
+* [snort3/snort3](https://github.com/snort3/snort3) ⭐ 3,481 | 🐛 81 | 🌐 C++ | 📅 2026-11-05 - Snort++
+* [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) ⭐ 3,426 | 🐛 128 | 🌐 C++ | 📅 2026-11-20 - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
 * [ksnip/ksnip](https://github.com/ksnip/ksnip) ⭐ 3,385 | 🐛 354 | 🌐 C++ | 📅 2026-10-21 - ksnip the cross-platform screenshot and annotation tool
-* [homenc/HElib](https://github.com/homenc/HElib) ⭐ 3,251 | 🐛 195 | 🌐 C++ | 📅 2024-08-01 - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations
+* [homenc/HElib](https://github.com/homenc/HElib) ⭐ 3,250 | 🐛 195 | 🌐 C++ | 📅 2024-08-01 - HElib is an open-source software library that implements homomorphic encryption. It supports the BGV scheme with bootstrapping and the Approximate Number CKKS scheme. HElib also includes optimizations
 * [WrBug/dumpDex](https://github.com/WrBug/dumpDex) ⭐ 3,168 | 🐛 38 | 🌐 C++ | 📅 2020-05-15 - 💯一款Android脱壳工具，需要xposed支持, 易开发已集成该项目。
 * [baidu/openrasp](https://github.com/baidu/openrasp) ⭐ 2,988 | 🐛 62 | 🌐 C++ | 📅 2025-10-02 - 🔥Open source RASP solution
-* [ohpe/juicy-potato](https://github.com/ohpe/juicy-potato) ⭐ 2,861 | 🐛 14 | 🌐 C++ | 📅 2021-12-18 - A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
-* [martinrotter/rssguard](https://github.com/martinrotter/rssguard) ⭐ 2,852 | 🐛 81 | 🌐 C++ | 📅 2026-11-21 - Feed reader (podcast player and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
+* [ohpe/juicy-potato](https://github.com/ohpe/juicy-potato) ⭐ 2,862 | 🐛 14 | 🌐 C++ | 📅 2021-12-18 - A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM.
+* [martinrotter/rssguard](https://github.com/martinrotter/rssguard) ⭐ 2,852 | 🐛 82 | 🌐 C++ | 📅 2026-11-21 - Feed reader (podcast player and also Gemini protocol client) which supports RSS/ATOM/JSON and many web-based feed services.
 * [wangyu-/tinyfecVPN](https://github.com/wangyu-/tinyfecVPN) ⭐ 2,592 | 🐛 66 | 🌐 C++ | 📅 2023-06-05 - A VPN Designed for Lossy Links, with Build-in Forward Error Correction(FEC) Support. Improves your Network Quality on a High-latency Lossy Link.
-* [miek/inspectrum](https://github.com/miek/inspectrum) ⭐ 2,547 | 🐛 61 | 🌐 C++ | 📅 2025-12-06 - Radio signal analyser
-* [solemnwarning/rehex](https://github.com/solemnwarning/rehex) ⭐ 2,482 | 🐛 24 | 🌐 C++ | 📅 2026-11-19 - Reverse Engineers' Hex Editor
-* [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) ⭐ 2,460 | 🐛 24 | 🌐 C++ | 📅 2025-08-05 - A simple keylogger for Windows, Linux and Mac
-* [KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay) ⭐ 2,264 | 🐛 7 | 🌐 C++ | 📅 2026-11-08 - KikoPlay - NOT ONLY A Full-Featured Danmu Player  不仅仅是全功能弹幕播放器
-* [can1357/NoVmp](https://github.com/can1357/NoVmp) ⭐ 2,232 | 🐛 10 | 🌐 C++ | 📅 2021-08-08 - A static devirtualizer for VMProtect x64 3.x. powered by VTIL.
+* [miek/inspectrum](https://github.com/miek/inspectrum) ⭐ 2,546 | 🐛 61 | 🌐 C++ | 📅 2025-12-06 - Radio signal analyser
+* [solemnwarning/rehex](https://github.com/solemnwarning/rehex) ⭐ 2,484 | 🐛 25 | 🌐 C++ | 📅 2026-11-19 - Reverse Engineers' Hex Editor
+* [GiacomoLaw/Keylogger](https://github.com/GiacomoLaw/Keylogger) ⭐ 2,461 | 🐛 25 | 🌐 C++ | 📅 2025-08-05 - A simple keylogger for Windows, Linux and Mac
+* [KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay) ⭐ 2,266 | 🐛 7 | 🌐 C++ | 📅 2026-11-08 - KikoPlay - NOT ONLY A Full-Featured Danmu Player  不仅仅是全功能弹幕播放器
+* [can1357/NoVmp](https://github.com/can1357/NoVmp) ⭐ 2,234 | 🐛 10 | 🌐 C++ | 📅 2021-08-08 - A static devirtualizer for VMProtect x64 3.x. powered by VTIL.
 * [KDE/latte-dock](https://github.com/KDE/latte-dock) ⭐ 2,032 | 🐛 0 | 🌐 C++ | 📅 2026-11-19 - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
-* [collin80/SavvyCAN](https://github.com/collin80/SavvyCAN) ⭐ 1,938 | 🐛 282 | 🌐 C++ | 📅 2026-11-17 - QT based cross platform canbus tool
+* [collin80/SavvyCAN](https://github.com/collin80/SavvyCAN) ⭐ 1,939 | 🐛 282 | 🌐 C++ | 📅 2026-11-17 - QT based cross platform canbus tool
 * [google/security-research-pocs](https://github.com/google/security-research-pocs) ⚠️ Archived - Proof-of-concept codes created as part of security research done by Google Security Team.
 * [WithSecureLabs/C3](https://github.com/WithSecureLabs/C3) ⭐ 1,792 | 🐛 35 | 🌐 C++ | 📅 2026-01-16 - Custom Command and Control (C3). A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits.
 * [simsong/tcpflow](https://github.com/simsong/tcpflow) ⭐ 1,782 | 🐛 74 | 🌐 C++ | 📅 2026-11-08 - TCP/IP packet demultiplexer. Download from:
@@ -1253,7 +1253,7 @@
 * [knownsec/shellcodeloader](https://github.com/knownsec/shellcodeloader) ⭐ 1,741 | 🐛 11 | 🌐 C++ | 📅 2020-12-11 - shellcodeloader
 * [aahmad097/AlternativeShellcodeExec](https://github.com/aahmad097/AlternativeShellcodeExec) ⭐ 1,739 | 🐛 0 | 🌐 C++ | 📅 2022-11-11 - Alternative Shellcode Execution Via Callbacks
 * [hasherezade/tiny\_tracer](https://github.com/hasherezade/tiny_tracer) ⭐ 1,717 | 🐛 12 | 🌐 C++ | 📅 2026-06-02 - A Pin Tool for tracing API calls etc
-* [securesocketfunneling/ssf](https://github.com/securesocketfunneling/ssf) ⭐ 1,673 | 🐛 72 | 🌐 C++ | 📅 2021-05-24 - Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform
+* [securesocketfunneling/ssf](https://github.com/securesocketfunneling/ssf) ⭐ 1,674 | 🐛 72 | 🌐 C++ | 📅 2021-05-24 - Secure Socket Funneling - Network tool and toolkit - TCP and UDP port forwarding, SOCKS proxy, remote shell, standalone and cross platform
 * [zodiacon/TotalRegistry](https://github.com/zodiacon/TotalRegistry) ⭐ 1,646 | 🐛 47 | 🌐 C++ | 📅 2026-10-07 - Total Registry - enhanced Registry editor/viewer
 * [illera88/Ponce](https://github.com/illera88/Ponce) ⭐ 1,634 | 🐛 9 | 🌐 C++ | 📅 2025-06-11 - IDA 2016 plugin contest winner! Symbolic Execution just one-click away!
 * [0xJs/RedTeaming\_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet) ⭐ 1,623 | 🐛 0 | 🌐 C++ | 📅 2025-11-21 - Pentesting cheatsheet with all the commands I learned during my learning journey. Will try to to keep it up-to-date.
@@ -1261,7 +1261,7 @@
 * [thiagoralves/OpenPLC\_v3](https://github.com/thiagoralves/OpenPLC_v3) ⚠️ Archived - OpenPLC Runtime version 3
 * [cinience/RedisStudio](https://github.com/cinience/RedisStudio) ⭐ 1,539 | 🐛 29 | 🌐 C++ | 📅 2025-07-01 - RedisStudio Redis GUI client(tool) for windows
 * [T4y1oR/RingQ](https://github.com/T4y1oR/RingQ) ⭐ 1,511 | 🐛 20 | 🌐 C++ | 📅 2025-02-19 - 一款后渗透免杀工具，助力每一位像我这样的脚本小子快速实现免杀，支持bypass AV/EDR 360 火绒 Windows Defender Shellcode Loader
-* [0x09AL/RdpThief](https://github.com/0x09AL/RdpThief) ⭐ 1,471 | 🐛 4 | 🌐 C++ | 📅 2024-07-20 - Extracting Clear Text Passwords from mstsc.exe using API Hooking.
+* [0x09AL/RdpThief](https://github.com/0x09AL/RdpThief) ⭐ 1,472 | 🐛 4 | 🌐 C++ | 📅 2024-07-20 - Extracting Clear Text Passwords from mstsc.exe using API Hooking.
 * [XhmikosR/notepad2-mod](https://github.com/XhmikosR/notepad2-mod) ⚠️ Archived - LOOKING FOR DEVELOPERS - Notepad2-mod, a Notepad2 fork, a fast and light-weight Notepad-like text editor with syntax highlighting
 * [hteso/iaito](https://github.com/hteso/iaito) ⭐ 1,461 | 🐛 38 | 🌐 C++ | 📅 2021-04-07 - This project has been moved to:
 * [0xnobody/vmpdump](https://github.com/0xnobody/vmpdump) ⭐ 1,450 | 🐛 12 | 🌐 C++ | 📅 2020-11-04 - A dynamic VMP dumper and import fixer, powered by VTIL.
@@ -1271,7 +1271,7 @@
 * [googleprojectzero/Jackalope](https://github.com/googleprojectzero/Jackalope) ⭐ 1,394 | 🐛 28 | 🌐 C++ | 📅 2026-08-25 - Binary, coverage-guided fuzzer for Windows, macOS, Linux and Android
 * [hasherezade/exe\_to\_dll](https://github.com/hasherezade/exe_to_dll) ⭐ 1,382 | 🐛 9 | 🌐 C++ | 📅 2025-09-15 - Converts a EXE into DLL
 * [PetoiCamp/OpenCat-Old](https://github.com/PetoiCamp/OpenCat-Old) ⭐ 1,381 | 🐛 6 | 🌐 C++ | 📅 2026-11-18 - A programmable and highly maneuverable robotic cat for STEM education and AI-enhanced services.
-* [bytedance/flux](https://github.com/bytedance/flux) ⭐ 1,379 | 🐛 45 | 🌐 C++ | 📅 2025-08-28 - A fast communication-overlapping library for tensor/expert parallelism on GPUs.
+* [bytedance/flux](https://github.com/bytedance/flux) ⭐ 1,380 | 🐛 45 | 🌐 C++ | 📅 2025-08-28 - A fast communication-overlapping library for tensor/expert parallelism on GPUs.
 * [ION28/BLUESPAWN](https://github.com/ION28/BLUESPAWN) ⭐ 1,349 | 🐛 31 | 🌐 C++ | 📅 2026-03-31 - An Active Defense and EDR software to empower Blue Teams
 * [GoSSIP-SJTU/Armariris](https://github.com/GoSSIP-SJTU/Armariris) ⭐ 1,348 | 🐛 15 | 🌐 C++ | 📅 2019-06-03 - 孤挺花（Armariris） --  由上海交通大学密码与计算机安全实验室维护的LLVM混淆框架
 * [OmerYa/Invisi-Shell](https://github.com/OmerYa/Invisi-Shell) ⭐ 1,345 | 🐛 0 | 🌐 C++ | 📅 2019-08-19 - Hide your Powershell script in plain sight. Bypass all Powershell security features
@@ -1284,7 +1284,7 @@
 * [jxy-s/herpaderping](https://github.com/jxy-s/herpaderping) ⭐ 1,217 | 🐛 1 | 🌐 C++ | 📅 2023-07-05 - Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.
 * [yanyiwu/simhash](https://github.com/yanyiwu/simhash) ⭐ 1,169 | 🐛 0 | 🌐 C++ | 📅 2026-07-20 - 中文文档simhash值计算
 * [NytroRST/ShellcodeCompiler](https://github.com/NytroRST/ShellcodeCompiler) ⭐ 1,159 | 🐛 1 | 🌐 C++ | 📅 2024-09-01 - Shellcode Compiler
-* [binarly-io/efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,148 | 🐛 0 | 🌐 C++ | 📅 2026-10-31 - IDA plugin and loader for UEFI firmware analysis and reverse engineering automation
+* [binarly-io/efiXplorer](https://github.com/binarly-io/efiXplorer) ⭐ 1,149 | 🐛 0 | 🌐 C++ | 📅 2026-10-31 - IDA plugin and loader for UEFI firmware analysis and reverse engineering automation
 * [mgeeky/ShellcodeFluctuation](https://github.com/mgeeky/ShellcodeFluctuation) ⭐ 1,142 | 🐛 1 | 🌐 C++ | 📅 2022-06-17 - An advanced in-memory evasion technique fluctuating shellcode's memory protection between RW/NoAccess & RX and then encrypting/decrypting its contents
 * [riverar/mach2](https://github.com/riverar/mach2) ⚠️ Archived - Windows Feature Control Multi-tool
 * [mmozeiko/aes-finder](https://github.com/mmozeiko/aes-finder) ⭐ 1,095 | 🐛 9 | 🌐 C++ | 📅 2021-08-10 - Utility to find AES keys in running processes
@@ -1294,7 +1294,7 @@
 * [silverf0x/RpcView](https://github.com/silverf0x/RpcView) ⭐ 1,073 | 🐛 15 | 🌐 C++ | 📅 2023-09-24 - RpcView is a free tool to explore and decompile Microsoft RPC interfaces
 * [wh201906/Proxmark3GUI](https://github.com/wh201906/Proxmark3GUI) ⭐ 1,070 | 🐛 18 | 🌐 C++ | 📅 2026-04-06 - A cross-platform GUI for Proxmark3 client | 为PM3设计的跨平台图形界面
 * [anhkgg/SuperDllHijack](https://github.com/anhkgg/SuperDllHijack) ⭐ 1,039 | 🐛 5 | 🌐 C++ | 📅 2021-11-10 - SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了
-* [ajayrandhawa/Keylogger](https://github.com/ajayrandhawa/Keylogger) ⭐ 1,035 | 🐛 3 | 🌐 C++ | 📅 2025-08-20 - Keylogger is 100% invisible keylogger not only for users, but also undetectable by antivirus software. keylogger Monitors all keystokes, Mouse clicks. It has a seperate process which continues capture
+* [ajayrandhawa/Keylogger](https://github.com/ajayrandhawa/Keylogger) ⭐ 1,036 | 🐛 3 | 🌐 C++ | 📅 2025-08-20 - Keylogger is 100% invisible keylogger not only for users, but also undetectable by antivirus software. keylogger Monitors all keystokes, Mouse clicks. It has a seperate process which continues capture
 * [RedCursorSecurityConsulting/PPLKiller](https://github.com/RedCursorSecurityConsulting/PPLKiller) ⚠️ Archived - Tool to bypass LSA Protection (aka Protected Process Light)
 * [secrary/InjectProc](https://github.com/secrary/InjectProc) ⭐ 992 | 🐛 3 | 🌐 C++ | 📅 2019-02-10 - InjectProc - Process Injection Techniques \[This project is not maintained anymore]
 * [matthieu-hackwitharts/Win32\_Offensive\_Cheatsheet](https://github.com/matthieu-hackwitharts/Win32_Offensive_Cheatsheet) ⭐ 984 | 🐛 0 | 🌐 C++ | 📅 2023-09-03 - Win32 and Kernel abusing techniques for pentesters
@@ -1307,12 +1307,12 @@
 * [JLospinoso/gargoyle](https://github.com/JLospinoso/gargoyle) ⭐ 917 | 🐛 1 | 🌐 Python | 📅 2026-05-15 - A memory scanning evasion technique
 * [hatRiot/token-priv](https://github.com/hatRiot/token-priv) ⭐ 901 | 🐛 0 | 🌐 C++ | 📅 2017-09-01 - Token Privilege Research
 * [KongKong20/WeChatPCHook](https://github.com/KongKong20/WeChatPCHook) ⭐ 893 | 🐛 6 | 🌐 C++ | 📅 2020-07-06 - 微信 电脑 机器人 入门教程 基于HOOK
-* [networkit/networkit](https://github.com/networkit/networkit) ⭐ 885 | 🐛 67 | 🌐 C++ | 📅 2026-11-16 - NetworKit is a growing open-source toolkit for large-scale network analysis.
-* [GossiTheDog/HiveNightmare](https://github.com/GossiTheDog/HiveNightmare) ⭐ 860 | 🐛 2 | 🌐 C++ | 📅 2021-07-26 - Exploit allowing you to read registry hives as non-admin on Windows 10 and 11
+* [networkit/networkit](https://github.com/networkit/networkit) ⭐ 885 | 🐛 67 | 🌐 C++ | 📅 2026-11-22 - NetworKit is a growing open-source toolkit for large-scale network analysis.
+* [GossiTheDog/HiveNightmare](https://github.com/GossiTheDog/HiveNightmare) ⭐ 861 | 🐛 2 | 🌐 C++ | 📅 2021-07-26 - Exploit allowing you to read registry hives as non-admin on Windows 10 and 11
 * [steven-michaud/HookCase](https://github.com/steven-michaud/HookCase) ⭐ 843 | 🐛 5 | 🌐 C++ | 📅 2026-05-14 - Tool for reverse engineering macOS/OS X
 * [0xHossam/Killer](https://github.com/0xHossam/Killer) ⭐ 841 | 🐛 6 | 🌐 C++ | 📅 2024-07-02 - Killer is a super simple tool designed to bypass AV/EDR security tools using various evasive techniques.
 * [xuanxuan0/DripLoader](https://github.com/xuanxuan0/DripLoader) ⭐ 835 | 🐛 1 | 🌐 C++ | 📅 2021-08-23 - Evasive shellcode loader for bypassing event-based injection detection (PoC)
-* [Gality369/CS-Loader](https://github.com/Gality369/CS-Loader) ⭐ 834 | 🐛 18 | 🌐 C++ | 📅 2025-04-02 - CSLoader is a general purpose obfuscation and anti-virus tool based on a reimplementation of the llvm project obfuscator(<https://github.com/obfuscator-llvm/obfuscator> ⭐ 4,397 | 🐛 96 | 📅 2023-10-20).
+* [Gality369/CS-Loader](https://github.com/Gality369/CS-Loader) ⭐ 834 | 🐛 18 | 🌐 C++ | 📅 2025-04-02 - CSLoader is a general purpose obfuscation and anti-virus tool based on a reimplementation of the llvm project obfuscator(<https://github.com/obfuscator-llvm/obfuscator> ⭐ 4,398 | 🐛 96 | 📅 2023-10-20).
 * [F8LEFT/FUPK3](https://github.com/F8LEFT/FUPK3) ⚠️ Archived - 演示视频<https://pan.baidu.com/s/1HH_-TQGca1NLoSqzvOPB3Q> 密码：izm3
 * [midisec/BypassAnti-Virus](https://github.com/midisec/BypassAnti-Virus) ⭐ 806 | 🐛 1 | 🌐 C++ | 📅 2022-07-10 - 免杀姿势学习、记录、复现。
 * [efchatz/pandora](https://github.com/efchatz/pandora) ⭐ 800 | 🐛 0 | 🌐 C++ | 📅 2025-01-09 - A red team tool that assists into extracting/dumping master credentials and/or entries from different password managers.
@@ -1320,9 +1320,9 @@
 * [nladuo/captcha-break](https://github.com/nladuo/captcha-break) ⭐ 727 | 🐛 2 | 🌐 C++ | 📅 2018-11-06 - captcha break based on opencv2, tesseract-ocr and some machine learning algorithm.
 * [D4stiny/spectre](https://github.com/D4stiny/spectre) ⭐ 725 | 🐛 4 | 🌐 C++ | 📅 2020-08-05 - A Windows kernel-mode rootkit that abuses legitimate communication channels to control a machine.
 * [cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION](https://github.com/cbwang505/CVE-2020-0787-EXP-ALL-WINDOWS-VERSION) ⭐ 721 | 🐛 0 | 🌐 C++ | 📅 2020-09-11 - Support ALL Windows Version
-* [crossroadsfpga/pigasus](https://github.com/crossroadsfpga/pigasus) ⭐ 706 | 🐛 6 | 🌐 C++ | 📅 2024-08-14 - 100Gbps Intrusion Detection and Prevention System
+* [crossroadsfpga/pigasus](https://github.com/crossroadsfpga/pigasus) ⭐ 707 | 🐛 6 | 🌐 C++ | 📅 2024-08-14 - 100Gbps Intrusion Detection and Prevention System
 * [itm4n/FullPowers](https://github.com/itm4n/FullPowers) ⚠️ Archived - Recover the default privilege set of a LOCAL/NETWORK SERVICE account
-* [horsicq/XAPKDetector](https://github.com/horsicq/XAPKDetector) ⭐ 695 | 🐛 1 | 🌐 C++ | 📅 2026-11-21 - APK/DEX detector for Windows, Linux and MacOS.
+* [horsicq/XAPKDetector](https://github.com/horsicq/XAPKDetector) ⭐ 695 | 🐛 1 | 🌐 C++ | 📅 2026-11-22 - APK/DEX detector for Windows, Linux and MacOS.
 * [ZeroMemoryEx/Amsi-Killer](https://github.com/ZeroMemoryEx/Amsi-Killer) ⭐ 694 | 🐛 0 | 🌐 C++ | 📅 2023-09-26 - Lifetime AMSI bypass
 * [StevenHickson/PiAUISuite](https://github.com/StevenHickson/PiAUISuite) ⭐ 693 | 🐛 80 | 🌐 C++ | 📅 2018-12-03 - Raspberry PI AUI Suite
 * [pwn1sher/KillDefender](https://github.com/pwn1sher/KillDefender) ⭐ 690 | 🐛 4 | 🌐 C++ | 📅 2022-06-28 - A small POC to make defender useless by removing its token privileges and lowering the token integrity
@@ -1331,7 +1331,7 @@
 * [zodiacon/ProcMonXv2](https://github.com/zodiacon/ProcMonXv2) ⭐ 665 | 🐛 10 | 🌐 C++ | 📅 2026-07-04 - Process Monitor X v2
 * [hasherezade/bearparser](https://github.com/hasherezade/bearparser) ⭐ 657 | 🐛 0 | 🌐 C++ | 📅 2026-11-07 - Portable Executable parsing library (from PE-bear)
 * [Fortiphyd/GRFICSv2](https://github.com/Fortiphyd/GRFICSv2) ⭐ 653 | 🐛 8 | 🌐 C++ | 📅 2025-10-29 - Version 2 of the Graphical Realism Framework for Industrial Control Simulation (GRFICS)
-* [trailofbits/maat](https://github.com/trailofbits/maat) ⭐ 651 | 🐛 34 | 🌐 C++ | 📅 2026-11-20 - Open-source symbolic execution framework: <https://maat.re>
+* [trailofbits/maat](https://github.com/trailofbits/maat) ⭐ 651 | 🐛 32 | 🌐 C++ | 📅 2026-11-22 - Open-source symbolic execution framework: <https://maat.re>
 * [thewhiteninja/ntfstool](https://github.com/thewhiteninja/ntfstool) ⭐ 637 | 🐛 7 | 🌐 C++ | 📅 2026-06-26 - Forensics tool for NTFS (parser, mft, bitlocker, deleted files)
 * [Cr4sh/MicroBackdoor](https://github.com/Cr4sh/MicroBackdoor) ⭐ 623 | 🐛 1 | 🌐 C++ | 📅 2022-03-08 - Small and convenient C2 tool for Windows targets. \[ Русский -- значит нахуй! ]
 * [msuiche/OPCDE](https://github.com/msuiche/OPCDE) ⭐ 620 | 🐛 0 | 🌐 C++ | 📅 2020-08-16 - OPCDE Cybersecurity Conference Materials
@@ -1371,7 +1371,7 @@
 * [vah13/extractTVpasswords](https://github.com/vah13/extractTVpasswords) ⭐ 466 | 🐛 3 | 🌐 C++ | 📅 2018-07-17 - tool to extract passwords from TeamViewer memory using Frida
 * [KaLendsi/CVE-2022-21882](https://github.com/KaLendsi/CVE-2022-21882) ⭐ 461 | 🐛 3 | 🌐 C++ | 📅 2022-01-27 - win32k LPE
 * [deepinstinct/LsassSilentProcessExit](https://github.com/deepinstinct/LsassSilentProcessExit) ⭐ 458 | 🐛 2 | 🌐 C++ | 📅 2020-12-23 - Command line interface to dump LSASS memory to disk via SilentProcessExit
-* [psi-im/psi](https://github.com/psi-im/psi) ⭐ 444 | 🐛 340 | 🌐 C++ | 📅 2026-11-19 - XMPP client
+* [psi-im/psi](https://github.com/psi-im/psi) ⭐ 444 | 🐛 342 | 🌐 C++ | 📅 2026-11-22 - XMPP client
 * [outflanknl/Spray-AD](https://github.com/outflanknl/Spray-AD) ⭐ 443 | 🐛 3 | 🌐 C++ | 📅 2022-04-01 - A Cobalt Strike tool to audit Active Directory user accounts for weak, well known or easy guessable passwords.
 * [echo-devim/fhex](https://github.com/echo-devim/fhex) ⭐ 436 | 🐛 0 | 🌐 C++ | 📅 2024-11-06 - A Full-Featured HexEditor compatible with Linux/Windows/MacOS
 * [mandiant/flare-wmi](https://github.com/mandiant/flare-wmi) ⚠️ Archived -
@@ -1381,7 +1381,7 @@
 * [rexdf/CommandTrayHost](https://github.com/rexdf/CommandTrayHost) ⭐ 419 | 🐛 19 | 🌐 C++ | 📅 2020-11-13 - A command line program monitor systray for Windows
 * [panda-re/lava](https://github.com/panda-re/lava) ⭐ 418 | 🐛 10 | 🌐 Python | 📅 2026-11-21 - LAVA: Large-scale Automated Vulnerability Addition
 * [lengjibo/NetUser](https://github.com/lengjibo/NetUser) ⭐ 417 | 🐛 1 | 🌐 C++ | 📅 2021-09-29 - 使用windows api添加用户，可用于net无法使用时.分为nim版，c++版本，RDI版，BOF版。
-* [horsicq/XOpcodeCalc](https://github.com/horsicq/XOpcodeCalc) ⭐ 414 | 🐛 6 | 🌐 C++ | 📅 2026-11-19 - Opcode calculator / ASM calculator
+* [horsicq/XOpcodeCalc](https://github.com/horsicq/XOpcodeCalc) ⭐ 415 | 🐛 6 | 🌐 C++ | 📅 2026-11-19 - Opcode calculator / ASM calculator
 * [ChaitanyaHaritash/Callback\_Shellcode\_Injection](https://github.com/ChaitanyaHaritash/Callback_Shellcode_Injection) ⭐ 413 | 🐛 1 | 🌐 C++ | 📅 2021-02-23 - POCs for Shellcode Injection via Callbacks
 * [ameenmaali/urldedupe](https://github.com/ameenmaali/urldedupe) ⭐ 411 | 🐛 4 | 🌐 C++ | 📅 2020-06-17 - Pass in a list of URLs with query strings, get back a unique list of URLs and query string combinations
 * [ZanderChang/anti-sandbox](https://github.com/ZanderChang/anti-sandbox) ⭐ 410 | 🐛 0 | 🌐 C++ | 📅 2020-04-22 - Windows对抗沙箱和虚拟机的方法总结
@@ -1576,13 +1576,13 @@
 * [houshanren/hangzhou\_house\_knowledge](https://github.com/houshanren/hangzhou_house_knowledge) ⭐ 26,851 | 🐛 103 | 🌐 CSS | 📅 2022-02-28 - 2017年买房经历总结出来的买房购房知识分享给大家，希望对大家有所帮助。买房不易，且买且珍惜。Sharing the knowledge of buy an own house that according  to the experience at hangzhou in 2017 to all the people. It's not easy to buy a own house, so I
 * [chokcoco/iCSS](https://github.com/chokcoco/iCSS) ⭐ 20,619 | 🐛 245 | 🌐 JavaScript | 📅 2026-03-13 - 不止于 CSS
 * [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) ⭐ 6,124 | 🐛 9 | 🌐 CSS | 📅 2026-04-08 - 程序员工作中常见的英语词汇
-* [rmusser01/Infosec\_Reference](https://github.com/rmusser01/Infosec_Reference) ⭐ 6,044 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-17 - An Information Security Reference That Doesn't Suck; <https://rmusser.net/git/admin-2/Infosec_Reference> for non-MS Git hosted version.
-* [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) ⭐ 4,953 | 🐛 4 | 🌐 CSS | 📅 2026-05-20 - Phishing Tool & Information Collector
+* [rmusser01/Infosec\_Reference](https://github.com/rmusser01/Infosec_Reference) ⭐ 6,045 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-17 - An Information Security Reference That Doesn't Suck; <https://rmusser.net/git/admin-2/Infosec_Reference> for non-MS Git hosted version.
+* [UndeadSec/SocialFish](https://github.com/UndeadSec/SocialFish) ⭐ 4,954 | 🐛 4 | 🌐 CSS | 📅 2026-05-20 - Phishing Tool & Information Collector
 * [ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control) ⚠️ Archived - 一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.
 * [elrumo/macOS\_Big\_Sur\_icons\_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) ⭐ 4,327 | 🐛 634 | 🌐 CSS | 📅 2026-02-17 - Replacement icons for popular apps in the style of macOS Big Sur
 * [LiangJunrong/document-library](https://github.com/LiangJunrong/document-library) ⭐ 3,874 | 🐛 0 | 🌐 CSS | 📅 2024-04-09 - jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……
 * [jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets) ⭐ 3,264 | 🐛 10 | 🌐 CSS | 📅 2022-07-12 - Webpage tracking only using CSS (and no JS)
-* [wentin/cssicon](https://github.com/wentin/cssicon) ⭐ 3,199 | 🐛 22 | 🌐 CSS | 📅 2024-10-17 - icon set made with pure css code, no dependencies, "grab and go" icons
+* [wentin/cssicon](https://github.com/wentin/cssicon) ⭐ 3,198 | 🐛 22 | 🌐 CSS | 📅 2024-10-17 - icon set made with pure css code, no dependencies, "grab and go" icons
 * [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts) ⭐ 2,649 | 🐛 2 | 🌐 Swift | 📅 2026-08-16 - This is a collection of programming fonts, just share this with the programmers. Now there are 108 kinds of fantastic fonts!
 * [ajinabraham/nodejsscan](https://github.com/ajinabraham/nodejsscan) ⚠️ Archived - nodejsscan is a static security code scanner for Node.js applications.
 * [Tencent/tmt-workflow](https://github.com/Tencent/tmt-workflow) ⭐ 2,151 | 🐛 2 | 🌐 CSS | 📅 2020-07-30 - A web developer workflow used by WeChat team based on Gulp, with cross-platform supported and solutions prepared.
@@ -1590,7 +1590,7 @@
 * [smartping/smartping](https://github.com/smartping/smartping) ⭐ 1,894 | 🐛 52 | 🌐 CSS | 📅 2023-07-18 - 综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
 * [primary-theme/obsidian](https://github.com/primary-theme/obsidian) ⭐ 1,750 | 🐛 75 | 🌐 CSS | 📅 2024-10-21 - Comfy, playful but productive theme for Obsidian. "Primary instantly puts you in a relaxed state that opens the door to creativity and exploration. Wonderfully executed down to the smallest details,"
 * [theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe) ⚠️ Archived - 🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.
-* [vinceliuice/Vimix-gtk-themes](https://github.com/vinceliuice/Vimix-gtk-themes) ⭐ 1,729 | 🐛 70 | 🌐 CSS | 📅 2025-07-27 - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
+* [vinceliuice/Vimix-gtk-themes](https://github.com/vinceliuice/Vimix-gtk-themes) ⭐ 1,730 | 🐛 70 | 🌐 CSS | 📅 2025-07-27 - Vimix is a flat Material Design theme for GTK 3, GTK 2 and Gnome-Shell etc.
 * [justdeleteme/justdelete.me](https://github.com/justdeleteme/justdelete.me) ⭐ 1,545 | 🐛 151 | 🌐 CSS | 📅 2024-06-28 - A directory of direct links to delete your account from web services.
 * [AIDotNet/AntSK](https://github.com/AIDotNet/AntSK) ⭐ 1,330 | 🐛 1 | 🌐 CSS | 📅 2026-09-20 - 基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体，支持本地离线AI大模型。可以不联网离线运行。支持aspire观测应用数据
 * [w-digital-scanner/w12scan](https://github.com/w-digital-scanner/w12scan) ⭐ 1,326 | 🐛 28 | 🌐 CSS | 📅 2022-12-08 - 🚀 A simple asset discovery engine for cybersecurity. (网络资产发现引擎)
@@ -1598,7 +1598,7 @@
 * [caspartse/QQ-Groups-Spider](https://github.com/caspartse/QQ-Groups-Spider) ⚠️ Archived - QQ Groups Spider（QQ 群爬虫）
 * [smartFlash/pySecurity](https://github.com/smartFlash/pySecurity) ⭐ 666 | 🐛 0 | 🌐 CSS | 📅 2019-11-29 - Python tutorials
 * [SukkaW/hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka) ⭐ 626 | 🐛 36 | 🌐 CSS | 📅 2024-03-19 - 🎨Modern, powerful and simple theme for Hexo.
-* [zhangjikai/gitbook-use](https://github.com/zhangjikai/gitbook-use) ⭐ 601 | 🐛 3 | 🌐 CSS | 📅 2019-01-19 - 记录GitBook的一些配置及插件信息
+* [zhangjikai/gitbook-use](https://github.com/zhangjikai/gitbook-use) ⭐ 600 | 🐛 3 | 🌐 CSS | 📅 2019-01-19 - 记录GitBook的一些配置及插件信息
 * [mike-goodwin/owasp-threat-dragon-desktop](https://github.com/mike-goodwin/owasp-threat-dragon-desktop) ⭐ 593 | 🐛 78 | 🌐 CSS | 📅 2026-01-29 - An installable desktop variant of OWASP Threat Dragon
 * [du33169/typora-theme-essay\_cn](https://github.com/du33169/typora-theme-essay_cn) ⭐ 565 | 🐛 3 | 🌐 CSS | 📅 2023-07-11 - a theme for Typora(a markdown editor), designed for chinese essay
 * [admin360bug/PHP](https://github.com/admin360bug/PHP) ⭐ 561 | 🐛 7 | 🌐 CSS | 📅 2024-02-24 - PHP训练靶场
@@ -1621,7 +1621,7 @@
 * [paranoidninja/O365-Doppelganger](https://github.com/paranoidninja/O365-Doppelganger) ⭐ 252 | 🐛 0 | 🌐 CSS | 📅 2022-03-07 - A quick handy script to harvest credentials off of a user during a Red Team and get execution of a file from the user
 * [paulbricman/dual-obsidian-client](https://github.com/paulbricman/dual-obsidian-client) ⚠️ Archived - A skilled virtual assistant for Obsidian.
 * [zseano/JS-Scan](https://github.com/zseano/JS-Scan) ⭐ 228 | 🐛 0 | 🌐 CSS | 📅 2017-08-22 - a .js scanner, built in php. designed to scrape urls and other info
-* [LinWin-Cloud/setool-master](https://github.com/LinWin-Cloud/setool-master) ⭐ 223 | 🐛 7 | 🌐 CSS | 📅 2024-01-15 - SetoolMaster是一款让你入门即入狱的python3开发的进阶型社会工程学工具。包括了全球定位、Ngrok内网穿透、Seeker高精度定位、网页钓鱼、病毒攻击、恐吓勒索信、爬虫、网站克隆、物联网设备搜索等，同时拥有中文支持，内置大量钓鱼模板，设计用于组织级别红队渗透测试，用于团队组织设备型协同，经过非常多的实战演练，效果出众，远超同行产品
+* [LinWin-Cloud/setool-master](https://github.com/LinWin-Cloud/setool-master) ⭐ 224 | 🐛 7 | 🌐 CSS | 📅 2024-01-15 - SetoolMaster是一款让你入门即入狱的python3开发的进阶型社会工程学工具。包括了全球定位、Ngrok内网穿透、Seeker高精度定位、网页钓鱼、病毒攻击、恐吓勒索信、爬虫、网站克隆、物联网设备搜索等，同时拥有中文支持，内置大量钓鱼模板，设计用于组织级别红队渗透测试，用于团队组织设备型协同，经过非常多的实战演练，效果出众，远超同行产品
 * [zsxsoft/my-ctf-challenges](https://github.com/zsxsoft/my-ctf-challenges) ⭐ 218 | 🐛 0 | 🌐 CSS | 📅 2026-01-04 - My CTF Challenges
 * [Aneureka/push-to-kindle](https://github.com/Aneureka/push-to-kindle) ⭐ 205 | 🐛 0 | 🌐 CSS | 📅 2025-07-13 - 📘 A web-based tool for pushing documents to your lovely kindle.
 * [P0cL4bs/Nanobrok](https://github.com/P0cL4bs/Nanobrok) ⭐ 192 | 🐛 1 | 🌐 CSS | 📅 2022-12-14 - Web Service write in Python for control and protect your android device remotely.
@@ -1691,23 +1691,23 @@
 
 ## Dart
 
-* [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 79,303 | 🐛 1,044 | 🌐 Dart | 📅 2026-11-15 - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
-* [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) ⭐ 9,794 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-21 - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
-* [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) ⭐ 9,277 | 🐛 97 | 🌐 Dart | 📅 2026-10-17 - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
+* [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) ⭐ 79,364 | 🐛 1,049 | 🌐 Dart | 📅 2026-11-15 - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
+* [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) ⭐ 9,796 | 🐛 46 | 🌐 TypeScript | 📅 2026-11-21 - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
+* [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) ⭐ 9,281 | 🐛 99 | 🌐 Dart | 📅 2026-10-17 - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
 * [bingoogolapple/bga\_issue\_blog](https://github.com/bingoogolapple/bga_issue_blog) ⭐ 268 | 🐛 9 | 🌐 Dart | 📅 2024-12-10 - Flutter 或 Vue 全家桶（Vue + VueRouter + Vuex + Axios）抓取 GitHub 上的 Issues，结合 GitHub Pages 搭建个人博客站点，支持 GitHub 登录和评论
 * [LuckyLi706/flutter\_mobile\_command\_tools](https://github.com/LuckyLi706/flutter_mobile_command_tools) ⭐ 129 | 🐛 1 | 🌐 Dart | 📅 2025-03-29 - flutter写的桌面可视化操作android和ios的简单命令
 * [daixianceng/cron\_dingding](https://github.com/daixianceng/cron_dingding) ⭐ 12 | 🐛 0 | 🌐 Dart | 📅 2021-08-16 - 钉钉自动打卡
 
 ## Dockerfile
 
-* [vulhub/vulhub](https://github.com/vulhub/vulhub) ⭐ 21,512 | 🐛 56 | 🌐 Dockerfile | 📅 2026-10-17 - Pre-Built Vulnerable Environments Based on Docker-Compose
-* [jaywcjlove/reference](https://github.com/jaywcjlove/reference) ⭐ 15,241 | 🐛 200 | 🌐 Dockerfile | 📅 2026-11-20 - 为开发人员分享快速参考备忘清单(速查表)
+* [vulhub/vulhub](https://github.com/vulhub/vulhub) ⭐ 21,511 | 🐛 57 | 🌐 Dockerfile | 📅 2026-10-17 - Pre-Built Vulnerable Environments Based on Docker-Compose
+* [jaywcjlove/reference](https://github.com/jaywcjlove/reference) ⭐ 15,242 | 🐛 200 | 🌐 Dockerfile | 📅 2026-11-20 - 为开发人员分享快速参考备忘清单(速查表)
 * [laradock/laradock](https://github.com/laradock/laradock) ⭐ 12,681 | 🐛 2 | 🌐 Dockerfile | 📅 2026-11-10 - Full PHP development environment for Docker.
-* [OWASP/wstg](https://github.com/OWASP/wstg) ⭐ 10,354 | 🐛 11 | 🌐 CSS | 📅 2026-11-21 - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
-* [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC) ⭐ 5,259 | 🐛 3 | 🌐 Java | 📅 2026-05-11 - 一个漏洞POC知识库 目前数量 1000+
-* [OWASP/API-Security](https://github.com/OWASP/API-Security) ⭐ 2,405 | 🐛 21 | 🌐 Dockerfile | 📅 2026-09-22 - OWASP API Security Project
-* [vulhub/java-chains](https://github.com/vulhub/java-chains) ⭐ 2,202 | 🐛 2 | 🌐 Shell | 📅 2026-11-18 - vulhub Vulnerability Reproduction Designated Platform
-* [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) ⭐ 2,069 | 🐛 5 | 🌐 Dockerfile | 📅 2026-11-21 - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
+* [OWASP/wstg](https://github.com/OWASP/wstg) ⭐ 10,379 | 🐛 10 | 🌐 CSS | 📅 2026-11-22 - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
+* [Threekiii/Awesome-POC](https://github.com/Threekiii/Awesome-POC) ⭐ 5,260 | 🐛 3 | 🌐 Java | 📅 2026-05-11 - 一个漏洞POC知识库 目前数量 1000+
+* [OWASP/API-Security](https://github.com/OWASP/API-Security) ⭐ 2,407 | 🐛 21 | 🌐 Dockerfile | 📅 2026-09-22 - OWASP API Security Project
+* [vulhub/java-chains](https://github.com/vulhub/java-chains) ⭐ 2,201 | 🐛 2 | 🌐 Shell | 📅 2026-11-18 - vulhub Vulnerability Reproduction Designated Platform
+* [sherifabdlnaby/elastdocker](https://github.com/sherifabdlnaby/elastdocker) ⭐ 2,069 | 🐛 4 | 🌐 Dockerfile | 📅 2026-11-21 - 🐳  Elastic Stack (ELK) v8+ on Docker with Compose. Pre-configured out of the box to enable Logging, Metrics, APM, Alerting, ML, and SIEM features. Up with a Single Command.
 * [p0dalirius/Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques) ⭐ 1,941 | 🐛 12 | 🌐 Dockerfile | 📅 2023-10-07 - Awesome list of step by step techniques  to achieve Remote Code Execution on various apps!
 * [hysnsec/awesome-threat-modelling](https://github.com/hysnsec/awesome-threat-modelling) ⭐ 1,844 | 🐛 26 | 🌐 Dockerfile | 📅 2024-08-02 - A curated list of threat modeling resources (Books, courses - free and paid, videos, tools, tutorials and workshops to practice on ) for learning Threat modeling and initial phases of security review.
 * [AlexisAhmed/BugBountyToolkit](https://github.com/AlexisAhmed/BugBountyToolkit) ⭐ 1,197 | 🐛 6 | 🌐 Dockerfile | 📅 2023-08-16 - A multi-platform bug bounty toolkit that can be installed on Debian/Ubuntu or set up with Docker.
@@ -1721,7 +1721,7 @@
 * [Eadom/ctf\_xinetd](https://github.com/Eadom/ctf_xinetd) ⭐ 417 | 🐛 1 | 🌐 Dockerfile | 📅 2018-10-19 - A docker repository for deploying pwnable challenges in CTF
 * [MyKings/docker-vulnerability-environment](https://github.com/MyKings/docker-vulnerability-environment) ⭐ 392 | 🐛 0 | 🌐 Dockerfile | 📅 2019-05-31 - Use the docker to build a vulnerability environment
 * [johackim/docker-hacklab](https://github.com/johackim/docker-hacklab) ⭐ 332 | 🐛 1 | 🌐 Dockerfile | 📅 2026-03-27 - My personal hacklab, create your own.
-* [RAJANAGORI/Nightingale](https://github.com/RAJANAGORI/Nightingale) ⭐ 318 | 🐛 24 | 🌐 Shell | 📅 2026-11-08 - Nightingale Docker for Pentesters is a comprehensive Dockerized environment tailored for penetration testing and vulnerability assessment. It comes preconfigured with all essential tools and utilities
+* [RAJANAGORI/Nightingale](https://github.com/RAJANAGORI/Nightingale) ⭐ 318 | 🐛 24 | 🌐 Shell | 📅 2026-11-22 - Nightingale Docker for Pentesters is a comprehensive Dockerized environment tailored for penetration testing and vulnerability assessment. It comes preconfigured with all essential tools and utilities
 * [ericmjl/essays-on-data-science](https://github.com/ericmjl/essays-on-data-science) ⭐ 308 | 🐛 5 | 🌐 Dockerfile | 📅 2026-08-05 - In which I put together my thoughts on the practice of data science.
 * [madhuakula/hacker-container](https://github.com/madhuakula/hacker-container) ⭐ 298 | 🐛 4 | 🌐 Dockerfile | 📅 2023-04-10 - The Swiss Army Container for Cloud Native Security. Container with all the list of useful tools/commands while hacking and securing Containers, Kubernetes Clusters, and Cloud Native workloads.
 * [rosehgal/k8s-In-30Mins](https://github.com/rosehgal/k8s-In-30Mins) ⭐ 212 | 🐛 0 | 🌐 Dockerfile | 📅 2021-03-18 - Learn how to set up the Kubernetes cluster in 30 mins and deploy the application inside the cluster.
@@ -1739,10 +1739,10 @@
 * [geerlingguy/docker-ubuntu2204-ansible](https://github.com/geerlingguy/docker-ubuntu2204-ansible) ⭐ 76 | 🐛 8 | 🌐 Dockerfile | 📅 2025-01-31 - Ubuntu 22.04 LTS (Jammy Jellyfish) Docker container for Ansible playbook and role testing.
 * [eikendev/java-decompiler](https://github.com/eikendev/java-decompiler) ⭐ 74 | 🐛 1 | 🌐 Shell | 📅 2026-11-16 - A Docker image with four popular Java decompilers in one place (CFR, Fernflower, Krakatau, and Procyon) :rocket::hammer:
 * [xiecat/sec-docker](https://github.com/xiecat/sec-docker) ⭐ 65 | 🐛 0 | 🌐 Dockerfile | 📅 2022-03-21 - 常用安全工具 docker镜像 自动更新仓库
-* [Cl0udG0d/AWDDocker](https://github.com/Cl0udG0d/AWDDocker) ⭐ 47 | 🐛 1 | 🌐 Dockerfile | 📅 2021-05-15 - 标准化AWD靶场Docker
+* [Cl0udG0d/AWDDocker](https://github.com/Cl0udG0d/AWDDocker) ⭐ 48 | 🐛 1 | 🌐 Dockerfile | 📅 2021-05-15 - 标准化AWD靶场Docker
 * [heroku/bheu19-attacking-cloud-builds](https://github.com/heroku/bheu19-attacking-cloud-builds) ⚠️ Archived - Slides, Cheatsheet and Resources from our Blackhat EU talk
 * [parzel/Damn-Vulnerable-WooCommerce-Plugins](https://github.com/parzel/Damn-Vulnerable-WooCommerce-Plugins) ⭐ 30 | 🐛 0 | 🌐 Dockerfile | 📅 2020-12-01 - This is a docker environment ready set up for multiple WooCommerce Plugin vulnerabilities.
-* [nVentiveUX/docker-ttrss](https://github.com/nVentiveUX/docker-ttrss) ⭐ 27 | 🐛 0 | 🌐 Dockerfile | 📅 2026-11-14 - A multiarch docker image for Tiny Tiny RSS feed reader
+* [nVentiveUX/docker-ttrss](https://github.com/nVentiveUX/docker-ttrss) ⭐ 27 | 🐛 0 | 🌐 Dockerfile | 📅 2026-11-21 - A multiarch docker image for Tiny Tiny RSS feed reader
 * [phith0n/phpsrc-debug-docker](https://github.com/phith0n/phpsrc-debug-docker) ⭐ 26 | 🐛 0 | 🌐 Dockerfile | 📅 2021-04-05 - Debug environment for PHP inside a Docker container. Document waiting to be completed.
 * [knqyf263/CVE-2019-6467](https://github.com/knqyf263/CVE-2019-6467) ⭐ 26 | 🐛 0 | 🌐 Dockerfile | 📅 2019-04-25 - CVE-2019-6467 (BIND nxdomain-redirect)
 * [puzzlepeaches/sneaky\_proxy](https://github.com/puzzlepeaches/sneaky_proxy) ⭐ 24 | 🐛 3 | 🌐 Dockerfile | 📅 2021-10-18 - Hiding your infrastructure from the boys in blue.
@@ -1780,7 +1780,7 @@
 
 ## Fluent
 
-* [janeczku/calibre-web](https://github.com/janeczku/calibre-web) ⭐ 18,586 | 🐛 436 | 🌐 Fluent | 📅 2026-11-15 - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+* [janeczku/calibre-web](https://github.com/janeczku/calibre-web) ⭐ 18,587 | 🐛 437 | 🌐 Fluent | 📅 2026-11-22 - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## FreeMarker
 
@@ -1788,173 +1788,173 @@
 
 ## Go
 
-* [avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,164 | 🐛 114 | 🌐 Go | 📅 2026-11-21 - A curated list of awesome Go frameworks, libraries and software
-* [fatedier/frp](https://github.com/fatedier/frp) ⭐ 110,696 | 🐛 47 | 🌐 Go | 📅 2026-11-10 - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-* [gohugoio/hugo](https://github.com/gohugoio/hugo) ⭐ 90,531 | 🐛 228 | 🌐 Go | 📅 2026-11-19 - The world’s fastest framework for building websites.
-* [gin-gonic/gin](https://github.com/gin-gonic/gin) ⭐ 89,561 | 🐛 837 | 🌐 Go | 📅 2026-10-10 - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-* [junegunn/fzf](https://github.com/junegunn/fzf) ⭐ 84,327 | 🐛 336 | 🌐 Go | 📅 2026-11-19 - :cherry\_blossom: A command-line fuzzy finder
-* [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ⭐ 83,995 | 🐛 1,080 | 🌐 Go | 📅 2026-11-18 - simple terminal UI for git commands
-* [caddyserver/caddy](https://github.com/caddyserver/caddy) ⭐ 79,358 | 🐛 291 | 🌐 Go | 📅 2026-11-19 - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-* [moby/moby](https://github.com/moby/moby) ⭐ 72,305 | 🐛 3,956 | 🌐 Go | 📅 2026-11-20 - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-* [rclone/rclone](https://github.com/rclone/rclone) ⭐ 61,151 | 🐛 1,343 | 🌐 Go | 📅 2026-11-21 - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-* [go-gitea/gitea](https://github.com/go-gitea/gitea) ⭐ 59,198 | 🐛 2,186 | 🌐 Go | 📅 2026-11-21 - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-* [wagoodman/dive](https://github.com/wagoodman/dive) ⭐ 54,752 | 🐛 156 | 🌐 Go | 📅 2026-11-19 - A tool for exploring each layer in a docker image
-* [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 53,401 | 🐛 311 | 🌐 Go | 📅 2026-11-15 - The lazier way to manage everything docker
-* [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,479 | 🐛 511 | 🌐 Go | 📅 2026-11-20 - Go implementation of the Ethereum protocol
-* [mudler/LocalAI](https://github.com/mudler/LocalAI) ⭐ 50,487 | 🐛 212 | 🌐 Go | 📅 2026-11-21 - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
-* [AlistGo/alist](https://github.com/AlistGo/alist) ⭐ 50,475 | 🐛 563 | 🌐 Go | 📅 2026-10-21 - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
-* [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 48,244 | 🐛 5 | 🌐 Inno Setup | 📅 2026-11-17 - A node.js version management utility for Windows. Ironically written in Go.
-* [gogs/gogs](https://github.com/gogs/gogs) ⭐ 47,965 | 🐛 799 | 🌐 Go | 📅 2026-11-21 - Gogs is a painless self-hosted Git service
-* [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) ⭐ 43,849 | 🐛 139 | 🌐 Go | 📅 2024-05-12 - A golang ebook intro how to build a web with golang
-* [schollz/croc](https://github.com/schollz/croc) ⭐ 40,991 | 🐛 1 | 🌐 Go | 📅 2026-11-21 - Easily and securely send things from one computer to another :crocodile: :package:
-* [gofiber/fiber](https://github.com/gofiber/fiber) ⭐ 40,304 | 🐛 20 | 🌐 Go | 📅 2026-11-21 - ⚡️ Express inspired web framework written in Go
-* [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ⭐ 39,592 | 🐛 325 | 🌐 Go | 📅 2026-11-20 - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-* [tailscale/tailscale](https://github.com/tailscale/tailscale) ⭐ 39,427 | 🐛 4,740 | 🌐 Go | 📅 2026-11-21 - The easiest, most secure way to use WireGuard and 2FA.
-* [glanceapp/glance](https://github.com/glanceapp/glance) ⭐ 38,333 | 🐛 325 | 🌐 Go | 📅 2026-11-07 - A self-hosted dashboard that puts all your feeds in one place
-* [hashicorp/vault](https://github.com/hashicorp/vault) ⭐ 36,554 | 🐛 1,502 | 🌐 Go | 📅 2026-11-20 - A tool for secrets management, encryption as a service, and privileged access management
+* [avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐ 195,358 | 🐛 111 | 🌐 Go | 📅 2026-11-22 - A curated list of awesome Go frameworks, libraries and software
+* [fatedier/frp](https://github.com/fatedier/frp) ⭐ 110,711 | 🐛 45 | 🌐 Go | 📅 2026-11-10 - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+* [gohugoio/hugo](https://github.com/gohugoio/hugo) ⭐ 90,540 | 🐛 231 | 🌐 Go | 📅 2026-11-19 - The world’s fastest framework for building websites.
+* [gin-gonic/gin](https://github.com/gin-gonic/gin) ⭐ 89,566 | 🐛 836 | 🌐 Go | 📅 2026-10-10 - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+* [junegunn/fzf](https://github.com/junegunn/fzf) ⭐ 84,335 | 🐛 334 | 🌐 Go | 📅 2026-11-22 - :cherry\_blossom: A command-line fuzzy finder
+* [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ⭐ 84,006 | 🐛 1,083 | 🌐 Go | 📅 2026-11-22 - simple terminal UI for git commands
+* [caddyserver/caddy](https://github.com/caddyserver/caddy) ⭐ 79,398 | 🐛 293 | 🌐 Go | 📅 2026-11-19 - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+* [moby/moby](https://github.com/moby/moby) ⭐ 72,304 | 🐛 3,956 | 🌐 Go | 📅 2026-11-20 - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+* [rclone/rclone](https://github.com/rclone/rclone) ⭐ 61,178 | 🐛 1,363 | 🌐 Go | 📅 2026-11-21 - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+* [go-gitea/gitea](https://github.com/go-gitea/gitea) ⭐ 59,211 | 🐛 2,180 | 🌐 Go | 📅 2026-11-22 - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
+* [wagoodman/dive](https://github.com/wagoodman/dive) ⭐ 54,756 | 🐛 156 | 🌐 Go | 📅 2026-11-19 - A tool for exploring each layer in a docker image
+* [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) ⭐ 53,402 | 🐛 311 | 🌐 Go | 📅 2026-11-15 - The lazier way to manage everything docker
+* [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,481 | 🐛 517 | 🌐 Go | 📅 2026-11-20 - Go implementation of the Ethereum protocol
+* [mudler/LocalAI](https://github.com/mudler/LocalAI) ⭐ 50,497 | 🐛 208 | 🌐 Go | 📅 2026-11-22 - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+* [AlistGo/alist](https://github.com/AlistGo/alist) ⭐ 50,478 | 🐛 564 | 🌐 Go | 📅 2026-10-21 - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
+* [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) ⭐ 48,247 | 🐛 3 | 🌐 Inno Setup | 📅 2026-11-21 - A node.js version management utility for Windows. Ironically written in Go.
+* [gogs/gogs](https://github.com/gogs/gogs) ⭐ 47,984 | 🐛 796 | 🌐 Go | 📅 2026-11-22 - Gogs is a painless self-hosted Git service
+* [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) ⭐ 43,847 | 🐛 139 | 🌐 Go | 📅 2024-05-12 - A golang ebook intro how to build a web with golang
+* [schollz/croc](https://github.com/schollz/croc) ⭐ 40,992 | 🐛 1 | 🌐 Go | 📅 2026-11-21 - Easily and securely send things from one computer to another :crocodile: :package:
+* [gofiber/fiber](https://github.com/gofiber/fiber) ⭐ 40,316 | 🐛 22 | 🌐 Go | 📅 2026-11-22 - ⚡️ Express inspired web framework written in Go
+* [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ⭐ 39,613 | 🐛 329 | 🌐 Go | 📅 2026-11-20 - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+* [tailscale/tailscale](https://github.com/tailscale/tailscale) ⭐ 39,461 | 🐛 4,762 | 🌐 Go | 📅 2026-11-22 - The easiest, most secure way to use WireGuard and 2FA.
+* [glanceapp/glance](https://github.com/glanceapp/glance) ⭐ 38,346 | 🐛 325 | 🌐 Go | 📅 2026-11-07 - A self-hosted dashboard that puts all your feeds in one place
+* [hashicorp/vault](https://github.com/hashicorp/vault) ⭐ 36,556 | 🐛 1,502 | 🌐 Go | 📅 2026-11-20 - A tool for secrets management, encryption as a service, and privileged access management
 * [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) ⚠️ Archived - 📂 Web File Browser
-* [derailed/k9s](https://github.com/derailed/k9s) ⭐ 35,016 | 🐛 106 | 🌐 Go | 📅 2026-11-20 - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
+* [derailed/k9s](https://github.com/derailed/k9s) ⭐ 35,025 | 🐛 106 | 🌐 Go | 📅 2026-11-20 - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 * [unknwon/the-way-to-go\_ZH\_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) ⭐ 34,989 | 🐛 46 | 🌐 Go | 📅 2024-08-14 - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
-* [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) ⭐ 34,729 | 🐛 77 | 🌐 Go | 📅 2026-11-13 - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-* [ehang-io/nps](https://github.com/ehang-io/nps) ⭐ 34,255 | 🐛 525 | 🌐 Go | 📅 2024-05-30 - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
-* [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) ⭐ 33,804 | 🐛 4 | 🌐 Go | 📅 2026-10-12 - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
-* [containers/podman](https://github.com/containers/podman) ⭐ 33,349 | 🐛 1,017 | 🌐 Go | 📅 2026-11-21 - Podman: A tool for managing OCI containers and pods.
-* [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 33,170 | 🐛 185 | 🌐 Go | 📅 2026-11-21 - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
-* [beego/beego](https://github.com/beego/beego) ⭐ 32,434 | 🐛 28 | 🌐 Go | 📅 2026-11-13 - beego is an open-source, high-performance web framework for the Go programming language.
-* [kubernetes/minikube](https://github.com/kubernetes/minikube) ⭐ 32,262 | 🐛 659 | 🌐 Go | 📅 2026-11-20 - Run Kubernetes locally
-* [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 31,239 | 🐛 548 | 🌐 Go | 📅 2026-10-28 - Find secrets with Gitleaks 🔑
-* [spf13/viper](https://github.com/spf13/viper) ⭐ 30,536 | 🐛 149 | 🌐 Go | 📅 2026-01-12 - Go configuration with fangs
-* [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) ⭐ 29,561 | 🐛 621 | 🌐 Go | 📅 2026-11-20 - Find, verify, and analyze leaked credentials
-* [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) ⭐ 28,999 | 🐛 156 | 🌐 Go | 📅 2026-10-20 - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
-* [charmbracelet/glow](https://github.com/charmbracelet/glow) ⭐ 28,121 | 🐛 270 | 🌐 Go | 📅 2026-11-04 - Render markdown on the CLI, with pizzazz! 💅🏻
-* [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) ⭐ 26,382 | 🐛 0 | 🌐 Go | 📅 2026-11-11 - Learn and understand Docker\&Container technologies, with real DevOps practice!
+* [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) ⭐ 34,797 | 🐛 78 | 🌐 Go | 📅 2026-11-13 - ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+* [ehang-io/nps](https://github.com/ehang-io/nps) ⭐ 34,256 | 🐛 525 | 🌐 Go | 📅 2024-05-30 - 一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server,
+* [halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go) ⭐ 33,803 | 🐛 4 | 🌐 Go | 📅 2026-10-12 - ✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解
+* [containers/podman](https://github.com/containers/podman) ⭐ 33,357 | 🐛 1,023 | 🌐 Go | 📅 2026-11-21 - Podman: A tool for managing OCI containers and pods.
+* [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) ⭐ 33,196 | 🐛 117 | 🌐 Go | 📅 2026-11-22 - Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the int
+* [beego/beego](https://github.com/beego/beego) ⭐ 32,433 | 🐛 28 | 🌐 Go | 📅 2026-11-13 - beego is an open-source, high-performance web framework for the Go programming language.
+* [kubernetes/minikube](https://github.com/kubernetes/minikube) ⭐ 32,261 | 🐛 655 | 🌐 Go | 📅 2026-11-22 - Run Kubernetes locally
+* [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ⭐ 31,253 | 🐛 551 | 🌐 Go | 📅 2026-10-28 - Find secrets with Gitleaks 🔑
+* [spf13/viper](https://github.com/spf13/viper) ⭐ 30,540 | 🐛 148 | 🌐 Go | 📅 2026-01-12 - Go configuration with fangs
+* [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) ⭐ 29,577 | 🐛 623 | 🌐 Go | 📅 2026-11-20 - Find, verify, and analyze leaked credentials
+* [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) ⭐ 29,000 | 🐛 157 | 🌐 Go | 📅 2026-10-20 - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
+* [charmbracelet/glow](https://github.com/charmbracelet/glow) ⭐ 28,135 | 🐛 270 | 🌐 Go | 📅 2026-11-04 - Render markdown on the CLI, with pizzazz! 💅🏻
+* [yeasy/docker\_practice](https://github.com/yeasy/docker_practice) ⭐ 26,384 | 🐛 0 | 🌐 Go | 📅 2026-11-11 - Learn and understand Docker\&Container technologies, with real DevOps practice!
 * [microsoft/typescript-go](https://github.com/microsoft/typescript-go) ⚠️ Archived - Staging repo for development of native port of TypeScript
-* [cilium/cilium](https://github.com/cilium/cilium) ⭐ 25,879 | 🐛 1,059 | 🌐 Go | 📅 2026-11-21 - eBPF-based Networking, Security, and Observability
+* [cilium/cilium](https://github.com/cilium/cilium) ⭐ 25,881 | 🐛 1,070 | 🌐 Go | 📅 2026-11-22 - eBPF-based Networking, Security, and Observability
 * [kataras/iris](https://github.com/kataras/iris) ⭐ 25,555 | 🐛 131 | 🌐 Go | 📅 2026-11-13 - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
-* [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) ⭐ 25,158 | 🐛 35 | 🌐 Go | 📅 2026-11-20 - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
-* [FiloSottile/age](https://github.com/FiloSottile/age) ⭐ 24,403 | 🐛 28 | 🌐 Go | 📅 2026-08-29 - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+* [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) ⭐ 25,162 | 🐛 35 | 🌐 Go | 📅 2026-11-20 - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
+* [FiloSottile/age](https://github.com/FiloSottile/age) ⭐ 24,424 | 🐛 28 | 🌐 Go | 📅 2026-08-29 - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 * [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) ⚠️ Archived - Unified ingress for developers
-* [slimtoolkit/slim](https://github.com/slimtoolkit/slim) ⭐ 23,546 | 🐛 213 | 🌐 Go | 📅 2026-09-19 - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-* [valyala/fasthttp](https://github.com/valyala/fasthttp) ⭐ 23,522 | 🐛 71 | 🌐 Go | 📅 2026-11-21 - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+* [slimtoolkit/slim](https://github.com/slimtoolkit/slim) ⭐ 23,547 | 🐛 213 | 🌐 Go | 📅 2026-09-19 - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+* [valyala/fasthttp](https://github.com/valyala/fasthttp) ⭐ 23,524 | 🐛 63 | 🌐 Go | 📅 2026-11-22 - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
 * [rakyll/hey](https://github.com/rakyll/hey) ⭐ 20,803 | 🐛 193 | 🌐 Go | 📅 2026-01-10 - HTTP load generator, ApacheBench (ab) replacement
-* [antonmedv/fx](https://github.com/antonmedv/fx) ⭐ 20,722 | 🐛 10 | 🌐 Go | 📅 2026-11-20 - Terminal JSON viewer & processor
-* [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) ⭐ 19,965 | 🐛 5 | 🌐 Go | 📅 2026-11-21 - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
-* [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) ⭐ 18,647 | 🐛 173 | 🌐 Go | 📅 2026-08-25 - Information gathering framework for phone numbers
+* [antonmedv/fx](https://github.com/antonmedv/fx) ⭐ 20,723 | 🐛 11 | 🌐 Go | 📅 2026-11-20 - Terminal JSON viewer & processor
+* [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) ⭐ 19,967 | 🐛 5 | 🌐 Go | 📅 2026-11-21 - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
+* [sundowndev/phoneinfoga](https://github.com/sundowndev/phoneinfoga) ⭐ 18,651 | 🐛 173 | 🌐 Go | 📅 2026-08-25 - Information gathering framework for phone numbers
 * [ginuerzh/gost](https://github.com/ginuerzh/gost) ⭐ 18,279 | 🐛 291 | 🌐 Go | 📅 2026-08-30 - GO Simple Tunnel - a simple tunnel written in golang
-* [matryer/xbar](https://github.com/matryer/xbar) ⭐ 18,083 | 🐛 188 | 🌐 Go | 📅 2024-09-10 - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
-* [rqlite/rqlite](https://github.com/rqlite/rqlite) ⭐ 17,963 | 🐛 69 | 🌐 Go | 📅 2026-11-19 - The lightweight, user-friendly, distributed relational database built on SQLite.
-* [jmoiron/sqlx](https://github.com/jmoiron/sqlx) ⭐ 17,747 | 🐛 399 | 🌐 Go | 📅 2024-08-15 - general purpose extensions to golang's database/sql
-* [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) ⭐ 17,587 | 🐛 11 | 🌐 Go | 📅 2026-11-21 - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
+* [matryer/xbar](https://github.com/matryer/xbar) ⭐ 18,084 | 🐛 188 | 🌐 Go | 📅 2024-09-10 - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
+* [rqlite/rqlite](https://github.com/rqlite/rqlite) ⭐ 17,964 | 🐛 71 | 🌐 Go | 📅 2026-11-21 - The lightweight, user-friendly, distributed relational database built on SQLite.
+* [jmoiron/sqlx](https://github.com/jmoiron/sqlx) ⭐ 17,747 | 🐛 398 | 🌐 Go | 📅 2024-08-15 - general purpose extensions to golang's database/sql
+* [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) ⭐ 17,591 | 🐛 11 | 🌐 Go | 📅 2026-11-21 - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 * [ipfs/kubo](https://github.com/ipfs/kubo) ⭐ 17,194 | 🐛 892 | 🌐 Go | 📅 2026-11-20 - An IPFS implementation in Go
 * [snail007/goproxy](https://github.com/snail007/goproxy) ⭐ 17,158 | 🐛 143 | 🌐 Go | 📅 2026-08-17 - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port
-* [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ⭐ 17,108 | 🐛 1,386 | 🌐 Go | 📅 2026-11-21 - Workflow Engine for Kubernetes
-* [ffuf/ffuf](https://github.com/ffuf/ffuf) ⭐ 17,092 | 🐛 248 | 🌐 Go | 📅 2026-09-26 - Fast web fuzzer written in Go
-* [jpillora/chisel](https://github.com/jpillora/chisel) ⭐ 16,802 | 🐛 250 | 🌐 Go | 📅 2026-10-11 - A fast TCP/UDP tunnel over HTTP
-* [mailhog/MailHog](https://github.com/mailhog/MailHog) ⭐ 16,209 | 🐛 255 | 🌐 Go | 📅 2024-02-13 - Web and API based SMTP testing
-* [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ⭐ 16,153 | 🐛 26 | 🌐 Go | 📅 2026-11-21 - Release engineering, simplified
-* [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) ⭐ 15,959 | 🐛 267 | 🌐 Go | 📅 2026-06-10 - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
-* [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) ⭐ 15,735 | 🐛 313 | 🌐 Go | 📅 2026-11-20 - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
-* [tidwall/gjson](https://github.com/tidwall/gjson) ⭐ 15,580 | 🐛 12 | 🌐 Go | 📅 2026-11-20 - Get JSON values quickly - JSON parser for Go
-* [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) ⭐ 15,458 | 🐛 28 | 🌐 Go | 📅 2026-05-30 - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有\~
-* [txthinking/brook](https://github.com/txthinking/brook) ⭐ 15,200 | 🐛 24 | 🌐 Go | 📅 2026-11-18 - A cross-platform programmable network tool
-* [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,842 | 🐛 7 | 🌐 Go | 📅 2026-11-21 - Fast passive subdomain enumeration tool.
-* [sqshq/sampler](https://github.com/sqshq/sampler) ⭐ 14,821 | 🐛 69 | 🌐 Go | 📅 2024-02-22 - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-* [shadow1ng/fscan](https://github.com/shadow1ng/fscan) ⭐ 14,810 | 🐛 17 | 🌐 Go | 📅 2026-11-17 - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
-* [juicedata/juicefs](https://github.com/juicedata/juicefs) ⭐ 14,767 | 🐛 265 | 🌐 Go | 📅 2026-11-20 - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-* [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) ⭐ 14,732 | 🐛 15 | 🌐 Go | 📅 2026-11-21 - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-* [tomnomnom/gron](https://github.com/tomnomnom/gron) ⭐ 14,543 | 🐛 58 | 🌐 Go | 📅 2025-05-31 - Make JSON greppable!
-* [gophish/gophish](https://github.com/gophish/gophish) ⭐ 14,432 | 🐛 760 | 🌐 Go | 📅 2024-09-23 - Open-Source Phishing Toolkit
-* [OJ/gobuster](https://github.com/OJ/gobuster) ⭐ 14,341 | 🐛 27 | 🌐 Go | 📅 2026-11-18 - Directory/File, DNS and VHost busting tool written in Go
-* [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,869 | 🐛 4 | 🌐 Go | 📅 2026-11-20 - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+* [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ⭐ 17,109 | 🐛 1,386 | 🌐 Go | 📅 2026-11-21 - Workflow Engine for Kubernetes
+* [ffuf/ffuf](https://github.com/ffuf/ffuf) ⭐ 17,101 | 🐛 248 | 🌐 Go | 📅 2026-09-26 - Fast web fuzzer written in Go
+* [jpillora/chisel](https://github.com/jpillora/chisel) ⭐ 16,804 | 🐛 250 | 🌐 Go | 📅 2026-10-11 - A fast TCP/UDP tunnel over HTTP
+* [mailhog/MailHog](https://github.com/mailhog/MailHog) ⭐ 16,210 | 🐛 255 | 🌐 Go | 📅 2024-02-13 - Web and API based SMTP testing
+* [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ⭐ 16,152 | 🐛 26 | 🌐 Go | 📅 2026-11-21 - Release engineering, simplified
+* [kgretzky/evilginx2](https://github.com/kgretzky/evilginx2) ⭐ 15,961 | 🐛 267 | 🌐 Go | 📅 2026-06-10 - Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication
+* [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) ⭐ 15,753 | 🐛 314 | 🌐 Go | 📅 2026-11-20 - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
+* [tidwall/gjson](https://github.com/tidwall/gjson) ⭐ 15,581 | 🐛 12 | 🌐 Go | 📅 2026-11-21 - Get JSON values quickly - JSON parser for Go
+* [greyireland/algorithm-pattern](https://github.com/greyireland/algorithm-pattern) ⭐ 15,459 | 🐛 28 | 🌐 Go | 📅 2026-05-30 - 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有\~
+* [txthinking/brook](https://github.com/txthinking/brook) ⭐ 15,199 | 🐛 24 | 🌐 Go | 📅 2026-11-18 - A cross-platform programmable network tool
+* [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder) ⭐ 14,846 | 🐛 4 | 🌐 Go | 📅 2026-11-22 - Fast passive subdomain enumeration tool.
+* [sqshq/sampler](https://github.com/sqshq/sampler) ⭐ 14,822 | 🐛 69 | 🌐 Go | 📅 2024-02-22 - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+* [shadow1ng/fscan](https://github.com/shadow1ng/fscan) ⭐ 14,814 | 🐛 17 | 🌐 Go | 📅 2026-11-17 - 一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。
+* [juicedata/juicefs](https://github.com/juicedata/juicefs) ⭐ 14,768 | 🐛 265 | 🌐 Go | 📅 2026-11-20 - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+* [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) ⭐ 14,734 | 🐛 16 | 🌐 Go | 📅 2026-11-22 - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+* [tomnomnom/gron](https://github.com/tomnomnom/gron) ⭐ 14,542 | 🐛 58 | 🌐 Go | 📅 2025-05-31 - Make JSON greppable!
+* [gophish/gophish](https://github.com/gophish/gophish) ⭐ 14,434 | 🐛 760 | 🌐 Go | 📅 2024-09-23 - Open-Source Phishing Toolkit
+* [OJ/gobuster](https://github.com/OJ/gobuster) ⭐ 14,344 | 🐛 27 | 🌐 Go | 📅 2026-11-18 - Directory/File, DNS and VHost busting tool written in Go
+* [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,874 | 🐛 4 | 🌐 Go | 📅 2026-11-22 - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 * [github/gh-ost](https://github.com/github/gh-ost) ⭐ 13,655 | 🐛 351 | 🌐 Go | 📅 2026-11-13 - GitHub's Online Schema-migration Tool for MySQL
-* [ccfos/nightingale](https://github.com/ccfos/nightingale) ⭐ 13,510 | 🐛 243 | 🌐 Go | 📅 2026-11-19 - Nightingale for monitoring and alerting, just as Grafana for visualization.
-* [anchore/grype](https://github.com/anchore/grype) ⭐ 13,312 | 🐛 461 | 🌐 Go | 📅 2026-11-20 - A vulnerability scanner for container images and filesystems
-* [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) ⭐ 12,887 | 🐛 121 | 🌐 Go | 📅 2026-11-19 - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-* [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) ⭐ 12,842 | 🐛 26 | 🌐 Go | 📅 2026-10-27 - 基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：<https://www.go-admin.pro>   V2 Demo： <https://vue2.go-admin.d>
+* [ccfos/nightingale](https://github.com/ccfos/nightingale) ⭐ 13,512 | 🐛 245 | 🌐 Go | 📅 2026-11-19 - Nightingale for monitoring and alerting, just as Grafana for visualization.
+* [anchore/grype](https://github.com/anchore/grype) ⭐ 13,322 | 🐛 462 | 🌐 Go | 📅 2026-11-20 - A vulnerability scanner for container images and filesystems
+* [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) ⭐ 12,890 | 🐛 121 | 🌐 Go | 📅 2026-11-19 - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+* [go-admin-team/go-admin](https://github.com/go-admin-team/go-admin) ⭐ 12,844 | 🐛 26 | 🌐 Go | 📅 2026-10-27 - 基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：<https://www.go-admin.pro>   V2 Demo： <https://vue2.go-admin.d>
 * [dstotijn/hetty](https://github.com/dstotijn/hetty) ⭐ 12,553 | 🐛 54 | 🌐 Go | 📅 2026-07-21 - An HTTP toolkit for security research.
 * [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) ⭐ 12,543 | 🐛 95 | 🌐 Go | 📅 2026-11-17 - :alarm\_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
-* [BishopFox/sliver](https://github.com/BishopFox/sliver) ⭐ 12,391 | 🐛 235 | 🌐 Go | 📅 2026-11-21 - Adversary Emulation Framework
-* [future-architect/vuls](https://github.com/future-architect/vuls) ⭐ 12,361 | 🐛 97 | 🌐 Go | 📅 2026-11-21 - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+* [BishopFox/sliver](https://github.com/BishopFox/sliver) ⭐ 12,393 | 🐛 236 | 🌐 Go | 📅 2026-11-21 - Adversary Emulation Framework
+* [future-architect/vuls](https://github.com/future-architect/vuls) ⭐ 12,363 | 🐛 98 | 🌐 Go | 📅 2026-11-21 - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 * [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) ⭐ 12,300 | 🐛 166 | 🌐 Go | 📅 2026-02-10 - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
-* [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ⭐ 12,210 | 🐛 201 | 🌐 Go | 📅 2026-11-20 - Customization of kubernetes YAML configurations
+* [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ⭐ 12,210 | 🐛 205 | 🌐 Go | 📅 2026-11-22 - Customization of kubernetes YAML configurations
 * [panjf2000/gnet](https://github.com/panjf2000/gnet) ⭐ 11,273 | 🐛 6 | 🌐 Go | 📅 2026-07-09 - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
-* [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) ⭐ 11,207 | 🐛 37 | 🌐 Go | 📅 2026-11-21 - Fast and secure standalone server for resizing and converting remote images
-* [quay/clair](https://github.com/quay/clair) ⭐ 11,098 | 🐛 60 | 🌐 Go | 📅 2026-11-20 - Vulnerability Static Analysis for Containers
+* [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) ⭐ 11,208 | 🐛 37 | 🌐 Go | 📅 2026-11-21 - Fast and secure standalone server for resizing and converting remote images
+* [quay/clair](https://github.com/quay/clair) ⭐ 11,099 | 🐛 60 | 🌐 Go | 📅 2026-11-20 - Vulnerability Static Analysis for Containers
 * [go-vgo/robotgo](https://github.com/go-vgo/robotgo) ⭐ 10,911 | 🐛 4 | 🌐 Go | 📅 2026-11-20 - RobotGo, Go Native cross-platform RPA and GUI automation  @vcaesar
-* [asciimoo/wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,745 | 🐛 42 | 🌐 Go | 📅 2026-08-04 - Interactive cli tool for HTTP inspection
-* [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,640 | 🐛 10 | 🌐 Go | 📅 2026-11-21 - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-* [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,531 | 🐛 8 | 🌐 Go | 📅 2026-11-17 - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-* [nezhahq/nezha](https://github.com/nezhahq/nezha) ⭐ 10,422 | 🐛 59 | 🌐 Go | 📅 2026-11-21 - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
+* [asciimoo/wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,746 | 🐛 42 | 🌐 Go | 📅 2026-08-04 - Interactive cli tool for HTTP inspection
+* [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,641 | 🐛 4 | 🌐 Go | 📅 2026-11-21 - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+* [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,533 | 🐛 10 | 🌐 Go | 📅 2026-11-22 - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+* [nezhahq/nezha](https://github.com/nezhahq/nezha) ⭐ 10,425 | 🐛 59 | 🌐 Go | 📅 2026-11-21 - :trollface: Self-hosted, lightweight server and website monitoring and O\&M tool
 * [sourcegraph/sourcegraph-public-snapshot](https://github.com/sourcegraph/sourcegraph-public-snapshot) ⚠️ Archived - Code AI platform with Code Search & Cody
 * [gwuhaolin/livego](https://github.com/gwuhaolin/livego) ⭐ 10,180 | 🐛 141 | 🌐 Go | 📅 2025-12-05 - live video streaming server in golang
-* [xo/usql](https://github.com/xo/usql) ⭐ 10,175 | 🐛 0 | 🌐 Go | 📅 2026-11-19 - Universal command-line interface for SQL databases
+* [xo/usql](https://github.com/xo/usql) ⭐ 10,177 | 🐛 0 | 🌐 Go | 📅 2026-11-19 - Universal command-line interface for SQL databases
 * [gcla/termshark](https://github.com/gcla/termshark) ⭐ 10,072 | 🐛 52 | 🌐 Go | 📅 2024-04-30 - A terminal UI for tshark, inspired by Wireshark
-* [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) ⭐ 9,973 | 🐛 90 | 🌐 Go | 📅 2026-11-20 - Building event-driven applications the easy way in Go.
-* [miniflux/v2](https://github.com/miniflux/v2) ⭐ 9,957 | 🐛 293 | 🌐 Go | 📅 2026-11-19 - Minimalist and opinionated feed reader
+* [ThreeDotsLabs/watermill](https://github.com/ThreeDotsLabs/watermill) ⭐ 9,974 | 🐛 90 | 🌐 Go | 📅 2026-11-20 - Building event-driven applications the easy way in Go.
+* [miniflux/v2](https://github.com/miniflux/v2) ⭐ 9,960 | 🐛 296 | 🌐 Go | 📅 2026-11-22 - Minimalist and opinionated feed reader
 * [gorse-io/gorse](https://github.com/gorse-io/gorse) ⭐ 9,927 | 🐛 123 | 🌐 Go | 📅 2026-11-20 - Gorse open source recommender system engine
-* [securego/gosec](https://github.com/securego/gosec) ⭐ 9,012 | 🐛 12 | 🌐 Go | 📅 2026-11-20 - Go security checker
-* [cookieY/Yearning](https://github.com/cookieY/Yearning) ⭐ 8,980 | 🐛 2 | 🌐 Go | 📅 2026-11-20 - 🐳 A most popular sql audit platform for mysql
+* [securego/gosec](https://github.com/securego/gosec) ⭐ 9,013 | 🐛 15 | 🌐 Go | 📅 2026-11-22 - Go security checker
+* [cookieY/Yearning](https://github.com/cookieY/Yearning) ⭐ 8,981 | 🐛 2 | 🌐 Go | 📅 2026-11-22 - 🐳 A most popular sql audit platform for mysql
 * [prasmussen/gdrive](https://github.com/prasmussen/gdrive) ⚠️ Archived - Google Drive CLI Client
 * [XiaoMi/soar](https://github.com/XiaoMi/soar) ⭐ 8,746 | 🐛 76 | 🌐 Go | 📅 2023-12-15 - SQL Optimizer And Rewriter
-* [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ⭐ 8,675 | 🐛 377 | 🌐 Go | 📅 2026-11-19 - A toolkit for building secure, portable and lean operating systems for containers
+* [linuxkit/linuxkit](https://github.com/linuxkit/linuxkit) ⭐ 8,675 | 🐛 378 | 🌐 Go | 📅 2026-11-19 - A toolkit for building secure, portable and lean operating systems for containers
 * [getanteon/anteon](https://github.com/getanteon/anteon) ⭐ 8,512 | 🐛 26 | 🌐 Go | 📅 2026-11-16 - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
 * [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) ⚠️ Archived - The Havoc Framework
-* [gdy666/lucky](https://github.com/gdy666/lucky) ⭐ 8,394 | 🐛 7 | 🌐 Go | 📅 2026-10-29 - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
+* [gdy666/lucky](https://github.com/gdy666/lucky) ⭐ 8,396 | 🐛 7 | 🌐 Go | 📅 2026-10-29 - 软硬路由公网神器,ipv6/ipv4 端口转发,反向代理,DDNS,WOL,ipv4 stun内网穿透,cron,acme,阿里云盘,ftp,webdav,filebrowser
 * [p4gefau1t/trojan-go](https://github.com/p4gefau1t/trojan-go) ⭐ 8,386 | 🐛 153 | 🌐 Go | 📅 2024-07-14 - Go实现的Trojan代理，支持多路复用/路由功能/CDN中转/Shadowsocks混淆插件，多平台，无依赖。A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. <https://p4gefau1t.github.io/trojan-go/>
-* [YaoApp/yao](https://github.com/YaoApp/yao) ⭐ 8,330 | 🐛 16 | 🌐 Go | 📅 2026-11-18 - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
+* [YaoApp/yao](https://github.com/YaoApp/yao) ⭐ 8,336 | 🐛 16 | 🌐 Go | 📅 2026-11-18 - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner.
 * [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,264 | 🐛 114 | 🌐 Go | 📅 2026-11-16 - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-* [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) ⭐ 8,145 | 🐛 6 | 🌐 Go | 📅 2024-05-20 - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
-* [aceld/zinx](https://github.com/aceld/zinx) ⭐ 7,767 | 🐛 95 | 🌐 Go | 📅 2026-10-22 - A lightweight concurrent server framework based on Golang.
-* [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) ⭐ 7,604 | 🐛 37 | 🌐 Python | 📅 2026-11-20 - AI infrastructure security assessment tool designed to discover and detect potential security risks in AI systems.
-* [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) ⭐ 7,600 | 🐛 17 | 🌐 Go | 📅 2026-02-03 - Bare metal to production ready in mins; your own fly server on your VPS.
+* [0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang) ⭐ 8,146 | 🐛 6 | 🌐 Go | 📅 2024-05-20 - 【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt
+* [aceld/zinx](https://github.com/aceld/zinx) ⭐ 7,768 | 🐛 95 | 🌐 Go | 📅 2026-10-22 - A lightweight concurrent server framework based on Golang.
+* [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) ⭐ 7,610 | 🐛 39 | 🌐 Python | 📅 2026-11-20 - AI infrastructure security assessment tool designed to discover and detect potential security risks in AI systems.
+* [MightyMoud/sidekick](https://github.com/MightyMoud/sidekick) ⭐ 7,599 | 🐛 17 | 🌐 Go | 📅 2026-02-03 - Bare metal to production ready in mins; your own fly server on your VPS.
 * [urfave/negroni](https://github.com/urfave/negroni) ⭐ 7,525 | 🐛 7 | 🌐 Go | 📅 2026-10-25 - Idiomatic HTTP Middleware for Golang
-* [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) ⭐ 7,464 | 🐛 30 | 🌐 Go | 📅 2026-11-19 - 小巧精悍、准确、实用 GeoIP2 数据库
-* [projectcalico/calico](https://github.com/projectcalico/calico) ⭐ 7,425 | 🐛 305 | 🌐 Go | 📅 2026-11-21 - Cloud native networking and network security
+* [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) ⭐ 7,466 | 🐛 30 | 🌐 Go | 📅 2026-11-22 - 小巧精悍、准确、实用 GeoIP2 数据库
+* [projectcalico/calico](https://github.com/projectcalico/calico) ⭐ 7,427 | 🐛 306 | 🌐 Go | 📅 2026-11-21 - Cloud native networking and network security
 * [go-rod/rod](https://github.com/go-rod/rod) ⭐ 7,161 | 🐛 217 | 🌐 Go | 📅 2026-08-11 - A Chrome DevTools Protocol driver for web automation and scraping.
 * [liamg/traitor](https://github.com/liamg/traitor) ⭐ 7,157 | 🐛 22 | 🌐 Go | 📅 2024-03-12 - :arrow\_up: :skull\_and\_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
-* [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ⭐ 7,119 | 🐛 59 | 🌐 Go | 📅 2026-11-19 - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+* [0xERR0R/blocky](https://github.com/0xERR0R/blocky) ⭐ 7,121 | 🐛 64 | 🌐 Go | 📅 2026-11-21 - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 * [yeasy/blockchain\_guide](https://github.com/yeasy/blockchain_guide) ⭐ 7,091 | 🐛 1 | 🌐 Python | 📅 2026-11-12 - Introduce blockchain related technologies, from theory to practice with bitcoin, ethereum and hyperledger.
 * [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) ⭐ 7,058 | 🐛 19 | 🌐 Go | 📅 2026-03-25 - Tfsec is now part of Trivy
 * [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) ⭐ 6,991 | 🐛 2 | 🌐 Go | 📅 2024-10-13 - 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子
-* [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) ⭐ 6,721 | 🐛 5 | 🌐 Go | 📅 2026-11-21 - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Cl
-* [btcsuite/btcd](https://github.com/btcsuite/btcd) ⭐ 6,720 | 🐛 389 | 🌐 Go | 📅 2026-11-18 - An alternative full node bitcoin implementation written in Go (golang)
+* [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) ⭐ 6,725 | 🐛 4 | 🌐 Go | 📅 2026-11-22 - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Cl
+* [btcsuite/btcd](https://github.com/btcsuite/btcd) ⭐ 6,721 | 🐛 389 | 🌐 Go | 📅 2026-11-18 - An alternative full node bitcoin implementation written in Go (golang)
 * [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus) ⭐ 6,664 | 🐛 3 | 🌐 Go | 📅 2026-11-21 - A Workflow Engine for Offensive Security
-* [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) ⭐ 6,561 | 🐛 170 | 🌐 Go | 📅 2026-11-21 - The developer first cloud governance platform
+* [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) ⭐ 6,563 | 🐛 170 | 🌐 Go | 📅 2026-11-22 - The developer first cloud governance platform
 * [shadowsocks/shadowsocks-go](https://github.com/shadowsocks/shadowsocks-go) ⚠️ Archived - go port of shadowsocks (Deprecated)
 * [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,477 | 🐛 383 | 🌐 Python | 📅 2026-11-17 - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
-* [daeuniverse/dae](https://github.com/daeuniverse/dae) ⭐ 6,471 | 🐛 137 | 🌐 Go | 📅 2026-11-21 - eBPF-based Linux high-performance transparent proxy solution.
-* [sigstore/cosign](https://github.com/sigstore/cosign) ⭐ 6,460 | 🐛 150 | 🌐 Go | 📅 2026-11-20 - Code signing and transparency for containers and binaries
+* [daeuniverse/dae](https://github.com/daeuniverse/dae) ⭐ 6,475 | 🐛 137 | 🌐 Go | 📅 2026-11-21 - eBPF-based Linux high-performance transparent proxy solution.
+* [sigstore/cosign](https://github.com/sigstore/cosign) ⭐ 6,462 | 🐛 150 | 🌐 Go | 📅 2026-11-20 - Code signing and transparency for containers and binaries
 * [flike/kingshard](https://github.com/flike/kingshard) ⭐ 6,394 | 🐛 160 | 🌐 Go | 📅 2026-06-05 - A high-performance MySQL proxy
-* [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) ⭐ 6,387 | 🐛 5 | 🌐 Go | 📅 2026-11-21 - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
-* [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) ⭐ 6,287 | 🐛 117 | 🌐 Go | 📅 2026-11-20 - transparent proxy server on demand model swapping for llama.cpp (or any local OpenAPI compatible server)
+* [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) ⭐ 6,390 | 🐛 3 | 🌐 Go | 📅 2026-11-22 - A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests
+* [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) ⭐ 6,292 | 🐛 119 | 🌐 Go | 📅 2026-11-22 - transparent proxy server on demand model swapping for llama.cpp (or any local OpenAPI compatible server)
 * [jpillora/cloud-torrent](https://github.com/jpillora/cloud-torrent) ⭐ 6,249 | 🐛 142 | 🌐 Go | 📅 2026-11-14 - ☁️ Cloud Torrent: a self-hosted remote torrent client
 * [vmware-archive/octant](https://github.com/vmware-archive/octant) ⚠️ Archived - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
 * [GhostTroops/scan4all](https://github.com/GhostTroops/scan4all) ⭐ 6,207 | 🐛 14 | 🌐 Go | 📅 2026-11-21 - Official repository  vuls Scan: 15000+PoCs; 23 kinds of application password crack; 7000+Web fingerprints; 146 protocols and 90000+ rules Port scanning; Fuzz, HW, awesome BugBounty( ͡° ͜ʖ ͡°)...
 * [michenriksen/gitrob](https://github.com/michenriksen/gitrob) ⚠️ Archived - Reconnaissance tool for GitHub organizations
-* [cockroachdb/pebble](https://github.com/cockroachdb/pebble) ⭐ 6,104 | 🐛 172 | 🌐 Go | 📅 2026-11-21 - RocksDB/LevelDB inspired key-value database in Go
-* [alpkeskin/mosint](https://github.com/alpkeskin/mosint) ⭐ 6,086 | 🐛 29 | 🌐 Go | 📅 2024-02-02 - An automated e-mail OSINT tool
-* [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) ⭐ 6,057 | 🐛 47 | 🌐 Go | 📅 2024-09-20 - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
+* [cockroachdb/pebble](https://github.com/cockroachdb/pebble) ⭐ 6,105 | 🐛 172 | 🌐 Go | 📅 2026-11-22 - RocksDB/LevelDB inspired key-value database in Go
+* [alpkeskin/mosint](https://github.com/alpkeskin/mosint) ⭐ 6,087 | 🐛 29 | 🌐 Go | 📅 2024-02-02 - An automated e-mail OSINT tool
+* [Ackites/KillWxapkg](https://github.com/Ackites/KillWxapkg) ⭐ 6,058 | 🐛 46 | 🌐 Go | 📅 2024-09-20 - 自动化反编译微信小程序，小程序安全评估工具，发现小程序安全问题，自动解密，解包，可还原工程目录，支持Hook，小程序修改
 * [xinliangnote/go-gin-api](https://github.com/xinliangnote/go-gin-api) ⭐ 5,964 | 🐛 40 | 🌐 Go | 📅 2023-12-23 - 基于 Gin 进行模块化设计的 API 框架，封装了常用功能，使用简单，致力于进行快速的业务研发。比如，支持 cors 跨域、jwt 签名验证、zap 日志收集、panic 异常捕获、trace 链路追踪、prometheus 监控指标、swagger 文档生成、viper 配置文件解析、gorm 数据库组件、gormgen 代码生成工具、graphql 查询语言、errno 统一定义错误码、gR
 * [michenriksen/aquatone](https://github.com/michenriksen/aquatone) ⚠️ Archived - A Tool for Domain Flyovers
-* [weaveworks/scope](https://github.com/weaveworks/scope) ⭐ 5,907 | 🐛 455 | 🌐 Go | 📅 2023-07-07 - Monitoring, visualisation & management for Docker & Kubernetes
-* [ossf/scorecard](https://github.com/ossf/scorecard) ⭐ 5,852 | 🐛 348 | 🌐 Go | 📅 2026-11-20 - OpenSSF Scorecard - Security health metrics for Open Source
-* [burrowers/garble](https://github.com/burrowers/garble) ⭐ 5,838 | 🐛 29 | 🌐 Go | 📅 2026-11-20 - Obfuscate Go builds
+* [weaveworks/scope](https://github.com/weaveworks/scope) ⭐ 5,906 | 🐛 455 | 🌐 Go | 📅 2023-07-07 - Monitoring, visualisation & management for Docker & Kubernetes
+* [ossf/scorecard](https://github.com/ossf/scorecard) ⭐ 5,857 | 🐛 350 | 🌐 Go | 📅 2026-11-20 - OpenSSF Scorecard - Security health metrics for Open Source
+* [burrowers/garble](https://github.com/burrowers/garble) ⭐ 5,839 | 🐛 24 | 🌐 Go | 📅 2026-11-22 - Obfuscate Go builds
 * [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) ⭐ 5,707 | 🐛 341 | 🌐 Go | 📅 2026-11-17 - A new generation cloud backup tool
-* [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) ⭐ 5,635 | 🐛 20 | 🌐 Go | 📅 2026-10-15 - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
-* [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) ⭐ 5,620 | 🐛 89 | 🌐 Go | 📅 2025-07-08 - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
-* [KingOfBugbounty/KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) ⭐ 5,602 | 🐛 3 | 🌐 Python | 📅 2026-10-21 - Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish t
+* [Ne0nd0g/merlin](https://github.com/Ne0nd0g/merlin) ⭐ 5,637 | 🐛 20 | 🌐 Go | 📅 2026-10-15 - Merlin is a cross-platform post-exploitation HTTP/2 Command & Control  server and agent written in golang.
+* [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) ⭐ 5,621 | 🐛 89 | 🌐 Go | 📅 2025-07-08 - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+* [KingOfBugbounty/KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips) ⭐ 5,603 | 🐛 3 | 🌐 Python | 📅 2026-10-21 - Our main goal is to share tips from some well-known bughunters. Using recon methodology, we are able to find subdomains, apis, and tokens that are already exploitable, so we can report them. We wish t
 * [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) ⭐ 5,586 | 🐛 13 | 🌐 Go | 📅 2026-10-29 - tun2socks - powered by gVisor TCP/IP stack
 * [lifei6671/interview-go](https://github.com/lifei6671/interview-go) ⭐ 5,575 | 🐛 44 | 🌐 Go | 📅 2025-12-02 - golang面试题集合
 * [chai2010/go-ast-book](https://github.com/chai2010/go-ast-book) ⭐ 5,505 | 🐛 8 | 🌐 Go | 📅 2024-09-26 - :books: 《Go语言定制指南》(原名：Go语法树入门/开源免费图书/Go语言进阶/掌握抽象语法树/Go语言AST)
 * [drk1wi/Modlishka](https://github.com/drk1wi/Modlishka) ⭐ 5,453 | 🐛 3 | 🌐 Go | 📅 2026-08-14 - Modlishka. Reverse Proxy.
+* [hahwul/dalfox](https://github.com/hahwul/dalfox) ⭐ 5,393 | 🐛 3 | 🌐 Rust | 📅 2026-11-22 - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
 * [openkruise/kruise](https://github.com/openkruise/kruise) ⭐ 5,393 | 🐛 116 | 🌐 Go | 📅 2026-11-19 - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
-* [hahwul/dalfox](https://github.com/hahwul/dalfox) ⭐ 5,391 | 🐛 3 | 🌐 Rust | 📅 2026-11-21 - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
-* [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) ⭐ 5,305 | 🐛 29 | 🌐 Go | 📅 2024-05-31 - Golang Secure Coding Practices guide
-* [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) ⭐ 5,239 | 🐛 46 | 🌐 Go | 📅 2026-11-16 - Block spying and tracking on Windows
+* [OWASP/Go-SCP](https://github.com/OWASP/Go-SCP) ⭐ 5,304 | 🐛 29 | 🌐 Go | 📅 2024-05-31 - Golang Secure Coding Practices guide
+* [crazy-max/WindowsSpyBlocker](https://github.com/crazy-max/WindowsSpyBlocker) ⭐ 5,240 | 🐛 46 | 🌐 Go | 📅 2026-11-16 - Block spying and tracking on Windows
 * [tenable/terrascan](https://github.com/tenable/terrascan) ⚠️ Archived - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure.
-* [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) ⭐ 5,198 | 🐛 19 | 🌐 Go | 📅 2026-09-26 - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
-* [lc/gau](https://github.com/lc/gau) ⭐ 5,178 | 🐛 30 | 🌐 Go | 📅 2026-10-12 - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
-* [hakluke/hakrawler](https://github.com/hakluke/hakrawler) ⭐ 5,171 | 🐛 8 | 🌐 Go | 📅 2026-08-05 - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
+* [nicocha30/ligolo-ng](https://github.com/nicocha30/ligolo-ng) ⭐ 5,199 | 🐛 19 | 🌐 Go | 📅 2026-09-26 - An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.
+* [lc/gau](https://github.com/lc/gau) ⭐ 5,179 | 🐛 30 | 🌐 Go | 📅 2026-10-12 - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
+* [hakluke/hakrawler](https://github.com/hakluke/hakrawler) ⭐ 5,172 | 🐛 8 | 🌐 Go | 📅 2026-08-05 - Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application
 * [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) ⭐ 5,159 | 🐛 6 | 🌐 Go | 📅 2024-06-04 - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。
 * [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) ⭐ 5,030 | 🐛 38 | 🌐 Go | 📅 2023-03-10 - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
 * [vugu/vugu](https://github.com/vugu/vugu) ⭐ 5,009 | 🐛 117 | 🌐 Go | 📅 2026-09-23 - Vugu: A modern UI library for Go+WebAssembly (experimental)
@@ -1962,19 +1962,19 @@
 * [imroc/req](https://github.com/imroc/req) ⭐ 4,873 | 🐛 39 | 🌐 Go | 📅 2026-09-11 - Simple Go HTTP client with Black Magic
 * [dvyukov/go-fuzz](https://github.com/dvyukov/go-fuzz) ⭐ 4,844 | 🐛 58 | 🌐 Go | 📅 2024-09-24 - Randomized testing for Go
 * [yinghuocho/firefly-proxy](https://github.com/yinghuocho/firefly-proxy) ⭐ 4,801 | 🐛 500 | 🌐 Go | 📅 2018-11-14 - A proxy software to help circumventing the Great Firewall.
-* [cdk-team/CDK](https://github.com/cdk-team/CDK) ⭐ 4,797 | 🐛 15 | 🌐 Go | 📅 2026-05-01 - 📦  Make security testing of K8s, Docker, and Containerd easier.
-* [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) ⭐ 4,759 | 🐛 51 | 🌐 Go | 📅 2026-11-16 - Caddy as a reverse proxy for Docker
+* [cdk-team/CDK](https://github.com/cdk-team/CDK) ⭐ 4,798 | 🐛 15 | 🌐 Go | 📅 2026-05-01 - 📦  Make security testing of K8s, Docker, and Containerd easier.
+* [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) ⭐ 4,760 | 🐛 51 | 🌐 Go | 📅 2026-11-16 - Caddy as a reverse proxy for Docker
 * [Masterminds/sprig](https://github.com/Masterminds/sprig) ⭐ 4,752 | 🐛 201 | 🌐 Go | 📅 2025-07-18 - Useful template functions for Go templates.
-* [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) ⭐ 4,740 | 🐛 0 | 🌐 Go | 📅 2026-03-11 - cursor IDE enjoy VIP
+* [kingparks/cursor-vip](https://github.com/kingparks/cursor-vip) ⭐ 4,741 | 🐛 0 | 🌐 Go | 📅 2026-03-11 - cursor IDE enjoy VIP
 * [uber-go/ratelimit](https://github.com/uber-go/ratelimit) ⭐ 4,726 | 🐛 17 | 🌐 Go | 📅 2024-05-01 - A Go blocking leaky-bucket rate limit implementation
 * [hashicorp/waypoint](https://github.com/hashicorp/waypoint) ⚠️ Archived - A tool to build, deploy, and release any application on any platform.
 * [shomali11/go-interview](https://github.com/shomali11/go-interview) ⭐ 4,680 | 🐛 0 | 🌐 Go | 📅 2023-07-10 - Collection of Technical Interview Questions solved with Go
 * [aquasecurity/tracee](https://github.com/aquasecurity/tracee) ⭐ 4,680 | 🐛 132 | 🌐 Go | 📅 2026-11-01 - Linux Runtime Security and Forensics using eBPF
-* [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) ⭐ 4,653 | 🐛 12 | 🌐 Go | 📅 2026-11-20 - An OOB interaction gathering server and client library
+* [projectdiscovery/interactsh](https://github.com/projectdiscovery/interactsh) ⭐ 4,655 | 🐛 9 | 🌐 Go | 📅 2026-11-21 - An OOB interaction gathering server and client library
 * [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) ⭐ 4,601 | 🐛 136 | 🌐 Go | 📅 2026-04-22 - Fast file synchronization and network forwarding for remote development
 * [mitchellh/gox](https://github.com/mitchellh/gox) ⚠️ Archived - A dead simple, no frills Go cross compile tool
 * [sensepost/gowitness](https://github.com/sensepost/gowitness) ⭐ 4,563 | 🐛 41 | 🌐 Go | 📅 2026-10-29 - 🔍 gowitness - a golang, web screenshot utility using Chrome Headless
-* [zan8in/afrog](https://github.com/zan8in/afrog) ⭐ 4,466 | 🐛 110 | 🌐 Go | 📅 2026-11-21 - A Security Tool for Bug Bounty, Pentest and Red Teaming.
+* [zan8in/afrog](https://github.com/zan8in/afrog) ⭐ 4,467 | 🐛 110 | 🌐 Go | 📅 2026-11-22 - A Security Tool for Bug Bounty, Pentest and Red Teaming.
 * [huichen/wukong](https://github.com/huichen/wukong) ⭐ 4,463 | 🐛 36 | 🌐 Go | 📅 2021-08-24 - 高度可定制的全文搜索引擎
 * [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) ⭐ 4,454 | 🐛 156 | 🌐 Go | 📅 2026-11-19 - RedisShake is a Redis data processing and migration tool.
 * [lwch/natpass](https://github.com/lwch/natpass) ⭐ 4,441 | 🐛 20 | 🌐 Go | 📅 2026-08-24 - 🔥居家办公，远程开发神器
@@ -1984,35 +1984,35 @@
 * [coyove/goflyway](https://github.com/coyove/goflyway) ⭐ 4,269 | 🐛 85 | 🌐 Go | 📅 2023-04-22 - An encrypted HTTP server
 * [marmotedu/iam](https://github.com/marmotedu/iam) ⭐ 4,214 | 🐛 24 | 🌐 Go | 📅 2025-03-20 - 企业级的 Go 语言实战项目：认证和授权系统（带配套课程）
 * [cbeuw/Cloak](https://github.com/cbeuw/Cloak) ⭐ 4,118 | 🐛 150 | 🌐 Go | 📅 2026-05-29 - A censorship circumvention tool to evade detection by authoritarian state adversaries
-* [zu1k/nali](https://github.com/zu1k/nali) ⭐ 4,107 | 🐛 12 | 🌐 Go | 📅 2026-11-01 - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
-* [nkanaev/yarr](https://github.com/nkanaev/yarr) ⭐ 4,103 | 🐛 4 | 🌐 Go | 📅 2026-11-15 - yet another rss reader
+* [zu1k/nali](https://github.com/zu1k/nali) ⭐ 4,108 | 🐛 12 | 🌐 Go | 📅 2026-11-01 - An offline tool for querying IP geographic information and CDN provider. 一个查询IP地理信息和CDN服务提供商的离线终端工具.
+* [nkanaev/yarr](https://github.com/nkanaev/yarr) ⭐ 4,105 | 🐛 4 | 🌐 Go | 📅 2026-11-22 - yet another rss reader
 * [rgburke/grv](https://github.com/rgburke/grv) ⭐ 4,083 | 🐛 32 | 🌐 Go | 📅 2019-05-01 - GRV is a terminal interface for viewing git repositories
-* [corazawaf/coraza](https://github.com/corazawaf/coraza) ⭐ 4,043 | 🐛 154 | 🌐 Go | 📅 2026-11-18 - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
+* [corazawaf/coraza](https://github.com/corazawaf/coraza) ⭐ 4,044 | 🐛 154 | 🌐 Go | 📅 2026-11-22 - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library
 * [zu1k/proxypool](https://github.com/zu1k/proxypool) ⭐ 4,041 | 🐛 0 | 🌐 Go | 📅 2023-04-10 - Automatically crawls proxy nodes on the public internet, de-duplicates and tests for usability and then provides a list of nodes
-* [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ⭐ 4,011 | 🐛 27 | 🌐 Go | 📅 2026-11-19 - Infrastructure as code for DNS!
+* [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) ⭐ 4,012 | 🐛 28 | 🌐 Go | 📅 2026-11-19 - Infrastructure as code for DNS!
 * [fanpei91/torsniff](https://github.com/fanpei91/torsniff) ⚠️ Archived - torsniff - a sniffer that sniffs torrents from BitTorrent network
 * [kashav/fsql](https://github.com/kashav/fsql) ⭐ 3,987 | 🐛 9 | 🌐 Go | 📅 2026-10-02 - Search for files using a fun query language
-* [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) ⭐ 3,929 | 🐛 282 | 🌐 Go | 📅 2025-01-16 - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
+* [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) ⭐ 3,927 | 🐛 282 | 🌐 Go | 📅 2025-01-16 - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 * [xo/xo](https://github.com/xo/xo) ⭐ 3,898 | 🐛 71 | 🌐 Go | 📅 2026-09-08 - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
-* [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) ⭐ 3,849 | 🐛 29 | 🌐 Go | 📅 2026-11-15 - :star: Web frameworks for Go, most starred on GitHub
+* [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) ⭐ 3,849 | 🐛 29 | 🌐 Go | 📅 2026-11-22 - :star: Web frameworks for Go, most starred on GitHub
 * [hasura/gitkube](https://github.com/hasura/gitkube) ⭐ 3,844 | 🐛 44 | 🌐 Go | 📅 2023-08-31 - Build and deploy docker images to Kubernetes using git push
-* [edoardottt/cariddi](https://github.com/edoardottt/cariddi) ⭐ 3,817 | 🐛 13 | 🌐 Go | 📅 2026-11-19 - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
+* [edoardottt/cariddi](https://github.com/edoardottt/cariddi) ⭐ 3,825 | 🐛 13 | 🌐 Go | 📅 2026-11-19 - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 * [esrrhs/pingtunnel](https://github.com/esrrhs/pingtunnel) ⭐ 3,763 | 🐛 4 | 🌐 Go | 📅 2026-11-18 - Pingtunnel is a tool that send TCP/UDP traffic over ICMP
 * [qax-os/ElasticHD](https://github.com/qax-os/ElasticHD) ⭐ 3,744 | 🐛 68 | 🌐 Go | 📅 2024-10-31 - Elasticsearch 可视化DashBoard, 支持Es监控、实时搜索，Index template快捷替换修改，索引列表信息查看， SQL converts to DSL等
-* [tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder) ⭐ 3,708 | 🐛 43 | 🌐 Go | 📅 2024-06-07 - Find domains and subdomains related to a given domain
+* [tomnomnom/assetfinder](https://github.com/tomnomnom/assetfinder) ⭐ 3,710 | 🐛 43 | 🌐 Go | 📅 2024-06-07 - Find domains and subdomains related to a given domain
 * [nadoo/glider](https://github.com/nadoo/glider) ⭐ 3,707 | 🐛 29 | 🌐 Go | 📅 2026-11-16 - glider is a forward proxy with multiple protocols support, and also a dns/dhcp server with ipset management features(like dnsmasq).
-* [Shpota/goxygen](https://github.com/Shpota/goxygen) ⭐ 3,585 | 🐛 16 | 🌐 Go | 📅 2024-12-18 - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
+* [Shpota/goxygen](https://github.com/Shpota/goxygen) ⭐ 3,586 | 🐛 16 | 🌐 Go | 📅 2024-12-18 - Generate a modern Web project with Go and Angular, React, or Vue in seconds 🎲
 * [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) ⭐ 3,547 | 🐛 5 | 🌐 Go | 📅 2026-11-05 - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 * [meshbird/meshbird](https://github.com/meshbird/meshbird) ⭐ 3,529 | 🐛 13 | 🌐 Go | 📅 2026-03-04 - Distributed private networking
 * [mergestat/mergestat-lite](https://github.com/mergestat/mergestat-lite) ⭐ 3,516 | 🐛 53 | 🌐 Go | 📅 2026-11-11 - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases. 🔍 📊
 * [EdgeSecurityTeam/EHole](https://github.com/EdgeSecurityTeam/EHole) ⭐ 3,515 | 🐛 43 | 🌐 Go | 📅 2024-04-02 - EHole(棱洞)3.0 重构版-红队重点攻击系统指纹探测工具
 * [TruthHun/BookStack](https://github.com/TruthHun/BookStack) ⭐ 3,508 | 🐛 119 | 🌐 Go | 📅 2024-05-10 - BookStack，基于MinDoc，使用Beego开发的在线文档管理系统，功能类似Gitbook和看云。
-* [mlogclub/bbs-go](https://github.com/mlogclub/bbs-go) ⭐ 3,507 | 🐛 43 | 🌐 TypeScript | 📅 2026-11-13 - 基于Golang的开源社区系统。简洁对话，高效互动，社区新体验！
+* [mlogclub/bbs-go](https://github.com/mlogclub/bbs-go) ⭐ 3,508 | 🐛 43 | 🌐 TypeScript | 📅 2026-11-13 - 基于Golang的开源社区系统。简洁对话，高效互动，社区新体验！
 * [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) ⭐ 3,506 | 🐛 55 | 🌐 JavaScript | 📅 2026-09-16 - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi 5, Pi Zero 2 W, or PCs (x86\_64 or ARM64)!
 * [ropnop/kerbrute](https://github.com/ropnop/kerbrute) ⭐ 3,500 | 🐛 47 | 🌐 Go | 📅 2024-08-20 - A tool to perform Kerberos pre-auth bruteforcing
 * [rancher/k3os](https://github.com/rancher/k3os) ⚠️ Archived - Purpose-built OS for Kubernetes, fully managed by Kubernetes.
 * [ph4ntonn/Stowaway](https://github.com/ph4ntonn/Stowaway) ⭐ 3,441 | 🐛 6 | 🌐 Go | 📅 2026-03-03 - 👻Stowaway -- Multi-hop Proxy Tool for pentesters
-* [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) ⭐ 3,407 | 🐛 202 | 🌐 Go | 📅 2026-11-20 - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
+* [AdguardTeam/dnsproxy](https://github.com/AdguardTeam/dnsproxy) ⭐ 3,408 | 🐛 202 | 🌐 Go | 📅 2026-11-20 - Simple DNS proxy with DoH, DoT, DoQ and DNSCrypt support
 * [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) ⭐ 3,399 | 🐛 24 | 🌐 Go | 📅 2026-03-07 - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock:
 * [mmatczuk/go-http-tunnel](https://github.com/mmatczuk/go-http-tunnel) ⭐ 3,322 | 🐛 60 | 🌐 Go | 📅 2026-07-02 - Fast and secure tunnels over HTTP/2
 * [s0md3v/Smap](https://github.com/s0md3v/Smap) ⭐ 3,318 | 🐛 1 | 🌐 Go | 📅 2026-08-15 - a drop-in replacement for Nmap powered by shodan.io
@@ -2020,37 +2020,37 @@
 * [goodwithtech/dockle](https://github.com/goodwithtech/dockle) ⭐ 3,298 | 🐛 48 | 🌐 Go | 📅 2026-11-16 - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 * [koderover/zadig](https://github.com/koderover/zadig) ⭐ 3,281 | 🐛 31 | 🌐 Go | 📅 2026-11-20 - Zadig: An AI-powered, cloud-native, distributed DevOps platform designed for developers
 * [moul/assh](https://github.com/moul/assh) ⭐ 3,226 | 🐛 102 | 🌐 Go | 📅 2026-11-09 - :computer: make your ssh client smarter
-* [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) ⭐ 3,192 | 🐛 42 | 🌐 Go | 📅 2026-06-17 - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
+* [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) ⭐ 3,193 | 🐛 42 | 🌐 Go | 📅 2026-06-17 - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 * [sa7mon/S3Scanner](https://github.com/sa7mon/S3Scanner) ⭐ 3,182 | 🐛 41 | 🌐 Go | 📅 2026-08-03 - Scan for misconfigured S3 buckets across S3-compatible APIs!
-* [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) ⭐ 3,121 | 🐛 10 | 🌐 Go | 📅 2026-11-21 - Quickly discover exposed hosts on the internet using multiple search engines.
+* [projectdiscovery/uncover](https://github.com/projectdiscovery/uncover) ⭐ 3,121 | 🐛 8 | 🌐 Go | 📅 2026-11-21 - Quickly discover exposed hosts on the internet using multiple search engines.
 * [eolinker/goku\_lite](https://github.com/eolinker/goku_lite) ⭐ 3,120 | 🐛 23 | 🌐 Go | 📅 2023-04-12 - A Powerful HTTP API Gateway in pure golang！Goku API Gateway （中文名：悟空 API 网关）是一个基于 Golang开发的微服务网关，能够实现高性能 HTTP API 转发、服务编排、多租户管理、API 访问权限控制等目的，拥有强大的自定义插件系统可以自行扩展，并且提供友好的图形化配置界面，能够快速帮助企业进行 API 服务治理、提高 AP
-* [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) ⭐ 3,104 | 🐛 65 | 🌐 Go | 📅 2026-11-20 - ContainerSSH: Launch containers on demand
-* [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) ⭐ 3,085 | 🐛 5 | 🌐 Go | 📅 2026-11-21 - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
+* [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) ⭐ 3,104 | 🐛 64 | 🌐 Go | 📅 2026-11-20 - ContainerSSH: Launch containers on demand
+* [projectdiscovery/proxify](https://github.com/projectdiscovery/proxify) ⭐ 3,085 | 🐛 3 | 🌐 Go | 📅 2026-11-21 - A versatile and portable proxy for capturing, manipulating, and replaying HTTP/HTTPS traffic on the go.
 * [teler-sh/teler](https://github.com/teler-sh/teler) ⚠️ Archived - Real-time HTTP Intrusion Detection
 * [Qianlitp/crawlergo](https://github.com/Qianlitp/crawlergo) ⭐ 3,046 | 🐛 34 | 🌐 Go | 📅 2025-03-11 - A powerful browser crawler for web vulnerability scanners
 * [TruthHun/DocHub](https://github.com/TruthHun/DocHub) ⭐ 2,951 | 🐛 61 | 🌐 Go | 📅 2023-02-14 - 参考百度文库，使用Beego（Golang）开发的开源文库系统
 * [yangwenmai/learning-golang](https://github.com/yangwenmai/learning-golang) ⭐ 2,943 | 🐛 2 | 🌐 Go | 📅 2023-09-12 - Go 学习之路：Go 开发者博客、Go 微信公众号、Go 学习资料（文档、书籍、视频）
 * [shunfei/cronsun](https://github.com/shunfei/cronsun) ⭐ 2,906 | 🐛 87 | 🌐 Go | 📅 2024-06-06 - A Distributed, Fault-Tolerant Cron-Style Job System.
-* [MartialBE/one-hub](https://github.com/MartialBE/one-hub) ⭐ 2,897 | 🐛 141 | 🌐 Go | 📅 2026-02-19 - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
+* [MartialBE/one-hub](https://github.com/MartialBE/one-hub) ⭐ 2,898 | 🐛 141 | 🌐 Go | 📅 2026-02-19 - OpenAI 接口管理 & 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。
 * [optiv/ScareCrow](https://github.com/optiv/ScareCrow) ⚠️ Archived - ScareCrow - Payload creation framework designed around EDR bypass.
 * [mmcdole/gofeed](https://github.com/mmcdole/gofeed) ⭐ 2,884 | 🐛 31 | 🌐 Go | 📅 2026-11-02 - Parse RSS, Atom and JSON feeds in Go
 * [LyricTian/gin-admin](https://github.com/LyricTian/gin-admin) ⭐ 2,863 | 🐛 66 | 🌐 Go | 📅 2025-06-16 - A lightweight, flexible, elegant and full-featured RBAC scaffolding based on GIN + GORM 2.0 + Casbin 2.0 + Wire DI.基于 Golang + Gin + GORM 2.0 + Casbin 2.0 + Wire DI 的轻量级、灵活、优雅且功能齐全的 RBAC 脚手架。
-* [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) ⭐ 2,852 | 🐛 41 | 🌐 Go | 📅 2024-10-26 - :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
+* [tiagorlampert/CHAOS](https://github.com/tiagorlampert/CHAOS) ⭐ 2,851 | 🐛 41 | 🌐 Go | 📅 2024-10-26 - :fire: CHAOS is a free and open-source Remote Administration Tool that allow generate binaries to control remote operating systems.
 * [benmanns/goworker](https://github.com/benmanns/goworker) ⭐ 2,845 | 🐛 36 | 🌐 Go | 📅 2026-09-26 - goworker is a Go-based background worker that runs 10 to 100,000\* times faster than Ruby-based workers.
 * [maxmcd/webtty](https://github.com/maxmcd/webtty) ⭐ 2,813 | 🐛 18 | 🌐 Go | 📅 2024-12-11 - Share a terminal session over WebRTC
-* [mubeng/mubeng](https://github.com/mubeng/mubeng) ⭐ 2,808 | 🐛 30 | 🌐 Go | 📅 2026-09-10 - An incredibly fast proxy checker & IP rotator with ease.
+* [mubeng/mubeng](https://github.com/mubeng/mubeng) ⭐ 2,809 | 🐛 30 | 🌐 Go | 📅 2026-09-10 - An incredibly fast proxy checker & IP rotator with ease.
 * [Bearer/bearer](https://github.com/Bearer/bearer) ⭐ 2,798 | 🐛 28 | 🌐 Go | 📅 2026-11-20 - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 * [shiyanhui/dht](https://github.com/shiyanhui/dht) ⭐ 2,768 | 🐛 13 | 🌐 Go | 📅 2021-08-17 - BitTorrent DHT Protocol && DHT Spider.
 * [bytedance/Elkeid](https://github.com/bytedance/Elkeid) ⭐ 2,704 | 🐛 59 | 🌐 Go | 📅 2026-11-12 - Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices
 * [0xDkd/auxpi](https://github.com/0xDkd/auxpi) ⭐ 2,694 | 🐛 25 | 🌐 Go | 📅 2025-06-12 - 🍭 集合多家 API 的新一代图床
-* [cloudflare/ebpf\_exporter](https://github.com/cloudflare/ebpf_exporter) ⭐ 2,659 | 🐛 18 | 🌐 Go | 📅 2026-11-02 - Prometheus exporter for custom eBPF metrics
-* [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) ⭐ 2,571 | 🐛 20 | 🌐 Go | 📅 2026-11-21 - Bruteforcing from various scanner output - Automatically attempts default creds on found services.
+* [cloudflare/ebpf\_exporter](https://github.com/cloudflare/ebpf_exporter) ⭐ 2,661 | 🐛 20 | 🌐 Go | 📅 2026-11-02 - Prometheus exporter for custom eBPF metrics
+* [x90skysn3k/brutespray](https://github.com/x90skysn3k/brutespray) ⭐ 2,571 | 🐛 20 | 🌐 Go | 📅 2026-11-22 - Bruteforcing from various scanner output - Automatically attempts default creds on found services.
 * [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus) ⭐ 2,570 | 🐛 46 | 🌐 Go | 📅 2026-11-20 - Adversary tradecraft detection, protection, and hunting
 * [openservicemesh/osm](https://github.com/openservicemesh/osm) ⚠️ Archived - Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microser
 * [tomnomnom/hacks](https://github.com/tomnomnom/hacks) ⭐ 2,523 | 🐛 53 | 🌐 Go | 📅 2025-03-13 - A collection of hacks and one-off scripts
 * [FeatureBaseDB/featurebase](https://github.com/FeatureBaseDB/featurebase) ⚠️ Archived - A crazy fast analytical database, built on bitmaps. Perfect for ML applications. Learn more at: <http://docs.featurebase.com/>. Start a Docker instance: <https://hub.docker.com/r/featurebasedb/featurebas>
 * [activecm/rita-legacy](https://github.com/activecm/rita-legacy) ⭐ 2,506 | 🐛 85 | 🌐 Go | 📅 2026-01-12 - Real Intelligence Threat Analytics (RITA) is a framework for detecting command and control communication through network traffic analysis.
-* [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) ⭐ 2,454 | 🐛 68 | 🌐 Go | 📅 2026-11-17 - :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
+* [DataDog/stratus-red-team](https://github.com/DataDog/stratus-red-team) ⭐ 2,455 | 🐛 68 | 🌐 Go | 📅 2026-11-17 - :cloud: :zap: Granular, Actionable Adversary Emulation for the Cloud
 * [k3s-io/kine](https://github.com/k3s-io/kine) ⭐ 2,438 | 🐛 37 | 🌐 Go | 📅 2026-11-21 - Run Kubernetes on MySQL, Postgres, sqlite, dqlite, not etcd.
 * [go-eagle/eagle](https://github.com/go-eagle/eagle) ⭐ 2,425 | 🐛 30 | 🌐 Go | 📅 2026-04-22 - 🦅 A Go framework for the API or Microservice
 * [knownsec/ksubdomain](https://github.com/knownsec/ksubdomain) ⭐ 2,403 | 🐛 30 | 🌐 Go | 📅 2022-03-16 - 无状态子域名爆破工具
@@ -2062,16 +2062,16 @@
 * [squat/kilo](https://github.com/squat/kilo) ⭐ 2,302 | 🐛 100 | 🌐 Go | 📅 2026-09-13 - Kilo is a multi-cloud network overlay built on WireGuard and designed for Kubernetes (k8s + wg = kg)
 * [d3mondev/puredns](https://github.com/d3mondev/puredns) ⭐ 2,268 | 🐛 18 | 🌐 Go | 📅 2026-02-23 - Puredns is a fast domain resolver and subdomain bruteforcing tool that can accurately filter out wildcard subdomains and DNS poisoned entries.
 * [shmilylty/netspy](https://github.com/shmilylty/netspy) ⭐ 2,238 | 🐛 8 | 🌐 Go | 📅 2023-07-25 - netspy是一款快速探测内网可达网段工具（深信服深蓝实验室天威战队强力驱动）
-* [ipinfo/cli](https://github.com/ipinfo/cli) ⭐ 2,227 | 🐛 2 | 🌐 Go | 📅 2026-10-29 - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
-* [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) ⭐ 2,226 | 🐛 1 | 🌐 Go | 📅 2026-10-29 - Attack Graph Visualizer and Explorer (Active Directory) ...Who's *really* Domain Admin?
+* [lkarlslund/Adalanche](https://github.com/lkarlslund/Adalanche) ⭐ 2,227 | 🐛 1 | 🌐 Go | 📅 2026-10-29 - Attack Graph Visualizer and Explorer (Active Directory) ...Who's *really* Domain Admin?
+* [ipinfo/cli](https://github.com/ipinfo/cli) ⭐ 2,226 | 🐛 2 | 🌐 Go | 📅 2026-10-29 - Official Command Line Interface for the IPinfo API (IP geolocation and other types of IP data)
 * [dreamans/syncd](https://github.com/dreamans/syncd) ⭐ 2,225 | 🐛 64 | 🌐 Go | 📅 2023-07-16 - syncd是一款开源的代码部署工具，它具有简单、高效、易用等特点，可以提高团队的工作效率.
 * [xluohome/phonedata](https://github.com/xluohome/phonedata) ⭐ 2,224 | 🐛 16 | 🌐 Go | 📅 2023-11-14 - 手机号码归属地信息库、手机号归属地查询   phone.dat 最后更新：2023年02月
-* [zmap/zgrab2](https://github.com/zmap/zgrab2) ⭐ 2,217 | 🐛 45 | 🌐 Go | 📅 2026-10-22 - Fast Application Layer Scanner
-* [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) ⭐ 2,209 | 🐛 0 | 🌐 Go | 📅 2026-11-20 - Linux/Windows post-exploitation framework made by linux user
+* [zmap/zgrab2](https://github.com/zmap/zgrab2) ⭐ 2,218 | 🐛 45 | 🌐 Go | 📅 2026-10-22 - Fast Application Layer Scanner
+* [jm33-m0/emp3r0r](https://github.com/jm33-m0/emp3r0r) ⭐ 2,211 | 🐛 0 | 🌐 Go | 📅 2026-11-22 - Linux/Windows post-exploitation framework made by linux user
 * [dreddsa5dies/goHackTools](https://github.com/dreddsa5dies/goHackTools) ⭐ 2,190 | 🐛 0 | 🌐 Go | 📅 2026-07-22 - Hacker tools on Go (Golang)
 * [chainreactors/gogo](https://github.com/chainreactors/gogo) ⭐ 2,165 | 🐛 18 | 🌐 Go | 📅 2026-07-28 - 面向红队的, 高度可控可拓展的自动化引擎
 * [Dliv3/Venom](https://github.com/Dliv3/Venom) ⭐ 2,163 | 🐛 15 | 🌐 Go | 📅 2022-05-11 - Venom - A Multi-hop Proxy for Penetration Testers
-* [zhzyker/dismap](https://github.com/zhzyker/dismap) ⭐ 2,157 | 🐛 23 | 🌐 Go | 📅 2024-01-29 - Asset discovery and identification tools 快速识别 Web 指纹信息，定位资产类型。辅助红队快速定位目标资产信息，辅助蓝队发现疑似脆弱点
+* [zhzyker/dismap](https://github.com/zhzyker/dismap) ⭐ 2,158 | 🐛 23 | 🌐 Go | 📅 2024-01-29 - Asset discovery and identification tools 快速识别 Web 指纹信息，定位资产类型。辅助红队快速定位目标资产信息，辅助蓝队发现疑似脆弱点
 * [praetorian-inc/gokart](https://github.com/praetorian-inc/gokart) ⚠️ Archived - A static analysis tool for securing Go code
 * [haccer/subjack](https://github.com/haccer/subjack) ⭐ 2,136 | 🐛 1 | 🌐 Go | 📅 2026-10-21 - Subdomain Takeover tool written in Go
 * [brokercap/Bifrost](https://github.com/brokercap/Bifrost) ⭐ 2,090 | 🐛 90 | 🌐 Go | 📅 2026-11-20 - Bifrost ---- 面向生产环境的 MySQL,MariaDB,kafka 同步到Redis,MongoDB,ClickHouse,StarRocks,Doris,Kafka等服务的异构中间件
@@ -2083,7 +2083,7 @@
 * [sipt/shuttle](https://github.com/sipt/shuttle) ⭐ 2,043 | 🐛 30 | 🌐 Go | 📅 2025-12-10 - A web proxy in Golang with amazing features.
 * [EgeBalci/sgn](https://github.com/EgeBalci/sgn) ⭐ 2,014 | 🐛 1 | 🌐 Rust | 📅 2026-07-28 - Shikata ga nai (仕方がない) encoder ported into go with several improvements
 * [nntaoli-project/goex](https://github.com/nntaoli-project/goex) ⭐ 1,998 | 🐛 2 | 🌐 Go | 📅 2026-10-30 - Cryptocurrency Exchange REST API SDK Wrapper Implemented With the golang, Supporting OKX, Huobi, Binance
-* [SleepingBag945/dddd](https://github.com/SleepingBag945/dddd) ⭐ 1,951 | 🐛 56 | 🌐 Go | 📅 2024-08-02 - dddd是一款使用简单的批量信息收集,供应链漏洞探测工具，旨在优化红队工作流，减少伤肝的机械性操作。支持从Hunter、Fofa批量拉取目标
+* [SleepingBag945/dddd](https://github.com/SleepingBag945/dddd) ⭐ 1,952 | 🐛 56 | 🌐 Go | 📅 2024-08-02 - dddd是一款使用简单的批量信息收集,供应链漏洞探测工具，旨在优化红队工作流，减少伤肝的机械性操作。支持从Hunter、Fofa批量拉取目标
 * [gourouting/singo](https://github.com/gourouting/singo) ⭐ 1,938 | 🐛 2 | 🌐 Go | 📅 2026-05-31 - Gin+Gorm开发Golang API快速开发脚手架
 * [deepfence/PacketStreamer](https://github.com/deepfence/PacketStreamer) ⚠️ Archived - :star: :star: Distributed tcpdump for cloud native environments :star: :star:
 * [devploit/nomore403](https://github.com/devploit/nomore403) ⭐ 1,927 | 🐛 2 | 🌐 Go | 📅 2026-10-30 - Tool to bypass 403/40X response codes.
@@ -2092,13 +2092,13 @@
 * [lobuhi/byp4xx](https://github.com/lobuhi/byp4xx) ⭐ 1,894 | 🐛 6 | 🌐 Go | 📅 2026-11-20 - 40X/HTTP bypasser in Go. Features: Verb tampering, headers, #bugbountytips, User-Agents, extensions, default credentials...
 * [40t/go-sniffer](https://github.com/40t/go-sniffer) ⭐ 1,893 | 🐛 30 | 🌐 Go | 📅 2022-12-07 - 🔎Sniffing and parsing mysql,redis,http,mongodb etc protocol. 抓包截取项目中的数据库请求并解析成相应的语句。
 * [inbug-team/InScan](https://github.com/inbug-team/InScan) ⭐ 1,875 | 🐛 22 | 🌐 Go | 📅 2021-07-19 - 边界打点后的自动化渗透工具
+* [sammcj/gollama](https://github.com/sammcj/gollama) ⭐ 1,852 | 🐛 0 | 🌐 Go | 📅 2026-10-21 - Go manage your Ollama models
+* [root-gg/plik](https://github.com/root-gg/plik) ⭐ 1,852 | 🐛 34 | 🌐 Go | 📅 2026-11-16 - Plik is a temporary file upload system (Wetransfer like) in Go.
 * [mkchoi212/fac](https://github.com/mkchoi212/fac) ⭐ 1,852 | 🐛 9 | 🌐 Go | 📅 2023-12-29 - Easy-to-use CUI for fixing git conflicts
-* [root-gg/plik](https://github.com/root-gg/plik) ⭐ 1,851 | 🐛 34 | 🌐 Go | 📅 2026-11-16 - Plik is a temporary file upload system (Wetransfer like) in Go.
-* [awake1t/linglong](https://github.com/awake1t/linglong) ⭐ 1,850 | 🐛 44 | 🌐 Go | 📅 2022-04-19 - 一款甲方资产巡航扫描系统。系统定位是发现资产，进行端口爆破。帮助企业更快发现弱口令问题。主要功能包括: 资产探测、端口爆破、定时任务、管理后台识别、报表展示
-* [sammcj/gollama](https://github.com/sammcj/gollama) ⭐ 1,849 | 🐛 0 | 🌐 Go | 📅 2026-10-21 - Go manage your Ollama models
+* [awake1t/linglong](https://github.com/awake1t/linglong) ⭐ 1,851 | 🐛 44 | 🌐 Go | 📅 2022-04-19 - 一款甲方资产巡航扫描系统。系统定位是发现资产，进行端口爆破。帮助企业更快发现弱口令问题。主要功能包括: 资产探测、端口爆破、定时任务、管理后台识别、报表展示
 * [piaolin/DetectDee](https://github.com/piaolin/DetectDee) ⭐ 1,841 | 🐛 19 | 🌐 Go | 📅 2023-08-26 - DetectDee: Hunt down social media accounts by username, email or phone across social networks.
 * [wallarm/gotestwaf](https://github.com/wallarm/gotestwaf) ⭐ 1,820 | 🐛 1 | 🌐 Go | 📅 2026-10-28 - An open-source project in Golang to asess different API Security tools and WAF for detection logic and bypasses
-* [common-fate/granted](https://github.com/common-fate/granted) ⭐ 1,817 | 🐛 140 | 🌐 Go | 📅 2026-11-21 - The easiest way to access your cloud.
+* [common-fate/granted](https://github.com/common-fate/granted) ⭐ 1,817 | 🐛 137 | 🌐 Go | 📅 2026-11-22 - The easiest way to access your cloud.
 * [parsiya/Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go) ⚠️ Archived - Golang for Security Professionals
 * [sysdream/ligolo](https://github.com/sysdream/ligolo) ⭐ 1,786 | 🐛 8 | 🌐 Go | 📅 2023-01-06 - Reverse Tunneling made easy for pentesters, by pentesters <https://sysdream.com/>
 * [TimothyYe/godns](https://github.com/TimothyYe/godns) ⭐ 1,786 | 🐛 2 | 🌐 Go | 📅 2026-11-05 - A dynamic DNS client tool that supports AliDNS, Cloudflare, Google Domains, DNSPod, HE.net & DuckDNS & DreamHost, etc, written in Go.
@@ -2109,17 +2109,17 @@
 * [k8gege/LadonGo](https://github.com/k8gege/LadonGo) ⭐ 1,719 | 🐛 1 | 🌐 Go | 📅 2023-12-15 - Ladon for Kali 全平台开源内网渗透扫描器,Windows/Linux/Mac/路由器内网渗透，使用它可轻松一键批量探测C段、B段、A段存活主机、高危漏洞检测MS17010、SmbGhost，远程执行SSH/Winrm，密码爆破SMB/SSH/FTP/Mysql/Mssql/Oracle/Winrm/HttpBasic/Redis，端口扫描服务识别PortScan指纹识别/HttpBa
 * [tomnomnom/meg](https://github.com/tomnomnom/meg) ⭐ 1,718 | 🐛 40 | 🌐 Go | 📅 2024-02-03 - Fetch many paths for many hosts - without killing the hosts
 * [utkusen/urlhunter](https://github.com/utkusen/urlhunter) ⭐ 1,702 | 🐛 0 | 🌐 Go | 📅 2025-01-23 - a recon tool that allows searching on URLs that are exposed via shortener services
-* [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) ⭐ 1,676 | 🐛 10 | 🌐 Go | 📅 2026-11-21 - MassDNS wrapper written in go to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard filtering and easy input-output support.
+* [projectdiscovery/shuffledns](https://github.com/projectdiscovery/shuffledns) ⭐ 1,676 | 🐛 7 | 🌐 Go | 📅 2026-11-22 - MassDNS wrapper written in go to enumerate valid subdomains using active bruteforce as well as resolve subdomains with wildcard filtering and easy input-output support.
 * [opensec-cn/kunpeng](https://github.com/opensec-cn/kunpeng) ⭐ 1,666 | 🐛 23 | 🌐 Go | 📅 2023-02-25 - kunpeng是一个Golang编写的开源POC框架/库，以动态链接库的形式提供各种语言调用，通过此项目可快速开发漏洞检测类的系统。
 * [WangYihang/Platypus](https://github.com/WangYihang/Platypus) ⭐ 1,663 | 🐛 106 | 🌐 Go | 📅 2026-11-16 - :hammer: A modern multiple reverse shell sessions manager written in go
 * [Adminisme/ServerScan](https://github.com/Adminisme/ServerScan) ⭐ 1,658 | 🐛 9 | 🌐 Go | 📅 2024-06-16 - ServerScan一款使用Golang开发的高并发网络扫描、服务探测工具。
 * [sanity-io/litter](https://github.com/sanity-io/litter) ⭐ 1,655 | 🐛 19 | 🌐 Go | 📅 2026-05-04 - Litter is a pretty printer library for Go data structures to aid in debugging and testing.
-* [hakluke/hakrevdns](https://github.com/hakluke/hakrevdns) ⭐ 1,655 | 🐛 9 | 🌐 Go | 📅 2026-08-05 - Small, fast tool for performing reverse DNS lookups en masse.
+* [hakluke/hakrevdns](https://github.com/hakluke/hakrevdns) ⭐ 1,654 | 🐛 9 | 🌐 Go | 📅 2026-08-05 - Small, fast tool for performing reverse DNS lookups en masse.
 * [chaitin/veinmind-tools](https://github.com/chaitin/veinmind-tools) ⭐ 1,652 | 🐛 24 | 🌐 Go | 📅 2024-01-10 - veinmind-tools 是由长亭科技自研，基于 veinmind-sdk 打造的容器安全工具集
-* [veo/vscan](https://github.com/veo/vscan) ⭐ 1,630 | 🐛 7 | 🌐 Go | 📅 2023-10-10 - 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz)
-* [projectdiscovery/notify](https://github.com/projectdiscovery/notify) ⭐ 1,626 | 🐛 9 | 🌐 Go | 📅 2026-11-21 - Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
+* [veo/vscan](https://github.com/veo/vscan) ⭐ 1,629 | 🐛 7 | 🌐 Go | 📅 2023-10-10 - 开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz)
+* [projectdiscovery/notify](https://github.com/projectdiscovery/notify) ⭐ 1,626 | 🐛 7 | 🌐 Go | 📅 2026-11-22 - Notify is a Go-based assistance package that enables you to stream the output of several tools (or read from a file) and publish it to a variety of supported platforms.
 * [malfunkt/hyperfox](https://github.com/malfunkt/hyperfox) ⭐ 1,625 | 🐛 17 | 🌐 Go | 📅 2023-10-17 - HTTP/HTTPS MITM proxy and recorder.
-* [PentestPad/subzy](https://github.com/PentestPad/subzy) ⭐ 1,617 | 🐛 10 | 🌐 Go | 📅 2024-09-10 - Subdomain takeover vulnerability checker
+* [PentestPad/subzy](https://github.com/PentestPad/subzy) ⭐ 1,618 | 🐛 10 | 🌐 Go | 📅 2024-09-10 - Subdomain takeover vulnerability checker
 * [liamg/gitjacker](https://github.com/liamg/gitjacker) ⭐ 1,609 | 🐛 11 | 🌐 Go | 📅 2025-12-05 - 🔪 :octocat: Leak git repositories from misconfigured websites
 * [containerd/stargz-snapshotter](https://github.com/containerd/stargz-snapshotter) ⭐ 1,605 | 🐛 95 | 🌐 Go | 📅 2026-11-17 - Fast container image distribution plugin with lazy pulling
 * [doxx/darkflare](https://github.com/doxx/darkflare) ⭐ 1,598 | 🐛 4 | 🌐 Go | 📅 2026-02-09 - DarkFlare Firewall Piercing (TCP over CDN)
@@ -2135,27 +2135,27 @@
 * [xiecat/goblin](https://github.com/xiecat/goblin) ⭐ 1,544 | 🐛 6 | 🌐 Go | 📅 2023-05-30 - 一款适用于红蓝对抗中的仿真钓鱼系统
 * [helloxz/zdir](https://github.com/helloxz/zdir) ⭐ 1,535 | 🐛 26 | 🌐 Go | 📅 2024-08-15 - A multifunctional private storage program that integrates file indexing, online preview, and sharing, supporting both WebDAV and cloud download.
 * [inguardians/peirates](https://github.com/inguardians/peirates) ⭐ 1,499 | 🐛 24 | 🌐 Go | 📅 2026-11-11 - Peirates - Kubernetes Penetration Testing tool
-* [NHAS/reverse\_ssh](https://github.com/NHAS/reverse_ssh) ⭐ 1,487 | 🐛 4 | 🌐 Go | 📅 2026-11-11 - SSH based reverse shell
+* [NHAS/reverse\_ssh](https://github.com/NHAS/reverse_ssh) ⭐ 1,487 | 🐛 5 | 🌐 Go | 📅 2026-11-11 - SSH based reverse shell
 * [Schira4396/VcenterKiller](https://github.com/Schira4396/VcenterKiller) ⭐ 1,485 | 🐛 4 | 🌐 Go | 📅 2024-04-25 - 一款针对Vcenter的综合利用工具，包含目前最主流的CVE-2021-21972、CVE-2021-21985以及CVE-2021-22005、One Access的CVE-2022-22954、CVE-2022-22972/31656以及log4j，提供一键上传webshell，命令执行或者上传公钥使用SSH免密连接
 * [ajermakovics/jvm-mon](https://github.com/ajermakovics/jvm-mon) ⭐ 1,485 | 🐛 17 | 🌐 Go | 📅 2026-10-24 - Console-based JVM monitoring tool
 * [Go-zh/tour](https://github.com/Go-zh/tour) ⚠️ Archived - 【已弃用】新版移至 website 代码仓库
 * [denandz/sourcemapper](https://github.com/denandz/sourcemapper) ⭐ 1,475 | 🐛 2 | 🌐 Go | 📅 2026-07-24 - Extract JavaScript source trees from Sourcemap files
 * [tillson/git-hound](https://github.com/tillson/git-hound) ⭐ 1,475 | 🐛 3 | 🌐 Go | 📅 2026-02-10 - Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
-* [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) ⭐ 1,474 | 🐛 2 | 🌐 Go | 📅 2026-03-23 - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
+* [shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo) ⭐ 1,473 | 🐛 2 | 🌐 Go | 📅 2026-03-23 - WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。
 * [ossf/allstar](https://github.com/ossf/allstar) ⭐ 1,467 | 🐛 58 | 🌐 Go | 📅 2026-11-20 - GitHub App to set and enforce security policies
 * [openclarity/openclarity](https://github.com/openclarity/openclarity) ⚠️ Archived - OpenClarity is an open source tool built to enhance security and observability of cloud native applications and infrastructure
-* [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) ⭐ 1,454 | 🐛 18 | 🌐 Go | 📅 2026-11-17 - Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
+* [sw33tLie/bbscope](https://github.com/sw33tLie/bbscope) ⭐ 1,455 | 🐛 18 | 🌐 Go | 📅 2026-11-17 - Scope gathering tool for HackerOne, Bugcrowd, Intigriti, YesWeHack, and Immunefi!
 * [EgeBalci/amber](https://github.com/EgeBalci/amber) ⭐ 1,452 | 🐛 5 | 🌐 Go | 📅 2024-02-22 - Reflective PE packer.
 * [jweny/pocassist](https://github.com/jweny/pocassist) ⚠️ Archived - 傻瓜式漏洞PoC测试框架
 * [SpenserCai/GoWxDump](https://github.com/SpenserCai/GoWxDump) ⭐ 1,428 | 🐛 21 | 📅 2026-01-09 - SharpWxDump的Go语言版。微信客户端取证，获取信息(微信号、手机号、昵称)，微信聊天记录分析(Top N聊天的人、统计聊天最频繁的好友排行、关键词列表搜索等)
 * [master-coder-ll/v2ray-web-manager](https://github.com/master-coder-ll/v2ray-web-manager) ⚠️ Archived - v2ray-web-manager 是一个v2ray的面板，也是一个集群的解决方案；同时增加了流量控制/账号管理/限速等功能。key: admin , panel ,web,cluster,集群,proxy
-* [monperrus/crawler-user-agents](https://github.com/monperrus/crawler-user-agents) ⭐ 1,414 | 🐛 20 | 🌐 Go | 📅 2026-11-12 - Syntactic patterns of HTTP user-agents used by bots / robots / crawlers / scrapers / spiders. pull-request welcome :star:
+* [monperrus/crawler-user-agents](https://github.com/monperrus/crawler-user-agents) ⭐ 1,414 | 🐛 18 | 🌐 Go | 📅 2026-11-22 - Syntactic patterns of HTTP user-agents used by bots / robots / crawlers / scrapers / spiders. pull-request welcome :star:
 * [CloudyKit/jet](https://github.com/CloudyKit/jet) ⭐ 1,411 | 🐛 23 | 🌐 Go | 📅 2026-09-24 - Jet  template engine
 * [INotGreen/XiebroC2](https://github.com/INotGreen/XiebroC2) ⭐ 1,392 | 🐛 17 | 🌐 Go | 📅 2025-02-28 - 渗透测试C2、支持Lua插件扩展、域前置/CDN上线、自定义profile、前置sRDI、文件管理、进程管理、内存加载、截图、反向代理、分组管理
 * [glitchedgitz/cook](https://github.com/glitchedgitz/cook) ⭐ 1,386 | 🐛 6 | 🌐 Go | 📅 2026-03-06 - A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers.
-* [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ⭐ 1,379 | 🐛 59 | 🌐 Go | 📅 2026-06-10 - Superseded by <https://github.com/aquasecurity/trivy-operator> ⭐ 2,011 | 🐛 261 | 🌐 Go | 📅 2026-11-18
+* [aquasecurity/starboard](https://github.com/aquasecurity/starboard) ⭐ 1,379 | 🐛 59 | 🌐 Go | 📅 2026-06-10 - Superseded by <https://github.com/aquasecurity/trivy-operator> ⭐ 2,013 | 🐛 261 | 🌐 Go | 📅 2026-11-18
 * [akavel/rsrc](https://github.com/akavel/rsrc) ⭐ 1,372 | 🐛 14 | 🌐 Go | 📅 2023-05-12 - Tool for embedding .ico & manifest resources in Go programs for Windows.
-* [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) ⭐ 1,363 | 🐛 85 | 🌐 Go | 📅 2026-11-16 - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
+* [mysteriumnetwork/node](https://github.com/mysteriumnetwork/node) ⭐ 1,364 | 🐛 85 | 🌐 Go | 📅 2026-11-16 - Mysterium Network Node -  official implementation of distributed VPN network (dVPN) protocol
 * [projectdiscovery/public-bugbounty-programs](https://github.com/projectdiscovery/public-bugbounty-programs) ⭐ 1,357 | 🐛 3 | 🌐 Go | 📅 2026-11-17 - Community curated list of public bug bounty and responsible disclosure programs.
 * [iwannay/jiacrontab](https://github.com/iwannay/jiacrontab) ⭐ 1,346 | 🐛 33 | 🌐 Go | 📅 2025-02-07 - 简单可信赖的任务管理工具
 * [ZupIT/horusec](https://github.com/ZupIT/horusec) ⭐ 1,343 | 🐛 113 | 🌐 Go | 📅 2026-11-10 - Horusec is an open source tool that improves identification of vulnerabilities in your project with just one command.
@@ -2168,27 +2168,27 @@
 * [umputun/reproxy](https://github.com/umputun/reproxy) ⭐ 1,313 | 🐛 0 | 🌐 Go | 📅 2026-10-31 - Simple edge server / reverse proxy
 * [dwisiswant0/go-dork](https://github.com/dwisiswant0/go-dork) ⭐ 1,311 | 🐛 9 | 🌐 Go | 📅 2024-02-04 - The fastest dork scanner written in Go.
 * [thinkeridea/go-extend](https://github.com/thinkeridea/go-extend) ⭐ 1,303 | 🐛 1 | 🌐 Go | 📅 2023-07-20 - go语言扩展包，收集一些常用的操作函数，辅助更快的完成开发工作，并减少重复代码
-* [netxfly/x-crack](https://github.com/netxfly/x-crack) ⭐ 1,281 | 🐛 6 | 🌐 Go | 📅 2024-05-22 - x-crack - Weak password scanner, Support: FTP/SSH/SNMP/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB
+* [netxfly/x-crack](https://github.com/netxfly/x-crack) ⭐ 1,280 | 🐛 6 | 🌐 Go | 📅 2024-05-22 - x-crack - Weak password scanner, Support: FTP/SSH/SNMP/MSSQL/MYSQL/PostGreSQL/REDIS/ElasticSearch/MONGODB
 * [edoardottt/scilla](https://github.com/edoardottt/scilla) ⭐ 1,277 | 🐛 5 | 🌐 Go | 📅 2026-11-13 - Information Gathering tool - DNS / Subdomains / Ports / Directories enumeration
 * [seccome/Ehoney](https://github.com/seccome/Ehoney) ⭐ 1,273 | 🐛 40 | 🌐 Go | 📅 2023-10-17 - 安全、快捷、高交互、企业级的蜜罐管理系统，护网；支持多种协议蜜罐、蜜签、诱饵等功能。A safe, fast, highly interactive and enterprise level honeypot management system, supports multiple protocol honeypots, honeytokens, baits and other functions
 * [golang-china/awesome-go-zh](https://github.com/golang-china/awesome-go-zh) ⭐ 1,270 | 🐛 2 | 🌐 Go | 📅 2022-10-20 - :books: Go资源精选中文版(含中文图书大全)
 * [darkr4y/geacon](https://github.com/darkr4y/geacon) ⭐ 1,263 | 🐛 0 | 🌐 Go | 📅 2020-10-02 - Practice Go programming and implement CobaltStrike's Beacon in Go
 * [mehrdadrad/radvpn](https://github.com/mehrdadrad/radvpn) ⭐ 1,250 | 🐛 4 | 🌐 Go | 📅 2020-05-22 - Decentralized VPN
-* [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) ⭐ 1,248 | 🐛 4 | 🌐 Go | 📅 2026-11-21 - Utility program to perform multiple operations for a given subnet/CIDR ranges.
+* [projectdiscovery/mapcidr](https://github.com/projectdiscovery/mapcidr) ⭐ 1,248 | 🐛 2 | 🌐 Go | 📅 2026-11-21 - Utility program to perform multiple operations for a given subnet/CIDR ranges.
 * [prometheus-community/yet-another-cloudwatch-exporter](https://github.com/prometheus-community/yet-another-cloudwatch-exporter) ⭐ 1,248 | 🐛 303 | 🌐 Go | 📅 2026-11-20 - Prometheus exporter for AWS CloudWatch - Discovers services through AWS tags, gets CloudWatch metrics data and provides them as Prometheus metrics with AWS tags as labels
 * [sethvargo/go-envconfig](https://github.com/sethvargo/go-envconfig) ⭐ 1,238 | 🐛 0 | 🌐 Go | 📅 2026-11-19 - A Go library for parsing struct tags from environment variables.
-* [1340691923/ElasticView](https://github.com/1340691923/ElasticView) ⭐ 1,235 | 🐛 8 | 🌐 Go | 📅 2025-09-04 - This is a simple and user-friendly data source management platform. Currently, the official plugin supports management of ElasticSearch versions 6, 7, and 8
 * [boy-hack/ksubdomain](https://github.com/boy-hack/ksubdomain) ⭐ 1,234 | 🐛 0 | 🌐 Go | 📅 2026-03-27 - Subdomain enumeration tool, asynchronous dns packets, use pcap to scan 1600,000 subdomains in 1 second
+* [1340691923/ElasticView](https://github.com/1340691923/ElasticView) ⭐ 1,234 | 🐛 8 | 🌐 Go | 📅 2025-09-04 - This is a simple and user-friendly data source management platform. Currently, the official plugin supports management of ElasticSearch versions 6, 7, and 8
 * [Tylous/SourcePoint](https://github.com/Tylous/SourcePoint) ⭐ 1,231 | 🐛 8 | 🌐 Go | 📅 2026-09-29 - SourcePoint is a C2 profile generator for Cobalt Strike command and control servers designed to ensure evasion.
 * [cyberark/kubesploit](https://github.com/cyberark/kubesploit) ⭐ 1,228 | 🐛 0 | 🌐 Go | 📅 2025-02-03 - Kubesploit is a cross-platform post-exploitation HTTP/2 Command & Control server and agent written in Golang, focused on containerized environments.
 * [qi4L/qscan](https://github.com/qi4L/qscan) ⭐ 1,215 | 🐛 1 | 🌐 Go | 📅 2026-05-24 - 轻量化全方位扫描器
-* [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) ⭐ 1,215 | 🐛 4 | 🌐 Go | 📅 2026-01-21 - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (<http://hackmanit.de/>).
+* [Hackmanit/Web-Cache-Vulnerability-Scanner](https://github.com/Hackmanit/Web-Cache-Vulnerability-Scanner) ⭐ 1,214 | 🐛 4 | 🌐 Go | 📅 2026-01-21 - Web Cache Vulnerability Scanner is a Go-based CLI tool for testing for web cache poisoning. It is developed by Hackmanit GmbH (<http://hackmanit.de/>).
 * [EddieIvan01/iox](https://github.com/EddieIvan01/iox) ⭐ 1,211 | 🐛 17 | 🌐 Go | 📅 2021-03-14 - Tool for port forwarding & intranet proxy
 * [STRRL/cloudflare-tunnel-ingress-controller](https://github.com/STRRL/cloudflare-tunnel-ingress-controller) ⭐ 1,207 | 🐛 18 | 🌐 Go | 📅 2026-11-15 - 🚀 Expose the website directly into the internet! The Kuberntes Ingress Controller based on Cloudflare Tunnel.
 * [Ne0nd0g/go-shellcode](https://github.com/Ne0nd0g/go-shellcode) ⭐ 1,197 | 🐛 6 | 🌐 Go | 📅 2023-02-25 - A repository of Windows Shellcode runners and supporting utilities. The applications load and execute Shellcode using various API calls or techniques.
 * [niudaii/zpscan](https://github.com/niudaii/zpscan) ⭐ 1,196 | 🐛 0 | 🌐 Go | 📅 2024-12-17 - 一个有点好用的信息收集工具。A somewhat useful information gathering tool.
 * [goretk/redress](https://github.com/goretk/redress) ⭐ 1,196 | 🐛 5 | 🌐 Go | 📅 2026-11-19 - Redress - A tool for analyzing stripped Go binaries
-* [TideSec/GoBypassAV](https://github.com/TideSec/GoBypassAV) ⭐ 1,186 | 🐛 4 | 🌐 Go | 📅 2022-08-23 - 整理了基于Go的16种API免杀测试、8种加密测试、反沙盒测试、编译混淆、加壳、资源修改等免杀技术，并搜集汇总了一些资料和工具。
+* [TideSec/GoBypassAV](https://github.com/TideSec/GoBypassAV) ⭐ 1,187 | 🐛 4 | 🌐 Go | 📅 2022-08-23 - 整理了基于Go的16种API免杀测试、8种加密测试、反沙盒测试、编译混淆、加壳、资源修改等免杀技术，并搜集汇总了一些资料和工具。
 * [geph-official/geph2](https://github.com/geph-official/geph2) ⚠️ Archived - (ARCHIVED) Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering.
 * [techjacker/repo-security-scanner](https://github.com/techjacker/repo-security-scanner) ⭐ 1,159 | 🐛 4 | 🌐 Go | 📅 2023-03-07 - CLI tool that finds secrets accidentally committed to a git repo, eg passwords, private keys
 * [zmap/zdns](https://github.com/zmap/zdns) ⭐ 1,155 | 🐛 5 | 🌐 Go | 📅 2026-10-18 - Fast DNS Lookup Library and CLI Tool
@@ -2202,14 +2202,14 @@
 * [hakluke/hakoriginfinder](https://github.com/hakluke/hakoriginfinder) ⭐ 1,108 | 🐛 1 | 🌐 Go | 📅 2026-08-05 - Tool for discovering the origin host behind a reverse proxy. Useful for bypassing cloud WAFs!
 * [utkusen/wholeaked](https://github.com/utkusen/wholeaked) ⭐ 1,101 | 🐛 1 | 🌐 Go | 📅 2022-01-31 - a file-sharing tool that allows you to find the responsible person in case of a leakage
 * [DonTizi/rlama](https://github.com/DonTizi/rlama) ⭐ 1,097 | 🐛 25 | 🌐 Go | 📅 2025-08-09 - A powerful document AI question-answering tool that connects to your local Ollama models. Create, manage, and interact with RAG systems for all your document needs.
-* [muraenateam/muraena](https://github.com/muraenateam/muraena) ⭐ 1,095 | 🐛 12 | 🌐 Go | 📅 2026-11-13 - Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.
-* [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) ⭐ 1,094 | 🐛 0 | 🌐 Rust | 📅 2026-11-21 - 🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)
+* [muraenateam/muraena](https://github.com/muraenateam/muraena) ⭐ 1,096 | 🐛 12 | 🌐 Go | 📅 2026-11-13 - Muraena is an almost-transparent reverse proxy aimed at automating phishing and post-phishing activities.
+* [hahwul/jwt-hack](https://github.com/hahwul/jwt-hack) ⭐ 1,094 | 🐛 0 | 🌐 Rust | 📅 2026-11-22 - 🔩 jwt-hack is tool for hacking / security testing to JWT. Supported for En/decoding JWT, Generate payload for JWT attack and very fast cracking(dict/brutefoce)
 * [sysdream/chashell](https://github.com/sysdream/chashell) ⭐ 1,084 | 🐛 5 | 🌐 Go | 📅 2022-04-05 - Chashell is a Go reverse shell that communicates over DNS. It can be used to bypass firewalls or tightly restricted networks.
 * [Fahrj/reverse-ssh](https://github.com/Fahrj/reverse-ssh) ⭐ 1,077 | 🐛 10 | 🌐 Go | 📅 2026-07-19 - Statically-linked ssh server with reverse shell functionality for CTFs and such
 * [qiwentaidi/Slack](https://github.com/qiwentaidi/Slack) ⭐ 1,069 | 🐛 5 | 🌐 Go | 📅 2026-04-29 - 安全服务集成化工具平台，希望能帮助你少开几个应用测试
 * [chainreactors/spray](https://github.com/chainreactors/spray) ⭐ 1,067 | 🐛 18 | 🌐 Go | 📅 2026-07-19 - 最好用最智能最可控的目录爆破工具 | The most powerful, user-friendly, intelligent, and precise HTTP buster.
 * [madneal/gshark](https://github.com/madneal/gshark) ⭐ 1,067 | 🐛 0 | 🌐 Go | 📅 2026-11-12 - Scan for sensitive information easily and effectively.
-* [projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist) ⭐ 1,060 | 🐛 2 | 🌐 Go | 📅 2026-11-21 - Cloudlist is a tool for listing Assets from multiple Cloud Providers.
+* [projectdiscovery/cloudlist](https://github.com/projectdiscovery/cloudlist) ⭐ 1,060 | 🐛 0 | 🌐 Go | 📅 2026-11-21 - Cloudlist is a tool for listing Assets from multiple Cloud Providers.
 * [twitchyliquid64/subnet](https://github.com/twitchyliquid64/subnet) ⚠️ Archived - Simple, auditable & elegant VPN, built with TLS mutual authentication and TUN.
 * [Mob2003/rakshasa](https://github.com/Mob2003/rakshasa) ⭐ 1,053 | 🐛 7 | 🌐 Go | 📅 2023-04-23 - 基于go编写的跨平台、稳定、隐秘的多级代理内网穿透工具
 * [xm1k3/cent](https://github.com/xm1k3/cent) ⭐ 1,053 | 🐛 0 | 🌐 Go | 📅 2026-06-06 - Community edition nuclei templates, a simple tool that allows you to organize all the Nuclei templates offered by the community in one place
@@ -2230,27 +2230,27 @@
 * [lemonlove7/EHole\_magic](https://github.com/lemonlove7/EHole_magic) ⭐ 975 | 🐛 5 | 🌐 Go | 📅 2024-03-06 - EHole(棱洞)魔改。可对路径进行指纹识别；支持识别出来的重点资产进行漏洞检测(支持从hunter和fofa中提取资产)支持对ftp服务识别及爆破
 * [Ice3man543/SubOver](https://github.com/Ice3man543/SubOver) ⭐ 966 | 🐛 12 | 🌐 Go | 📅 2023-10-17 - A Powerful Subdomain Takeover Tool
 * [lal0ne/vulnerability](https://github.com/lal0ne/vulnerability) ⭐ 965 | 🐛 1 | 🌐 Go | 📅 2025-07-27 - 收集、整理、修改互联网上公开的漏洞POC
-* [chaitin/blazehttp](https://github.com/chaitin/blazehttp) ⭐ 955 | 🐛 23 | 🌐 Go | 📅 2024-07-01 - BlazeHTTP 是一款简单易用的 WAF 防护效果测试工具。BlazeHTTP stands as a user-friendly WAF protection efficacy evaluation tool.
+* [chaitin/blazehttp](https://github.com/chaitin/blazehttp) ⭐ 956 | 🐛 23 | 🌐 Go | 📅 2024-07-01 - BlazeHTTP 是一款简单易用的 WAF 防护效果测试工具。BlazeHTTP stands as a user-friendly WAF protection efficacy evaluation tool.
 * [djun/wechatbot](https://github.com/djun/wechatbot) ⭐ 952 | 🐛 7 | 📅 2023-12-10 - 为个人微信接入ChatGPT
 * [musana/fuzzuli](https://github.com/musana/fuzzuli) ⭐ 951 | 🐛 3 | 🌐 Go | 📅 2023-08-24 - fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain.
 * [Le0nsec/SecCrawler](https://github.com/Le0nsec/SecCrawler) ⭐ 937 | 🐛 13 | 🌐 Go | 📅 2023-12-24 - 一个方便安全研究人员获取每日安全日报的爬虫和推送程序，目前爬取范围包括先知社区、安全客、Seebug Paper、跳跳糖、奇安信攻防社区、棱角社区以及绿盟、腾讯玄武、天融信、360等实验室博客，持续更新中。
 * [fiatjaf/jiq](https://github.com/fiatjaf/jiq) ⚠️ Archived - jid on jq - interactive JSON query tool using jq expressions
 * [MY0723/goby-poc](https://github.com/MY0723/goby-poc) ⭐ 925 | 🐛 0 | 🌐 Go | 📅 2024-01-03 - 451个goby poc，是否后门及重复自行判断，来源于网络收集的Goby\&POC，不定时更新。
-* [projectdiscovery/urlfinder](https://github.com/projectdiscovery/urlfinder) ⭐ 924 | 🐛 2 | 🌐 Go | 📅 2026-11-21 - A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning.
+* [projectdiscovery/urlfinder](https://github.com/projectdiscovery/urlfinder) ⭐ 923 | 🐛 3 | 🌐 Go | 📅 2026-11-21 - A high-speed tool for passively gathering URLs, optimized for efficient and comprehensive web asset discovery without active scanning.
 * [NyDubh3/CuiRi](https://github.com/NyDubh3/CuiRi) ⭐ 923 | 🐛 12 | 🌐 Go | 📅 2021-09-08 - 一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马。
 * [esrrhs/spp](https://github.com/esrrhs/spp) ⭐ 920 | 🐛 3 | 🌐 Go | 📅 2026-11-18 - A simple and powerful proxy
 * [intigriti/misconfig-mapper](https://github.com/intigriti/misconfig-mapper) ⭐ 911 | 🐛 4 | 🌐 Go | 📅 2026-11-13 - Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!
 * [lunixbochs/usercorn](https://github.com/lunixbochs/usercorn) ⭐ 908 | 🐛 140 | 🌐 Go | 📅 2023-06-01 - dynamic binary analysis via platform emulation
 * [ndelphit/apkurlgrep](https://github.com/ndelphit/apkurlgrep) ⭐ 903 | 🐛 10 | 🌐 Go | 📅 2024-05-22 - Extract endpoints from APK files
-* [projectdiscovery/chaos-client](https://github.com/projectdiscovery/chaos-client) ⭐ 896 | 🐛 6 | 🌐 Go | 📅 2026-11-21 - Go client to communicate with Chaos DB API.
+* [projectdiscovery/chaos-client](https://github.com/projectdiscovery/chaos-client) ⭐ 896 | 🐛 4 | 🌐 Go | 📅 2026-11-21 - Go client to communicate with Chaos DB API.
 * [evilsocket/dnssearch](https://github.com/evilsocket/dnssearch) ⭐ 889 | 🐛 7 | 🌐 Go | 📅 2021-08-10 - A subdomain enumeration tool.
-* [bernardo-bruning/ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) ⭐ 887 | 🐛 6 | 🌐 Go | 📅 2026-09-14 - Proxy that allows you to use ollama as a copilot like Github copilot
+* [bernardo-bruning/ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) ⭐ 888 | 🐛 6 | 🌐 Go | 📅 2026-09-14 - Proxy that allows you to use ollama as a copilot like Github copilot
 * [tomnomnom/qsreplace](https://github.com/tomnomnom/qsreplace) ⭐ 885 | 🐛 16 | 🌐 Go | 📅 2022-11-23 - Accept URLs on stdin, replace all query string values with a user-supplied value
 * [BishopFox/sj](https://github.com/BishopFox/sj) ⭐ 883 | 🐛 3 | 🌐 Go | 📅 2026-10-30 - A tool for auditing endpoints defined in exposed (Swagger/OpenAPI) definition files.
 * [huacnlee/flora-kit](https://github.com/huacnlee/flora-kit) ⚠️ Archived - 💐 基于 shadowsocks-go 做的完善实现，自动网络分流，完全兼容 Surge 的配置文件。
 * [fdx-xdf/darkPulse](https://github.com/fdx-xdf/darkPulse) ⭐ 880 | 🐛 3 | 🌐 Go | 📅 2024-10-18 - darkPulse是一个用go编写的shellcode Packer，用于生成各种各样的shellcode loader，免杀火绒，360核晶等国内常见杀软。
 * [redtoolskobe/scaninfo](https://github.com/redtoolskobe/scaninfo) ⭐ 880 | 🐛 11 | 🌐 Go | 📅 2022-03-23 - fast scan for redtools
-* [FairwindsOps/nova](https://github.com/FairwindsOps/nova) ⭐ 877 | 🐛 10 | 🌐 Go | 📅 2026-11-20 - Find outdated or deprecated Helm charts running in your cluster.
+* [FairwindsOps/nova](https://github.com/FairwindsOps/nova) ⭐ 877 | 🐛 10 | 🌐 Go | 📅 2026-11-22 - Find outdated or deprecated Helm charts running in your cluster.
 * [gwen001/github-subdomains](https://github.com/gwen001/github-subdomains) ⭐ 877 | 🐛 10 | 🌐 Go | 📅 2023-03-28 - Find subdomains on GitHub.
 * [iiiusky/alicloud-tools](https://github.com/iiiusky/alicloud-tools) ⭐ 875 | 🐛 2 | 🌐 Go | 📅 2023-03-02 - 阿里云ECS、策略组辅助小工具
 * [firefart/stunner](https://github.com/firefart/stunner) ⭐ 869 | 🐛 4 | 🌐 Go | 📅 2026-11-17 - Stunner is a tool to test and exploit STUN, TURN and TURN over TCP servers.
@@ -2270,7 +2270,7 @@
 * [yonyoucloud/install\_k8s](https://github.com/yonyoucloud/install_k8s) ⭐ 824 | 🐛 24 | 🌐 Go | 📅 2025-08-01 - 一键安装kubernets(k8s)系统，采用RBAC模式运行（证书安全认证模式），既可以单台安装、也可以集群安装，并且完全是生产环境的安装标准。有疑问大家可以加我微信沟通：bsh888
 * [safe6Sec/GolangBypassAV](https://github.com/safe6Sec/GolangBypassAV) ⭐ 816 | 🐛 6 | 🌐 Go | 📅 2022-04-11 - 研究利用golang各种姿势bypassAV
 * [gudegg/yunSpider](https://github.com/gudegg/yunSpider) ⭐ 813 | 🐛 0 | 🌐 Go | 📅 2020-04-05 - 百度云网盘爬虫
-* [sensepost/godoh](https://github.com/sensepost/godoh) ⭐ 804 | 🐛 3 | 🌐 Go | 📅 2023-12-19 - 🕳 godoh - A DNS-over-HTTPS C2
+* [sensepost/godoh](https://github.com/sensepost/godoh) ⭐ 805 | 🐛 3 | 🌐 Go | 📅 2023-12-19 - 🕳 godoh - A DNS-over-HTTPS C2
 * [octarinesec/kube-scan](https://github.com/octarinesec/kube-scan) ⚠️ Archived - kube-scan: Octarine k8s cluster risk assessment tool
 * [smallstep/autocert](https://github.com/smallstep/autocert) ⭐ 800 | 🐛 24 | 🌐 Go | 📅 2026-10-14 - ⚓ A kubernetes add-on that automatically injects TLS/HTTPS certificates into your containers
 * [google/subcommands](https://github.com/google/subcommands) ⚠️ Archived - Go subcommand library.
@@ -2289,7 +2289,7 @@
 * [TeaWeb/build](https://github.com/TeaWeb/build) ⚠️ Archived - TeaWeb-可视化的Web代理服务。DEMO: <http://teaos.cn:7777>
 * [yqcs/ZheTian](https://github.com/yqcs/ZheTian) ⭐ 745 | 🐛 0 | 🌐 Go | 📅 2025-02-07 - ::ZheTian / 强大的免杀生成工具，Bypass All.
 * [gobysec/GobyVuls](https://github.com/gobysec/GobyVuls) ⭐ 745 | 🐛 0 | 🌐 Go | 📅 2026-01-15 - Vulnerabilities of Goby supported with exploitation.
-* [zmap/zgrab](https://github.com/zmap/zgrab) ⚠️ Archived - **DEPRECATED** This project has been replaced by <https://github.com/zmap/zgrab2> ⭐ 2,217 | 🐛 45 | 🌐 Go | 📅 2026-10-22
+* [zmap/zgrab](https://github.com/zmap/zgrab) ⚠️ Archived - **DEPRECATED** This project has been replaced by <https://github.com/zmap/zgrab2> ⭐ 2,218 | 🐛 45 | 🌐 Go | 📅 2026-10-22
 * [optiv/Ivy](https://github.com/optiv/Ivy) ⚠️ Archived - Ivy is a payload creation framework for the execution of arbitrary VBA (macro) source code directly in memory. Ivy’s loader does this by utilizing programmatical access in the VBA object environment t
 * [evilsocket/ditto](https://github.com/evilsocket/ditto) ⭐ 738 | 🐛 0 | 🌐 Go | 📅 2021-02-01 - A tool for IDN homograph attacks and detection.
 * [caddyserver/forwardproxy](https://github.com/caddyserver/forwardproxy) ⭐ 738 | 🐛 44 | 🌐 Go | 📅 2026-03-21 - Forward proxy plugin for the Caddy web server
@@ -2323,10 +2323,10 @@
 * [yunxu1/dnsub](https://github.com/yunxu1/dnsub) ⭐ 625 | 🐛 9 | 🌐 Go | 📅 2021-04-08 - dnsub一款好用且强大的子域名扫描工具
 * [coyim/coyim](https://github.com/coyim/coyim) ⭐ 619 | 🐛 70 | 🌐 Go | 📅 2026-07-10 - coyim - a safe and secure chat client
 * [Symph0nia/CyberEdge](https://github.com/Symph0nia/CyberEdge) ⭐ 617 | 🐛 3 | 🌐 Rust | 📅 2026-11-03 - 互联网资产综合扫描/攻击面测绘
-* [togettoyou/ipashare](https://github.com/togettoyou/ipashare) ⭐ 614 | 🐛 1 | 🌐 Go | 📅 2025-01-30 - 🚤 苹果 IPA 应用签名内测分发系统，一键上传 .ipa 文件，快速生成下载链接和二维码
+* [togettoyou/ipashare](https://github.com/togettoyou/ipashare) ⭐ 615 | 🐛 1 | 🌐 Go | 📅 2025-01-30 - 🚤 苹果 IPA 应用签名内测分发系统，一键上传 .ipa 文件，快速生成下载链接和二维码
 * [FourCoreLabs/EDRHunt](https://github.com/FourCoreLabs/EDRHunt) ⭐ 613 | 🐛 2 | 🌐 Go | 📅 2026-03-31 - Scan installed EDRs and AVs on Windows
 * [JKme/cube](https://github.com/JKme/cube) ⭐ 612 | 🐛 0 | 🌐 Go | 📅 2024-01-31 - 内网渗透测试工具，弱密码爆破、信息收集和漏洞扫描
-* [golang/vulndb](https://github.com/golang/vulndb) ⭐ 612 | 🐛 238 | 🌐 Go | 📅 2026-11-17 - \[mirror] The Go Vulnerability Database
+* [golang/vulndb](https://github.com/golang/vulndb) ⭐ 612 | 🐛 240 | 🌐 Go | 📅 2026-11-17 - \[mirror] The Go Vulnerability Database
 * [shyiko/kubesec](https://github.com/shyiko/kubesec) ⭐ 612 | 🐛 12 | 🌐 Go | 📅 2022-01-11 - Secure Secret management for Kubernetes (with gpg, Google Cloud KMS and AWS KMS backends)
 * [yhy0/Jie](https://github.com/yhy0/Jie) ⭐ 610 | 🐛 6 | 🌐 Go | 📅 2024-07-05 - Jie stands out as a comprehensive security assessment and exploitation tool meticulously crafted for web applications. Its robust suite of features encompasses vulnerability scanning, information gath
 * [cckuailong/hostscan](https://github.com/cckuailong/hostscan) ⭐ 605 | 🐛 3 | 🌐 Go | 📅 2023-10-07 - 自动化Host碰撞工具，帮助红队快速扩展网络边界，获取更多目标点
@@ -2349,7 +2349,7 @@
 * [duolatech/xapimanager](https://github.com/duolatech/xapimanager) ⭐ 550 | 🐛 9 | 🌐 Go | 📅 2023-05-05 - XAPI MANAGER -专业实用的开源接口管理平台，为程序开发者提供一个灵活，方便，快捷的API管理工具，让API管理变的更加清晰、明朗。如果你觉得xApi对你有用的话，别忘了给我们点个赞哦^\_^ ！
 * [cc1a2b/JShunter](https://github.com/cc1a2b/JShunter) ⭐ 549 | 🐛 0 | 🌐 Go | 📅 2026-09-20 - jshunter is a command-line tool designed for analyzing JavaScript files and extracting endpoints. This tool specializes in identifying sensitive data, such as API endpoints and potential security vuln
 * [desertbit/grumble](https://github.com/desertbit/grumble) ⭐ 549 | 🐛 15 | 🌐 Go | 📅 2026-04-07 - A powerful modern CLI and SHELL
-* [projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver) ⭐ 544 | 🐛 6 | 🌐 Go | 📅 2026-11-20 - Go alternative of python SimpleHTTPServer
+* [projectdiscovery/simplehttpserver](https://github.com/projectdiscovery/simplehttpserver) ⭐ 544 | 🐛 5 | 🌐 Go | 📅 2026-11-21 - Go alternative of python SimpleHTTPServer
 * [Yihsiwei/GoFileBinder](https://github.com/Yihsiwei/GoFileBinder) ⭐ 542 | 🐛 12 | 🌐 Go | 📅 2022-11-20 - golang免杀捆绑器
 * [ac0d3r/Hyuga](https://github.com/ac0d3r/Hyuga) ⭐ 540 | 🐛 3 | 🌐 Go | 📅 2025-12-27 - Hyuga is a tool for monitoring Out-of-Band (OOB) traffic, supporting DNS, HTTP, LDAP, RMI, and DNS-Rebinding。🪤
 * [zyylhn/zscan](https://github.com/zyylhn/zscan) ⭐ 539 | 🐛 7 | 🌐 Go | 📅 2023-12-05 - Zscan a scan blasting tool set
@@ -2372,7 +2372,7 @@
 * [RedTeamPentesting/resocks](https://github.com/RedTeamPentesting/resocks) ⭐ 482 | 🐛 0 | 🌐 Go | 📅 2023-09-19 - mTLS-Encrypted Back-Connect SOCKS5 Proxy
 * [novysodope/fupo\_for\_yonyou](https://github.com/novysodope/fupo_for_yonyou) ⭐ 478 | 🐛 1 | 🌐 Go | 📅 2025-07-21 - 用友漏洞检测，持续更新漏洞检测模块
 * [zhaoyumi/WeaverExploit\_All](https://github.com/zhaoyumi/WeaverExploit_All) ⭐ 477 | 🐛 8 | 🌐 Go | 📅 2023-12-14 - 泛微最近的漏洞利用工具（PS：2023）
-* [threatcl/threatcl](https://github.com/threatcl/threatcl) ⭐ 471 | 🐛 17 | 🌐 Go | 📅 2026-11-15 - Documenting your Threat Models with HCL
+* [threatcl/threatcl](https://github.com/threatcl/threatcl) ⭐ 471 | 🐛 17 | 🌐 Go | 📅 2026-11-22 - Documenting your Threat Models with HCL
 * [wjlab/Darksteel](https://github.com/wjlab/Darksteel) ⭐ 469 | 🐛 5 | 🌐 Go | 📅 2023-10-24 - 域内自动化信息搜集利用工具
 * [P001water/P1finger](https://github.com/P001water/P1finger) ⭐ 468 | 🐛 0 | 🌐 Go | 📅 2026-09-27 - P1finger - 红队行动下的重点资产指纹识别工具，支持在线Web指纹识别
 * [AlphabugX/Alphalog](https://github.com/AlphabugX/Alphalog) ⭐ 466 | 🐛 4 | 🌐 Go | 📅 2025-08-20 - DNSLOG、httplog、rmilog、ldaplog、jndi 等都支持,完全匿名 产品(fuzz.red)，Alphalog与传统DNSLog不同，更快、更安全。
@@ -2390,7 +2390,7 @@
 * [defenxor/dsiem](https://github.com/defenxor/dsiem) ⭐ 447 | 🐛 36 | 🌐 Go | 📅 2026-11-03 - Security event correlation engine for ELK stack
 * [redhuntlabs/BucketLoot](https://github.com/redhuntlabs/BucketLoot) ⭐ 445 | 🐛 0 | 🌐 Go | 📅 2025-12-30 - BucketLoot is an automated S3-compatible bucket inspector that can help users extract assets, flag secret exposures and even search for custom keywords as well as Regular Expressions from publicly-exp
 * [go-ignite/ignite](https://github.com/go-ignite/ignite) ⭐ 445 | 🐛 12 | 🌐 Go | 📅 2020-01-18 - A SS(R) panel for managing multiple users, powered by Go & Docker.
-* [sterrasec/apk-medit](https://github.com/sterrasec/apk-medit) ⭐ 442 | 🐛 0 | 🌐 Go | 📅 2026-11-21 - memory search and patch tool on debuggable apk without root & ndk
+* [sterrasec/apk-medit](https://github.com/sterrasec/apk-medit) ⭐ 443 | 🐛 0 | 🌐 Go | 📅 2026-11-21 - memory search and patch tool on debuggable apk without root & ndk
 * [optiv/Talon](https://github.com/optiv/Talon) ⚠️ Archived - A password guessing tool that targets the Kerberos and LDAP services within the Windows Active Directory environment.
 * [yumusb/DNSLog-Platform-Golang](https://github.com/yumusb/DNSLog-Platform-Golang) ⭐ 439 | 🐛 0 | 🌐 Go | 📅 2021-12-30 - DNSLOG平台 golang
 * [trufflesecurity/driftwood](https://github.com/trufflesecurity/driftwood) ⚠️ Archived - Private key usage verification
@@ -2399,14 +2399,14 @@
 * [Pizz33/Qianji](https://github.com/Pizz33/Qianji) ⚠️ Archived - 千机-红队免杀木马自动生成器  Bypass defender、火绒、360等国内主流杀软 随机加密混淆shellcode快速生成免杀马
 * [niudaii/crack](https://github.com/niudaii/crack) ⚠️ Archived - 弱口令爆破工具。Weak Password Blaster Tool.
 * [Maka8ka/NGLite](https://github.com/Maka8ka/NGLite) ⚠️ Archived - A major platform RAT Tool based by Blockchain/P2P.Now support Windows/Linux/MacOS
+* [openrdap/rdap](https://github.com/openrdap/rdap) ⭐ 426 | 🐛 11 | 🌐 Go | 📅 2026-09-23 - RDAP command line client
 * [zema1/yarx](https://github.com/zema1/yarx) ⭐ 425 | 🐛 1 | 🌐 Go | 📅 2023-03-22 - An awesome reverse engine for xray poc. | 一个自动化根据 xray poc 生成对应靶站的工具
-* [openrdap/rdap](https://github.com/openrdap/rdap) ⭐ 425 | 🐛 11 | 🌐 Go | 📅 2026-09-23 - RDAP command line client
 * [NetSPI/goddi](https://github.com/NetSPI/goddi) ⚠️ Archived - goddi (go dump domain info) dumps Active Directory domain information
 * [sunshinev/go-sword](https://github.com/sunshinev/go-sword) ⭐ 423 | 🐛 26 | 🌐 Go | 📅 2022-12-12 - 【Go-sword】可视化CRUD管理后台生成工具
 * [inconshreveable/slt](https://github.com/inconshreveable/slt) ⚠️ Archived - A TLS reverse proxy with SNI multiplexing in Go
 * [lzzbb/Adinfo](https://github.com/lzzbb/Adinfo) ⭐ 419 | 🐛 0 | 🌐 Go | 📅 2022-09-16 - 域信息收集工具
 * [Sakurasan/scf-proxy](https://github.com/Sakurasan/scf-proxy) ⭐ 418 | 🐛 4 | 🌐 Go | 📅 2025-06-06 - 云函数代理服务
-* [kost/revsocks](https://github.com/kost/revsocks) ⭐ 417 | 🐛 9 | 🌐 Go | 📅 2026-07-26 - Reverse SOCKS5 implementation in Go
+* [kost/revsocks](https://github.com/kost/revsocks) ⭐ 418 | 🐛 9 | 🌐 Go | 📅 2026-07-26 - Reverse SOCKS5 implementation in Go
 * [Charlie-belmer/nosqli](https://github.com/Charlie-belmer/nosqli) ⭐ 415 | 🐛 11 | 🌐 Go | 📅 2021-10-31 - NoSql Injection CLI tool, for finding vulnerable websites using MongoDB.
 * [hirochachacha/go-smb2](https://github.com/hirochachacha/go-smb2) ⭐ 414 | 🐛 15 | 🌐 Go | 📅 2026-11-14 - SMB2/3 client library written in Go.
 * [Q2h1Cg/dnsbrute](https://github.com/Q2h1Cg/dnsbrute) ⭐ 413 | 🐛 2 | 🌐 Go | 📅 2018-03-02 - a fast domain brute tool
@@ -2494,10 +2494,10 @@
 * [BitAUR/Puff](https://github.com/BitAUR/Puff) ⭐ 277 | 🐛 3 | 🌐 Go | 📅 2025-12-29 - 开源、快速、便捷、基于Go的域名监控程序。
 * [trickest/mksub](https://github.com/trickest/mksub) ⭐ 277 | 🐛 0 | 🌐 Go | 📅 2023-09-25 - Generate tens of thousands of subdomain combinations in a matter of seconds
 * [LearnGolang/365Golang](https://github.com/LearnGolang/365Golang) ⭐ 275 | 🐛 1 | 🌐 Go | 📅 2022-11-08 - 《365天深入理解Go语言》Deep understanding of Golang.
+* [musiclover789/luna](https://github.com/musiclover789/luna) ⭐ 274 | 🐛 0 | 🌐 Go | 📅 2026-06-03 - Luna-抗指纹浏览器|爬虫|防反爬虫框架|浏览器指纹|自动化浏览器|防识别|反识别|爬虫框架|自动化测试框架
 * [Ggasdfg321/SmallProxyPool](https://github.com/Ggasdfg321/SmallProxyPool) ⭐ 274 | 🐛 6 | 🌐 Go | 📅 2023-02-21 - 一个免费高质量的小代理池，解决一些站点有WAF的情况下，进行目录扫描或者字典爆破
 * [FleexSecurity/fleex](https://github.com/FleexSecurity/fleex) ⭐ 274 | 🐛 6 | 🌐 Go | 📅 2026-02-05 - Fleex makes it easy to create multiple VPS on cloud providers and use them to distribute workloads.
 * [Esonhugh/k8spider](https://github.com/Esonhugh/k8spider) ⭐ 273 | 🐛 4 | 🌐 Go | 📅 2025-07-29 - Powerful+Fast+Low Privilege Kubernetes discovery tools
-* [musiclover789/luna](https://github.com/musiclover789/luna) ⭐ 273 | 🐛 0 | 🌐 Go | 📅 2026-06-03 - Luna-抗指纹浏览器|爬虫|防反爬虫框架|浏览器指纹|自动化浏览器|防识别|反识别|爬虫框架|自动化测试框架
 * [sspsec/Spear](https://github.com/sspsec/Spear) ⭐ 273 | 🐛 1 | 🌐 Vue | 📅 2026-10-17 - 基于GO的渗透工具箱框架
 * [ferreiraklet/airixss](https://github.com/ferreiraklet/airixss) ⭐ 270 | 🐛 1 | 🌐 Go | 📅 2022-09-13 - Finding XSS during recon
 * [A-D-Team/grafanaExp](https://github.com/A-D-Team/grafanaExp) ⭐ 270 | 🐛 0 | 🌐 Go | 📅 2025-10-17 - A exploit tool for Grafana Unauthorized arbitrary file reading vulnerability (CVE-2021-43798), it can burst plugins / extract secret\_key / decrypt data\_source info automatic.
@@ -2755,7 +2755,7 @@
 * [SPuerBRead/mqtts](https://github.com/SPuerBRead/mqtts) ⭐ 63 | 🐛 0 | 🌐 Go | 📅 2021-06-13 - MQTT安全测试工具 (MQTT Security Tools)
 * [theblackturtle/wildcheck](https://github.com/theblackturtle/wildcheck) ⭐ 63 | 🐛 1 | 🌐 Go | 📅 2021-04-13 - A simple tool to detect wildcards domain based on Amass's wildcards detector.
 * [hwholiday/gid](https://github.com/hwholiday/gid) ⭐ 63 | 🐛 1 | 🌐 Go | 📅 2021-03-02 - Golang 分布式ID生成系统，高性能、高可用、易扩展的id生成服务
-* [projectdiscovery/hmap](https://github.com/projectdiscovery/hmap) ⭐ 62 | 🐛 5 | 🌐 Go | 📅 2026-11-21 - Hybrid memory/disk map
+* [projectdiscovery/hmap](https://github.com/projectdiscovery/hmap) ⭐ 62 | 🐛 0 | 🌐 Go | 📅 2026-11-22 - Hybrid memory/disk map
 * [dsopas/rfd-checker](https://github.com/dsopas/rfd-checker) ⭐ 62 | 🐛 0 | 🌐 Go | 📅 2019-02-26 - RFD Checker - security CLI tool to test Reflected File Download issues
 * [hanbufei/isCdn](https://github.com/hanbufei/isCdn) ⭐ 61 | 🐛 1 | 🌐 Go | 📅 2024-05-14 - 检查一个ip是否在cdn范围内
 * [rustgopy/RGPScan](https://github.com/rustgopy/RGPScan) ⭐ 61 | 🐛 1 | 🌐 Go | 📅 2024-10-18 - 红队渗透测试、内网资产探测、通用漏洞扫描、弱口令爆破
@@ -2937,7 +2937,7 @@
 * [binyoucai/sec](https://github.com/binyoucai/sec) ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2021-03-08 -
 * [capnspacehook/rose](https://github.com/capnspacehook/rose) ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2020-09-20 -
 * [lyyyuna/godht](https://github.com/lyyyuna/godht) ⭐ 5 | 🐛 0 | 🌐 Go | 📅 2019-08-11 -
-* [xtaci/kcptun](https://github.com/xtaci/kcptun) ⭐ 5 | 🐛 4 | 🌐 Go | 📅 2026-11-19 - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
+* [xtaci/kcptun](https://github.com/xtaci/kcptun) ⭐ 5 | 🐛 2 | 🌐 Go | 📅 2026-11-22 - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 * [lcvvvv/stdio](https://github.com/lcvvvv/stdio) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2022-11-07 - go语言GBK、UTF-8通用输出
 * [sensensen404/vuln-notifier](https://github.com/sensensen404/vuln-notifier) ⭐ 4 | 🐛 0 | 🌐 Go | 📅 2025-01-26 - A simple Go tool to monitor Openwall oss-security mailing list
 * [CasperGN/GoHead](https://github.com/CasperGN/GoHead) ⭐ 4 | 🐛 2 | 🌐 Go | 📅 2020-10-14 - Get interesting http headers, internal IPs, possible endpoints from target(s) and search JS files for juicy info
@@ -2963,6 +2963,7 @@
 * [clevercoder91/Subanser](https://github.com/clevercoder91/Subanser) ⭐ 1 | 🐛 1 | 🌐 Go | 📅 2024-03-17 - A simple Golang Script where you provide list of domains you want to check if webserver is running on that port or not . Give it a Try !!
 * [yakumioto/alkaid](https://github.com/yakumioto/alkaid) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2025-04-30 - Alkaid is a BaaS(Blockchan as a Service) service based on Hyperledger Fabric.
 * [az0ne/Finder](https://github.com/az0ne/Finder) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2016-04-28 - 一款Go语言实现的端口扫描器.
+* [crabkun/switcher](https://github.com/crabkun/switcher) ⭐ 0 | 🐛 7 | 🌐 Go | 📅 2024-01-14 - 一个多功能的端口转发/端口复用工具，支持转发本地或远程地址的端口，支持正则表达式转发（实现端口复用）。
 * [X1r0z/ActiveMQ-RCE](https://github.com/X1r0z/ActiveMQ-RCE) - ActiveMQ RCE (CVE-2023-46604) 漏洞利用工具
 * [adminlove520/Poc-Monitor\_v1.0.1](https://github.com/adminlove520/Poc-Monitor_v1.0.1) - 威胁情报-漏洞存储库
 * [taythebot/archer](https://github.com/taythebot/archer) - Distributed network and vulnerability scanner
@@ -2977,7 +2978,6 @@
 * [R0X4R/ssrf-tool](https://github.com/R0X4R/ssrf-tool) - An SSRF detector tool written in golang. I have fixed some errors and added some more payloads to it. But the tool credits go to z0idsec.
 * [mdsecactivebreach/o365-attack-toolkit](https://github.com/mdsecactivebreach/o365-attack-toolkit) - A toolkit to attack Office365
 * [shawn1m/overture](https://github.com/shawn1m/overture) - A customized DNS relay server
-* [crabkun/switcher](https://github.com/crabkun/switcher) - 一个多功能的端口转发/端口复用工具，支持转发本地或远程地址的端口，支持正则表达式转发（实现端口复用）。
 * [IDrinkMoreWater/fetchserver](https://github.com/IDrinkMoreWater/fetchserver) - phuslu删掉了fetchserver，我重新传一个
 
 ## Groovy
@@ -2999,58 +2999,58 @@
 
 ## HTML
 
-* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 143,314 | 🐛 15 | 🌐 HTML | 📅 2026-11-20 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-* [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) ⭐ 70,782 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-14 - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
-* [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ⭐ 41,432 | 🐛 12 | 🌐 HTML | 📅 2026-09-07 - 浙江大学课程攻略共享计划
+* [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) ⭐ 143,371 | 🐛 12 | 🌐 HTML | 📅 2026-11-22 - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+* [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) ⭐ 70,811 | 🐛 26 | 🌐 JavaScript | 📅 2026-11-14 - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
+* [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) ⭐ 41,440 | 🐛 12 | 🌐 HTML | 📅 2026-09-07 - 浙江大学课程攻略共享计划
 * [dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws) ⭐ 27,358 | 🐛 154 | 🌐 HTML | 📅 2026-11-20 - 🧠 Laws, Theories, Principles and Patterns for developers and technologists.
 * [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) ⚠️ Archived - A curated list of awesome warez and piracy links
 * [bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook) ⭐ 25,362 | 🐛 195 | 🌐 HTML | 📅 2024-12-26 - Mastering Bitcoin 3rd Edition - Programming the Open Blockchain
-* [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) ⭐ 21,571 | 🐛 1 | 🌐 HTML | 📅 2026-11-16 - Free Bootstrap 4 Admin Dashboard Template
+* [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) ⭐ 21,572 | 🐛 1 | 🌐 HTML | 📅 2026-11-16 - Free Bootstrap 4 Admin Dashboard Template
 * [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) ⭐ 20,782 | 🐛 10 | 🌐 HTML | 📅 2024-02-17 - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/OpenAI/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-* [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) ⭐ 15,684 | 🐛 42 | 🌐 TypeScript | 📅 2026-11-20 - Let AI be your browser operator.
+* [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) ⭐ 15,702 | 🐛 44 | 🌐 TypeScript | 📅 2026-11-20 - Let AI be your browser operator.
 * [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp) ⭐ 13,195 | 🐛 0 | 🌐 HTML | 📅 2026-10-05 - A collection of resources on modern C++
 * [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) ⭐ 13,107 | 🐛 5 | 🌐 HTML | 📅 2026-11-02 - Guide to using YubiKey for GnuPG and SSH
-* [keeweb/keeweb](https://github.com/keeweb/keeweb) ⭐ 13,043 | 🐛 440 | 🌐 HTML | 📅 2026-05-08 - Free cross-platform password manager compatible with KeePass
+* [keeweb/keeweb](https://github.com/keeweb/keeweb) ⭐ 13,045 | 🐛 440 | 🌐 HTML | 📅 2026-05-08 - Free cross-platform password manager compatible with KeePass
 * [mixmark-io/turndown](https://github.com/mixmark-io/turndown) ⭐ 11,517 | 🐛 164 | 🌐 JavaScript | 📅 2026-11-04 - 🛏 An HTML to Markdown converter written in JavaScript
-* [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) ⭐ 10,101 | 🐛 7 | 🌐 HTML | 📅 2026-11-01 - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
-* [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) ⭐ 9,825 | 🐛 16 | 🌐 HTML | 📅 2026-06-07 - A list of public penetration test reports published by several consulting firms and academic security groups.
+* [qiye45/wechatDownload](https://github.com/qiye45/wechatDownload) ⭐ 10,107 | 🐛 7 | 🌐 HTML | 📅 2026-11-01 - 微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx文件，保存文章内图片、视频、音频文件
+* [juliocesarfort/public-pentesting-reports](https://github.com/juliocesarfort/public-pentesting-reports) ⭐ 9,826 | 🐛 16 | 🌐 HTML | 📅 2026-06-07 - A list of public penetration test reports published by several consulting firms and academic security groups.
 * [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) ⭐ 9,731 | 🐛 20 | 🌐 HTML | 📅 2026-11-16 - Automagically reverse-engineer REST APIs via capturing traffic
 * [yogeshojha/rengine](https://github.com/yogeshojha/rengine) ⭐ 8,956 | 🐛 175 | 🌐 HTML | 📅 2026-11-20 - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 * [ericchiang/pup](https://github.com/ericchiang/pup) ⭐ 8,427 | 🐛 106 | 🌐 HTML | 📅 2024-05-02 - Parsing HTML at the command line
-* [trickest/cve](https://github.com/trickest/cve) ⭐ 8,238 | 🐛 21 | 🌐 HTML | 📅 2026-11-21 - Gather and update all available and newest CVEs with their PoC.
+* [trickest/cve](https://github.com/trickest/cve) ⭐ 8,239 | 🐛 21 | 🌐 HTML | 📅 2026-11-22 - Gather and update all available and newest CVEs with their PoC.
 * [solid/solid](https://github.com/solid/solid) ⚠️ Archived - Solid - Re-decentralizing the web (project directory)
-* [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,901 | 🐛 280 | 🌐 HTML | 📅 2026-11-20 - glTF – Runtime 3D Asset Delivery
-* [Mr-xn/Penetration\_Testing\_POC](https://github.com/Mr-xn/Penetration_Testing_POC) ⭐ 7,586 | 🐛 0 | 🌐 HTML | 📅 2026-11-21 - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cm
+* [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) ⭐ 7,900 | 🐛 280 | 🌐 HTML | 📅 2026-11-20 - glTF – Runtime 3D Asset Delivery
+* [Mr-xn/Penetration\_Testing\_POC](https://github.com/Mr-xn/Penetration_Testing_POC) ⭐ 7,587 | 🐛 0 | 🌐 HTML | 📅 2026-11-22 - 渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cm
 * [jonasstrehle/supercookie](https://github.com/jonasstrehle/supercookie) ⚠️ Archived - ⚠️ Browser fingerprinting via favicon!
-* [OWASP/Top10](https://github.com/OWASP/Top10) ⭐ 6,588 | 🐛 69 | 🌐 HTML | 📅 2026-09-24 - Official OWASP Top 10 Document Repository
-* [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) ⭐ 6,450 | 🐛 1 | 🌐 PHP | 📅 2026-11-21 - Social engineering tool \[Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
+* [OWASP/Top10](https://github.com/OWASP/Top10) ⭐ 6,588 | 🐛 71 | 🌐 HTML | 📅 2026-09-24 - Official OWASP Top 10 Document Repository
+* [ultrasecurity/Storm-Breaker](https://github.com/ultrasecurity/Storm-Breaker) ⭐ 6,457 | 🐛 1 | 🌐 PHP | 📅 2026-11-22 - Social engineering tool \[Access Webcam & Microphone  & Location Finder] With {Py,JS,PHP}
 * [swyxio/ai-notes](https://github.com/swyxio/ai-notes) ⭐ 6,257 | 🐛 11 | 🌐 HTML | 📅 2026-02-16 - notes for software engineers getting up to speed on new AI developments. Serves as datastore for <https://latent.space> writing, and product brainstorming, but has cleaned up canonical references under
 * [go101/go101](https://github.com/go101/go101) ⭐ 6,053 | 🐛 12 | 🌐 HTML | 📅 2026-10-16 - An up-to-date (unofficial) knowledge base for Go programming self learning
-* [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) ⭐ 6,038 | 🐛 0 | 🌐 HTML | 📅 2026-11-06 - Fluxion is a remake of linset by vk496 with enhanced functionality.
+* [FluxionNetwork/fluxion](https://github.com/FluxionNetwork/fluxion) ⭐ 6,040 | 🐛 0 | 🌐 HTML | 📅 2026-11-06 - Fluxion is a remake of linset by vk496 with enhanced functionality.
 * [me115/linuxtools\_rst](https://github.com/me115/linuxtools_rst) ⭐ 6,002 | 🐛 14 | 🌐 HTML | 📅 2022-11-17 - Linux工具快速教程
-* [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) ⭐ 5,961 | 🐛 27 | 🌐 HTML | 📅 2026-04-16 - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
+* [madhuakula/kubernetes-goat](https://github.com/madhuakula/kubernetes-goat) ⭐ 5,962 | 🐛 28 | 🌐 HTML | 📅 2026-04-16 - Kubernetes Goat is a "Vulnerable by Design" cluster environment to learn and practice Kubernetes security using an interactive hands-on playground 🚀
 * [leizongmin/js-xss](https://github.com/leizongmin/js-xss) ⭐ 5,311 | 🐛 70 | 🌐 HTML | 📅 2026-10-24 - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist
-* [techchipnet/CamPhish](https://github.com/techchipnet/CamPhish) ⭐ 5,290 | 🐛 240 | 🌐 HTML | 📅 2025-04-29 - Grab cam shots & GPS location from target's phone front camera or PC webcam just sending a link.
-* [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ⭐ 5,263 | 🐛 286 | 🌐 Python | 📅 2026-11-21 - DevSecOps, ASPM, Vulnerability Management. All on one platform.
-* [clong/DetectionLab](https://github.com/clong/DetectionLab) ⭐ 5,069 | 🐛 42 | 🌐 HTML | 📅 2024-07-06 - Automate the creation of a lab environment complete with security tooling and logging best practices
-* [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) ⭐ 4,956 | 🐛 1 | 🌐 HTML | 📅 2026-11-05 - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
-* [HiddenStrawberry/Crawler\_Illegal\_Cases\_In\_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) ⭐ 4,759 | 🐛 14 | 🌐 HTML | 📅 2026-03-12 - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 \[AD]企业租显卡算力部署AI请选Novagrid
+* [techchipnet/CamPhish](https://github.com/techchipnet/CamPhish) ⭐ 5,292 | 🐛 240 | 🌐 HTML | 📅 2025-04-29 - Grab cam shots & GPS location from target's phone front camera or PC webcam just sending a link.
+* [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) ⭐ 5,264 | 🐛 288 | 🌐 Python | 📅 2026-11-22 - DevSecOps, ASPM, Vulnerability Management. All on one platform.
+* [clong/DetectionLab](https://github.com/clong/DetectionLab) ⭐ 5,070 | 🐛 42 | 🌐 HTML | 📅 2024-07-06 - Automate the creation of a lab environment complete with security tooling and logging best practices
+* [nisrulz/app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) ⭐ 4,967 | 🐛 1 | 🌐 HTML | 📅 2026-11-05 - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
+* [HiddenStrawberry/Crawler\_Illegal\_Cases\_In\_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China) ⭐ 4,761 | 🐛 14 | 🌐 HTML | 📅 2026-03-12 - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 \[AD]企业租显卡算力部署AI请选Novagrid
 * [zhangkaitao/shiro-example](https://github.com/zhangkaitao/shiro-example) ⭐ 4,754 | 🐛 36 | 🌐 HTML | 📅 2021-09-01 - 跟我学Shiro（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》）
 * [elasticsearch-cn/elasticsearch-definitive-guide](https://github.com/elasticsearch-cn/elasticsearch-definitive-guide) ⭐ 4,731 | 🐛 36 | 🌐 HTML | 📅 2019-11-27 - 欢迎加QQ群：109764489，贡献力量！
 * [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) ⭐ 4,466 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-10 - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr、Nvcr等镜像加速\管理服务。支持免服务器部署到Render\Koyeb
 * [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) ⭐ 4,445 | 🐛 19 | 🌐 HTML | 📅 2019-12-15 - JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化
 * [HT524/500LineorLess\_CN](https://github.com/HT524/500LineorLess_CN) ⭐ 4,429 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-04-09 - 500 line or less 中文翻译计划。
 * [CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning) ⭐ 4,305 | 🐛 6 | 🌐 HTML | 📅 2021-10-02 - Web-Security-Learning
-* [naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) ⭐ 4,157 | 🐛 31 | 🌐 HTML | 📅 2026-11-19 - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
-* [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) ⭐ 4,020 | 🐛 3 | 🌐 HTML | 📅 2026-09-26 - The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
+* [naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) ⭐ 4,159 | 🐛 31 | 🌐 HTML | 📅 2026-11-19 - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。
+* [xfirefly/Airplay-SDK](https://github.com/xfirefly/Airplay-SDK) ⭐ 4,021 | 🐛 3 | 🌐 HTML | 📅 2026-09-26 - The Best Airplay SDK supports Airplay Mirroring and AirPlay Casting to a receiver device.
 * [cch123/golang-notes](https://github.com/cch123/golang-notes) ⭐ 4,020 | 🐛 16 | 🌐 HTML | 📅 2022-07-18 - Go source code analysis(zh-cn)
-* [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) ⭐ 4,002 | 🐛 0 | 🌐 HTML | 📅 2026-10-08 - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
-* [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) ⭐ 3,778 | 🐛 12 | 🌐 HTML | 📅 2026-04-30 - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
+* [Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections) ⭐ 4,003 | 🐛 0 | 🌐 HTML | 📅 2026-10-08 - 有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file
+* [qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php) ⭐ 3,777 | 🐛 12 | 🌐 HTML | 📅 2026-04-30 - An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.
 * [FeeiCN/Security-PPT](https://github.com/FeeiCN/Security-PPT) ⚠️ Archived - Security-related Slide Presentation & Security Research Report（大安全各领域各公司各会议分享的PPT以及各类安全研究报告）
-* [collabnix/kubetools](https://github.com/collabnix/kubetools) ⭐ 3,492 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-16 - Kubetools - Curated List of Kubernetes Tools
-* [hookmaster/frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) ⭐ 3,151 | 🐛 6 | 🌐 HTML | 📅 2019-11-04 - 《FRIDA操作手册》by @hluwa @r0ysue
+* [collabnix/kubetools](https://github.com/collabnix/kubetools) ⭐ 3,493 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-16 - Kubetools - Curated List of Kubernetes Tools
+* [hookmaster/frida-all-in-one](https://github.com/hookmaster/frida-all-in-one) ⭐ 3,150 | 🐛 6 | 🌐 HTML | 📅 2019-11-04 - 《FRIDA操作手册》by @hluwa @r0ysue
 * [privacytools/privacytools.io](https://github.com/privacytools/privacytools.io) ⚠️ Archived - 🛡🛠 You are being watched. Protect your privacy against global mass surveillance.
-* [chromium/badssl.com](https://github.com/chromium/badssl.com) ⭐ 3,060 | 🐛 212 | 🌐 HTML | 📅 2026-06-01 - :lock: Memorable site for testing clients against bad SSL configs.
+* [chromium/badssl.com](https://github.com/chromium/badssl.com) ⭐ 3,061 | 🐛 212 | 🌐 HTML | 📅 2026-06-01 - :lock: Memorable site for testing clients against bad SSL configs.
 * [gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box) ⭐ 2,809 | 🐛 0 | 🌐 HTML | 📅 2026-03-23 - Web Fuzzing Box - Web 模糊测试字典与一些Payloads
 * [yzhu798/CodingInterviewsNotes](https://github.com/yzhu798/CodingInterviewsNotes) ⭐ 2,678 | 🐛 3 | 🌐 HTML | 📅 2022-01-16 - 涵盖C++ Primer 5th、 effective C++ 、 STL api和demos C++ 基础知识与理论、 智能指针、C++11、 Git教程 Linux命令 Unix操作系统（进程、线程、内存管理、信号）计算机网络、 数据结构（排序、查找）、数据库、、C++对象模型、 设计模式、算法（《剑指offer》、leetcode、lintcode、hihocoder、《王道程序员求职宝典》
 * [sbousseaden/EVTX-ATTACK-SAMPLES](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) ⭐ 2,651 | 🐛 5 | 🌐 HTML | 📅 2023-01-24 - Windows Events Attack Samples
@@ -3059,15 +3059,15 @@
 * [Threekiii/Vulnerability-Wiki](https://github.com/Threekiii/Vulnerability-Wiki) ⭐ 2,205 | 🐛 0 | 🌐 HTML | 📅 2026-05-11 - 基于 docsify 快速部署 Awesome-POC 中的漏洞文档
 * [cure53/HTTPLeaks](https://github.com/cure53/HTTPLeaks) ⭐ 2,132 | 🐛 0 | 🌐 HTML | 📅 2026-09-09 - HTTPLeaks - All possible ways, a website can leak HTTP requests
 * [ITI/ICS-Security-Tools](https://github.com/ITI/ICS-Security-Tools) ⭐ 2,086 | 🐛 2 | 🌐 HTML | 📅 2026-11-01 - Tools, tips, tricks, and more for exploring ICS Security.
-* [OWASP/NodeGoat](https://github.com/OWASP/NodeGoat) ⭐ 2,084 | 🐛 117 | 🌐 HTML | 📅 2024-06-15 - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
+* [OWASP/NodeGoat](https://github.com/OWASP/NodeGoat) ⭐ 2,085 | 🐛 117 | 🌐 HTML | 📅 2024-06-15 - The OWASP NodeGoat project provides an environment to learn how OWASP Top 10 security risks apply to web applications developed using Node.js and how to effectively address them.
 * [phodal/fe](https://github.com/phodal/fe) ⭐ 1,985 | 🐛 2 | 🌐 HTML | 📅 2020-09-16 - 《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer
-* [ffffffff0x/AboutSecurity](https://github.com/ffffffff0x/AboutSecurity) ⭐ 1,946 | 🐛 2 | 🌐 Python | 📅 2026-10-24 - Everything for pentest. | 用于渗透测试的 payload 和 bypass 字典.
+* [ffffffff0x/AboutSecurity](https://github.com/ffffffff0x/AboutSecurity) ⭐ 1,945 | 🐛 2 | 🌐 Python | 📅 2026-10-24 - Everything for pentest. | 用于渗透测试的 payload 和 bypass 字典.
 * [simonw/tools](https://github.com/simonw/tools) ⭐ 1,935 | 🐛 59 | 🌐 HTML | 📅 2026-11-17 - Assorted tools
 * [sense-of-security/ADRecon](https://github.com/sense-of-security/ADRecon) ⭐ 1,932 | 🐛 19 | 🌐 HTML | 📅 2020-06-15 - ADRecon is a tool which gathers information about the Active Directory and generates a report which can provide a holistic picture of the current state of the target AD environment.
 * [securitytxt/security-txt](https://github.com/securitytxt/security-txt) ⭐ 1,888 | 🐛 20 | 🌐 HTML | 📅 2026-11-09 - A proposed standard that allows websites to define security policies.
 * [lockedbyte/CVE-2021-40444](https://github.com/lockedbyte/CVE-2021-40444) ⭐ 1,858 | 🐛 17 | 🌐 HTML | 📅 2021-12-25 - CVE-2021-40444 PoC
 * [subspacecommunity/subspace](https://github.com/subspacecommunity/subspace) ⭐ 1,803 | 🐛 65 | 🌐 HTML | 📅 2024-06-13 - A fork of the simple WireGuard VPN server GUI community maintained
-* [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) ⭐ 1,747 | 🐛 3 | 🌐 HTML | 📅 2026-11-03 - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
+* [WADComs/WADComs.github.io](https://github.com/WADComs/WADComs.github.io) ⭐ 1,746 | 🐛 3 | 🌐 HTML | 📅 2026-11-03 - WADComs is an interactive cheat sheet, containing a curated list of offensive security tools and their respective commands, to be used against Windows/AD environments.
 * [ctf-wiki/ctf-challenges](https://github.com/ctf-wiki/ctf-challenges) ⭐ 1,728 | 🐛 7 | 🌐 HTML | 📅 2025-05-01 -
 * [tanjiti/sec\_profile](https://github.com/tanjiti/sec_profile) ⭐ 1,640 | 🐛 4 | 🌐 HTML | 📅 2026-11-21 - 爬取secwiki和xuanwu.github.io/sec.today,分析安全信息站点、安全趋势、提取安全工作者账号(twitter,weixin,github等)
 * [nsacyber/Windows-Secure-Host-Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) ⚠️ Archived - Configuration guidance for implementing the Windows 10 and Windows Server 2016 DoD Secure Host Baseline settings. #nsacyber
@@ -3077,7 +3077,7 @@
 * [ustayready/CredSniper](https://github.com/ustayready/CredSniper) ⭐ 1,394 | 🐛 17 | 🌐 HTML | 📅 2020-05-22 - CredSniper is a phishing framework written with the Python micro-framework Flask and Jinja2 templating which supports capturing 2FA tokens.
 * [tennc/fuzzdb](https://github.com/tennc/fuzzdb) ⭐ 1,394 | 🐛 1 | 🌐 HTML | 📅 2021-06-06 - Dictionary of attack patterns and primitives for black-box application fault injection and resource discovery.
 * [roottusk/vapi](https://github.com/roottusk/vapi) ⭐ 1,355 | 🐛 15 | 🌐 HTML | 📅 2025-01-10 - vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.
-* [1692775560/deepseek\_project](https://github.com/1692775560/deepseek_project) ⭐ 1,339 | 🐛 14 | 🌐 HTML | 📅 2026-09-08 - Dee-seek\_project
+* [1692775560/deepseek\_project](https://github.com/1692775560/deepseek_project) ⭐ 1,338 | 🐛 14 | 🌐 HTML | 📅 2026-09-08 - Dee-seek\_project
 * [SexyBeast233/SecBooks](https://github.com/SexyBeast233/SecBooks) ⭐ 1,330 | 🐛 2 | 🌐 HTML | 📅 2025-08-13 - 安全类各家文库大乱斗
 * [vanhoefm/krackattacks](https://github.com/vanhoefm/krackattacks) ⭐ 1,328 | 🐛 1 | 🌐 HTML | 📅 2023-05-25 -
 * [CHYbeta/Software-Security-Learning](https://github.com/CHYbeta/Software-Security-Learning) ⭐ 1,279 | 🐛 3 | 🌐 HTML | 📅 2022-08-31 - Software-Security-Learning
@@ -3119,7 +3119,7 @@
 * [r00tSe7en/Flash-Pop](https://github.com/r00tSe7en/Flash-Pop) ⭐ 638 | 🐛 0 | 🌐 HTML | 📅 2022-11-18 - Flash钓鱼弹窗优化版
 * [Clouditera/Clouditera.github.io](https://github.com/Clouditera/Clouditera.github.io) ⭐ 627 | 🐛 5 | 🌐 HTML | 📅 2025-01-26 - 塑造未来的安全领域智能革命
 * [SuperKieran/WooyunDrops](https://github.com/SuperKieran/WooyunDrops) ⭐ 622 | 🐛 1 | 🌐 HTML | 📅 2024-05-07 - Wooyun知识库，乌云知识库，<https://wooyun.kieran.top>
-* [mlfoundations/evalchemy](https://github.com/mlfoundations/evalchemy) ⭐ 617 | 🐛 38 | 🌐 HTML | 📅 2026-11-12 - Automatic evals for LLMs
+* [mlfoundations/evalchemy](https://github.com/mlfoundations/evalchemy) ⭐ 617 | 🐛 39 | 🌐 HTML | 📅 2026-11-12 - Automatic evals for LLMs
 * [salesforce/vulnreport](https://github.com/salesforce/vulnreport) ⚠️ Archived - Open-source pentesting management and automation platform by Salesforce Product Security
 * [yiminghe/learning-react](https://github.com/yiminghe/learning-react) ⭐ 561 | 🐛 0 | 🌐 HTML | 📅 2016-04-07 - materials about learning react
 * [wisec/domxsswiki](https://github.com/wisec/domxsswiki) ⭐ 552 | 🐛 1 | 🌐 HTML | 📅 2018-05-12 - Automatically exported from code.google.com/p/domxsswiki
@@ -3177,7 +3177,7 @@
 * [MS-WEB-BN/c41n](https://github.com/MS-WEB-BN/c41n) ⭐ 203 | 🐛 6 | 🌐 HTML | 📅 2021-04-02 - Automated rogue access point setup tool.
 * [wangweianger/APubPlat](https://github.com/wangweianger/APubPlat) ⭐ 203 | 🐛 1 | 🌐 HTML | 📅 2022-08-15 - Devops自动化部署、堡垒机开源项目、Web Terminal
 * [UnkL4b/BabyShark](https://github.com/UnkL4b/BabyShark) ⭐ 198 | 🐛 0 | 🌐 HTML | 📅 2021-07-03 - Basic C2 Server
-* [bb1nfosec/Information-Security-Tasks](https://github.com/bb1nfosec/Information-Security-Tasks) ⭐ 188 | 🐛 5 | 🌐 Python | 📅 2026-11-21 - This repository is created only for infosec professionals whom work day to day basis to equip ourself with uptodate skillset, We can daily contribute daily one hour for day to day tasks and work on pr
+* [bb1nfosec/Information-Security-Tasks](https://github.com/bb1nfosec/Information-Security-Tasks) ⭐ 188 | 🐛 5 | 🌐 Python | 📅 2026-11-22 - This repository is created only for infosec professionals whom work day to day basis to equip ourself with uptodate skillset, We can daily contribute daily one hour for day to day tasks and work on pr
 * [xsleaks/wiki](https://github.com/xsleaks/wiki) ⭐ 187 | 🐛 23 | 🌐 HTML | 📅 2026-03-13 - XS-Leaks Wiki
 * [code-scan/LoginFish](https://github.com/code-scan/LoginFish) ⭐ 184 | 🐛 2 | 🌐 HTML | 📅 2022-06-30 - 通用登录页面安全控件钓鱼
 * [tombstoneghost/TIWAP](https://github.com/tombstoneghost/TIWAP) ⭐ 178 | 🐛 1 | 🌐 HTML | 📅 2023-12-29 - Totally Insecure Web Application Project (TIWAP)
@@ -3199,7 +3199,7 @@
 * [xuechiyaobai/CVE-2017-7092-PoC](https://github.com/xuechiyaobai/CVE-2017-7092-PoC) ⭐ 116 | 🐛 1 | 🌐 HTML | 📅 2019-03-25 - This is the Pwn2Own 2017 Safari backup vul's exploit.
 * [mahp/jQuery-with-XSS](https://github.com/mahp/jQuery-with-XSS) ⭐ 115 | 🐛 0 | 📅 2025-07-01 - jQuery with XSS, Testing and Secure Version
 * [anquanquantao/pentraining](https://github.com/anquanquantao/pentraining) ⭐ 114 | 🐛 0 | 🌐 HTML | 📅 2018-05-21 - 一个网络安全基础知识的教程。内容比较杂，好在都是实验视频和工具提供，可以自行动手完成实验。
-* [gerosecurity/gerobug](https://github.com/gerosecurity/gerobug) ⭐ 111 | 🐛 1 | 🌐 HTML | 📅 2026-10-30 - The First Open Source Bug Bounty Platform
+* [gerosecurity/gerobug](https://github.com/gerosecurity/gerobug) ⭐ 111 | 🐛 1 | 🌐 HTML | 📅 2026-11-21 - The First Open Source Bug Bounty Platform
 * [Potato-py/ExportReport](https://github.com/Potato-py/ExportReport) ⭐ 108 | 🐛 0 | 🌐 HTML | 📅 2024-03-29 - 本项目用于自动化生成报告。可根据项目需求，通过简单的提取变量来自定义报告模板。内附常见扫描器API/原报告(awvs、xray、goby)数据提取模块，可直接生成全新的自定义报告。 对有复杂的功能需求时，适用于有Python基础的人使用。 本项目内附二次开发所用的资料文档，欢迎各位提Pull Request
 * [HacktivistRO/Bug-Bounty-Wordlists](https://github.com/HacktivistRO/Bug-Bounty-Wordlists) ⭐ 108 | 🐛 0 | 🌐 HTML | 📅 2024-10-19 - This repository contains some of the most exhaustive wordlists for enumeration, gathered from a lot of wordlists available on the Internet.
 * [madhuakula/security-automation-with-ansible-2](https://github.com/madhuakula/security-automation-with-ansible-2) ⭐ 104 | 🐛 0 | 🌐 HTML | 📅 2018-07-10 - Ansible Playbooks for Security Automation with Ansible2 book
@@ -3283,7 +3283,7 @@
 ## Haskell
 
 * [github/semantic](https://github.com/github/semantic) ⚠️ Archived - Parsing, analyzing, and comparing source code across many languages
-* [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) ⭐ 5,384 | 🐛 290 | 🌐 Haskell | 📅 2026-11-18 - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
+* [digitallyinduced/ihp](https://github.com/digitallyinduced/ihp) ⭐ 5,385 | 🐛 290 | 🌐 Haskell | 📅 2026-11-18 - 🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness
 * [dapphub/dapptools](https://github.com/dapphub/dapptools) ⭐ 2,122 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25 - Dapp, Seth, Hevm, and more
 * [huangzworks/real-world-haskell-cn](https://github.com/huangzworks/real-world-haskell-cn) ⭐ 1,570 | 🐛 27 | 🌐 Haskell | 📅 2022-02-14 - 《Real World Haskell》中文翻译项目
 * [iostreamer-X/FuncShell](https://github.com/iostreamer-X/FuncShell) ⭐ 292 | 🐛 5 | 🌐 Haskell | 📅 2022-01-27 - Improve your shell by making it functional through Haskell! (An update to Awkward)
@@ -3295,96 +3295,96 @@
 
 ## Java
 
-* [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) ⭐ 159,637 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-25 - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
-* [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 100,857 | 🐛 2,206 | 🌐 Java | 📅 2026-11-20 - Ghidra is a software reverse engineering (SRE) framework
-* [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 97,141 | 🐛 449 | 🌐 TypeScript | 📅 2026-11-21 - #1 Locally hosted web application that allows you to perform various operations on PDF files
-* [macrozheng/mall](https://github.com/macrozheng/mall) ⭐ 85,072 | 🐛 18 | 🌐 Java | 📅 2026-09-15 - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
-* [doocs/advanced-java](https://github.com/doocs/advanced-java) ⭐ 79,194 | 🐛 1 | 🌐 Java | 📅 2026-11-14 - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
-* [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) ⭐ 76,710 | 🐛 23 | 🌐 Java | 📅 2026-06-12 - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
-* [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) ⭐ 67,291 | 🐛 24 | 🌐 Java | 📅 2026-11-20 - All Algorithms implemented in Java
-* [skylot/jadx](https://github.com/skylot/jadx) ⭐ 51,924 | 🐛 466 | 🌐 Java | 📅 2026-11-20 - Dex to Java decompiler
-* [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) ⭐ 48,571 | 🐛 11 | 🌐 Java | 📅 2026-11-11 - 🔥「AI 低代码平台」前后端分离 SpringBoot 2.x/3.x，SpringCloud，Ant Design\&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式 AI生成->OnlineCoding->代码生成->手工MERGE，帮助Java项目解决80%重复工作，让开发更关注业务，提高开发效率、节省成本，
-* [keycloak/keycloak](https://github.com/keycloak/keycloak) ⭐ 37,994 | 🐛 3,670 | 🌐 Java | 📅 2026-11-21 - Open Source Identity and Access Management For Modern Applications and Services
+* [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) ⭐ 159,645 | 🐛 25 | 🌐 JavaScript | 📅 2026-10-25 - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+* [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) ⭐ 100,954 | 🐛 2,216 | 🌐 Java | 📅 2026-11-20 - Ghidra is a software reverse engineering (SRE) framework
+* [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 97,217 | 🐛 462 | 🌐 TypeScript | 📅 2026-11-22 - #1 Locally hosted web application that allows you to perform various operations on PDF files
+* [macrozheng/mall](https://github.com/macrozheng/mall) ⭐ 85,075 | 🐛 18 | 🌐 Java | 📅 2026-09-15 - mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于Spring Boot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。
+* [doocs/advanced-java](https://github.com/doocs/advanced-java) ⭐ 79,195 | 🐛 1 | 🌐 Java | 📅 2026-11-14 - 😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识
+* [MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation) ⭐ 76,712 | 🐛 23 | 🌐 Java | 📅 2026-06-12 - Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）
+* [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) ⭐ 67,311 | 🐛 24 | 🌐 Java | 📅 2026-11-20 - All Algorithms implemented in Java
+* [skylot/jadx](https://github.com/skylot/jadx) ⭐ 51,942 | 🐛 467 | 🌐 Java | 📅 2026-11-20 - Dex to Java decompiler
+* [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) ⭐ 48,582 | 🐛 11 | 🌐 Java | 📅 2026-11-11 - 🔥「AI 低代码平台」前后端分离 SpringBoot 2.x/3.x，SpringCloud，Ant Design\&Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领AI低代码开发模式 AI生成->OnlineCoding->代码生成->手工MERGE，帮助Java项目解决80%重复工作，让开发更关注业务，提高开发效率、节省成本，
+* [keycloak/keycloak](https://github.com/keycloak/keycloak) ⭐ 37,997 | 🐛 3,680 | 🌐 Java | 📅 2026-11-22 - Open Source Identity and Access Management For Modern Applications and Services
 * [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) ⭐ 36,111 | 🐛 11 | 🌐 Java | 📅 2023-06-13 - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢\~）推荐免费ChatGPT使用网站
-* [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) ⭐ 34,035 | 🐛 144 | 🌐 Java | 📅 2024-07-24 - 🚀一个用来深入学习并实战 Spring Boot 的项目。
-* [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) ⭐ 33,595 | 🐛 327 | 🌐 Java | 📅 2024-08-15 - :fire: Android developers should collect the following utils(updating).
-* [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) ⭐ 30,421 | 🐛 17 | 🌐 Java | 📅 2023-11-18 - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
+* [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) ⭐ 34,034 | 🐛 144 | 🌐 Java | 📅 2024-07-24 - 🚀一个用来深入学习并实战 Spring Boot 的项目。
+* [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) ⭐ 33,597 | 🐛 327 | 🌐 Java | 📅 2024-08-15 - :fire: Android developers should collect the following utils(updating).
+* [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) ⭐ 30,420 | 🐛 17 | 🌐 Java | 📅 2023-11-18 - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 * [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) ⭐ 28,911 | 🐛 35 | 🌐 Java | 📅 2024-05-31 - 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：<https://mrbird.cc>
 * [lenve/vhr](https://github.com/lenve/vhr) ⭐ 28,012 | 🐛 217 | 🌐 Java | 📅 2026-10-24 - 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。
-* [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) ⭐ 26,782 | 🐛 45 | 🌐 Java | 📅 2024-05-21 - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
-* [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) ⭐ 26,556 | 🐛 7 | 🌐 Java | 📅 2025-04-18 - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
-* [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) ⭐ 25,585 | 🐛 5 | 🌐 Java | 📅 2026-10-14 - LSPosed Framework
-* [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) ⭐ 25,272 | 🐛 61 | 🌐 Java | 📅 2024-01-03 - To Be Top Javaer - Java工程师成神之路
+* [crossoverJie/JCSprout](https://github.com/crossoverJie/JCSprout) ⭐ 26,780 | 🐛 45 | 🌐 Java | 📅 2024-05-21 - 👨‍🎓 Java Core Sprout : basic, concurrent, algorithm
+* [qiurunze123/miaosha](https://github.com/qiurunze123/miaosha) ⭐ 26,557 | 🐛 7 | 🌐 Java | 📅 2025-04-18 - ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
+* [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) ⭐ 25,603 | 🐛 5 | 🌐 Java | 📅 2026-10-14 - LSPosed Framework
+* [hollischuang/toBeTopJavaer](https://github.com/hollischuang/toBeTopJavaer) ⭐ 25,270 | 🐛 61 | 🌐 Java | 📅 2024-01-03 - To Be Top Javaer - Java工程师成神之路
 * [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) ⚠️ Archived - http下载工具，基于http代理，支持多连接分块下载
 * [doocs/source-code-hunter](https://github.com/doocs/source-code-hunter) ⭐ 23,125 | 🐛 0 | 🌐 Java | 📅 2026-11-14 - 😱 从源码层面，剖析挖掘互联网行业主流技术的底层实现原理，为广大开发者 “提升技术深度” 提供便利。目前开放 Spring 全家桶，Mybatis、Netty、Dubbo 框架，及 Redis、Tomcat 中间件等
-* [apache/rocketmq](https://github.com/apache/rocketmq) ⭐ 22,658 | 🐛 732 | 🌐 Java | 📅 2026-11-18 - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
-* [elunez/eladmin](https://github.com/elunez/eladmin) ⭐ 21,898 | 🐛 42 | 🌐 Java | 📅 2026-11-02 - eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
-* [yudaocode/SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) ⭐ 20,111 | 🐛 46 | 🌐 Java | 📅 2024-04-28 - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
-* [Tencent/APIJSON](https://github.com/Tencent/APIJSON) ⭐ 18,395 | 🐛 238 | 🌐 Java | 📅 2026-11-15 - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be
-* [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) ⭐ 17,887 | 🐛 50 | 🌐 Java | 📅 2021-04-12 - 《史上最简单的Spring Cloud教程源码》
+* [apache/rocketmq](https://github.com/apache/rocketmq) ⭐ 22,659 | 🐛 745 | 🌐 Java | 📅 2026-11-18 - Apache RocketMQ is a cloud native messaging and streaming platform, making it simple to build event-driven applications.
+* [elunez/eladmin](https://github.com/elunez/eladmin) ⭐ 21,900 | 🐛 42 | 🌐 Java | 📅 2026-11-02 - eladmin jpa 版本：项目基于 Spring Boot 2.7.18、 Jpa、 Spring Security、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC，支持数据字典与数据权限管理，支持一键生成前后端代码，支持动态路由
+* [yudaocode/SpringBoot-Labs](https://github.com/yudaocode/SpringBoot-Labs) ⭐ 20,110 | 🐛 46 | 🌐 Java | 📅 2024-04-28 - 一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024
+* [Tencent/APIJSON](https://github.com/Tencent/APIJSON) ⭐ 18,394 | 🐛 238 | 🌐 Java | 📅 2026-11-15 - 🏆 实时 零代码、全功能、强安全 ORM 库 🚀 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构 🏆 Real-Time coding-free, powerful and secure ORM 🚀  providing APIs and Docs without coding by Backend, and the returned JSON of API can be
+* [forezp/SpringCloudLearning](https://github.com/forezp/SpringCloudLearning) ⭐ 17,888 | 🐛 50 | 🌐 Java | 📅 2021-04-12 - 《史上最简单的Spring Cloud教程源码》
 * [justauth/JustAuth](https://github.com/justauth/JustAuth) ⭐ 17,548 | 🐛 74 | 🌐 Java | 📅 2026-04-16 - 🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、
 * [alibaba/DataX](https://github.com/alibaba/DataX) ⭐ 17,395 | 🐛 1,359 | 🌐 Java | 📅 2026-11-15 - DataX是阿里云DataWorks数据集成的开源版本。
 * [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) ⭐ 17,013 | 🐛 37 | 🌐 Java | 📅 2024-01-05 - 大数据入门指南  :star:
-* [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 16,553 | 🐛 261 | 🌐 Java | 📅 2026-11-20 - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
-* [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) ⭐ 16,241 | 🐛 889 | 🌐 Java | 📅 2026-11-20 - The ZAP by Checkmarx Core project
-* [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) ⭐ 16,089 | 🐛 162 | 🌐 Java | 📅 2024-03-08 - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
+* [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) ⭐ 16,562 | 🐛 261 | 🌐 Java | 📅 2026-11-20 - Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.
+* [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) ⭐ 16,242 | 🐛 889 | 🌐 Java | 📅 2026-11-20 - The ZAP by Checkmarx Core project
+* [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) ⭐ 16,092 | 🐛 162 | 🌐 Java | 📅 2024-03-08 - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
 * [dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning) ⭐ 15,679 | 🐛 70 | 🌐 Java | 📅 2023-12-17 - 《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！
-* [theonedev/onedev](https://github.com/theonedev/onedev) ⭐ 15,370 | 🐛 0 | 🌐 Java | 📅 2026-11-19 - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+* [theonedev/onedev](https://github.com/theonedev/onedev) ⭐ 15,372 | 🐛 0 | 🌐 Java | 📅 2026-11-19 - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 * [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) ⭐ 15,109 | 🐛 4 | 🌐 Java | 📅 2026-05-06 - flink learning blog. <http://www.54tianzhisheng.cn/>  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、
-* [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) ⭐ 14,666 | 🐛 68 | 🌐 Java | 📅 2026-11-21 - Access your entire server infrastructure from your local desktop
-* [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) ⭐ 14,560 | 🐛 138 | 🌐 Java | 📅 2026-11-21 - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
-* [metersphere/metersphere](https://github.com/metersphere/metersphere) ⭐ 13,649 | 🐛 6 | 🌐 Java | 📅 2026-11-09 - MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
+* [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) ⭐ 14,664 | 🐛 67 | 🌐 Java | 📅 2026-11-22 - Access your entire server infrastructure from your local desktop
+* [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) ⭐ 14,563 | 🐛 137 | 🌐 Java | 📅 2026-11-22 - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
+* [metersphere/metersphere](https://github.com/metersphere/metersphere) ⭐ 13,652 | 🐛 6 | 🌐 Java | 📅 2026-11-09 - MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 * [macrozheng/mall-learning](https://github.com/macrozheng/mall-learning) ⭐ 13,441 | 🐛 5 | 🌐 Java | 📅 2024-09-15 - mall学习教程，架构、业务、技术要点全方位解析。mall项目（60k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot、MyBatis、Elasticsearch、RabbitMQ、Redis、MongoDB、MySQL等技术，采用Docker容器化部署。
-* [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) ⭐ 13,251 | 🐛 77 | 🌐 Kotlin | 📅 2026-11-16 - LSPosed Framework resuscitated
+* [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) ⭐ 13,276 | 🐛 78 | 🌐 Kotlin | 📅 2026-11-16 - LSPosed Framework resuscitated
 * [facebook/stetho](https://github.com/facebook/stetho) ⚠️ Archived - Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 * [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) ⭐ 12,117 | 🐛 746 | 🌐 Java | 📅 2026-11-20 - OpenRefine is a free, open source power tool for working with messy data and improving it
-* [grpc/grpc-java](https://github.com/grpc/grpc-java) ⭐ 12,076 | 🐛 560 | 🌐 Java | 📅 2026-11-20 - The Java gRPC implementation. HTTP/2 based RPC
-* [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) ⭐ 11,889 | 🐛 26 | 🌐 Java | 📅 2026-11-18 - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
-* [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) ⭐ 11,691 | 🐛 23 | 🌐 Java | 📅 2022-12-02 - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
-* [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) ⭐ 11,360 | 🐛 23 | 🌐 Java | 📅 2023-06-14 - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
-* [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) ⭐ 11,201 | 🐛 1 | 🌐 Java | 📅 2026-11-20 - Continuous Inspection
-* [doocs/jvm](https://github.com/doocs/jvm) ⭐ 11,128 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - 🤗 JVM 底层原理最全知识总结
-* [zfile-dev/zfile](https://github.com/zfile-dev/zfile) ⭐ 10,876 | 🐛 8 | 🌐 Java | 📅 2026-11-10 - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
+* [grpc/grpc-java](https://github.com/grpc/grpc-java) ⭐ 12,078 | 🐛 560 | 🌐 Java | 📅 2026-11-20 - The Java gRPC implementation. HTTP/2 based RPC
+* [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) ⭐ 11,899 | 🐛 27 | 🌐 Java | 📅 2026-11-18 - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
+* [frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial) ⭐ 11,690 | 🐛 23 | 🌐 Java | 📅 2022-12-02 - 🚀 fullstack tutorial 2022，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+* [ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow) ⭐ 11,359 | 🐛 23 | 🌐 Java | 📅 2023-06-14 - 新一代爬虫平台，以图形化方式定义爬虫流程，不写代码即可完成爬虫。
+* [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) ⭐ 11,206 | 🐛 1 | 🌐 Java | 📅 2026-11-20 - Continuous Inspection
+* [doocs/jvm](https://github.com/doocs/jvm) ⭐ 11,130 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-14 - 🤗 JVM 底层原理最全知识总结
+* [zfile-dev/zfile](https://github.com/zfile-dev/zfile) ⭐ 10,877 | 🐛 8 | 🌐 Java | 📅 2026-11-10 - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 * [bilibili/DanmakuFlameMaster](https://github.com/bilibili/DanmakuFlameMaster) ⭐ 9,607 | 🐛 262 | 🌐 Java | 📅 2020-02-27 - Android开源弹幕引擎·烈焰弹幕使 ～
 * [frohoff/ysoserial](https://github.com/frohoff/ysoserial) ⭐ 9,106 | 🐛 47 | 🌐 Java | 📅 2025-12-04 - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 * [shwenzhang/AndResGuard](https://github.com/shwenzhang/AndResGuard) ⭐ 8,643 | 🐛 167 | 🌐 Java | 📅 2023-10-20 - proguard resource for Android  by wechat team
 * [google/tsunami-security-scanner](https://github.com/google/tsunami-security-scanner) ⭐ 8,626 | 🐛 15 | 🌐 Java | 📅 2026-11-16 - Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.
-* [traccar/traccar](https://github.com/traccar/traccar) ⭐ 8,163 | 🐛 403 | 🌐 Java | 📅 2026-11-21 - Traccar GPS Tracking System
-* [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) ⭐ 8,081 | 🐛 331 | 🌐 Java | 📅 2024-08-11 - Gnirehtet provides reverse tethering for Android
-* [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck) ⭐ 7,780 | 🐛 205 | 🌐 Java | 📅 2026-11-20 - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+* [traccar/traccar](https://github.com/traccar/traccar) ⭐ 8,174 | 🐛 404 | 🌐 Java | 📅 2026-11-22 - Traccar GPS Tracking System
+* [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) ⭐ 8,082 | 🐛 331 | 🌐 Java | 📅 2024-08-11 - Gnirehtet provides reverse tethering for Android
+* [dependency-check/DependencyCheck](https://github.com/dependency-check/DependencyCheck) ⭐ 7,781 | 🐛 205 | 🌐 Java | 📅 2026-11-20 - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 * [google/android-classyshark](https://github.com/google/android-classyshark) ⚠️ Archived - Android and Java bytecode viewer
-* [Col-E/Recaf](https://github.com/Col-E/Recaf) ⭐ 7,481 | 🐛 63 | 🌐 Java | 📅 2026-11-02 - The modern Java bytecode editor
+* [Col-E/Recaf](https://github.com/Col-E/Recaf) ⭐ 7,482 | 🐛 63 | 🌐 Java | 📅 2026-11-02 - The modern Java bytecode editor
 * [didi/KnowStreaming](https://github.com/didi/KnowStreaming) ⭐ 7,175 | 🐛 156 | 🌐 Java | 📅 2026-11-20 - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
-* [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) ⭐ 6,954 | 🐛 49 | 🌐 Java | 📅 2026-09-09 - Real - time non-invasive AOP framework container based on JVM
-* [raphw/byte-buddy](https://github.com/raphw/byte-buddy) ⭐ 6,900 | 🐛 30 | 🌐 Java | 📅 2026-11-10 - Runtime code generation for the Java virtual machine.
+* [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) ⭐ 6,953 | 🐛 49 | 🌐 Java | 📅 2026-09-09 - Real - time non-invasive AOP framework container based on JVM
+* [raphw/byte-buddy](https://github.com/raphw/byte-buddy) ⭐ 6,901 | 🐛 30 | 🌐 Java | 📅 2026-11-10 - Runtime code generation for the Java virtual machine.
 * [guardianproject/haven](https://github.com/guardianproject/haven) ⭐ 6,834 | 🐛 150 | 🌐 Java | 📅 2022-10-26 - Haven is for people who need a way to protect their personal spaces and possessions without compromising their own privacy, through an Android app and on-device sensors
 * [zouzg/mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui) ⭐ 6,665 | 🐛 120 | 🌐 Java | 📅 2024-07-09 - mybatis-generator界面工具，让你生成代码更简单更快捷
-* [jeequan/jeepay](https://github.com/jeequan/jeepay) ⭐ 6,554 | 🐛 64 | 🌐 Java | 📅 2026-11-13 - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
-* [alipay/SoloPi](https://github.com/alipay/SoloPi) ⭐ 6,459 | 🐛 147 | 🌐 Java | 📅 2026-11-20 - SoloPi 自动化测试工具
+* [jeequan/jeepay](https://github.com/jeequan/jeepay) ⭐ 6,555 | 🐛 64 | 🌐 Java | 📅 2026-11-13 - Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
+* [alipay/SoloPi](https://github.com/alipay/SoloPi) ⭐ 6,491 | 🐛 147 | 🌐 Java | 📅 2026-11-20 - SoloPi 自动化测试工具
 * [amitshekhariitbhu/from-java-to-kotlin](https://github.com/amitshekhariitbhu/from-java-to-kotlin) ⭐ 6,324 | 🐛 11 | 🌐 Java | 📅 2026-01-28 - From Java To Kotlin - Your Cheat Sheet For Java To Kotlin
-* [fast-excel/fastexcel](https://github.com/fast-excel/fastexcel) ⭐ 6,289 | 🐛 190 | 🌐 Java | 📅 2026-11-21 - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
-* [javaparser/javaparser](https://github.com/javaparser/javaparser) ⭐ 6,175 | 🐛 455 | 🌐 Java | 📅 2026-11-21 - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
+* [fast-excel/fastexcel](https://github.com/fast-excel/fastexcel) ⭐ 6,290 | 🐛 183 | 🌐 Java | 📅 2026-11-22 - easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具
+* [javaparser/javaparser](https://github.com/javaparser/javaparser) ⭐ 6,176 | 🐛 456 | 🌐 Java | 📅 2026-11-22 - Java 1-21 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 * [LandGrey/SpringBootVulExploit](https://github.com/LandGrey/SpringBootVulExploit) ⭐ 6,148 | 🐛 5 | 🌐 Java | 📅 2021-03-10 - SpringBoot 相关漏洞学习资料，利用方法和技巧合集，黑盒安全评估 check list
 * [opengoofy/hippo4j](https://github.com/opengoofy/hippo4j) ⭐ 6,000 | 🐛 147 | 🌐 Java | 📅 2026-03-12 - 📌 异步线程池框架，支持线程池动态变更&监控&报警，无需修改代码轻松引入。Asynchronous thread pool framework, support Thread Pool Dynamic Change & monitoring & Alarm, no need to modify the code easily introduced.
-* [201206030/novel](https://github.com/201206030/novel) ⭐ 5,864 | 🐛 25 | 🌐 Java | 📅 2026-11-13 - novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。
+* [201206030/novel](https://github.com/201206030/novel) ⭐ 5,863 | 🐛 25 | 🌐 Java | 📅 2026-11-13 - novel 是一套基于时下最新 Java 技术栈 Spring Boot 3 + Vue 3 开发的前后端分离学习型小说项目，配备保姆级教程手把手教你从零开始开发上线一套生产级别的 Java 系统，由小说门户系统、作家后台管理系统、平台后台管理系统等多个子系统构成。包括小说推荐、作品检索、小说排行榜、小说阅读、小说评论、会员中心、作家专区、充值订阅、新闻发布等功能。
 * [ffay/lanproxy](https://github.com/ffay/lanproxy) ⭐ 5,845 | 🐛 143 | 🌐 Java | 📅 2025-11-01 - lanproxy是一个将局域网个人电脑、服务器代理到公网的内网穿透工具，支持tcp流量转发，可支持任何tcp上层协议（访问内网网站、本地支付接口调试、ssh访问、远程桌面、http代理、https代理、socks5代理...）。技术交流QQ群 736294209
-* [ZHENFENG13/spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) ⭐ 5,769 | 🐛 2 | 🌐 Java | 📅 2023-02-27 - :fire: 该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的线上博客项目/企业大型商城系统/前后端分离实践项目等，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring
+* [ZHENFENG13/spring-boot-projects](https://github.com/ZHENFENG13/spring-boot-projects) ⭐ 5,770 | 🐛 2 | 🌐 Java | 📅 2023-02-27 - :fire: 该仓库中主要是 Spring Boot 的入门学习教程以及一些常用的 Spring Boot 实战项目教程，包括 Spring Boot 使用的各种示例代码，同时也包括一些实战项目的项目源码和效果展示，实战项目包括基本的 web 开发以及目前大家普遍使用的线上博客项目/企业大型商城系统/前后端分离实践项目等，摆脱各种 hello world 入门案例的束缚，真正的掌握 Spring
 * [knightliao/disconf](https://github.com/knightliao/disconf) ⭐ 5,517 | 🐛 203 | 🌐 Java | 📅 2023-07-18 - Distributed Configuration Management Platform(分布式配置管理平台)
-* [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT) ⭐ 5,300 | 🐛 42 | 🌐 Java | 📅 2024-07-17 - A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
+* [karma9874/AndroRAT](https://github.com/karma9874/AndroRAT) ⭐ 5,301 | 🐛 42 | 🌐 Java | 📅 2024-07-17 - A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side
 * [tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud) ⭐ 5,195 | 🐛 36 | 🌐 Java | 📅 2026-10-25 - Linux运维监控工具，支持系统硬件信息，内存，CPU，温度，磁盘空间及IO，硬盘smart，GPU，防火墙，网络流量速率等监控，服务接口监测，大屏展示，拓扑图，端口监控，进程监控，docker监控，日志监控，文件防篡改，数据库监控，指令批量下发执行，web ssh，Linux面板(探针)，告警，SNMP监测，K8S，Redis，Nginx，Kafka，资产管理，计划任务，密码管理，工作笔记
 * [hustcc/JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm) ⭐ 5,189 | 🐛 24 | 🌐 Java | 📅 2024-03-30 - 一本关于排序算法的 GitBook 在线书籍 《十大经典排序算法》，多语言实现。
 * [oracle/opengrok](https://github.com/oracle/opengrok) ⭐ 5,033 | 🐛 559 | 🌐 Java | 📅 2026-11-11 - OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 * [mock-server/mockserver](https://github.com/mock-server/mockserver) ⭐ 5,011 | 🐛 0 | 🌐 Java | 📅 2026-11-20 - MockServer enables easy mocking of any system you integrate with via HTTP or HTTPS with clients written in Java, JavaScript and Ruby.  MockServer also includes a proxy that introspects all proxied tra
-* [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) ⭐ 4,878 | 🐛 62 | 🌐 Python | 📅 2026-04-10 - the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leakin
+* [charles2gan/GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool) ⭐ 4,879 | 🐛 62 | 🌐 Python | 📅 2026-04-10 - the fastest and most powerful android decompiler(native tool working without Java VM) for the APK, DEX, ODEX, OAT, JAR, AAR, and CLASS file. which supports malicious behavior detection, privacy leakin
 * [nisrulz/android-tips-tricks](https://github.com/nisrulz/android-tips-tricks) ⭐ 4,746 | 🐛 2 | 🌐 Python | 📅 2026-11-11 - :ballot\_box\_with\_check: \[Cheatsheet] Tips and tricks for Android Development
 * [981011512/--](https://github.com/981011512/--) ⭐ 4,719 | 🐛 32 | 🌐 Java | 📅 2025-04-20 - 停车场系统源码，新能源充电桩系统，停车场小程序，智能停车，Parking system，【功能介绍】：①兼容市面上主流的多家相机，理论上兼容所有硬件，可灵活扩展，②相机识别后数据自动上传到云端并记录，校验相机唯一id和硬件序列号，防止非法数据录入，③用户手机查询停车记录详情可自主缴费(支持微信，支付宝，银行接口支付，支持每个停车场指定不同的商户进行收款)，支付后出场在免费时间内会自动抬杆。④支持a
 * [hansonwang99/Spring-Boot-In-Action](https://github.com/hansonwang99/Spring-Boot-In-Action) ⭐ 4,653 | 🐛 25 | 🌐 Java | 📅 2022-12-16 - Spring Boot 系列实战合集
-* [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) ⭐ 4,496 | 🐛 897 | 🌐 Java | 📅 2026-11-21 - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
+* [DependencyTrack/dependency-track](https://github.com/DependencyTrack/dependency-track) ⭐ 4,498 | 🐛 898 | 🌐 Java | 📅 2026-11-21 - Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.
 * [dreamhead/moco](https://github.com/dreamhead/moco) ⭐ 4,444 | 🐛 145 | 🌐 Java | 📅 2026-10-19 - Easy Setup Stub Server
 * [brianway/java-learning](https://github.com/brianway/java-learning) ⭐ 4,286 | 🐛 5 | 🌐 Java | 📅 2022-01-08 - 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web
-* [jboss-javassist/javassist](https://github.com/jboss-javassist/javassist) ⭐ 4,231 | 🐛 260 | 🌐 Java | 📅 2026-09-02 - Java bytecode engineering toolkit
+* [jboss-javassist/javassist](https://github.com/jboss-javassist/javassist) ⭐ 4,230 | 🐛 260 | 🌐 Java | 📅 2026-09-02 - Java bytecode engineering toolkit
 * [oldmanpushcart/greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy) ⭐ 4,001 | 🐛 75 | 🌐 Java | 📅 2022-10-25 - Java诊断工具
-* [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) ⭐ 3,992 | 🐛 141 | 🌐 Java | 📅 2026-08-13 - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion
+* [shuzijun/leetcode-editor](https://github.com/shuzijun/leetcode-editor) ⭐ 3,993 | 🐛 141 | 🌐 Java | 📅 2026-08-13 - Do Leetcode exercises in IDE, support leetcode.com and leetcode-cn.com, to meet the basic needs of doing exercises.Support theoretically: IntelliJ IDEA PhpStorm WebStorm PyCharm RubyMine AppCode CLion
 * [tchiotludo/akhq](https://github.com/tchiotludo/akhq) ⭐ 3,876 | 🐛 278 | 🌐 Java | 📅 2026-11-20 - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
 * [rbmonster/learning-note](https://github.com/rbmonster/learning-note) ⭐ 3,819 | 🐛 2 | 🌐 Java | 📅 2026-11-03 - Java开发及面试（个人面试、工作总结、资料收集站）
 * [mbechler/marshalsec](https://github.com/mbechler/marshalsec) ⭐ 3,727 | 🐛 5 | 🌐 Java | 📅 2025-01-09 -
@@ -3396,7 +3396,7 @@
 * [java-aodeng/hope-boot](https://github.com/java-aodeng/hope-boot) ⭐ 3,225 | 🐛 7 | 🌐 Java | 📅 2024-08-26 - 🌱 一款现代化的脚手架项目
 * [alibaba/cobar](https://github.com/alibaba/cobar) ⭐ 3,182 | 🐛 52 | 🌐 Java | 📅 2023-08-07 - a proxy for sharding databases and tables
 * [hamibot/hamibot](https://github.com/hamibot/hamibot) ⭐ 3,134 | 🐛 38 | 🌐 Java | 📅 2023-11-01 - 安卓平台自动化工具，无需 root。
-* [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) ⭐ 3,106 | 🐛 363 | 🌐 Java | 📅 2026-11-21 - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by p
+* [sepinf-inc/IPED](https://github.com/sepinf-inc/IPED) ⭐ 3,106 | 🐛 362 | 🌐 Java | 📅 2026-11-22 - IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by p
 * [soot-oss/soot](https://github.com/soot-oss/soot) ⭐ 3,102 | 🐛 348 | 🌐 Java | 📅 2026-11-11 - Soot - A Java optimization framework
 * [mplushnikov/lombok-intellij-plugin](https://github.com/mplushnikov/lombok-intellij-plugin) ⚠️ Archived - Lombok Plugin for IntelliJ IDEA
 * [WindySha/Xpatch](https://github.com/WindySha/Xpatch) ⭐ 3,067 | 🐛 43 | 🌐 Java | 📅 2026-01-04 - This is a tool to repackage apk file, then the apk can load any xposed modules installed in the device. It is another way to hook an app without root device.
@@ -3407,12 +3407,12 @@
 * [zema1/suo5](https://github.com/zema1/suo5) ⭐ 2,851 | 🐛 3 | 🌐 Go | 📅 2026-07-14 - 一款高性能 HTTP 代理隧道工具 | A high-performance http proxy tunneling tool
 * [welk1n/JNDI-Injection-Exploit](https://github.com/welk1n/JNDI-Injection-Exploit) ⭐ 2,835 | 🐛 10 | 🌐 Java | 📅 2023-03-22 - JNDI注入测试工具（A tool which generates JNDI links can start several servers to exploit JNDI Injection vulnerability,like Jackson,Fastjson,etc）
 * [doublechaintech/scm-biz-suite](https://github.com/doublechaintech/scm-biz-suite) ⭐ 2,822 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-10 - 供应链中台系统基础版，集成零售管理, 电子商务, 供应链管理,  财务管理, 车队管理, 仓库管理, 人员管理, 产品管理, 订单管理, 会员管理, 连锁店管理, 加盟管理, 前端React/Ant Design, 后端Java Spring+自有开源框架，全面支持MySQL, PostgreSQL, 全面支持国产数据库南大通用GBase 8s,通过REST接口调用，前后端完全分离。
-* [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) ⭐ 2,814 | 🐛 11 | 🌐 Java | 📅 2023-10-30 - A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing sche
-* [leibnitz27/cfr](https://github.com/leibnitz27/cfr) ⭐ 2,752 | 🐛 150 | 🌐 Java | 📅 2026-06-04 - This is the public repository for the CFR Java decompiler
+* [patrickfav/uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) ⭐ 2,815 | 🐛 11 | 🌐 Java | 📅 2023-10-30 - A cli tool that helps signing and zip aligning single or multiple Android application packages (APKs) with either debug or provided release certificates. It supports v1, v2 and v3 Android signing sche
+* [leibnitz27/cfr](https://github.com/leibnitz27/cfr) ⭐ 2,753 | 🐛 150 | 🌐 Java | 📅 2026-06-04 - This is the public repository for the CFR Java decompiler
 * [threedr3am/learnjavabug](https://github.com/threedr3am/learnjavabug) ⭐ 2,679 | 🐛 9 | 🌐 Java | 📅 2024-03-14 - Java安全相关的漏洞和技术demo，原生Java、Fastjson、Jackson、Hessian2、XML反序列化漏洞利用和Spring、Dubbo、Shiro、CAS、Tomcat、RMI、Nexus等框架\中间件\功能的exploits以及Java Security Manager绕过、Dubbo-Hessian2安全加固等等实践代码。
 * [JoyChou93/java-sec-code](https://github.com/JoyChou93/java-sec-code) ⭐ 2,675 | 🐛 7 | 🌐 Java | 📅 2024-12-02 - Java web common vulnerabilities and security code which is base on springboot and spring security
-* [SummerSec/ShiroAttack2](https://github.com/SummerSec/ShiroAttack2) ⭐ 2,648 | 🐛 2 | 🌐 Java | 📅 2026-06-04 - shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题 <https://github.com/j1anFen/shiro_attack>
-* [Mr-xn/RedTeam\_BlueTeam\_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) ⭐ 2,644 | 🐛 0 | 🌐 Java | 📅 2026-08-11 - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
+* [SummerSec/ShiroAttack2](https://github.com/SummerSec/ShiroAttack2) ⭐ 2,647 | 🐛 2 | 🌐 Java | 📅 2026-06-04 - shiro反序列化漏洞综合利用,包含（回显执行命令/注入内存马）修复原版中NoCC的问题 <https://github.com/j1anFen/shiro_attack>
+* [Mr-xn/RedTeam\_BlueTeam\_HW](https://github.com/Mr-xn/RedTeam_BlueTeam_HW) ⭐ 2,645 | 🐛 0 | 🌐 Java | 📅 2026-08-11 - 红蓝对抗以及护网相关工具和资料，内存shellcode（cs+msf）和内存马查杀工具
 * [nelenkov/android-backup-extractor](https://github.com/nelenkov/android-backup-extractor) ⭐ 2,611 | 🐛 3 | 🌐 Java | 📅 2026-11-20 - Android backup extractor
 * [LSPosed/AndroidHiddenApiBypass](https://github.com/LSPosed/AndroidHiddenApiBypass) ⭐ 2,587 | 🐛 1 | 🌐 Java | 📅 2026-10-10 - LSPass: Bypass restrictions on non-SDK interfaces
 * [nutzam/nutz](https://github.com/nutzam/nutz) ⭐ 2,537 | 🐛 67 | 🌐 Java | 📅 2026-08-04 - Nutz -- Web Framework(Mvc/Ioc/Aop/Dao/Json) for ALL Java developer
@@ -3420,7 +3420,7 @@
 * [huanzi-qch/base-admin](https://github.com/huanzi-qch/base-admin) ⭐ 2,448 | 🐛 13 | 🌐 Java | 📅 2026-06-30 - Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等
 * [jarvis2f/telegram-files](https://github.com/jarvis2f/telegram-files) ⭐ 2,429 | 🐛 33 | 🌐 Java | 📅 2026-11-19 - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 * [aress31/burpgpt](https://github.com/aress31/burpgpt) ⭐ 2,399 | 🐛 15 | 🌐 Java | 📅 2024-06-09 - A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities and enables running traffic-based analysis of any type.
-* [EXALAB/AnLinux-App](https://github.com/EXALAB/AnLinux-App) ⭐ 2,369 | 🐛 204 | 🌐 Java | 📅 2026-11-05 - AnLinux allow you to run Linux on Android without root access.
+* [EXALAB/AnLinux-App](https://github.com/EXALAB/AnLinux-App) ⭐ 2,370 | 🐛 204 | 🌐 Java | 📅 2026-11-05 - AnLinux allow you to run Linux on Android without root access.
 * [Y4tacker/JavaSec](https://github.com/Y4tacker/JavaSec) ⭐ 2,306 | 🐛 1 | 🌐 Java | 📅 2026-03-25 - a rep for documenting my study, may be from 0 to 0.1
 * [SafeGroceryStore/MDUT](https://github.com/SafeGroceryStore/MDUT) ⭐ 2,296 | 🐛 0 | 📅 2026-11-02 - MDUT - Multiple Database Utilization Tools
 * [API-Security/APIKit](https://github.com/API-Security/APIKit) ⭐ 2,295 | 🐛 15 | 🌐 Java | 📅 2024-04-02 - APIKit：Discovery, Scan and Audit APIs Toolkit All In One.
@@ -3435,12 +3435,12 @@
 * [wuyr/PathLayoutManager](https://github.com/wuyr/PathLayoutManager) ⭐ 2,053 | 🐛 8 | 🌐 Java | 📅 2021-10-29 - RecyclerView的LayoutManager，轻松实现各种炫酷、特殊效果，再也不怕产品经理为难！
 * [phith0n/JavaThings](https://github.com/phith0n/JavaThings) ⭐ 2,034 | 🐛 1 | 🌐 Java | 📅 2025-04-09 - Share Things Related to Java - Java安全漫谈笔记相关内容
 * [c0ny1/chunked-coding-converter](https://github.com/c0ny1/chunked-coding-converter) ⭐ 2,020 | 🐛 5 | 🌐 Java | 📅 2022-02-23 - Burp suite 分块传输辅助插件
-* [xuxueli/xxl-sso](https://github.com/xuxueli/xxl-sso) ⭐ 2,010 | 🐛 5 | 🌐 Java | 📅 2026-10-13 - A distributed single-sign-on framework.（单点登录框架XXL-SSO）
+* [xuxueli/xxl-sso](https://github.com/xuxueli/xxl-sso) ⭐ 2,010 | 🐛 2 | 🌐 Java | 📅 2026-11-22 - A distributed single-sign-on framework.（单点登录框架XXL-SSO）
 * [zhegexiaohuozi/SeimiCrawler](https://github.com/zhegexiaohuozi/SeimiCrawler) ⭐ 1,984 | 🐛 30 | 🌐 Java | 📅 2026-11-17 - 一个简单、敏捷、分布式的支持SpringBoot的Java爬虫框架;An agile, distributed crawler framework.
 * [bit4woo/knife](https://github.com/bit4woo/knife) ⭐ 1,971 | 🐛 35 | 🌐 Java | 📅 2026-10-08 - A burp extension that add some useful function to  Context Menu 添加一些右键菜单让burp用起来更顺畅
 * [javahongxi/whatsmars](https://github.com/javahongxi/whatsmars) ⭐ 1,966 | 🐛 3 | 🌐 Java | 📅 2026-11-09 - Java生态研究(Spring Boot + Redis + Dubbo + RocketMQ + Elasticsearch)🔥🔥🔥🔥🔥
 * [feihong-cs/ShiroExploit-Deprecated](https://github.com/feihong-cs/ShiroExploit-Deprecated) ⭐ 1,955 | 🐛 17 | 🌐 Java | 📅 2021-06-04 - Shiro550/Shiro721 一键化利用工具，支持多种回显方式
-* [f0ng/captcha-killer-modified](https://github.com/f0ng/captcha-killer-modified) ⭐ 1,951 | 🐛 3 | 🌐 Java | 📅 2025-08-26 - captcha-killer的修改版，支持关键词识别base64编码的图片，添加免费ocr库，用于验证码爆破，适配新版Burpsuite
+* [f0ng/captcha-killer-modified](https://github.com/f0ng/captcha-killer-modified) ⭐ 1,952 | 🐛 3 | 🌐 Java | 📅 2025-08-26 - captcha-killer的修改版，支持关键词识别base64编码的图片，添加免费ocr库，用于验证码爆破，适配新版Burpsuite
 * [sleeyax/burp-awesome-tls](https://github.com/sleeyax/burp-awesome-tls) ⭐ 1,917 | 🐛 9 | 🌐 Go | 📅 2026-11-20 - Burp extension to evade TLS fingerprinting. Bypass WAF, spoof any browser.
 * [dunwu/java-tutorial](https://github.com/dunwu/java-tutorial) ⭐ 1,917 | 🐛 15 | 🌐 Java | 📅 2024-12-31 - :coffee: 老司机在 Java 技术领域的十年积累。
 * [federicodotta/Brida](https://github.com/federicodotta/Brida) ⭐ 1,902 | 🐛 12 | 🌐 Java | 📅 2025-10-30 - The new bridge between Burp Suite and Frida!
@@ -3453,7 +3453,7 @@
 * [wagiro/BurpBounty](https://github.com/wagiro/BurpBounty) ⭐ 1,813 | 🐛 7 | 🌐 Java | 📅 2024-04-26 - Burp Bounty (Scan Check Builder in BApp Store) is a extension of Burp Suite that allows you, in a quick and simple way, to improve the active and passive scanner by means of personalized rules through
 * [core-lib/xjar](https://github.com/core-lib/xjar) ⭐ 1,810 | 🐛 113 | 🌐 Java | 📅 2024-04-25 - Spring Boot JAR 安全加密运行工具，支持的原生JAR。
 * [pmiaowu/BurpShiroPassiveScan](https://github.com/pmiaowu/BurpShiroPassiveScan) ⭐ 1,804 | 🐛 8 | 🌐 Java | 📅 2022-12-14 - 一款基于BurpSuite的被动式shiro检测插件
-* [ron190/jsql-injection](https://github.com/ron190/jsql-injection) ⭐ 1,791 | 🐛 58 | 🌐 Java | 📅 2026-08-08 - jSQL Injection is a Java application for automatic SQL database injection.
+* [ron190/jsql-injection](https://github.com/ron190/jsql-injection) ⭐ 1,791 | 🐛 60 | 🌐 Java | 📅 2026-08-08 - jSQL Injection is a Java application for automatic SQL database injection.
 * [sqlancer/sqlancer](https://github.com/sqlancer/sqlancer) ⭐ 1,777 | 🐛 148 | 🌐 Java | 📅 2026-11-15 - Automated testing to find logic and performance bugs in database systems
 * [j3ers3/Hello-Java-Sec](https://github.com/j3ers3/Hello-Java-Sec) ⭐ 1,772 | 🐛 2 | 🌐 Java | 📅 2025-03-07 - ☕️ Java Security，安全编码和代码审计
 * [qi4L/JYso](https://github.com/qi4L/JYso) ⭐ 1,759 | 🐛 0 | 🌐 Java | 📅 2026-06-14 - JNDIExploit or a ysoserial.
@@ -3471,12 +3471,12 @@
 * [monkeyWie/proxyee](https://github.com/monkeyWie/proxyee) ⭐ 1,634 | 🐛 112 | 🌐 Java | 📅 2025-04-07 - HTTP proxy server,support HTTPS\&websocket.MITM impl,intercept and tamper HTTPS traffic.
 * [d3vilbug/HackBar](https://github.com/d3vilbug/HackBar) ⭐ 1,632 | 🐛 0 | 🌐 Java | 📅 2021-04-15 - HackBar plugin for Burpsuite
 * [ReaJason/MemShellParty](https://github.com/ReaJason/MemShellParty) ⭐ 1,625 | 🐛 3 | 🌐 Java | 📅 2026-11-19 - Java 内存马开聚会 🎉
-* [wfh45678/radar](https://github.com/wfh45678/radar) ⭐ 1,622 | 🐛 5 | 🌐 Java | 📅 2026-11-21 - 实时风控引擎(Risk Engine)，自定义规则引擎（Rule Script），完美支持中文，适用于反欺诈(Anti-fraud)应用场景，开箱即用！！！移动互联网时代的风险管理利器，你 Get 到了吗？
+* [wfh45678/radar](https://github.com/wfh45678/radar) ⭐ 1,622 | 🐛 16 | 🌐 Java | 📅 2026-11-22 - 实时风控引擎(Risk Engine)，自定义规则引擎（Rule Script），完美支持中文，适用于反欺诈(Anti-fraud)应用场景，开箱即用！！！移动互联网时代的风险管理利器，你 Get 到了吗？
 * [Lotus6/ThinkphpGUI](https://github.com/Lotus6/ThinkphpGUI) ⭐ 1,598 | 🐛 16 | 🌐 Java | 📅 2022-06-01 - Thinkphp(GUI)漏洞利用工具，支持各版本TP漏洞检测，命令执行，getshell。
 * [canyie/pine](https://github.com/canyie/pine) ⭐ 1,550 | 🐛 39 | 🌐 Java | 📅 2025-11-08 - Dynamic java method hook framework on ART. Allowing you to change almost all java methods' behavior dynamically.
 * [gh0stkey/CaA](https://github.com/gh0stkey/CaA) ⭐ 1,530 | 🐛 0 | 🌐 Java | 📅 2026-05-25 - CaA - Collector and Analyzer, Insight into information, exploring with intelligence in a thousand ways.
 * [HummerRisk/HummerRisk](https://github.com/HummerRisk/HummerRisk) ⭐ 1,508 | 🐛 47 | 🌐 Java | 📅 2024-12-26 - HummerRisk 是云原生安全平台，包括混合云安全治理和云原生安全检测。
-* [AutohomeCorp/frostmourne](https://github.com/AutohomeCorp/frostmourne) ⭐ 1,493 | 🐛 33 | 🌐 Java | 📅 2026-04-17 - Frostmourne（霜之哀伤监控平台）是基于Elasticsearch, Prometheus, SkyWalking, InfluxDB，Mysql/TiDB，ClickHouse, SqlServer, IoTDB数据的分布式监控报警系统. Monitor & alert & alarm for Elasticsearch，Prometheus data。主要使用springboot2 +
+* [AutohomeCorp/frostmourne](https://github.com/AutohomeCorp/frostmourne) ⭐ 1,492 | 🐛 33 | 🌐 Java | 📅 2026-04-17 - Frostmourne（霜之哀伤监控平台）是基于Elasticsearch, Prometheus, SkyWalking, InfluxDB，Mysql/TiDB，ClickHouse, SqlServer, IoTDB数据的分布式监控报警系统. Monitor & alert & alarm for Elasticsearch，Prometheus data。主要使用springboot2 +
 * [CYRUS-STUDIO/ApkToolPlus](https://github.com/CYRUS-STUDIO/ApkToolPlus) ⭐ 1,491 | 🐛 21 | 🌐 Java | 📅 2025-04-26 - ApkToolPlus 是一个 apk 逆向分析工具（a apk analysis tools）。
 * [veo/wsMemShell](https://github.com/veo/wsMemShell) ⭐ 1,484 | 🐛 0 | 🌐 Java | 📅 2023-04-10 - WebSocket 内存马/Webshell，一种新型内存马/WebShell技术
 * [achuna33/MYExploit](https://github.com/achuna33/MYExploit) ⭐ 1,481 | 🐛 9 | 🌐 Java | 📅 2022-09-20 - OAExploit一款基于产品的一键扫描工具。
@@ -3501,7 +3501,7 @@
 * [F6JO/RouteVulScan](https://github.com/F6JO/RouteVulScan) ⭐ 1,332 | 🐛 12 | 🌐 Java | 📅 2026-07-10 - Burpsuite - Route Vulnerable Scanning 递归式被动检测脆弱路径的burp插件
 * [4ra1n/super-xray](https://github.com/4ra1n/super-xray) ⚠️ Archived - Web漏洞扫描工具XRAY的GUI启动器
 * [smxiazi/xia\_sql](https://github.com/smxiazi/xia_sql) ⭐ 1,293 | 🐛 31 | 🌐 Java | 📅 2023-05-18 - xia SQL (瞎注)  burp 插件 ，在每个参数后面填加一个单引号，两个单引号，一个简单的判断注入小插件。
-* [bit4woo/Fiora](https://github.com/bit4woo/Fiora) ⭐ 1,278 | 🐛 7 | 🌐 Java | 📅 2026-04-10 - Fiora：漏洞PoC框架Nuclei的图形版。快捷搜索PoC、一键运行Nuclei。即可作为独立程序运行，也可作为burp插件使用。
+* [bit4woo/Fiora](https://github.com/bit4woo/Fiora) ⭐ 1,277 | 🐛 7 | 🌐 Java | 📅 2026-04-10 - Fiora：漏洞PoC框架Nuclei的图形版。快捷搜索PoC、一键运行Nuclei。即可作为独立程序运行，也可作为burp插件使用。
 * [littleRich/VirtualLocation](https://github.com/littleRich/VirtualLocation) ⭐ 1,270 | 🐛 20 | 🌐 Java | 📅 2018-02-06 - 利用Hook技术对APP进行虚拟定位，可修改微信、QQ、以及一些打卡APP等软件，随意切换手机所处位置！
 * [Zo3i/frpMgr](https://github.com/Zo3i/frpMgr) ⭐ 1,262 | 🐛 13 | 🌐 Java | 📅 2023-01-30 - Frp快速配置面板
 * [pmiaowu/BurpFastJsonScan](https://github.com/pmiaowu/BurpFastJsonScan) ⭐ 1,253 | 🐛 7 | 🌐 Java | 📅 2022-10-01 - 一款基于BurpSuite的被动式FastJson检测插件
@@ -3509,11 +3509,11 @@
 * [davinci1012/pinduoduo\_backdoor\_unpacker](https://github.com/davinci1012/pinduoduo_backdoor_unpacker) ⭐ 1,240 | 🐛 16 | 🌐 Java | 📅 2023-03-27 - Samples and Unpacker of malicious backdoors and exploits developed and used by Pinduoduo
 * [vaycore/OneScan](https://github.com/vaycore/OneScan) ⚠️ Archived - OneScan 是一款用于递归目录扫描的 BurpSuite 插件
 * [elkokc/reflector](https://github.com/elkokc/reflector) ⭐ 1,217 | 🐛 14 | 🌐 Java | 📅 2021-02-02 - Burp plugin able to find reflected XSS on page in real-time while browsing on site
-* [payatu/diva-android](https://github.com/payatu/diva-android) ⭐ 1,170 | 🐛 13 | 🌐 Java | 📅 2023-05-19 - DIVA Android - Damn Insecure and vulnerable App for Android
+* [payatu/diva-android](https://github.com/payatu/diva-android) ⭐ 1,172 | 🐛 13 | 🌐 Java | 📅 2023-05-19 - DIVA Android - Damn Insecure and vulnerable App for Android
 * [fit2cloud/riskscanner](https://github.com/fit2cloud/riskscanner) ⚠️ Archived - RiskScanner 是开源的多云安全合规扫描平台，基于 Cloud Custodian 和 Nuclei 引擎，实现对主流公(私)有云资源的安全合规扫描和漏洞扫描。
 * [christophetd/log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app) ⭐ 1,143 | 🐛 1 | 🌐 Java | 📅 2024-04-26 - Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).
 * [microsoft/mssql-jdbc](https://github.com/microsoft/mssql-jdbc) ⭐ 1,137 | 🐛 126 | 🌐 Java | 📅 2026-11-20 - The Microsoft JDBC Driver for SQL Server is a Type 4 JDBC driver that provides database connectivity with SQL Server through the standard JDBC application program interfaces (APIs).
-* [outlaws-bai/Galaxy](https://github.com/outlaws-bai/Galaxy) ⭐ 1,102 | 🐛 1 | 🌐 Java | 📅 2026-08-24 - 一个想让你测试加密流量像测试明文一样简单高效的 Burp 插件。 A Burp plugin that makes testing encrypted traffic as simple and efficient as testing plaintext.
+* [outlaws-bai/Galaxy](https://github.com/outlaws-bai/Galaxy) ⭐ 1,103 | 🐛 1 | 🌐 Java | 📅 2026-08-24 - 一个想让你测试加密流量像测试明文一样简单高效的 Burp 插件。 A Burp plugin that makes testing encrypted traffic as simple and efficient as testing plaintext.
 * [makejavas/EasyCode](https://github.com/makejavas/EasyCode) ⭐ 1,102 | 🐛 57 | 🌐 Java | 📅 2024-11-18 - 基于IntelliJ IDEA开发的代码生成插件，支持自定义任意模板（Java，html，js，xml）。只要是与数据库相关的代码都可以通过自定义模板来生成。支持数据库类型与java类型映射关系配置。支持同时生成生成多张表的代码。每张表有独立的配置信息。完全的个性化定义，规则由你设置。
 * [JackOfMostTrades/gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector) ⭐ 1,093 | 🐛 10 | 🌐 Java | 📅 2021-06-15 - A byte code analyzer for finding deserialization gadget chains in Java applications
 * [gdelmas/IntelliJDashPlugin](https://github.com/gdelmas/IntelliJDashPlugin) ⭐ 1,092 | 🐛 8 | 🌐 Java | 📅 2021-06-08 - A smart and simple plugin that provides keyboard shortcut access for Dash, Velocity or Zeal in IntelliJ IDEA, RubyMine, WebStorm, PhpStorm, PyCharm and Android Studio.
@@ -3524,7 +3524,7 @@
 * [momosecurity/rhizobia\_J](https://github.com/momosecurity/rhizobia_J) ⭐ 1,064 | 🐛 7 | 🌐 Java | 📅 2020-10-13 - JAVA安全SDK及编码规范
 * [nsacyber/GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) ⚠️ Archived - Provides situational awareness of Industrial Control Systems (ICS) and Supervisory Control and Data Acquisition (SCADA) networks in support of network security assessments. #nsacyber
 * [Byron4j/CookBook](https://github.com/Byron4j/CookBook) ⭐ 1,058 | 🐛 5 | 🌐 Java | 📅 2026-05-07 - 🎉🎉🎉JAVA高级架构师技术栈==任何技能通过 “刻意练习” 都可以达到融会贯通的境界，就像烹饪一样，这里有一份JAVA开发技术手册，只需要增加自己练习的次数。🏃🏃🏃
-* [asLody/SandVXposed](https://github.com/asLody/SandVXposed) ⭐ 1,052 | 🐛 45 | 🌐 Java | 📅 2021-11-18 - Xposed environment without root (OS 5.0 - 10.0)
+* [asLody/SandVXposed](https://github.com/asLody/SandVXposed) ⭐ 1,053 | 🐛 45 | 🌐 Java | 📅 2021-11-18 - Xposed environment without root (OS 5.0 - 10.0)
 * [smxiazi/NEW\_xp\_CAPTCHA](https://github.com/smxiazi/NEW_xp_CAPTCHA) ⭐ 1,045 | 🐛 15 | 🌐 Java | 📅 2024-10-11 - xp\_CAPTCHA(瞎跑 白嫖版) burp 验证码 识别 burp插件
 * [momosecurity/momo-code-sec-inspector-java](https://github.com/momosecurity/momo-code-sec-inspector-java) ⭐ 1,043 | 🐛 1 | 🌐 Java | 📅 2022-03-10 - IDEA静态代码安全审计及漏洞一键修复插件
 * [AndroidVTS/android-vts](https://github.com/AndroidVTS/android-vts) ⭐ 1,038 | 🐛 24 | 🌐 Java | 📅 2019-08-02 - Android Vulnerability Test Suite - In the spirit of open data collection, and with the help of the community, let's take a pulse on the state of Android security. NowSecure presents an on-device app t
@@ -3574,8 +3574,8 @@
 * [smxiazi/xia\_Liao](https://github.com/smxiazi/xia_Liao) ⭐ 782 | 🐛 5 | 🌐 Java | 📅 2024-07-09 - xia Liao（瞎料）burp插件 用于Windows在线进程/杀软识别 与 web渗透注册时，快速生成需要的资料用来填写，资料包含：姓名、手机号、身份证、统一社会信用代码、组织机构代码、银行卡，以及各类web语言的hello world输出和生成弱口令字典等。
 * [Y4er/ysoserial](https://github.com/Y4er/ysoserial) ⭐ 779 | 🐛 0 | 🌐 Java | 📅 2026-05-26 - ysoserial修改版，着重修改ysoserial.payloads.util.Gadgets.createTemplatesImpl使其可以通过引入自定义class的形式来执行命令、内存马、反序列化回显。
 * [exp1orer/JNDI-Inject-Exploit](https://github.com/exp1orer/JNDI-Inject-Exploit) ⭐ 776 | 🐛 5 | 🌐 Java | 📅 2022-01-26 - 解决FastJson、Jackson、Log4j2、原生JNDI注入漏洞的高版本JDKBypass利用，探测本地可用反序列化gadget达到命令执行、回显命令执行、内存马注入
+* [rewanthtammana/Damn-Vulnerable-Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank) ⭐ 769 | 🐛 4 | 🌐 Java | 📅 2023-12-13 - Damn Vulnerable Bank is designed to be an intentionally vulnerable android application. This provides an interface to assess your android application security hacking skills.
 * [czz1233/GBByPass](https://github.com/czz1233/GBByPass) ⭐ 768 | 🐛 6 | 🌐 Java | 📅 2026-01-15 - 冰蝎 哥斯拉 WebShell bypass
-* [rewanthtammana/Damn-Vulnerable-Bank](https://github.com/rewanthtammana/Damn-Vulnerable-Bank) ⭐ 768 | 🐛 4 | 🌐 Java | 📅 2023-12-13 - Damn Vulnerable Bank is designed to be an intentionally vulnerable android application. This provides an interface to assess your android application security hacking skills.
 * [oversecured/ovaa](https://github.com/oversecured/ovaa) ⭐ 766 | 🐛 1 | 🌐 Java | 📅 2026-11-11 - Oversecured Vulnerable Android App
 * [CloudExplorer-Dev/CloudExplorer-Lite](https://github.com/CloudExplorer-Dev/CloudExplorer-Lite) ⚠️ Archived - 开源的轻量级云管平台
 * [shuanx/BurpFingerPrint](https://github.com/shuanx/BurpFingerPrint) ⭐ 762 | 🐛 12 | 🌐 Java | 📅 2024-09-05 - BurpSuite插件集成Ehole指纹库并进行常见OA弱口令爆破插件
@@ -3591,7 +3591,7 @@
 * [olacabs/jackhammer](https://github.com/olacabs/jackhammer) ⭐ 737 | 🐛 74 | 🌐 Java | 📅 2024-03-18 - Jackhammer - One Security vulnerability assessment/management tool to solve all the security team problems.
 * [PortSwigger/backslash-powered-scanner](https://github.com/PortSwigger/backslash-powered-scanner) ⭐ 718 | 🐛 2 | 🌐 Java | 📅 2025-04-30 - Finds unknown classes of injection vulnerabilities
 * [yhy0/ExpDemo-JavaFX](https://github.com/yhy0/ExpDemo-JavaFX) ⭐ 714 | 🐛 4 | 🌐 Java | 📅 2021-08-31 - 图形化漏洞利用Demo-JavaFX版
-* [nccgroup/LoggerPlusPlus](https://github.com/nccgroup/LoggerPlusPlus) ⭐ 711 | 🐛 36 | 🌐 Java | 📅 2024-05-31 - Advanced Burp Suite Logging Extension
+* [nccgroup/LoggerPlusPlus](https://github.com/nccgroup/LoggerPlusPlus) ⭐ 712 | 🐛 36 | 🌐 Java | 📅 2024-05-31 - Advanced Burp Suite Logging Extension
 * [OWASP/MASTG-Hacking-Playground](https://github.com/OWASP/MASTG-Hacking-Playground) ⭐ 706 | 🐛 10 | 🌐 Java | 📅 2022-10-31 -
 * [rebeyond/memShell](https://github.com/rebeyond/memShell) ⭐ 704 | 🐛 8 | 🌐 Java | 📅 2018-06-26 - a webshell resides in the memory of java web server
 * [HXSecurity/DongTai-agent-java](https://github.com/HXSecurity/DongTai-agent-java) ⭐ 699 | 🐛 12 | 🌐 Java | 📅 2023-12-25 - Java Agent is a Java application probe of DongTai IAST, which collects method invocation data during runtime of Java application by dynamic hooks.
@@ -3610,7 +3610,7 @@
 * [Canner/wren-engine](https://github.com/Canner/wren-engine) ⚠️ Archived - 🤖 The Semantic Engine for MCP Clients and AI Agents 🔥
 * [su18/MemoryShell](https://github.com/su18/MemoryShell) ⭐ 654 | 🐛 3 | 🌐 Java | 📅 2021-06-25 - JavaWeb MemoryShell Inject/Scan/Killer/Protect Research & Exploring
 * [Ebryx/AES-Killer](https://github.com/Ebryx/AES-Killer) ⭐ 654 | 🐛 7 | 🌐 Java | 📅 2022-08-03 - Burp Plugin to decrypt AES encrypted traffic on the fly
-* [bage2014/study](https://github.com/bage2014/study) ⭐ 651 | 🐛 72 | 🌐 Java | 📅 2026-11-21 - Java全栈工程师学习笔记；Spring、shiro、CAS、oauth2单点登录；cache 、Redis; web 安全及解决思路；redis、mq、quartz、docker；Docker各种组件实践等；mybatis、spring、spring boot实践；分布式锁；基于分库分表等等；Java full-stack engineer study notes; Spring, shiro,
+* [bage2014/study](https://github.com/bage2014/study) ⭐ 651 | 🐛 72 | 🌐 Java | 📅 2026-11-22 - Java全栈工程师学习笔记；Spring、shiro、CAS、oauth2单点登录；cache 、Redis; web 安全及解决思路；redis、mq、quartz、docker；Docker各种组件实践等；mybatis、spring、spring boot实践；分布式锁；基于分库分表等等；Java full-stack engineer study notes; Spring, shiro,
 * [w296488320/XposedAppium](https://github.com/w296488320/XposedAppium) ⭐ 650 | 🐛 7 | 🌐 Java | 📅 2021-01-04 - 基于Xposed自动化框架
 * [artsploit/yaml-payload](https://github.com/artsploit/yaml-payload) ⭐ 644 | 🐛 10 | 🌐 Java | 📅 2025-10-14 - A tiny project for generating SnakeYAML deserialization payloads
 * [xenv/S-mall-ssm](https://github.com/xenv/S-mall-ssm) ⭐ 641 | 🐛 15 | 🌐 Java | 📅 2022-12-16 - 小小商城系统，JavaWEB项目，基于SSM，仿天猫页面，功能齐全，实现了自动处理关联查询的通用Mapper、抽象 BaseService 类、注解鉴权、参数注解校验等
@@ -3654,8 +3654,8 @@
 * [Daybr4ak/ShiroScan](https://github.com/Daybr4ak/ShiroScan) ⭐ 491 | 🐛 1 | 🌐 Java | 📅 2025-11-26 - burp插件 ShiroScan 主要用于框架、无dnslog key检测
 * [woodpecker-appstore/log4j-payload-generator](https://github.com/woodpecker-appstore/log4j-payload-generator) ⭐ 487 | 🐛 2 | 🌐 Java | 📅 2021-12-13 - Log4j jndi injects the Payload generator
 * [welk1n/JNDI-Injection-Bypass](https://github.com/welk1n/JNDI-Injection-Bypass) ⭐ 485 | 🐛 4 | 🌐 Java | 📅 2020-12-09 - Some payloads of JNDI Injection in JDK 1.8.0\_191+
+* [SasanLabs/VulnerableApp](https://github.com/SasanLabs/VulnerableApp) ⭐ 484 | 🐛 115 | 🌐 Java | 📅 2026-11-22 - OWASP VulnerableApp Project: For Security Enthusiasts by Security Enthusiasts.
 * [w296488320/XposedOkHttpCat](https://github.com/w296488320/XposedOkHttpCat) ⭐ 483 | 🐛 1 | 🌐 Java | 📅 2021-10-12 -
-* [SasanLabs/VulnerableApp](https://github.com/SasanLabs/VulnerableApp) ⭐ 483 | 🐛 114 | 🌐 Java | 📅 2026-11-21 - OWASP VulnerableApp Project: For Security Enthusiasts by Security Enthusiasts.
 * [ysrc/Liudao](https://github.com/ysrc/Liudao) ⚠️ Archived - “六道”实时业务风控系统
 * [TheKingOfDuck/MySQLMonitor](https://github.com/TheKingOfDuck/MySQLMonitor) ⭐ 475 | 🐛 7 | 🌐 Java | 📅 2022-06-21 - MySQL实时监控工具(代码审计/黑盒/白盒审计辅助工具)
 * [z2p/sweetPotato](https://github.com/z2p/sweetPotato) ⭐ 472 | 🐛 10 | 🌐 Java | 📅 2023-04-29 - 基于burpsuite的资产分析工具
@@ -3667,7 +3667,7 @@
 * [OakChen/ApkShelling](https://github.com/OakChen/ApkShelling) ⭐ 460 | 🐛 1 | 🌐 Java | 📅 2021-05-13 - 脱Apk使用360加固、梆梆加固、腾讯乐固、百度加固免费版加的壳
 * [threedr3am/gadgetinspector](https://github.com/threedr3am/gadgetinspector) ⭐ 454 | 🐛 0 | 🌐 Java | 📅 2022-03-24 - 一个利用ASM对字节码进行污点传播分析的静态代码审计应用（添加了大量代码注释，适合大家进行源码学习）。也加入了挖掘Fastjson反序列化gadget chains和SQLInject（JdbcTemplate、MyBatis、JPA、Hibernate、原生jdbc等）静态检测功能。并且加入了很多功能以方便进行漏洞自动化挖掘。
 * [framgia/android-emulator-detector](https://github.com/framgia/android-emulator-detector) ⭐ 452 | 🐛 21 | 🌐 Java | 📅 2022-01-20 - Easy to detect android emulator
-* [t0thkr1s/allsafe](https://github.com/t0thkr1s/allsafe) ⭐ 449 | 🐛 2 | 🌐 Java | 📅 2025-09-20 - Intentionally vulnerable Android application.
+* [t0thkr1s/allsafe](https://github.com/t0thkr1s/allsafe) ⭐ 450 | 🐛 2 | 🌐 Java | 📅 2025-09-20 - Intentionally vulnerable Android application.
 * [noidsirius/SootTutorial](https://github.com/noidsirius/SootTutorial) ⭐ 448 | 🐛 8 | 🌐 Java | 📅 2022-12-23 - A step-by-step tutorial for Soot (a Java static analysis framework)
 * [BishopFox/rmiscout](https://github.com/BishopFox/rmiscout) ⭐ 448 | 🐛 7 | 🌐 Java | 📅 2022-09-07 - RMIScout uses wordlist and bruteforce strategies to enumerate Java RMI functions and exploit RMI parameter unmarshalling vulnerabilities
 * [su18/JDBC-Attack](https://github.com/su18/JDBC-Attack) ⭐ 447 | 🐛 0 | 🌐 Java | 📅 2021-09-10 - JDBC Connection URL Attack
@@ -3686,18 +3686,18 @@
 * [iqiyi/Lens](https://github.com/iqiyi/Lens) ⭐ 412 | 🐛 4 | 🌐 Java | 📅 2020-11-02 - 功能简介：一种开发帮助产品研发的效率工具。主要提供了：页面分析、任务分析、网络分析、DataDump、自定义hook 、Data Explorer 等功能。以帮助开发、测试、UI 等同学更便捷的排查和定位问题，提升开发效率。
 * [RIPE-NCC/whois](https://github.com/RIPE-NCC/whois) ⭐ 410 | 🐛 17 | 🌐 Java | 📅 2026-11-19 - RIPE Database whois code repository
 * [zhaojun1998/Shiro-Action](https://github.com/zhaojun1998/Shiro-Action) ⭐ 409 | 🐛 9 | 🌐 Java | 📅 2024-05-16 - 基于 Shiro 的权限管理系统，支持 restful  url 授权，体验地址 :
-* [94fzb/zrlog](https://github.com/94fzb/zrlog) ⭐ 407 | 🐛 10 | 🌐 Java | 📅 2026-11-21 - ZrLog是使用 Java 开发的博客/CMS程序，具有简约，易用，组件化，内存占用低等特点。自带 Markdown 编辑器，让更多的精力放在写作上，而不是花费大量时间在学习程序的使用上。
+* [94fzb/zrlog](https://github.com/94fzb/zrlog) ⭐ 407 | 🐛 11 | 🌐 Java | 📅 2026-11-22 - ZrLog是使用 Java 开发的博客/CMS程序，具有简约，易用，组件化，内存占用低等特点。自带 Markdown 编辑器，让更多的精力放在写作上，而不是花费大量时间在学习程序的使用上。
 * [AntSwordProject/AwesomeScript](https://github.com/AntSwordProject/AwesomeScript) ⭐ 404 | 🐛 0 | 🌐 Java | 📅 2021-05-23 - AntSword Shell 脚本分享/示例
 * [SPuerBRead/Bridge](https://github.com/SPuerBRead/Bridge) ⭐ 403 | 🐛 9 | 🌐 Java | 📅 2025-12-21 - 无回显漏洞测试辅助平台，平台使用Java编写，提供DNSLOG，HTTPLOG等功能，辅助渗透测试过程中无回显漏洞及SSRF等漏洞的验证和利用。
 * [shengqi158/fastjson-remote-code-execute-poc](https://github.com/shengqi158/fastjson-remote-code-execute-poc) ⭐ 402 | 🐛 6 | 🌐 Java | 📅 2022-12-16 - fastjson remote code execute poc 直接用intellij IDEA打开即可 首先编译得到Test.class，然后运行Poc.java
+* [Nicky213Zhang/WeChatAssist](https://github.com/Nicky213Zhang/WeChatAssist) ⭐ 395 | 🐛 9 | 🌐 Java | 📅 2018-01-23 - 一款基于Android AccessibilityService（辅助服务）的自动操作微信的app，实现的功能有，附近的人自动打招呼，通讯录自动发消息，自动加好友，自动点赞评论，自定发漂流瓶，自动加群好友，自动推广公众号等等，同时，使用hook模块进行了微信的模拟定位，附近的人位置随意切换。
 * [somowhere/albedo](https://github.com/somowhere/albedo) ⭐ 395 | 🐛 5 | 🌐 Java | 📅 2024-04-16 - Albedo 是一个Java企业应用开源框架，使用经典技术组合（SpringBoot2.x、MyBatis、Vue），包括核心模块如：组织机构、角色用户、权限授权、数据权限、代码生成、定时任务等。
-* [Nicky213Zhang/WeChatAssist](https://github.com/Nicky213Zhang/WeChatAssist) ⭐ 394 | 🐛 9 | 🌐 Java | 📅 2018-01-23 - 一款基于Android AccessibilityService（辅助服务）的自动操作微信的app，实现的功能有，附近的人自动打招呼，通讯录自动发消息，自动加好友，自动点赞评论，自定发漂流瓶，自动加群好友，自动推广公众号等等，同时，使用hook模块进行了微信的模拟定位，附近的人位置随意切换。
 * [ThisIsLibra/AndroidProjectCreator](https://github.com/ThisIsLibra/AndroidProjectCreator) ⭐ 394 | 🐛 8 | 🌐 Java | 📅 2023-09-18 - Convert an APK to an Android Studio Project using multiple open-source decompilers
 * [Yong-An-Dang/nuclei-plus](https://github.com/Yong-An-Dang/nuclei-plus) ⭐ 393 | 🐛 0 | 🌐 Java | 📅 2025-05-22 - Functional enhancement based on nuclei
 * [l4yn3/micro\_service\_seclab](https://github.com/l4yn3/micro_service_seclab) ⭐ 388 | 🐛 2 | 🌐 Java | 📅 2023-12-25 - Java漏洞靶场
 * [java-deobfuscator/deobfuscator-gui](https://github.com/java-deobfuscator/deobfuscator-gui) ⭐ 388 | 🐛 3 | 🌐 Java | 📅 2022-12-01 - An awesome GUI for an awesome deobfuscator
 * [29DCH/OnlineMall](https://github.com/29DCH/OnlineMall) ⭐ 385 | 🐛 8 | 🌐 Java | 📅 2025-03-10 - :arrow\_up: 基于springboot+thymeleaf+spring data jpa+druid+bootstrap+layui等技术的JavaWeb电商项目(项目包含前后台,分为前台商城系统及后台管理系统。前台商城系统包含首页门户、商品推荐、商品分类、商品搜索、商品展示、商品详情、购物车、订单流程、用户中心、评论(有些bug,当时做得不够好,下一个项目的评论模块比这个好)、模拟支付
-* [spotbugs/sonar-findbugs](https://github.com/spotbugs/sonar-findbugs) ⭐ 382 | 🐛 24 | 🌐 Java | 📅 2026-11-21 - SpotBugs plugin for SonarQube
+* [spotbugs/sonar-findbugs](https://github.com/spotbugs/sonar-findbugs) ⭐ 382 | 🐛 19 | 🌐 Java | 📅 2026-11-22 - SpotBugs plugin for SonarQube
 * [lorateam/Gotrip](https://github.com/lorateam/Gotrip) ⭐ 381 | 🐛 7 | 🌐 Java | 📅 2019-04-10 - 民宿旅游管理系统，SSM框架实现
 * [F6JO/JsRouteScan](https://github.com/F6JO/JsRouteScan) ⭐ 375 | 🐛 11 | 🌐 Java | 📅 2024-06-07 - Burpsuite - Js Route Scan 正则匹配获取响应中的路由进行被动探测与递归目录探测的burp插件
 * [5wimming/gadgetinspector](https://github.com/5wimming/gadgetinspector) ⭐ 375 | 🐛 1 | 🌐 Java | 📅 2024-07-31 - 利用链、漏洞检测工具
@@ -3776,7 +3776,7 @@
 * [ernw/AndroTickler](https://github.com/ernw/AndroTickler) ⭐ 253 | 🐛 0 | 🌐 Java | 📅 2025-03-08 - Penetration testing and auditing toolkit for Android apps.
 * [kezibei/fastjson\_payload](https://github.com/kezibei/fastjson_payload) ⭐ 251 | 🐛 0 | 🌐 Java | 📅 2026-04-15 -
 * [WithSecureLabs/drozer-agent](https://github.com/WithSecureLabs/drozer-agent) ⭐ 250 | 🐛 4 | 🌐 Java | 📅 2026-04-01 - The Android Agent for the Drozer Security Assessment Framework.
-* [altEr1125/ShiroAttack2](https://github.com/altEr1125/ShiroAttack2) ⭐ 249 | 🐛 2 | 🌐 Java | 📅 2023-05-29 - 一款针对Shiro550漏洞进行快速漏洞利用工具。 对 @SummerSec 大佬的项目<https://github.com/SummerSec/ShiroAttack2> ⭐ 2,648 | 🐛 2 | 🌐 Java | 📅 2026-06-04 进行了一些改进。
+* [altEr1125/ShiroAttack2](https://github.com/altEr1125/ShiroAttack2) ⭐ 249 | 🐛 2 | 🌐 Java | 📅 2023-05-29 - 一款针对Shiro550漏洞进行快速漏洞利用工具。 对 @SummerSec 大佬的项目<https://github.com/SummerSec/ShiroAttack2> ⭐ 2,647 | 🐛 2 | 🌐 Java | 📅 2026-06-04 进行了一些改进。
 * [d3mondev/burp-vps-proxy](https://github.com/d3mondev/burp-vps-proxy) ⭐ 248 | 🐛 1 | 🌐 Java | 📅 2025-03-17 - This Burp Suite extension allows for the automatic creation and deletion of an upstream SOCKS5 proxy on popular cloud services.
 * [zifeihan/friday](https://github.com/zifeihan/friday) ⭐ 247 | 🐛 0 | 🌐 Java | 📅 2023-12-28 - java runtime decompiler (java实时反编译工具)
 * [KrystianLi/ExchangeOWA](https://github.com/KrystianLi/ExchangeOWA) ⭐ 245 | 🐛 1 | 🌐 Java | 📅 2023-05-23 - 一款OutLook信息收集工具
@@ -3852,7 +3852,7 @@
 * [wh1t3p1g/ysoserial](https://github.com/wh1t3p1g/ysoserial) ⭐ 157 | 🐛 0 | 🌐 Java | 📅 2020-03-06 - forked from frohoff/ysoserial and added my own payloads.
 * [hope-for/hope-cloud](https://github.com/hope-for/hope-cloud) ⭐ 155 | 🐛 0 | 🌐 Java | 📅 2020-12-22 - :whale: Hope-Cloud 微服务框架
 * [yandex/burp-molly-scanner](https://github.com/yandex/burp-molly-scanner) ⭐ 155 | 🐛 0 | 🌐 Java | 📅 2018-03-01 - Turn your Burp suite into headless active web application vulnerability scanner
-* [dipjyotimetia/HybridTestFramework](https://github.com/dipjyotimetia/HybridTestFramework) ⭐ 154 | 🐛 23 | 🌐 Java | 📅 2026-11-16 - End to End testing of Web, API, Cloud, Events and Security
+* [dipjyotimetia/HybridTestFramework](https://github.com/dipjyotimetia/HybridTestFramework) ⭐ 154 | 🐛 22 | 🌐 Java | 📅 2026-11-16 - End to End testing of Web, API, Cloud, Events and Security
 * [f1tz/BCELCodeman](https://github.com/f1tz/BCELCodeman) ⭐ 153 | 🐛 1 | 🌐 Java | 📅 2022-07-04 - BCEL encode/decode manager for fastjson payloads
 * [mystech7/Burp-Hunter](https://github.com/mystech7/Burp-Hunter) ⭐ 151 | 🐛 1 | 🌐 Java | 📅 2018-08-31 - XSS Hunter Burp Plugin
 * [safe6Sec/ShiroAndFastJson](https://github.com/safe6Sec/ShiroAndFastJson) ⭐ 149 | 🐛 0 | 🌐 Java | 📅 2022-10-04 - shiro加fastjson环境
@@ -4162,142 +4162,142 @@
 * [ScaleSec/vulnado](https://github.com/ScaleSec/vulnado) - Purposely vulnerable Java application to help lead secure coding workshops
 * [onblog/ProjectTree](https://github.com/onblog/ProjectTree) - 新人熟悉项目必备工具！基于AOP开发的一款方法调用链分析框架，简单到只需要一个注解，异步非阻塞，完美嵌入Spring Cloud、Dubbo项目！再也不用担心搞不懂项目！（欢迎Star，🚫禁止Fork）
 * [b2stry/mytwitter](https://github.com/b2stry/mytwitter) - 一个模仿Twitter的Java Web项目（基于原生的Servlet）
-* [dragonite-network/dragonite-java](https://github.com/dragonite-network/dragonite-java) - \[DEPRECATED, please check <https://github.com/tobyxdd/hysteria> ⭐ 22,968 | 🐛 274 | 🌐 Go | 📅 2026-11-19]
+* [dragonite-network/dragonite-java](https://github.com/dragonite-network/dragonite-java) - \[DEPRECATED, please check <https://github.com/tobyxdd/hysteria> ⭐ 22,973 | 🐛 274 | 🌐 Go | 📅 2026-11-19]
 
 ## JavaScript
 
-* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 178,149 | 🐛 94 | 🌐 MDX | 📅 2026-11-21 - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-* [open-webui/open-webui](https://github.com/open-webui/open-webui) ⭐ 159,204 | 🐛 279 | 🌐 Svelte | 📅 2026-11-21 - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-* [iptv-org/iptv](https://github.com/iptv-org/iptv) ⭐ 144,439 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-21 - Collection of publicly available IPTV channels from all over the world
-* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 119,040 | 🐛 2,279 | 🌐 Swift | 📅 2026-11-21 -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-* [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ⭐ 94,738 | 🐛 861 | 🌐 JavaScript | 📅 2026-11-21 - A fancy self-hosted monitoring tool
-* [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 92,142 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-19 - Model Context Protocol Servers
-* [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,838 | 🐛 298 | 🌐 JavaScript | 📅 2026-10-01 - :zap: Dynamically generated stats for your github readmes
-* [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,614 | 🐛 933 | 🌐 JavaScript | 📅 2026-09-30 - The HTML Presentation Framework
-* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) ⭐ 68,479 | 🐛 334 | 🌐 JavaScript | 📅 2026-11-21 - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
-* [marktext/marktext](https://github.com/marktext/marktext) ⭐ 64,241 | 🐛 271 | 🌐 TypeScript | 📅 2026-11-17 - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-* [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) ⭐ 64,097 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-17 - Official electron build of draw\.io
-* [agalwood/Motrix](https://github.com/agalwood/Motrix) ⭐ 58,628 | 🐛 163 | 🌐 TypeScript | 📅 2026-11-21 - A full-featured download manager.
-* [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) ⭐ 54,514 | 🐛 141 | 🌐 JavaScript | 📅 2026-06-17 - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+* [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) ⭐ 178,255 | 🐛 94 | 🌐 MDX | 📅 2026-11-22 - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+* [open-webui/open-webui](https://github.com/open-webui/open-webui) ⭐ 159,261 | 🐛 280 | 🌐 Svelte | 📅 2026-11-22 - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+* [iptv-org/iptv](https://github.com/iptv-org/iptv) ⭐ 144,501 | 🐛 40 | 🌐 TypeScript | 📅 2026-11-22 - Collection of publicly available IPTV channels from all over the world
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 119,132 | 🐛 2,304 | 🌐 Swift | 📅 2026-11-22 -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+* [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ⭐ 94,761 | 🐛 862 | 🌐 JavaScript | 📅 2026-11-22 - A fancy self-hosted monitoring tool
+* [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 92,160 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-19 - Model Context Protocol Servers
+* [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) ⭐ 79,839 | 🐛 298 | 🌐 JavaScript | 📅 2026-10-01 - :zap: Dynamically generated stats for your github readmes
+* [hakimel/reveal.js](https://github.com/hakimel/reveal.js) ⭐ 72,615 | 🐛 932 | 🌐 JavaScript | 📅 2026-09-30 - The HTML Presentation Framework
+* [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) ⭐ 68,509 | 🐛 337 | 🌐 JavaScript | 📅 2026-11-21 - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, and more.
+* [marktext/marktext](https://github.com/marktext/marktext) ⭐ 64,268 | 🐛 274 | 🌐 TypeScript | 📅 2026-11-17 - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+* [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) ⭐ 64,105 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-17 - Official electron build of draw\.io
+* [agalwood/Motrix](https://github.com/agalwood/Motrix) ⭐ 58,681 | 🐛 164 | 🌐 TypeScript | 📅 2026-11-22 - A full-featured download manager.
+* [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) ⭐ 54,528 | 🐛 141 | 🌐 JavaScript | 📅 2026-06-17 - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
 * [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) ⚠️ Archived - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
-* [Unitech/pm2](https://github.com/Unitech/pm2) ⭐ 43,339 | 🐛 1,082 | 🌐 JavaScript | 📅 2026-11-21 - Node.js Production Process Manager with a built-in Load Balancer.
-* [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) ⭐ 41,986 | 🐛 254 | 🌐 JavaScript | 📅 2024-07-28 - The best design tools and plugins for everything 👉
-* [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) ⭐ 40,356 | 🐛 258 | 🌐 JavaScript | 📅 2026-11-19 - Free, simple, and intuitive online database diagram editor and SQL generator.
-* [zadam/trilium](https://github.com/zadam/trilium) ⭐ 39,042 | 🐛 566 | 🌐 TypeScript | 📅 2026-11-21 - Build your personal knowledge base with Trilium Notes
-* [naptha/tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,849 | 🐛 65 | 🌐 JavaScript | 📅 2026-05-17 - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
-* [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) ⭐ 37,689 | 🐛 51 | 🌐 JavaScript | 📅 2026-10-05 - 🤪 A list of funny and tricky JavaScript examples
-* [songquanpeng/one-api](https://github.com/songquanpeng/one-api) ⭐ 37,456 | 🐛 1,041 | 🌐 JavaScript | 📅 2026-01-09 - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key
-* [gchq/CyberChef](https://github.com/gchq/CyberChef) ⭐ 36,495 | 🐛 583 | 🌐 JavaScript | 📅 2026-11-20 - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
-* [carbon-app/carbon](https://github.com/carbon-app/carbon) ⭐ 36,147 | 🐛 78 | 🌐 JavaScript | 📅 2026-11-05 - :black\_heart: Create and share beautiful images of your source code
-* [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) ⭐ 36,142 | 🐛 12 | 🌐 JavaScript | 📅 2025-01-01 - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-* [aosabook/500lines](https://github.com/aosabook/500lines) ⭐ 29,581 | 🐛 59 | 🌐 JavaScript | 📅 2023-08-19 - 500 Lines or Less
-* [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) ⭐ 29,255 | 🐛 92 | 🌐 JavaScript | 📅 2026-06-21 - 🎨 A curated list of delightful VS Code packages and resources.
-* [vernesong/OpenClash](https://github.com/vernesong/OpenClash) ⭐ 28,321 | 🐛 65 | 🌐 JavaScript | 📅 2026-11-20 - A Clash Client For OpenWrt
-* [YMFE/yapi](https://github.com/YMFE/yapi) ⭐ 27,690 | 🐛 1,625 | 🌐 JavaScript | 📅 2024-08-12 - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
-* [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) ⭐ 25,959 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-06 - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类\~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human\~ 公众号「0加1」同步更新
-* [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) ⭐ 25,284 | 🐛 13 | 🌐 Shell | 📅 2026-11-21 - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
-* [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) ⭐ 24,601 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-08 - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-* [node-red/node-red](https://github.com/node-red/node-red) ⭐ 23,865 | 🐛 355 | 🌐 JavaScript | 📅 2026-11-17 - Low-code programming for event-driven applications
-* [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) ⭐ 23,377 | 🐛 141 | 🌐 JavaScript | 📅 2026-09-11 - 中国程序员容易发音错误的单词
+* [Unitech/pm2](https://github.com/Unitech/pm2) ⭐ 43,340 | 🐛 1,082 | 🌐 JavaScript | 📅 2026-11-21 - Node.js Production Process Manager with a built-in Load Balancer.
+* [goabstract/Awesome-Design-Tools](https://github.com/goabstract/Awesome-Design-Tools) ⭐ 41,994 | 🐛 259 | 🌐 JavaScript | 📅 2024-07-28 - The best design tools and plugins for everything 👉
+* [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) ⭐ 40,361 | 🐛 256 | 🌐 JavaScript | 📅 2026-11-22 - Free, simple, and intuitive online database diagram editor and SQL generator.
+* [zadam/trilium](https://github.com/zadam/trilium) ⭐ 39,050 | 🐛 569 | 🌐 TypeScript | 📅 2026-11-22 - Build your personal knowledge base with Trilium Notes
+* [naptha/tesseract.js](https://github.com/naptha/tesseract.js) ⭐ 38,850 | 🐛 65 | 🌐 JavaScript | 📅 2026-05-17 - Pure Javascript OCR for more than 100 Languages 📖🎉🖥
+* [denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs) ⭐ 37,691 | 🐛 51 | 🌐 JavaScript | 📅 2026-10-05 - 🤪 A list of funny and tricky JavaScript examples
+* [songquanpeng/one-api](https://github.com/songquanpeng/one-api) ⭐ 37,463 | 🐛 1,041 | 🌐 JavaScript | 📅 2026-01-09 - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key
+* [gchq/CyberChef](https://github.com/gchq/CyberChef) ⭐ 36,501 | 🐛 584 | 🌐 JavaScript | 📅 2026-11-20 - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
+* [carbon-app/carbon](https://github.com/carbon-app/carbon) ⭐ 36,146 | 🐛 78 | 🌐 JavaScript | 📅 2026-11-05 - :black\_heart: Create and share beautiful images of your source code
+* [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) ⭐ 36,146 | 🐛 12 | 🌐 JavaScript | 📅 2025-01-01 - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
+* [aosabook/500lines](https://github.com/aosabook/500lines) ⭐ 29,580 | 🐛 59 | 🌐 JavaScript | 📅 2023-08-19 - 500 Lines or Less
+* [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) ⭐ 29,261 | 🐛 93 | 🌐 JavaScript | 📅 2026-06-21 - 🎨 A curated list of delightful VS Code packages and resources.
+* [vernesong/OpenClash](https://github.com/vernesong/OpenClash) ⭐ 28,331 | 🐛 64 | 🌐 JavaScript | 📅 2026-11-20 - A Clash Client For OpenWrt
+* [YMFE/yapi](https://github.com/YMFE/yapi) ⭐ 27,689 | 🐛 1,625 | 🌐 JavaScript | 📅 2024-08-12 - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
+* [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) ⭐ 25,961 | 🐛 48 | 🌐 JavaScript | 📅 2026-10-06 - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类\~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human\~ 公众号「0加1」同步更新
+* [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) ⭐ 25,283 | 🐛 13 | 🌐 Shell | 📅 2026-11-21 - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。
+* [qeeqbox/social-analyzer](https://github.com/qeeqbox/social-analyzer) ⭐ 24,602 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-08 - API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+* [node-red/node-red](https://github.com/node-red/node-red) ⭐ 23,868 | 🐛 355 | 🌐 JavaScript | 📅 2026-11-17 - Low-code programming for event-driven applications
+* [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) ⭐ 23,378 | 🐛 141 | 🌐 JavaScript | 📅 2026-09-11 - 中国程序员容易发音错误的单词
 * [Tencent/wepy](https://github.com/Tencent/wepy) ⚠️ Archived - 小程序组件化开发框架
-* [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 22,291 | 🐛 3 | 🌐 Python | 📅 2026-11-18 - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and
-* [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) ⭐ 20,529 | 🐛 400 | 🌐 TypeScript | 📅 2026-11-21 - Fast math typesetting for the web.
+* [MobSF/Mobile-Security-Framework-MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) ⭐ 22,293 | 🐛 3 | 🌐 Python | 📅 2026-11-18 - Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and
+* [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) ⭐ 20,531 | 🐛 401 | 🌐 TypeScript | 📅 2026-11-21 - Fast math typesetting for the web.
 * [chaozh/awesome-blockchain-cn](https://github.com/chaozh/awesome-blockchain-cn) ⭐ 18,947 | 🐛 20 | 🌐 JavaScript | 📅 2024-02-29 - 收集所有区块链(BlockChain)技术开发相关资料，包括Fabric和Ethereum开发资料
-* [cure53/DOMPurify](https://github.com/cure53/DOMPurify) ⭐ 17,540 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-21 - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
-* [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) ⭐ 17,319 | 🐛 218 | 🌐 JavaScript | 📅 2023-06-25 - Revive unavailable songs for Netease Cloud Music
+* [cure53/DOMPurify](https://github.com/cure53/DOMPurify) ⭐ 17,539 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-22 - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
+* [nondanee/UnblockNeteaseMusic](https://github.com/nondanee/UnblockNeteaseMusic) ⭐ 17,320 | 🐛 218 | 🌐 JavaScript | 📅 2023-06-25 - Revive unavailable songs for Netease Cloud Music
 * [dream-num/Luckysheet](https://github.com/dream-num/Luckysheet) ⚠️ Archived - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
-* [avwo/whistle](https://github.com/avwo/whistle) ⭐ 15,773 | 🐛 82 | 🌐 JavaScript | 📅 2026-11-16 - HTTP, HTTP2, HTTPS, Websocket debugging proxy
+* [avwo/whistle](https://github.com/avwo/whistle) ⭐ 15,774 | 🐛 82 | 🌐 JavaScript | 📅 2026-11-16 - HTTP, HTTP2, HTTPS, Websocket debugging proxy
 * [stephentian/33-js-concepts](https://github.com/stephentian/33-js-concepts) ⭐ 15,219 | 🐛 6 | 🌐 JavaScript | 📅 2023-02-28 - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
-* [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) ⭐ 15,135 | 🐛 137 | 🌐 JavaScript | 📅 2026-05-01 - A powerful tool for creating fine-tuning datasets for LLM
+* [ConardLi/easy-dataset](https://github.com/ConardLi/easy-dataset) ⭐ 15,136 | 🐛 137 | 🌐 JavaScript | 📅 2026-05-01 - A powerful tool for creating fine-tuning datasets for LLM
 * [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,923 | 🐛 132 | 🌐 Go | 📅 2026-11-18 - :file\_folder: A file manager / web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
-* [showdownjs/showdown](https://github.com/showdownjs/showdown) ⭐ 14,882 | 🐛 249 | 🌐 JavaScript | 📅 2026-11-16 - A bidirectional Markdown to HTML to Markdown converter written in Javascript
-* [novnc/noVNC](https://github.com/novnc/noVNC) ⭐ 14,226 | 🐛 125 | 🌐 JavaScript | 📅 2026-10-23 - VNC client web application
+* [showdownjs/showdown](https://github.com/showdownjs/showdown) ⭐ 14,881 | 🐛 249 | 🌐 JavaScript | 📅 2026-11-16 - A bidirectional Markdown to HTML to Markdown converter written in Javascript
+* [novnc/noVNC](https://github.com/novnc/noVNC) ⭐ 14,232 | 🐛 125 | 🌐 JavaScript | 📅 2026-10-23 - VNC client web application
 * [unbug/codelf](https://github.com/unbug/codelf) ⭐ 14,121 | 🐛 43 | 🌐 JavaScript | 📅 2025-06-06 - A search tool helps dev to solve the naming things problem.
 * [google/WebFundamentals](https://github.com/google/WebFundamentals) ⚠️ Archived - Former git repo for WebFundamentals on developers.google.com
 * [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) ⚠️ Archived - :speech\_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 * [louischatriot/nedb](https://github.com/louischatriot/nedb) ⭐ 13,525 | 🐛 208 | 🌐 JavaScript | 📅 2025-05-15 - The JavaScript Database, for Node.js, nw\.js, electron and the browser
-* [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ⭐ 13,382 | 🐛 239 | 🌐 JavaScript | 📅 2026-11-21 - Community curated list of templates for the nuclei engine to find security vulnerabilities.
-* [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐ 13,065 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-25 - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
+* [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) ⭐ 13,384 | 🐛 250 | 🌐 JavaScript | 📅 2026-11-22 - Community curated list of templates for the nuclei engine to find security vulnerabilities.
+* [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) ⭐ 13,066 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-25 - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 * [star7th/showdoc](https://github.com/star7th/showdoc) ⭐ 12,882 | 🐛 238 | 🌐 PHP | 📅 2026-11-21 - ShowDoc is a tool greatly applicable for an IT team to share documents online一个非常适合IT团队的在线API文档、技术文档工具
-* [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) ⭐ 12,801 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-21 - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
+* [HackTricks-wiki/hacktricks](https://github.com/HackTricks-wiki/hacktricks) ⭐ 12,802 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-22 - Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 * [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) ⭐ 12,611 | 🐛 29 | 🌐 JavaScript | 📅 2024-01-10 - An elegant dashboard
-* [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) ⭐ 12,490 | 🐛 198 | 🌐 JavaScript | 📅 2026-10-31 - OSINT Framework
-* [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) ⭐ 12,434 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-26 - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
+* [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework) ⭐ 12,495 | 🐛 202 | 🌐 JavaScript | 📅 2026-10-31 - OSINT Framework
+* [viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy) ⭐ 12,441 | 🐛 41 | 🌐 JavaScript | 📅 2026-10-26 - 📱 Graphical Scrcpy to display and control Android, devices powered by Electron.
 * [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) ⭐ 12,120 | 🐛 449 | 🌐 JavaScript | 📅 2025-06-17 - one for all free music in china (chrome extension, also works for firefox)
-* [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) ⭐ 12,012 | 🐛 74 | 🌐 JavaScript | 📅 2024-07-22 - A curated list of CTF frameworks, libraries, resources and softwares
-* [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) ⭐ 11,985 | 🐛 31 | 🌐 JavaScript | 📅 2026-11-21 - Program for determining types of files for Windows, Linux and MacOS.
-* [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) ⭐ 11,863 | 🐛 129 | 🌐 JavaScript | 📅 2026-04-22 - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
+* [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) ⭐ 12,013 | 🐛 76 | 🌐 JavaScript | 📅 2024-07-22 - A curated list of CTF frameworks, libraries, resources and softwares
+* [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) ⭐ 11,992 | 🐛 31 | 🌐 JavaScript | 📅 2026-11-22 - Program for determining types of files for Windows, Linux and MacOS.
+* [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) ⭐ 11,876 | 🐛 129 | 🌐 JavaScript | 📅 2026-04-22 - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 * [leanote/leanote](https://github.com/leanote/leanote) ⭐ 11,665 | 🐛 517 | 🌐 JavaScript | 📅 2023-11-27 - Not Just A Notepad! (golang + mongodb) <http://leanote.org>
-* [listen1/listen1\_desktop](https://github.com/listen1/listen1_desktop) ⭐ 11,451 | 🐛 956 | 🌐 JavaScript | 📅 2026-04-07 - one for all free music in china (Windows, Mac, Linux desktop)
+* [listen1/listen1\_desktop](https://github.com/listen1/listen1_desktop) ⭐ 11,453 | 🐛 956 | 🌐 JavaScript | 📅 2026-04-07 - one for all free music in china (Windows, Mac, Linux desktop)
 * [xiandanin/magnetW](https://github.com/xiandanin/magnetW) ⚠️ Archived - \[已失效，不再维护]
 * [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) ⭐ 11,189 | 🐛 93 | 🌐 JavaScript | 📅 2024-08-08 - A collection of awesome readme templates to display on your profile
 * [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) ⭐ 11,164 | 🐛 4 | 🌐 JavaScript | 📅 2024-06-19 - ApacheCN 数据结构与算法译文集
 * [openspug/spug](https://github.com/openspug/spug) ⭐ 11,117 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-07 - 开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。
-* [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) ⭐ 11,113 | 🐛 108 | 🌐 TypeScript | 📅 2026-11-20 - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
-* [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) ⭐ 10,946 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-28 - 计算机速成课 (全40集 2018年5月1号完成) B 站播放量 442 万
-* [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,899 | 🐛 17 | 🌐 Python | 📅 2026-11-03 - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
+* [bluewave-labs/Checkmate](https://github.com/bluewave-labs/Checkmate) ⭐ 11,115 | 🐛 109 | 🌐 TypeScript | 📅 2026-11-20 - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations.
+* [1c7/Crash-Course-Computer-Science-Chinese](https://github.com/1c7/Crash-Course-Computer-Science-Chinese) ⭐ 10,947 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-28 - 计算机速成课 (全40集 2018年5月1号完成) B 站播放量 442 万
+* [OffcierCia/DeFi-Developer-Road-Map](https://github.com/OffcierCia/DeFi-Developer-Road-Map) ⭐ 10,900 | 🐛 18 | 🌐 Python | 📅 2026-11-03 - DeFi Developer roadmap is a curated Developer handbook which includes a list of the best tools for DApps development, resources and references!
 * [vuejs/vue-hackernews-2.0](https://github.com/vuejs/vue-hackernews-2.0) ⭐ 10,838 | 🐛 146 | 🌐 JavaScript | 📅 2022-12-08 - HackerNews clone built with Vue 2.0, vue-router & vuex, with server-side rendering
-* [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) ⭐ 10,784 | 🐛 230 | 🌐 JavaScript | 📅 2026-11-20 - Integrating ChatGPT into your browser deeply, everything you need is here
-* [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) ⭐ 10,350 | 🐛 132 | 🌐 JavaScript | 📅 2024-04-05 - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
-* [aksakalli/gtop](https://github.com/aksakalli/gtop) ⭐ 9,938 | 🐛 41 | 🌐 JavaScript | 📅 2025-11-06 - System monitoring dashboard for terminal
-* [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) ⭐ 9,733 | 🐛 57 | 🌐 Python | 📅 2026-06-10 - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
-* [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,493 | 🐛 40 | 🌐 JavaScript | 📅 2026-11-16 - WebGoat is a deliberately insecure application
-* [evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei) ⭐ 9,492 | 🐛 3 | 🌐 JavaScript | 📅 2021-07-01 - Evil Huawei - 华为作过的恶
+* [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) ⭐ 10,785 | 🐛 230 | 🌐 JavaScript | 📅 2026-11-20 - Integrating ChatGPT into your browser deeply, everything you need is here
+* [ziahamza/webui-aria2](https://github.com/ziahamza/webui-aria2) ⭐ 10,349 | 🐛 132 | 🌐 JavaScript | 📅 2024-04-05 - The aim for this project is to create the worlds best and hottest interface to interact with aria2. Very simple to use, just download and open index.html in any web browser.
+* [aksakalli/gtop](https://github.com/aksakalli/gtop) ⭐ 9,939 | 🐛 41 | 🌐 JavaScript | 📅 2025-11-06 - System monitoring dashboard for terminal
+* [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) ⭐ 9,760 | 🐛 57 | 🌐 Python | 📅 2026-06-10 - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
+* [evil-huawei/evil-huawei](https://github.com/evil-huawei/evil-huawei) ⭐ 9,494 | 🐛 3 | 🌐 JavaScript | 📅 2021-07-01 - Evil Huawei - 华为作过的恶
+* [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) ⭐ 9,493 | 🐛 41 | 🌐 JavaScript | 📅 2026-11-16 - WebGoat is a deliberately insecure application
 * [hacksalot/HackMyResume](https://github.com/hacksalot/HackMyResume) ⭐ 9,325 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-03 - Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.
 * [trazyn/ieaseMusic](https://github.com/trazyn/ieaseMusic) ⚠️ Archived - 网易云音乐第三方
 * [flutterchina/flutter-in-action](https://github.com/flutterchina/flutter-in-action) ⭐ 8,589 | 🐛 121 | 🌐 JavaScript | 📅 2022-12-14 - 《Flutter实战》书稿。第二版书稿已上传，请移步新Repo。
 * [cerebroapp/cerebro](https://github.com/cerebroapp/cerebro) ⭐ 8,576 | 🐛 73 | 🌐 JavaScript | 📅 2026-10-30 - 🔵 Cerebro is an open-source launcher to improve your productivity and efficiency
-* [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) ⭐ 8,092 | 🐛 373 | 🌐 JavaScript | 📅 2026-11-20 - Collaborative office suite, end-to-end encrypted and open-source.
+* [cryptpad/cryptpad](https://github.com/cryptpad/cryptpad) ⭐ 8,095 | 🐛 373 | 🌐 JavaScript | 📅 2026-11-20 - Collaborative office suite, end-to-end encrypted and open-source.
 * [elasticsearch-dump/elasticsearch-dump](https://github.com/elasticsearch-dump/elasticsearch-dump) ⭐ 7,947 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-01 - Import and export tools for elasticsearch & opensearch
+* [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) ⭐ 7,884 | 🐛 200 | 🌐 JavaScript | 📅 2026-11-22 - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
 * [alibaba/anyproxy](https://github.com/alibaba/anyproxy) ⭐ 7,880 | 🐛 249 | 🌐 JavaScript | 📅 2023-03-06 - A fully configurable http/https proxy in NodeJS
-* [mendableai/firecrawl-mcp-server](https://github.com/mendableai/firecrawl-mcp-server) ⭐ 7,872 | 🐛 200 | 🌐 JavaScript | 📅 2026-11-21 - Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
-* [DIYgod/APlayer](https://github.com/DIYgod/APlayer) ⭐ 7,695 | 🐛 206 | 🌐 JavaScript | 📅 2024-02-23 - :lollipop: Wow, such a beautiful HTML5 music player
+* [DIYgod/APlayer](https://github.com/DIYgod/APlayer) ⭐ 7,694 | 🐛 206 | 🌐 JavaScript | 📅 2024-02-23 - :lollipop: Wow, such a beautiful HTML5 music player
 * [wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger) ⭐ 7,621 | 🐛 106 | 🌐 JavaScript | 📅 2025-09-01 - 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 * [ipfs/js-ipfs](https://github.com/ipfs/js-ipfs) ⚠️ Archived - IPFS implementation in JavaScript
-* [gitalk/gitalk](https://github.com/gitalk/gitalk) ⭐ 7,154 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-19 - Gitalk is a modern comment component based on Github Issue and Preact.
-* [sonnylazuardi/cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) ⭐ 7,124 | 🐛 97 | 🌐 JavaScript | 📅 2026-07-26 - Cursor Talk To Figma MCP
+* [gitalk/gitalk](https://github.com/gitalk/gitalk) ⭐ 7,153 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-19 - Gitalk is a modern comment component based on Github Issue and Preact.
+* [sonnylazuardi/cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) ⭐ 7,125 | 🐛 96 | 🌐 JavaScript | 📅 2026-07-26 - Cursor Talk To Figma MCP
 * [Reamd7/notion-zh\_CN](https://github.com/Reamd7/notion-zh_CN) ⭐ 6,970 | 🐛 78 | 🌐 JavaScript | 📅 2024-04-27 - notion 中文化
 * [beakerbrowser/beaker](https://github.com/beakerbrowser/beaker) ⚠️ Archived - An experimental peer-to-peer Web browser
-* [lanyulei/ferry](https://github.com/lanyulei/ferry) ⭐ 6,619 | 🐛 72 | 🌐 JavaScript | 📅 2025-03-21 - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
+* [lanyulei/ferry](https://github.com/lanyulei/ferry) ⭐ 6,617 | 🐛 72 | 🌐 JavaScript | 📅 2025-03-21 - 本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。
 * [fkling/astexplorer](https://github.com/fkling/astexplorer) ⭐ 6,542 | 🐛 156 | 🌐 JavaScript | 📅 2024-04-26 - A web tool to explore the ASTs generated by various parsers.
-* [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) ⭐ 6,211 | 🐛 385 | 🌐 JavaScript | 📅 2026-11-14 - Map your keys for web surfing, expand your browser with javascript and keyboard.
-* [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) ⭐ 6,145 | 🐛 3 | 🌐 TypeScript | 📅 2026-11-21 - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
+* [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) ⭐ 6,213 | 🐛 384 | 🌐 JavaScript | 📅 2026-11-14 - Map your keys for web surfing, expand your browser with javascript and keyboard.
+* [clusterzx/paperless-ai](https://github.com/clusterzx/paperless-ai) ⭐ 6,149 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-22 - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
 * [hound-search/hound](https://github.com/hound-search/hound) ⭐ 5,898 | 🐛 116 | 🌐 JavaScript | 📅 2026-11-21 - Lightning fast code searching made easy
 * [foru17/front-end-collect](https://github.com/foru17/front-end-collect) ⭐ 5,718 | 🐛 3 | 🌐 JavaScript | 📅 2019-03-23 - 分享自己长期关注的前端开发相关的优秀网站、博客、以及活跃开发者
 * [Louiszhai/tool](https://github.com/Louiszhai/tool) ⭐ 5,679 | 🐛 16 | 🌐 JavaScript | 📅 2022-08-25 - 开发效率提升：Mac生产力工具链推荐
 * [arachnys/cabot](https://github.com/arachnys/cabot) ⭐ 5,675 | 🐛 166 | 🌐 JavaScript | 📅 2023-09-10 - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
-* [tangyoha/telegram\_media\_downloader](https://github.com/tangyoha/telegram_media_downloader) ⭐ 5,668 | 🐛 110 | 🌐 JavaScript | 📅 2026-03-04 - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
+* [tangyoha/telegram\_media\_downloader](https://github.com/tangyoha/telegram_media_downloader) ⭐ 5,670 | 🐛 111 | 🌐 JavaScript | 📅 2026-03-04 - 基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file
 * [blinkfox/hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery) ⭐ 5,352 | 🐛 272 | 🌐 JavaScript | 📅 2024-07-02 - A beautiful hexo blog theme with material design and responsive design.一个基于材料设计和响应式设计而成的全面、美观的Hexo主题。国内访问：<http://blinkfox.com>
-* [CreditTone/hooker](https://github.com/CreditTone/hooker) ⭐ 5,345 | 🐛 49 | 🌐 JavaScript | 📅 2026-09-11 - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
-* [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) ⭐ 5,252 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-21 - Claude can perform Web Search | Exa with MCP (Model Context Protocol)
+* [CreditTone/hooker](https://github.com/CreditTone/hooker) ⭐ 5,347 | 🐛 49 | 🌐 JavaScript | 📅 2026-09-11 - 🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning
+* [exa-labs/exa-mcp-server](https://github.com/exa-labs/exa-mcp-server) ⭐ 5,256 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-21 - Claude can perform Web Search | Exa with MCP (Model Context Protocol)
 * [s0md3v/AwesomeXSS](https://github.com/s0md3v/AwesomeXSS) ⭐ 5,159 | 🐛 1 | 🌐 JavaScript | 📅 2024-10-30 - Awesome XSS stuff
 * [aui/font-spider](https://github.com/aui/font-spider) ⭐ 5,139 | 🐛 81 | 🌐 JavaScript | 📅 2022-12-30 - Smart webfont compression and format conversion tool
 * [kevana/ui-for-docker](https://github.com/kevana/ui-for-docker) ⭐ 5,054 | 🐛 42 | 🌐 JavaScript | 📅 2017-07-07 - A web interface for Docker, formerly known as DockerUI. This repo is not maintained
-* [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,038 | 🐛 142 | 🌐 JavaScript | 📅 2026-02-28 - An enhancer/customiser for the all-in-one productivity workspace Notion
-* [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) ⭐ 4,932 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-18 - DNS over HTTPS config profiles for iOS & macOS
-* [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) ⭐ 4,928 | 🐛 51 | 🌐 JavaScript | 📅 2026-11-20 - A collaborative, multi-platform, red teaming framework
+* [notion-enhancer/notion-enhancer](https://github.com/notion-enhancer/notion-enhancer) ⭐ 5,039 | 🐛 142 | 🌐 JavaScript | 📅 2026-02-28 - An enhancer/customiser for the all-in-one productivity workspace Notion
+* [paulmillr/encrypted-dns](https://github.com/paulmillr/encrypted-dns) ⭐ 4,935 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-18 - DNS over HTTPS config profiles for iOS & macOS
+* [its-a-feature/Mythic](https://github.com/its-a-feature/Mythic) ⭐ 4,931 | 🐛 51 | 🌐 JavaScript | 📅 2026-11-20 - A collaborative, multi-platform, red teaming framework
 * [Studio-42/elFinder](https://github.com/Studio-42/elFinder) ⭐ 4,815 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-03 - 📁 Open-source file manager for web, written in JavaScript using jQuery and jQuery UI
 * [otale/tale](https://github.com/otale/tale) ⚠️ Archived - 🦄 Best beautiful java blog, worth a try
 * [mdnice/markdown-nice](https://github.com/mdnice/markdown-nice) ⭐ 4,682 | 🐛 135 | 🌐 JavaScript | 📅 2023-10-06 - 支持主题设计的 Markdown 编辑器，让排版变 Nice
 * [knownsec/KCon](https://github.com/knownsec/KCon) ⭐ 4,653 | 🐛 5 | 🌐 JavaScript | 📅 2026-11-03 - KCon is a famous Hacker Con powered by Knownsec Team.
-* [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc) ⭐ 4,639 | 🐛 89 | 🌐 JavaScript | 📅 2026-10-21 - The python library for real-time communication
+* [freddyaboulton/fastrtc](https://github.com/freddyaboulton/fastrtc) ⭐ 4,641 | 🐛 89 | 🌐 JavaScript | 📅 2026-10-21 - The python library for real-time communication
 * [lyricat/wechat-format](https://github.com/lyricat/wechat-format) ⭐ 4,559 | 🐛 4 | 🌐 JavaScript | 📅 2025-09-13 - 微信公众号排版编辑器，转换 Markdown 到微信特制的 HTML
-* [yuzutech/kroki](https://github.com/yuzutech/kroki) ⭐ 4,408 | 🐛 132 | 🌐 JavaScript | 📅 2026-11-20 - Creates diagrams from textual descriptions!
+* [yuzutech/kroki](https://github.com/yuzutech/kroki) ⭐ 4,412 | 🐛 131 | 🌐 JavaScript | 📅 2026-11-22 - Creates diagrams from textual descriptions!
 * [lazy-luo/smarGate](https://github.com/lazy-luo/smarGate) ⭐ 4,370 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-21 - 内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！
 * [gavinkwoe/weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack) ⭐ 4,266 | 🐛 41 | 🌐 JavaScript | 📅 2017-01-10 - 【应用号】IDE + 破解 + Demo
 * [HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader) ⭐ 4,222 | 🐛 33 | 🌐 JavaScript | 📅 2025-03-19 - M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。
 * [zhongshaofa/layuimini](https://github.com/zhongshaofa/layuimini) ⭐ 4,212 | 🐛 49 | 🌐 JavaScript | 📅 2024-05-09 - 后台admin前端模板，基于 layui 编写的最简洁、易用的后台框架模板。只需提供一个接口就直接初始化整个框架，无需复杂操作。
 * [apiaryio/dredd](https://github.com/apiaryio/dredd) ⚠️ Archived - Language-agnostic HTTP API Testing Tool
-* [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) ⭐ 4,107 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-17 - Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。
+* [jaywcjlove/free-font](https://github.com/jaywcjlove/free-font) ⭐ 4,108 | 🐛 6 | 🌐 JavaScript | 📅 2026-11-17 - Collection of Free English/Chinese Fonts for Commercial Use. 收录可商用的免费英文/汉字字体。
 * [nklayman/vue-cli-plugin-electron-builder](https://github.com/nklayman/vue-cli-plugin-electron-builder) ⭐ 4,060 | 🐛 78 | 🌐 JavaScript | 📅 2023-06-02 - Easily Build Your Vue.js App For Desktop With Electron
 * [imsun/gitment](https://github.com/imsun/gitment) ⭐ 4,038 | 🐛 138 | 🌐 JavaScript | 📅 2021-10-05 - A comment system based on GitHub Issues.
-* [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) ⭐ 4,004 | 🐛 106 | 🌐 Python | 📅 2026-11-02 - pull decrypted ipa from jailbreak device
+* [AloneMonkey/frida-ios-dump](https://github.com/AloneMonkey/frida-ios-dump) ⭐ 4,010 | 🐛 106 | 🌐 Python | 📅 2026-11-02 - pull decrypted ipa from jailbreak device
 * [eth0izzle/shhgit](https://github.com/eth0izzle/shhgit) ⭐ 3,994 | 🐛 33 | 🌐 JavaScript | 📅 2025-02-28 - Ah shhgit! Find secrets in your code. Secrets detection for your GitHub, GitLab and Bitbucket repositories.
 * [KuroLabs/stegcloak](https://github.com/KuroLabs/stegcloak) ⭐ 3,939 | 🐛 14 | 🌐 JavaScript | 📅 2024-10-01 - Hide secrets with invisible characters in plain text securely using passwords 🧙🏻‍♂️⭐
 * [bilibili-helper/bilibili-helper-o](https://github.com/bilibili-helper/bilibili-helper-o) ⭐ 3,845 | 🐛 89 | 🌐 JavaScript | 📅 2021-06-11 - 哔哩哔哩 (bilibili.com) 辅助工具，可以替换播放器、推送通知并进行一些快捷操作
 * [egoist/docute](https://github.com/egoist/docute) ⚠️ Archived - 📚 Effortless documentation, done right.
 * [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) ⭐ 3,793 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-17 - a mind mapping library built by javascript
-* [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) ⭐ 3,788 | 🐛 214 | 🌐 JavaScript | 📅 2026-09-22 - Cloud Security Posture Management (CSPM)
+* [aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit) ⭐ 3,789 | 🐛 214 | 🌐 JavaScript | 📅 2026-09-22 - Cloud Security Posture Management (CSPM)
 * [mumuy/relationship](https://github.com/mumuy/relationship) ⭐ 3,741 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-18 - 中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機\_Chinese kinship system.
 * [homerchen19/nba-go](https://github.com/homerchen19/nba-go) ⭐ 3,716 | 🐛 57 | 🌐 JavaScript | 📅 2023-01-09 - 🏀 💻 The finest NBA CLI.
 * [aliyun/oss-browser](https://github.com/aliyun/oss-browser) ⭐ 3,622 | 🐛 157 | 🌐 JavaScript | 📅 2024-07-26 - OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。
@@ -4305,9 +4305,9 @@
 * [geekcompany/DeerResume](https://github.com/geekcompany/DeerResume) ⭐ 3,454 | 🐛 18 | 🌐 JavaScript | 📅 2018-05-07 - MarkDown在线简历工具，可在线预览、编辑和生成PDF。\[此项目已不再维护，建议使用 cv.ftqq.com 替代 ]
 * [hug-sun/element3](https://github.com/hug-sun/element3) ⭐ 3,269 | 🐛 46 | 🌐 JavaScript | 📅 2026-02-27 - A Vue.js 3.0 UI Toolkit for IT Education. Build with JS\&TS
 * [zmister2016/MrDoc](https://github.com/zmister2016/MrDoc) ⭐ 3,245 | 🐛 40 | 🌐 JavaScript | 📅 2026-11-20 - mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。
-* [m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,152 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-12 - Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
+* [m0bilesecurity/RMS-Runtime-Mobile-Security](https://github.com/m0bilesecurity/RMS-Runtime-Mobile-Security) ⭐ 3,153 | 🐛 12 | 🌐 JavaScript | 📅 2026-10-12 - Runtime Mobile Security (RMS) 📱🔥  - is a powerful web interface that helps you to manipulate Android and iOS Apps at Runtime
 * [hyj1991/easy-monitor](https://github.com/hyj1991/easy-monitor) ⭐ 3,128 | 🐛 6 | 🌐 JavaScript | 📅 2023-10-10 - 企业级 Node.js 应用性能监控与线上故障定位解决方案
-* [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) ⭐ 3,062 | 🐛 93 | 🌐 JavaScript | 📅 2026-11-18 - A speed test analysis software that shows your internet speed for up to 30 days
+* [gnmyt/MySpeed](https://github.com/gnmyt/MySpeed) ⭐ 3,061 | 🐛 93 | 🌐 JavaScript | 📅 2026-11-18 - A speed test analysis software that shows your internet speed for up to 30 days
 * [rohanrhu/gdb-frontend](https://github.com/rohanrhu/gdb-frontend) ⭐ 3,037 | 🐛 16 | 🌐 JavaScript | 📅 2025-11-12 - ☕ GDBFrontend is an easy, flexible and extensible gui debugger.
 * [zmzhang8/Photon](https://github.com/zmzhang8/Photon) ⚠️ Archived - A lightweight multi-threaded downloader based on aria2.
 * [wetools/wept](https://github.com/wetools/wept) ⭐ 2,967 | 🐛 45 | 🌐 JavaScript | 📅 2023-01-27 - 微信小程序多端实时运行工具
@@ -4320,15 +4320,15 @@
 * [satazor/js-spark-md5](https://github.com/satazor/js-spark-md5) ⭐ 2,609 | 🐛 14 | 🌐 JavaScript | 📅 2023-11-14 - Lightning fast normal and incremental md5 for javascript
 * [llh911001/mostly-adequate-guide-chinese](https://github.com/llh911001/mostly-adequate-guide-chinese) ⭐ 2,545 | 🐛 8 | 🌐 JavaScript | 📅 2023-03-16 - 函数式编程指南中文版
 * [iddoeldor/frida-snippets](https://github.com/iddoeldor/frida-snippets) ⭐ 2,537 | 🐛 5 | 🌐 JavaScript | 📅 2024-11-29 - Hand-crafted Frida examples
-* [mandatoryprogrammer/xsshunter-express](https://github.com/mandatoryprogrammer/xsshunter-express) ⭐ 2,484 | 🐛 28 | 🌐 JavaScript | 📅 2024-03-07 - An easy-to-setup version of XSS Hunter. Sets up in five minutes and requires no maintenance!
+* [mandatoryprogrammer/xsshunter-express](https://github.com/mandatoryprogrammer/xsshunter-express) ⭐ 2,486 | 🐛 28 | 🌐 JavaScript | 📅 2024-03-07 - An easy-to-setup version of XSS Hunter. Sets up in five minutes and requires no maintenance!
 * [archerysec/archerysec](https://github.com/archerysec/archerysec) ⭐ 2,476 | 🐛 40 | 🌐 JavaScript | 📅 2025-06-11 - ASOC, ASPM, DevSecOps, Vulnerability Management Using ArcherySec.
-* [terjanq/Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads) ⭐ 2,397 | 🐛 0 | 🌐 JavaScript | 📅 2024-11-29 - A collection of tiny XSS Payloads that can be used in different contexts. <https://tinyxss.terjanq.me>
+* [terjanq/Tiny-XSS-Payloads](https://github.com/terjanq/Tiny-XSS-Payloads) ⭐ 2,398 | 🐛 0 | 🌐 JavaScript | 📅 2024-11-29 - A collection of tiny XSS Payloads that can be used in different contexts. <https://tinyxss.terjanq.me>
 * [kgretzky/pwndrop](https://github.com/kgretzky/pwndrop) ⭐ 2,288 | 🐛 45 | 🌐 JavaScript | 📅 2023-02-25 - Self-deployable file hosting service for red teamers, allowing to easily upload and share payloads over HTTP and WebDAV.
 * [evilcos/xssor2](https://github.com/evilcos/xssor2) ⭐ 2,219 | 🐛 4 | 🌐 JavaScript | 📅 2021-12-12 - XSS'OR - Hack with JavaScript.
 * [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) ⭐ 2,192 | 🐛 2 | 🌐 TypeScript | 📅 2026-11-10 - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 * [phpservermon/phpservermon](https://github.com/phpservermon/phpservermon) ⭐ 2,189 | 🐛 28 | 🌐 JavaScript | 📅 2026-11-03 - PHP Server Monitor
 * [Tinywan/H5-dash-hls-rtmp-webrtc](https://github.com/Tinywan/H5-dash-hls-rtmp-webrtc) ⭐ 2,149 | 🐛 0 | 🌐 JavaScript | 📅 2020-01-04 - :sunflower: 传统直播：HTML5播放器、M3U8直播/点播、RTMP直播、低延迟、推流/播流地址鉴权。:green\_apple: 实时直播：WebRTC
-* [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) ⭐ 2,115 | 🐛 1 | 🌐 Vue | 📅 2026-11-20 - 开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，代码免费开源且可商用，由芝麻小客服官方推出。
+* [zhimaAi/chatwiki](https://github.com/zhimaAi/chatwiki) ⭐ 2,116 | 🐛 1 | 🌐 Vue | 📅 2026-11-20 - 开箱即用的基于企业私有知识库的LLM大语言模型的智能客服机器人问答系统，支持私有化部署，代码免费开源且可商用，由芝麻小客服官方推出。
 * [hanc00l/nemo\_go](https://github.com/hanc00l/nemo_go) ⭐ 2,110 | 🐛 87 | 🌐 JavaScript | 📅 2026-08-15 - Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率。
 * [stevenvachon/broken-link-checker](https://github.com/stevenvachon/broken-link-checker) ⭐ 2,085 | 🐛 81 | 🌐 JavaScript | 📅 2026-09-07 - Find broken links, missing images, etc within your HTML.
 * [lasting-yang/frida\_dump](https://github.com/lasting-yang/frida_dump) ⭐ 2,085 | 🐛 14 | 🌐 JavaScript | 📅 2025-08-20 - frida dump dex, frida dump so
@@ -4342,7 +4342,7 @@
 * [mengkunsoft/MKOnlineMusicPlayer](https://github.com/mengkunsoft/MKOnlineMusicPlayer) ⭐ 1,933 | 🐛 28 | 🌐 JavaScript | 📅 2021-06-28 - ⛔【停止维护】一个在线音乐播放器（仅 UI，无功能）
 * [52cik/github-hans](https://github.com/52cik/github-hans) ⭐ 1,922 | 🐛 28 | 🌐 JavaScript | 📅 2022-05-05 - \[废弃] {官方中文马上就来了} GitHub 汉化插件，GitHub 中文化界面。 (GitHub Translation To Chinese)
 * [JSREI/ast-hook-for-js-RE](https://github.com/JSREI/ast-hook-for-js-RE) ⭐ 1,904 | 🐛 36 | 🌐 JavaScript | 📅 2024-05-07 - 浏览器内存漫游解决方案（探索中...）
-* [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) ⭐ 1,867 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-07 - 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用。
+* [xxnuo/serverless-qrcode-hub](https://github.com/xxnuo/serverless-qrcode-hub) ⭐ 1,868 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-07 - 苦于微信群聊二维码频繁变动，开发这个能生成永久二维码的工具，不需要服务器。也可作为 URL 缩短链接服务使用。
 * [Alanrk/LazyCat-Bookmark-Cleaner](https://github.com/Alanrk/LazyCat-Bookmark-Cleaner) ⭐ 1,864 | 🐛 14 | 🌐 JavaScript | 📅 2026-01-12 - 让书签管理变得轻松愉快！一只可爱的懒猫助手，帮你智能清理和整理浏览器书签。
 * [willnewii/qiniuClient](https://github.com/willnewii/qiniuClient) ⭐ 1,811 | 🐛 50 | 🌐 JavaScript | 📅 2023-04-13 - 云存储管理客户端。支持七牛云、腾讯云、青云、阿里云、又拍云、亚马逊S3、京东云，仿文件夹管理、图片预览、拖拽上传、文件夹上传、同步、批量导出URL等功能
 * [jakubfiala/atrament](https://github.com/jakubfiala/atrament) ⭐ 1,798 | 🐛 6 | 🌐 JavaScript | 📅 2026-03-29 - A small JS library for beautiful drawing and handwriting on the HTML Canvas.
@@ -4361,7 +4361,7 @@
 * [zenozeng/Free-Chinese-Fonts](https://github.com/zenozeng/Free-Chinese-Fonts) ⭐ 1,543 | 🐛 16 | 🌐 JavaScript | 📅 2022-03-12 - 免费中文字体
 * [justjavac/Flarum](https://github.com/justjavac/Flarum) ⭐ 1,539 | 🐛 1 | 🌐 JavaScript | 📅 2020-07-15 - Flarum - 优雅自由的 PHP 轻社区
 * [WooyunDota/DroidSSLUnpinning](https://github.com/WooyunDota/DroidSSLUnpinning) ⭐ 1,517 | 🐛 4 | 🌐 JavaScript | 📅 2020-04-07 - Android certificate pinning disable tools
-* [ChiChou/bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,512 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29 - Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
+* [ChiChou/bagbak](https://github.com/ChiChou/bagbak) ⭐ 1,511 | 🐛 6 | 🌐 TypeScript | 📅 2026-09-29 - Yet another frida based iOS dumpdecrypted. Also decrypts app extensions
 * [anttiviljami/browser-autofill-phishing](https://github.com/anttiviljami/browser-autofill-phishing) ⭐ 1,485 | 🐛 4 | 🌐 JavaScript | 📅 2021-06-05 - A simple demo of phishing by abusing the browser autofill feature
 * [momosecurity/FindSomething](https://github.com/momosecurity/FindSomething) ⭐ 1,483 | 🐛 3 | 🌐 JavaScript | 📅 2024-11-17 - 基于chrome、firefox插件的被动式信息泄漏检测工具
 * [advanced-rest-client/arc-electron](https://github.com/advanced-rest-client/arc-electron) ⭐ 1,470 | 🐛 60 | 🌐 JavaScript | 📅 2026-10-29 - Advanced REST Client - Desktop application
@@ -4377,12 +4377,12 @@
 * [martinsbalodis/web-scraper-chrome-extension](https://github.com/martinsbalodis/web-scraper-chrome-extension) ⭐ 1,363 | 🐛 129 | 🌐 JavaScript | 📅 2018-10-29 - Web data extraction tool implemented as chrome extension
 * [Cherrison/CrackMinApp](https://github.com/Cherrison/CrackMinApp) ⭐ 1,344 | 🐛 25 | 🌐 JavaScript | 📅 2020-04-21 - (反编译微信小程序)一键获取微信小程序源码(傻瓜式操作), 使用了C#加nodejs制作
 * [fransr/postMessage-tracker](https://github.com/fransr/postMessage-tracker) ⭐ 1,341 | 🐛 11 | 🌐 JavaScript | 📅 2024-01-26 - A Chrome Extension to track postMessage usage (url, domain and stack) both by logging using CORS and also visually as an extension-icon
-* [nccgroup/singularity](https://github.com/nccgroup/singularity) ⭐ 1,326 | 🐛 17 | 🌐 JavaScript | 📅 2026-11-20 - A DNS rebinding attack framework.
+* [nccgroup/singularity](https://github.com/nccgroup/singularity) ⭐ 1,328 | 🐛 17 | 🌐 JavaScript | 📅 2026-11-20 - A DNS rebinding attack framework.
 * [aweary/tinytime](https://github.com/aweary/tinytime) ⭐ 1,316 | 🐛 19 | 🌐 JavaScript | 📅 2023-01-12 - ⏰ A straightforward date and time formatter in <1kb
 * [guyoung/CaptfEncoder](https://github.com/guyoung/CaptfEncoder) ⭐ 1,301 | 🐛 63 | 🌐 JavaScript | 📅 2023-10-16 - Captfencoder is opensource a rapid cross platform network security tool suite, providing network security related code conversion, classical cryptography, cryptography, asymmetric encryption, miscella
 * [overcache/VRouter](https://github.com/overcache/VRouter) ⚠️ Archived - 一个基于 VirtualBox 和 openwrt 构建的项目, 旨在实现 macOS / Windows 平台的透明代理.
 * [paazmaya/shuji](https://github.com/paazmaya/shuji) ⭐ 1,249 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-21 - Reverse engineering JavaScript and CSS sources from sourcemaps
-* [jiangqizheng/BlueSea](https://github.com/jiangqizheng/BlueSea) ⭐ 1,238 | 🐛 37 | 🌐 JavaScript | 📅 2022-10-07 - BlueSea，一个有趣的英语学习扩展，支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计...
+* [jiangqizheng/BlueSea](https://github.com/jiangqizheng/BlueSea) ⭐ 1,237 | 🐛 37 | 🌐 JavaScript | 📅 2022-10-07 - BlueSea，一个有趣的英语学习扩展，支持划词翻译、单词高亮、单词弹幕、记忆曲线复习、词频统计...
 * [zhuzhuyule/HexoEditor](https://github.com/zhuzhuyule/HexoEditor) ⭐ 1,224 | 🐛 49 | 🌐 JavaScript | 📅 2019-02-21 - this markdown Editor for hexo blog
 * [MicrosoftEdge/magic-mirror-demo](https://github.com/MicrosoftEdge/magic-mirror-demo) ⚠️ Archived - A :zap:Magic Mirror:zap: powered by a UWP Hosted Web App :rocket:
 * [AnarchyLinux/installer](https://github.com/AnarchyLinux/installer) ⚠️ Archived - Anarchy Linux - A simple and intuitive Arch Linux installer. <https://anarchyinstaller.org/>
@@ -4396,7 +4396,7 @@
 * [amhoho/electron-cn-docs](https://github.com/amhoho/electron-cn-docs) ⭐ 1,153 | 🐛 8 | 🌐 JavaScript | 📅 2019-08-10 - Electron中文文档! 精心翻译,完美排版,实时同步更新!, 最后同步:2017-05-23(个人比较忙,本项目已经不再维护了)
 * [TongchengOpenSource/AppScan](https://github.com/TongchengOpenSource/AppScan) ⭐ 1,137 | 🐛 22 | 🌐 JavaScript | 📅 2025-03-16 - 安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。
 * [lucky-sideburn/kubeinvaders](https://github.com/lucky-sideburn/kubeinvaders) ⭐ 1,130 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-02 - Gamified Chaos Engineering Tool for Kubernetes
-* [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) ⭐ 1,091 | 🐛 69 | 🌐 JavaScript | 📅 2026-11-21 - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
+* [ossf/wg-best-practices-os-developers](https://github.com/ossf/wg-best-practices-os-developers) ⭐ 1,091 | 🐛 70 | 🌐 JavaScript | 📅 2026-11-21 - The Best Practices for OSS Developers working group is dedicated to raising awareness and education of secure code best practices for open source developers.
 * [XInTheDark/raycast-g4f](https://github.com/XInTheDark/raycast-g4f) ⭐ 1,087 | 🐛 20 | 🌐 JavaScript | 📅 2025-12-20 - Raycast extension to use GPT, Claude, Llama, and more... all for FREE! + Full support for custom APIs.
 * [echo094/decode-js](https://github.com/echo094/decode-js) ⭐ 1,069 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-19 - JS混淆代码的AST分析工具 AST analysis tool for obfuscated JS code
 * [ha7ilm/openwebrx](https://github.com/ha7ilm/openwebrx) ⚠️ Archived - Open source, multi-user SDR receiver software with a web interface
@@ -4419,7 +4419,7 @@
 * [cnrstar/anti-honeypot](https://github.com/cnrstar/anti-honeypot) ⭐ 890 | 🐛 5 | 🌐 JavaScript | 📅 2024-08-05 - 一款可以检测WEB蜜罐并阻断请求的Chrome插件
 * [dxcweb/watermark](https://github.com/dxcweb/watermark) ⭐ 886 | 🐛 6 | 🌐 JavaScript | 📅 2025-07-07 - canvas图片水印，用于身份证等个人信息添加仅用于XXX等字样保护个人信息
 * [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) ⭐ 878 | 🐛 3 | 🌐 JavaScript | 📅 2023-08-04 - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
-* [SiJiDo/H](https://github.com/SiJiDo/H) ⭐ 870 | 🐛 66 | 🌐 JavaScript | 📅 2022-12-28 - H是一款强大的资产收集管理平台
+* [SiJiDo/H](https://github.com/SiJiDo/H) ⭐ 870 | 🐛 67 | 🌐 JavaScript | 📅 2022-12-28 - H是一款强大的资产收集管理平台
 * [vincentcox/StaCoAn](https://github.com/vincentcox/StaCoAn) ⭐ 869 | 🐛 11 | 🌐 JavaScript | 📅 2021-04-27 - StaCoAn is a crossplatform tool which aids developers, bugbounty hunters and ethical hackers performing static code analysis on mobile applications.
 * [FredWe/How-To-Ask-Questions-The-Smart-Way](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way) ⭐ 865 | 🐛 0 | 🌐 JavaScript | 📅 2022-09-09 - Any update requests plz redirect to original --->
 * [ElaWorkshop/awesome-cn-cafe](https://github.com/ElaWorkshop/awesome-cn-cafe) ⚠️ Archived - A curated list of awesome coffee places for work in China.
@@ -4515,7 +4515,7 @@
 * [yincongcyincong/proxy-web](https://github.com/yincongcyincong/proxy-web) ⭐ 389 | 🐛 0 | 🌐 JavaScript | 📅 2024-03-25 - proxy-web is a webview proxy application written by Golang
 * [jack-hoo/LiveRoomDemo\_Client](https://github.com/jack-hoo/LiveRoomDemo_Client) ⭐ 383 | 🐛 5 | 🌐 JavaScript | 📅 2026-09-20 - 自己动手打造一个直播间（视频直播、聊天室、弹幕、多端适配）
 * [lasting-yang/frida\_bypass\_ssl\_example](https://github.com/lasting-yang/frida_bypass_ssl_example) ⭐ 378 | 🐛 3 | 🌐 JavaScript | 📅 2023-12-18 - frida 辅助抓包的一些技巧
-* [spamscanner/spamscanner](https://github.com/spamscanner/spamscanner) ⭐ 376 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-21 - Spam Scanner is a Node.js anti-spam, email filtering, and phishing prevention tool and service. Built for @ladjs, @forwardemail, @cabinjs, @breejs, and @lassjs.
+* [spamscanner/spamscanner](https://github.com/spamscanner/spamscanner) ⭐ 377 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-21 - Spam Scanner is a Node.js anti-spam, email filtering, and phishing prevention tool and service. Built for @ladjs, @forwardemail, @cabinjs, @breejs, and @lassjs.
 * [s9w/font\_compare](https://github.com/s9w/font_compare) ⭐ 371 | 🐛 9 | 🌐 JavaScript | 📅 2024-06-02 - Programming font comparison
 * [cnwhy/lib-qqwry](https://github.com/cnwhy/lib-qqwry) ⭐ 371 | 🐛 2 | 🌐 JavaScript | 📅 2024-03-18 - 用NodeJS解析纯真IP库(QQwry.dat) 支持IP段查询
 * [ShawnZeng1996/Memory](https://github.com/ShawnZeng1996/Memory) ⭐ 364 | 🐛 6 | 🌐 JavaScript | 📅 2024-06-20 - A theme for wordpress.
@@ -4546,7 +4546,7 @@
 * [liyangready/multiple-host](https://github.com/liyangready/multiple-host) ⭐ 292 | 🐛 6 | 🌐 JavaScript | 📅 2018-03-18 - 虚拟host解决方案，轻松实现两套host环境
 * [D00MFist/PersistentJXA](https://github.com/D00MFist/PersistentJXA) ⭐ 291 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-26 - Collection of macOS persistence methods and miscellaneous tools in JXA
 * [78778443/permeate](https://github.com/78778443/permeate) ⭐ 289 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-31 - 一个用于渗透透测试演练的WEB系统,用于提升寻找网站能力,也可以用于web安全教学
-* [NodeSecure/js-x-ray](https://github.com/NodeSecure/js-x-ray) ⭐ 288 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-19 - JavaScript & Node.js open-source SAST scanner. A static analyser for detecting most common malicious patterns 🔬.
+* [NodeSecure/js-x-ray](https://github.com/NodeSecure/js-x-ray) ⭐ 288 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-22 - JavaScript & Node.js open-source SAST scanner. A static analyser for detecting most common malicious patterns 🔬.
 * [hacksysteam/CVE-2023-21608](https://github.com/hacksysteam/CVE-2023-21608) ⭐ 285 | 🐛 0 | 🌐 JavaScript | 📅 2023-12-05 - Adobe Acrobat Reader - CVE-2023-21608 - Remote Code Execution Exploit
 * [machaojin1917939763/Dify-WebUI](https://github.com/machaojin1917939763/Dify-WebUI) ⭐ 281 | 🐛 9 | 🌐 JavaScript | 📅 2025-04-07 - 由 Dify API 驱动的前沿桌面智能对话应用，具备企业级人工智能对话能力。这款应用拥有主题定制、知识库管理以及多场景应用等显著功能。​ 如今，我们进行了重大升级，新增对 OpenAI 格式输出的支持。这意味着，它能够与市面上所有遵循 OpenAI 格式的人工智能模型无缝对接。不管您使用的是知名供应商的模型，比如提供可靠且可扩展云端解决方案的 Azure OpenAI，还是以先进自然语言处理能力
 * [redpwn/rctf](https://github.com/redpwn/rctf) ⚠️ Archived - redpwn's CTF platform
@@ -4594,8 +4594,8 @@
 * [NorthwaveSecurity/fridax](https://github.com/NorthwaveSecurity/fridax) ⭐ 182 | 🐛 9 | 🌐 JavaScript | 📅 2023-04-04 - Fridax enables you to read variables and intercept/hook functions in Xamarin/Mono JIT and AOT compiled iOS/Android applications.
 * [walkdoer/Life-Time-Tracker](https://github.com/walkdoer/Life-Time-Tracker) ⚠️ Archived - 个人时间跟踪，可视化个人活动数据，管理个人生活，利用过去来指导未来，基于柳比歇夫的统计方法
 * [squidproxy/squidproxy](https://github.com/squidproxy/squidproxy) ⭐ 180 | 🐛 6 | 🌐 JavaScript | 📅 2017-05-15 - squid 技術部署、客戶端(原創)提供
+* [jayus0821/Armor](https://github.com/jayus0821/Armor) ⭐ 179 | 🐛 0 | 🌐 JavaScript | 📅 2021-06-28 - Armor 浏览器反蜜罐插件 honeypot
 * [boy-hack/WebshellManager](https://github.com/boy-hack/WebshellManager) ⭐ 179 | 🐛 0 | 🌐 JavaScript | 📅 2017-02-01 - w8ay 一句话WEB端管理工具
-* [jayus0821/Armor](https://github.com/jayus0821/Armor) ⭐ 178 | 🐛 0 | 🌐 JavaScript | 📅 2021-06-28 - Armor 浏览器反蜜罐插件 honeypot
 * [n0mad01/node.bittrex.api](https://github.com/n0mad01/node.bittrex.api) ⚠️ Archived - No longer maintained
 * [fei-ke/WeiboImageReverse](https://github.com/fei-ke/WeiboImageReverse) ⭐ 176 | 🐛 0 | 🌐 JavaScript | 📅 2022-06-27 - Chrome 插件，反查微博图片po主
 * [jobertabma/transformations](https://github.com/jobertabma/transformations) ⭐ 171 | 🐛 20 | 🌐 JavaScript | 📅 2023-01-26 -
@@ -4719,7 +4719,7 @@
 * [atmoner/githubFind3r](https://github.com/atmoner/githubFind3r) ⭐ 29 | 🐛 0 | 🌐 JavaScript | 📅 2020-07-04 -
 * [hzdu/setprograms](https://github.com/hzdu/setprograms) ⭐ 28 | 🐛 0 | 🌐 JavaScript | 📅 2021-04-10 - NodeJS、JDK、Python开发环境设置工具
 * [MichaelWayneLIU/InfoScraper](https://github.com/MichaelWayneLIU/InfoScraper) ⭐ 28 | 🐛 5 | 🌐 JavaScript | 📅 2023-01-04 - 一个基于Electron的自动化Web资产探测工具，用于渗透前期的信息搜集工作
-* [openprotest/protest](https://github.com/openprotest/protest) ⭐ 26 | 🐛 0 | 🌐 C# | 📅 2026-11-21 - A management base for System Admins
+* [openprotest/protest](https://github.com/openprotest/protest) ⭐ 26 | 🐛 0 | 🌐 C# | 📅 2026-11-22 - A management base for System Admins
 * [DavidCatalan/fridacov](https://github.com/DavidCatalan/fridacov) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2019-01-16 - JS modules for Frida based tools to add code coverage to your instrumentation scripts.
 * [PerimeterX/CVE-2020-6519](https://github.com/PerimeterX/CVE-2020-6519) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2020-08-12 -
 * [KafuuChinoQ/V2RayGeoKit](https://github.com/KafuuChinoQ/V2RayGeoKit) ⭐ 25 | 🐛 2 | 🌐 JavaScript | 📅 2018-06-13 -
@@ -4824,11 +4824,11 @@
 
 ## Jinja
 
-* [trailofbits/algo](https://github.com/trailofbits/algo) ⭐ 30,477 | 🐛 72 | 🌐 Python | 📅 2026-11-20 - Set up a personal VPN in the cloud
-* [easzlab/kubeasz](https://github.com/easzlab/kubeasz) ⭐ 11,454 | 🐛 3 | 🌐 Jinja | 📅 2026-11-14 - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
-* [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) ⭐ 4,721 | 🐛 11 | 🌐 Jinja | 📅 2026-08-23 - Raspberry Pi config for all things Internet.
-* [splunk/attack\_range](https://github.com/splunk/attack_range) ⭐ 2,584 | 🐛 21 | 🌐 Python | 📅 2026-11-14 - A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk
-* [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) ⭐ 1,317 | 🐛 69 | 🌐 Python | 📅 2026-11-17 - Spreading Thankfulness in Open Source.
+* [trailofbits/algo](https://github.com/trailofbits/algo) ⭐ 30,478 | 🐛 74 | 🌐 Python | 📅 2026-11-20 - Set up a personal VPN in the cloud
+* [easzlab/kubeasz](https://github.com/easzlab/kubeasz) ⭐ 11,456 | 🐛 3 | 🌐 Jinja | 📅 2026-11-14 - 使用Ansible脚本安装K8S集群，介绍组件交互原理，方便直接，不受国内网络环境影响
+* [geerlingguy/internet-pi](https://github.com/geerlingguy/internet-pi) ⭐ 4,722 | 🐛 11 | 🌐 Jinja | 📅 2026-11-22 - Raspberry Pi config for all things Internet.
+* [splunk/attack\_range](https://github.com/splunk/attack_range) ⭐ 2,584 | 🐛 24 | 🌐 Python | 📅 2026-11-14 - A tool that allows you to create vulnerable instrumented local or cloud environments to simulate attacks against and collect the data into Splunk
+* [BlitzKraft/saythanks.io](https://github.com/BlitzKraft/saythanks.io) ⭐ 1,318 | 🐛 69 | 🌐 Python | 📅 2026-11-17 - Spreading Thankfulness in Open Source.
 * [ralphte/build\_a\_phish](https://github.com/ralphte/build_a_phish) ⚠️ Archived - Ansible playbook to deploy a phishing engagement in the cloud.
 * [op7ic/BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab) ⭐ 192 | 🐛 1 | 🌐 Jinja | 📅 2024-11-20 - Blue Team detection lab created with Terraform and Ansible in Azure.
 * [Dido1960/random\_c2\_profile](https://github.com/Dido1960/random_c2_profile) ⭐ 88 | 🐛 0 | 🌐 Jinja | 📅 2023-04-10 - Cobalt Strike random C2 Profile 修改版（适配腾讯云函数，亚马逊云函数和CrossC2自定义protocol）
@@ -4838,59 +4838,59 @@
 
 ## Jupyter Notebook
 
-* [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) ⭐ 187,962 | 🐛 725 | 🌐 Jupyter Notebook | 📅 2026-07-29 - Python - 100天从新手到大师
-* [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ⭐ 149,999 | 🐛 784 | 🌐 Python | 📅 2026-11-21 - 🦜🔗 Build context-aware reasoning applications
-* [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 108,751 | 🐛 9 | 🌐 Jupyter Notebook | 📅 2026-11-20 - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-* [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 80,677 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-11-17 - 10 Lessons to Get Started Building AI Agents
-* [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 42,048 | 🐛 139 | 🌐 Jupyter Notebook | 📅 2026-11-01 - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-* [huggingface/agents-course](https://github.com/huggingface/agents-course) ⭐ 35,257 | 🐛 200 | 🌐 MDX | 📅 2026-11-17 - This repository contains the Hugging Face Agents Course.
+* [jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days) ⭐ 187,974 | 🐛 725 | 🌐 Jupyter Notebook | 📅 2026-07-29 - Python - 100天从新手到大师
+* [langchain-ai/langchain](https://github.com/langchain-ai/langchain) ⭐ 149,979 | 🐛 785 | 🌐 Python | 📅 2026-11-22 - 🦜🔗 Build context-aware reasoning applications
+* [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) ⭐ 108,822 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2026-11-22 - Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+* [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) ⭐ 80,753 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-11-17 - 10 Lessons to Get Started Building AI Agents
+* [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) ⭐ 42,064 | 🐛 140 | 🌐 Jupyter Notebook | 📅 2026-11-01 - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+* [huggingface/agents-course](https://github.com/huggingface/agents-course) ⭐ 35,305 | 🐛 201 | 🌐 MDX | 📅 2026-11-17 - This repository contains the Hugging Face Agents Course.
 * [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) ⭐ 32,836 | 🐛 167 | 🌐 Jupyter Notebook | 📅 2026-11-17 - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-* [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) ⭐ 30,461 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-11-02 - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
-* [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) ⭐ 30,290 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-17 - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
-* [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) ⭐ 30,230 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2026-04-24 - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
-* [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) ⭐ 22,236 | 🐛 18 | 🌐 Python | 📅 2026-10-24 - 100-Days-Of-ML-Code中文版
-* [guidance-ai/guidance](https://github.com/guidance-ai/guidance) ⭐ 21,828 | 🐛 356 | 🌐 Jupyter Notebook | 📅 2026-05-21 - A guidance language for controlling large language models.
-* [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) ⭐ 19,402 | 🐛 206 | 🌐 Jupyter Notebook | 📅 2026-05-20 - One has no future if one couldn't teach themself.
-* [leandromoreira/digital\_video\_introduction](https://github.com/leandromoreira/digital_video_introduction) ⭐ 16,404 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-11-05 - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
-* [langgptai/LangGPT](https://github.com/langgptai/LangGPT) ⭐ 12,720 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-11 - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
-* [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,368 | 🐛 1,321 | 🌐 Python | 📅 2026-11-21 - AI Observability & Evaluation
+* [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) ⭐ 30,474 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-11-02 - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and context
+* [The-Art-of-Hacking/h4cker](https://github.com/The-Art-of-Hacking/h4cker) ⭐ 30,313 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-17 - This repository is primarily maintained by Omar Santos (@santosomar) and includes thousands of resources related to ethical hacking, bug bounties, digital forensics and incident response (DFIR), artif
+* [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) ⭐ 30,280 | 🐛 50 | 🌐 Jupyter Notebook | 📅 2026-04-24 - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+* [MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code) ⭐ 22,235 | 🐛 18 | 🌐 Python | 📅 2026-10-24 - 100-Days-Of-ML-Code中文版
+* [guidance-ai/guidance](https://github.com/guidance-ai/guidance) ⭐ 21,827 | 🐛 356 | 🌐 Jupyter Notebook | 📅 2026-05-21 - A guidance language for controlling large language models.
+* [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching) ⭐ 19,436 | 🐛 206 | 🌐 Jupyter Notebook | 📅 2026-05-20 - One has no future if one couldn't teach themself.
+* [leandromoreira/digital\_video\_introduction](https://github.com/leandromoreira/digital_video_introduction) ⭐ 16,405 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-11-05 - A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding). Translations: 🇺🇸 🇨🇳 🇯🇵 🇮🇹 🇰🇷 🇷🇺 🇧🇷 🇪🇸
+* [langgptai/LangGPT](https://github.com/langgptai/LangGPT) ⭐ 12,726 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-11 - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt
+* [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) ⭐ 12,373 | 🐛 1,321 | 🌐 Python | 📅 2026-11-22 - AI Observability & Evaluation
 * [yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook) ⭐ 12,025 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-22 - 《Python Cookbook》 3rd Edition Translation
 * [facebookresearch/seamless\_communication](https://github.com/facebookresearch/seamless_communication) ⭐ 11,908 | 🐛 257 | 🌐 Jupyter Notebook | 📅 2026-09-08 - Foundational Models for State-of-the-Art Speech and Text Translation
 * [cs231n/cs231n.github.io](https://github.com/cs231n/cs231n.github.io) ⭐ 11,125 | 🐛 93 | 🌐 Jupyter Notebook | 📅 2026-05-14 - Public facing notes page
-* [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 9,377 | 🐛 126 | 🌐 Python | 📅 2026-11-20 - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution
-* [NirDiamant/Prompt\_Engineering](https://github.com/NirDiamant/Prompt_Engineering) ⭐ 7,937 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-10-31 - This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essentia
+* [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) ⭐ 9,380 | 🐛 129 | 🌐 Python | 📅 2026-11-20 - PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution
+* [NirDiamant/Prompt\_Engineering](https://github.com/NirDiamant/Prompt_Engineering) ⭐ 7,938 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-10-31 - This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essentia
 * [czy36mengfei/tensorflow2\_tutorials\_chinese](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese) ⭐ 7,758 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2020-12-09 - tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials
-* [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) ⭐ 7,571 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-28 - 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈
+* [luhengshiwo/LLMForEverybody](https://github.com/luhengshiwo/LLMForEverybody) ⭐ 7,572 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-08-28 - 每个人都能看懂的大模型知识分享，LLMs春/秋招大模型面试前必看，让你和面试官侃侃而谈
 * [coells/100days](https://github.com/coells/100days) ⭐ 7,469 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2018-05-11 - 100 days of algorithms
 * [jvns/pandas-cookbook](https://github.com/jvns/pandas-cookbook) ⭐ 7,126 | 🐛 33 | 🌐 Jupyter Notebook | 📅 2024-10-24 - Recipes for using Python's pandas library
-* [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) ⭐ 6,502 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-09-26 - Accepted as \[NeurIPS 2024] Spotlight Presentation Paper
+* [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) ⭐ 6,503 | 🐛 119 | 🌐 Jupyter Notebook | 📅 2024-09-26 - Accepted as \[NeurIPS 2024] Spotlight Presentation Paper
 * [lyhue1991/eat\_pytorch\_in\_20\_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) ⭐ 6,167 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-02-25 - Pytorch🍊🍉   is delicious, just eat it! 😋😋
-* [Alfred1984/interesting-python](https://github.com/Alfred1984/interesting-python) ⭐ 5,013 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2021-07-06 - 有趣的Python爬虫和Python数据分析小项目(Some interesting Python crawlers and data analysis projects)
-* [BrambleXu/pydata-notebook](https://github.com/BrambleXu/pydata-notebook) ⭐ 4,645 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2018-05-08 - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
+* [Alfred1984/interesting-python](https://github.com/Alfred1984/interesting-python) ⭐ 5,012 | 🐛 26 | 🌐 Jupyter Notebook | 📅 2021-07-06 - 有趣的Python爬虫和Python数据分析小项目(Some interesting Python crawlers and data analysis projects)
+* [BrambleXu/pydata-notebook](https://github.com/BrambleXu/pydata-notebook) ⭐ 4,646 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2018-05-08 - 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
 * [dempfi/ayu](https://github.com/dempfi/ayu) ⭐ 4,429 | 🐛 16 | 🌐 Jupyter Notebook | 📅 2026-10-08 - 🎨🖌 Modern Sublime Text theme
-* [BragAI/bRAG-langchain](https://github.com/BragAI/bRAG-langchain) ⭐ 4,203 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2026-10-18 - Everything you need to know to build your own RAG application
-* [Cyb3rWard0g/HELK](https://github.com/Cyb3rWard0g/HELK) ⭐ 3,932 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-06-01 - The Hunting ELK
-* [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) ⭐ 3,151 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-11-05 - Free hands-on digital forensics labs for students and faculty
+* [BragAI/bRAG-langchain](https://github.com/BragAI/bRAG-langchain) ⭐ 4,203 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-10-18 - Everything you need to know to build your own RAG application
+* [Cyb3rWard0g/HELK](https://github.com/Cyb3rWard0g/HELK) ⭐ 3,933 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2024-06-01 - The Hunting ELK
+* [frankwxu/digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) ⭐ 3,175 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2026-11-05 - Free hands-on digital forensics labs for students and faculty
 * [echonoshy/cgft-llm](https://github.com/echonoshy/cgft-llm) ⭐ 2,718 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-11-16 - Practice to LLM.
-* [datawhalechina/handy-ollama](https://github.com/datawhalechina/handy-ollama) ⭐ 2,560 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-01-15 - 动手学Ollama，CPU玩转大模型部署，在线阅读地址：<https://datawhalechina.github.io/handy-ollama/>
-* [mistralai/cookbook](https://github.com/mistralai/cookbook) ⭐ 2,368 | 🐛 86 | 🌐 Jupyter Notebook | 📅 2026-11-19 -
+* [datawhalechina/handy-ollama](https://github.com/datawhalechina/handy-ollama) ⭐ 2,561 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-01-15 - 动手学Ollama，CPU玩转大模型部署，在线阅读地址：<https://datawhalechina.github.io/handy-ollama/>
+* [mistralai/cookbook](https://github.com/mistralai/cookbook) ⭐ 2,367 | 🐛 85 | 🌐 Jupyter Notebook | 📅 2026-11-19 -
 * [justmarkham/pandas-videos](https://github.com/justmarkham/pandas-videos) ⭐ 2,264 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2024-03-05 - Jupyter notebook and datasets from the pandas video series
 * [aceliuchanghong/FAQ\_Of\_LLM\_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview) ⭐ 2,064 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-09-17 - 大模型算法岗面试题(含答案):常见问题和概念解析 "大模型面试题"、"算法岗面试"、"面试常见问题"、"大模型算法面试"、"大模型应用基础"
 * [GitHamza0206/simba](https://github.com/GitHamza0206/simba) ⭐ 1,545 | 🐛 5 | 🌐 TypeScript | 📅 2026-06-18 - Portable KMS (knowledge management system) designed to integrate seamlessly with any Retrieval-Augmented Generation (RAG) system
 * [advboxes/AdvBox](https://github.com/advboxes/AdvBox) ⭐ 1,406 | 🐛 15 | 🌐 Jupyter Notebook | 📅 2023-02-15 - Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models.
-* [wisupai/e2m](https://github.com/wisupai/e2m) ⭐ 1,293 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2024-09-08 - E2M converts various file types (doc, docx, epub, html, htm, url, pdf, ppt, pptx, mp3, m4a) into Markdown. It’s easy to install, with dedicated parsers and converters, supporting custom configs. E2M o
+* [wisupai/e2m](https://github.com/wisupai/e2m) ⭐ 1,292 | 🐛 17 | 🌐 Jupyter Notebook | 📅 2024-09-08 - E2M converts various file types (doc, docx, epub, html, htm, url, pdf, ppt, pptx, mp3, m4a) into Markdown. It’s easy to install, with dedicated parsers and converters, supporting custom configs. E2M o
 * [NoDataFound/hackGPT](https://github.com/NoDataFound/hackGPT) ⭐ 1,219 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-08-12 - I leverage OpenAI and ChatGPT to do hackerish things
 * [togethercomputer/together-cookbook](https://github.com/togethercomputer/together-cookbook) ⭐ 1,191 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2026-11-18 - A collection of notebooks/recipes showcasing usecases of open-source models with Together AI.
 * [malrev/ABD](https://github.com/malrev/ABD) ⭐ 1,170 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2020-11-14 - Course materials for Advanced Binary Deobfuscation by NTT Secure Platform Laboratories
 * [brandon-rhodes/pycon-pandas-tutorial](https://github.com/brandon-rhodes/pycon-pandas-tutorial) ⭐ 1,074 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2025-01-28 - PyCon 2015 Pandas tutorial materials
-* [chenshuo/typeset](https://github.com/chenshuo/typeset) ⭐ 937 | 🐛 0 | 🌐 Python | 📅 2026-11-20 -
+* [chenshuo/typeset](https://github.com/chenshuo/typeset) ⭐ 937 | 🐛 0 | 🌐 Python | 📅 2026-11-22 -
 * [SuperCowPowers/data\_hacking](https://github.com/SuperCowPowers/data_hacking) ⭐ 787 | 🐛 7 | 🌐 Jupyter Notebook | 📅 2019-03-05 - Data Hacking Project
 * [someshkar/colabcat](https://github.com/someshkar/colabcat) ⭐ 750 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2022-01-14 - :smiley\_cat: Running Hashcat on Google Colab with session backup and restore.
-* [langchain-ai/langgraph-101](https://github.com/langchain-ai/langgraph-101) ⭐ 725 | 🐛 3 | 🌐 Jupyter Notebook | 📅 2026-11-21 - Learn about the fundamentals of LangGraph through a series of notebooks
+* [langchain-ai/langgraph-101](https://github.com/langchain-ai/langgraph-101) ⭐ 727 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-11-22 - Learn about the fundamentals of LangGraph through a series of notebooks
 * [dCaples/AutoDidact](https://github.com/dCaples/AutoDidact) ⭐ 689 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2025-03-22 - Autonomously train research-agent LLMs on custom data using reinforcement learning and self-verification.
 * [cycleuser/Duke-STA-663-CN](https://github.com/cycleuser/Duke-STA-663-CN) ⭐ 373 | 🐛 1 | 🌐 Jupyter Notebook | 📅 2017-12-28 - A Chinese Translation of the Resources for Duke University STA 663 杜克大学计算机统计学（Python）全部内容的中文翻译
 * [microsoft/TOXIGEN](https://github.com/microsoft/TOXIGEN) ⚠️ Archived - This repo contains the code for generating the ToxiGen dataset, published at ACL 2022.
-* [batfish/pybatfish](https://github.com/batfish/pybatfish) ⭐ 244 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-11-19 - Python client for Batfish: <https://github.com/batfish/batfish> ⭐ 1,539 | 🐛 293 | 🌐 Java | 📅 2026-11-21
+* [batfish/pybatfish](https://github.com/batfish/pybatfish) ⭐ 244 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2026-11-19 - Python client for Batfish: <https://github.com/batfish/batfish> ⭐ 1,539 | 🐛 294 | 🌐 Java | 📅 2026-11-21
 * [hackingguy/Bug-Hunting-Colab](https://github.com/hackingguy/Bug-Hunting-Colab) ⚠️ Archived - A Colab For Bug Hunting!
 * [rajshah4/LLM-Evaluation](https://github.com/rajshah4/LLM-Evaluation) ⭐ 175 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-02 - Sample notebooks and prompts for LLM evaluation
 * [AlmogBaku/pytest-evals](https://github.com/AlmogBaku/pytest-evals) ⭐ 162 | 🐛 2 | 🌐 Jupyter Notebook | 📅 2025-02-05 - A pytest plugin for running and analyzing LLM evaluation tests.
@@ -4911,32 +4911,32 @@
 
 ## Kotlin
 
-* [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) ⭐ 58,025 | 🐛 327 | 🌐 Kotlin | 📅 2026-11-11 - 翻墙-科学上网
-* [alibaba/p3c](https://github.com/alibaba/p3c) ⭐ 30,860 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06 - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+* [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) ⭐ 58,142 | 🐛 327 | 🌐 Kotlin | 📅 2026-11-22 - 翻墙-科学上网
+* [alibaba/p3c](https://github.com/alibaba/p3c) ⭐ 30,859 | 🐛 185 | 🌐 Kotlin | 📅 2024-08-06 - Alibaba Java Coding Guidelines pmd implements and IDE plugin
 * [square/leakcanary](https://github.com/square/leakcanary) ⭐ 30,008 | 🐛 132 | 🌐 Kotlin | 📅 2026-10-21 - A memory leak detection library for Android.
-* [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) ⭐ 28,972 | 🐛 22 | 🌐 Kotlin | 📅 2026-11-21 - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
-* [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) ⭐ 11,416 | 🐛 41 | 🌐 Kotlin | 📅 2026-11-21 - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
+* [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) ⭐ 28,983 | 🐛 22 | 🌐 Kotlin | 📅 2026-11-22 - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
+* [Heapy/awesome-kotlin](https://github.com/Heapy/awesome-kotlin) ⭐ 11,417 | 🐛 34 | 🌐 Kotlin | 📅 2026-11-22 - A curated list of awesome Kotlin related stuff Inspired by awesome-java.
 * [TeamVanced/VancedManager](https://github.com/TeamVanced/VancedManager) ⚠️ Archived - Vanced Installer
-* [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) ⭐ 7,353 | 🐛 20 | 🌐 Kotlin | 📅 2026-11-21 - An app to view libraries used in apps in your device.
-* [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) ⭐ 6,710 | 🐛 26 | 🌐 Kotlin | 📅 2026-09-04 - Share your VPN connection over hotspot or repeater! (root required)
-* [androidx/androidx](https://github.com/androidx/androidx) ⭐ 6,145 | 🐛 64 | 🌐 Kotlin | 📅 2026-11-21 - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
+* [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) ⭐ 7,355 | 🐛 20 | 🌐 Kotlin | 📅 2026-11-21 - An app to view libraries used in apps in your device.
+* [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) ⭐ 6,714 | 🐛 25 | 🌐 Kotlin | 📅 2026-09-04 - Share your VPN connection over hotspot or repeater! (root required)
+* [androidx/androidx](https://github.com/androidx/androidx) ⭐ 6,147 | 🐛 69 | 🌐 Kotlin | 📅 2026-11-21 - Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
 * [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) ⚠️ Archived - The universal proxy toolchain for Android
 * [Kotlin/kotlin-koans](https://github.com/Kotlin/kotlin-koans) ⚠️ Archived - Kotlin workshop
 * [corona-warn-app/cwa-app-android](https://github.com/corona-warn-app/cwa-app-android) ⚠️ Archived - Native Android app using the Apple/Google exposure notification API. The CWA development ends on May 31, 2023. You still can warn other users until April 30, 2023. More information:
 * [allenymt/PrivacySentry](https://github.com/allenymt/PrivacySentry) ⭐ 2,292 | 🐛 20 | 🌐 Kotlin | 📅 2025-12-30 - Android隐私合规整改检测工具，注解+Asm修改字节码的检测方案
-* [Leon406/ToolsFx](https://github.com/Leon406/ToolsFx) ⭐ 2,075 | 🐛 16 | 🌐 Kotlin | 📅 2026-11-08 - 跨平台密码学工具箱。包含编解码，编码转换，加解密， 哈希，MAC，签名，大数运算，压缩，二维码功能，CTF等功能。
+* [Leon406/ToolsFx](https://github.com/Leon406/ToolsFx) ⭐ 2,076 | 🐛 16 | 🌐 Kotlin | 📅 2026-11-08 - 跨平台密码学工具箱。包含编解码，编码转换，加解密， 哈希，MAC，签名，大数运算，压缩，二维码功能，CTF等功能。
 * [ingbyr/vdm](https://github.com/ingbyr/vdm) ⚠️ Archived - GUI for command-line video downloader (youtube-dl annie)
-* [doyensec/inql](https://github.com/doyensec/inql) ⭐ 1,815 | 🐛 15 | 🌐 Kotlin | 📅 2026-11-20 - InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.
+* [doyensec/inql](https://github.com/doyensec/inql) ⭐ 1,814 | 🐛 15 | 🌐 Kotlin | 📅 2026-11-20 - InQL is a robust, open-source Burp Suite extension for advanced GraphQL testing, offering intuitive vulnerability detection, customizable scans, and seamless Burp integration.
 * [bytedance/appshark](https://github.com/bytedance/appshark) ⭐ 1,754 | 🐛 17 | 🌐 Kotlin | 📅 2026-09-16 - Appshark is a static taint analysis platform to scan vulnerabilities in an Android app.
 * [CarGuo/GSYGithubAppKotlin](https://github.com/CarGuo/GSYGithubAppKotlin) ⭐ 1,595 | 🐛 4 | 🌐 Kotlin | 📅 2026-05-30 - 超完整的Android Kotlin 项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：目前已经拥有Flutter、Weex、ReactNative、Kotlin四个版本。 功能齐全，项目框架内技术涉及面广，完成度高。开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本：
 * [WrBug/DeveloperHelper](https://github.com/WrBug/DeveloperHelper) ⭐ 1,419 | 🐛 19 | 🌐 Kotlin | 📅 2025-08-06 - 📌易开发是一款帮助开发人员快速开发的工具，功能包括界面分析，页面信息，加固脱壳，支持Android9.0
 * [stream-rec/stream-rec](https://github.com/stream-rec/stream-rec) ⚠️ Archived - Automatic streaming record tool.  Live stream and bullet comments recorder. 虎牙/抖音/斗鱼/Twitch/PandaTV/微博直播，弹幕自动录制
 * [Leifzhang/AndroidAutoTrack](https://github.com/Leifzhang/AndroidAutoTrack) ⭐ 1,054 | 🐛 3 | 🌐 Kotlin | 📅 2022-09-13 - Android Asm 插桩 教学
 * [k0kubun/gitstar-ranking](https://github.com/k0kubun/gitstar-ranking) ⚠️ Archived - GitHub star ranking for users, organizations and repositories
-* [fabricezhang/lcg](https://github.com/fabricezhang/lcg) ⭐ 809 | 🐛 6 | 🌐 Kotlin | 📅 2024-10-20 - 吾爱破解第三方安卓应用
+* [fabricezhang/lcg](https://github.com/fabricezhang/lcg) ⭐ 808 | 🐛 6 | 🌐 Kotlin | 📅 2024-10-20 - 吾爱破解第三方安卓应用
 * [nacular/doodle](https://github.com/nacular/doodle) ⭐ 802 | 🐛 2 | 🌐 Kotlin | 📅 2026-10-23 - A pure Kotlin UI framework for the Web and Desktop.
 * [B3nac/InjuredAndroid](https://github.com/B3nac/InjuredAndroid) ⚠️ Archived - A vulnerable Android application that shows simple examples of vulnerabilities in a ctf style.
-* [unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) ⭐ 713 | 🐛 1 | 🌐 Kotlin | 📅 2024-07-05 - 《AI 研发提效：构建 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。
+* [unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant) ⭐ 714 | 🐛 1 | 🌐 Kotlin | 📅 2024-07-05 - 《AI 研发提效：构建 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。
 * [androidPluto/pluto](https://github.com/androidPluto/pluto) ⭐ 700 | 🐛 28 | 🌐 Kotlin | 📅 2026-05-01 - Android Pluto is a on-device debugging framework for Android applications, which helps intercept Network calls, capture Crashes & ANRs, manipulate application data on-the-go, and much more.
 * [GoSecure/dtd-finder](https://github.com/GoSecure/dtd-finder) ⭐ 663 | 🐛 1 | 🌐 Kotlin | 📅 2024-02-21 - List DTDs and generate XXE payloads using those local DTDs.
 * [enzet/symbolic-execution](https://github.com/enzet/symbolic-execution) ⭐ 498 | 🐛 22 | 🌐 Kotlin | 📅 2024-08-24 - History of symbolic execution (as well as SAT/SMT solving, fuzzing, and taint data tracking)
@@ -4961,7 +4961,7 @@
 
 ## LLVM
 
-* [llvm/llvm-project](https://github.com/llvm/llvm-project) ⭐ 41,548 | 🐛 42,937 | 🌐 LLVM | 📅 2026-11-21 - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
+* [llvm/llvm-project](https://github.com/llvm/llvm-project) ⭐ 41,554 | 🐛 43,009 | 🌐 LLVM | 📅 2026-11-22 - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.
 * [Evian-Zhang/llvm-ir-tutorial](https://github.com/Evian-Zhang/llvm-ir-tutorial) ⭐ 1,516 | 🐛 1 | 🌐 LLVM | 📅 2026-01-04 - LLVM IR入门指南
 
 ## Logos
@@ -4972,14 +4972,14 @@
 
 ## Lua
 
-* [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ⭐ 18,205 | 🐛 63 | 🌐 Lua | 📅 2026-11-21 - Use your Neovim like using Cursor AI IDE!
-* [xmake-io/xmake](https://github.com/xmake-io/xmake) ⭐ 12,311 | 🐛 267 | 🌐 Lua | 📅 2026-11-18 - 🔥 A cross-platform build utility based on Lua
+* [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ⭐ 18,206 | 🐛 55 | 🌐 Lua | 📅 2026-11-22 - Use your Neovim like using Cursor AI IDE!
+* [xmake-io/xmake](https://github.com/xmake-io/xmake) ⭐ 12,312 | 🐛 268 | 🌐 Lua | 📅 2026-11-18 - 🔥 A cross-platform build utility based on Lua
 * [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) ⭐ 5,973 | 🐛 111 | 🌐 Lua | 📅 2020-06-30 - A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
 * [loveshell/ngx\_lua\_waf](https://github.com/loveshell/ngx_lua_waf) ⭐ 4,018 | 🐛 84 | 🌐 Lua | 📅 2024-03-17 - ngx\_lua\_waf是一个基于lua-nginx-module(openresty)的web应用防火墙
 * [scipag/vulscan](https://github.com/scipag/vulscan) ⭐ 3,800 | 🐛 7 | 🌐 Lua | 📅 2026-02-06 - Advanced vulnerability scanning with Nmap NSE
-* [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) ⭐ 3,521 | 🐛 3 | 🌐 Lua | 📅 2026-11-16 - NSE script based on Vulners.com API
+* [vulnersCom/nmap-vulners](https://github.com/vulnersCom/nmap-vulners) ⭐ 3,522 | 🐛 3 | 🌐 Lua | 📅 2026-11-16 - NSE script based on Vulners.com API
 * [jx-sec/jxwaf](https://github.com/jx-sec/jxwaf) ⭐ 1,227 | 🐛 0 | 🌐 Go Template | 📅 2026-11-21 - JXWAF是一款开源web应用防火墙
-* [Tinywan/lua-nginx-redis](https://github.com/Tinywan/lua-nginx-redis) ⭐ 1,115 | 🐛 1 | 🌐 Lua | 📅 2021-10-26 - :hibiscus: Redis、Lua、Nginx、OpenResty 笔记和资料
+* [Tinywan/lua-nginx-redis](https://github.com/Tinywan/lua-nginx-redis) ⭐ 1,114 | 🐛 1 | 🌐 Lua | 📅 2021-10-26 - :hibiscus: Redis、Lua、Nginx、OpenResty 笔记和资料
 * [threathunterX/nebula](https://github.com/threathunterX/nebula) ⚠️ Archived - "星云"业务风控系统，主工程
 * [cldrn/nmap-nse-scripts](https://github.com/cldrn/nmap-nse-scripts) ⭐ 999 | 🐛 2 | 🌐 Lua | 📅 2026-09-29 - My collection of nmap NSE scripts
 * [w3h/icsmaster](https://github.com/w3h/icsmaster) ⭐ 969 | 🐛 0 | 🌐 Lua | 📅 2019-01-04 - ICS/SCADA Security Resource（整合工控安全相关资源）
@@ -5041,10 +5041,10 @@
 
 ## Markdown
 
-* [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 564,326 | 🐛 639 | 🌐 Markdown | 📅 2026-11-19 - Master programming by recreating your favorite technologies from scratch.
-* [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) ⭐ 136,070 | 🐛 0 | 🌐 Markdown | 📅 2026-10-18 - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
+* [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) ⭐ 564,660 | 🐛 640 | 🌐 Markdown | 📅 2026-11-19 - Master programming by recreating your favorite technologies from scratch.
+* [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) ⭐ 136,075 | 🐛 0 | 🌐 Markdown | 📅 2026-10-18 - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 * [KaiserY/rust-book-chinese](https://github.com/KaiserY/rust-book-chinese) ⭐ 1,748 | 🐛 14 | 🌐 Markdown | 📅 2023-07-08 - rust 程序设计语言 中文版
-* [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) ⭐ 1,111 | 🐛 4 | 🌐 Rust | 📅 2026-11-09 - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
+* [analysis-tools-dev/dynamic-analysis](https://github.com/analysis-tools-dev/dynamic-analysis) ⭐ 1,113 | 🐛 4 | 🌐 Rust | 📅 2026-11-09 - ⚙️ A curated list of dynamic analysis tools and linters for all programming languages, binaries, and more.
 
 ## Mask
 
@@ -5056,7 +5056,7 @@
 
 ## Mustache
 
-* [aquasecurity/aqua-helm](https://github.com/aquasecurity/aqua-helm) ⭐ 89 | 🐛 18 | 🌐 Mustache | 📅 2026-11-02 - Helm Charts For Installing Aqua Security Components
+* [aquasecurity/aqua-helm](https://github.com/aquasecurity/aqua-helm) ⭐ 89 | 🐛 18 | 🌐 Mustache | 📅 2026-11-22 - Helm Charts For Installing Aqua Security Components
 * [kajov/wazuh-kubernetes-helmchart](https://github.com/kajov/wazuh-kubernetes-helmchart) ⭐ 28 | 🐛 0 | 🌐 Mustache | 📅 2022-06-02 - Wazuh - Wazuh Kubernetes Helm chart. This repo is not maintained by Wazuh team. This is community project.
 
 ## NSIS
@@ -5070,7 +5070,7 @@
 ## Nim
 
 * [byt3bl33d3r/OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim) ⚠️ Archived - My experiments in weaponizing Nim (<https://nim-lang.org/>)
-* [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) ⭐ 1,554 | 🐛 20 | 🌐 Nim | 📅 2026-10-13 - A curated list of awesome Nim frameworks, libraries, software and resources.
+* [ringabout/awesome-nim](https://github.com/ringabout/awesome-nim) ⭐ 1,555 | 🐛 20 | 🌐 Nim | 📅 2026-10-13 - A curated list of awesome Nim frameworks, libraries, software and resources.
 * [icyguider/Nimcrypt2](https://github.com/icyguider/Nimcrypt2) ⭐ 823 | 🐛 8 | 🌐 Nim | 📅 2023-01-20 - .NET, PE, & Raw Shellcode Packer/Loader Written in Nim
 * [arnetheduck/nlvm](https://github.com/arnetheduck/nlvm) ⭐ 782 | 🐛 14 | 🌐 Nim | 📅 2026-09-26 - LLVM-based compiler for the Nim language
 * [khchen/winim](https://github.com/khchen/winim) ⭐ 520 | 🐛 23 | 🌐 Nim | 📅 2026-08-31 - Windows API, COM, and CLR Module for Nim
@@ -5095,7 +5095,7 @@
 
 ## Nix
 
-* [nix-community/home-manager](https://github.com/nix-community/home-manager) ⭐ 10,537 | 🐛 991 | 🌐 Nix | 📅 2026-11-21 - Manage a user environment using Nix  \[maintainer=@rycee]
+* [nix-community/home-manager](https://github.com/nix-community/home-manager) ⭐ 10,539 | 🐛 986 | 🌐 Nix | 📅 2026-11-22 - Manage a user environment using Nix  \[maintainer=@rycee]
 
 ## Nunjucks
 
@@ -5103,19 +5103,19 @@
 
 ## OCaml
 
-* [semgrep/semgrep](https://github.com/semgrep/semgrep) ⭐ 17,875 | 🐛 995 | 🌐 C | 📅 2026-11-20 - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+* [semgrep/semgrep](https://github.com/semgrep/semgrep) ⭐ 17,885 | 🐛 996 | 🌐 C | 📅 2026-11-20 - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 
 ## Objective-C
 
 * [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) ⚠️ Archived - A plugin for Mac WeChat
-* [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) ⭐ 13,838 | 🐛 115 | 🌐 Swift | 📅 2026-02-08 - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
+* [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) ⭐ 13,839 | 🐛 115 | 🌐 Swift | 📅 2026-02-08 - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
 * [sequelpro/sequelpro](https://github.com/sequelpro/sequelpro) ⭐ 9,185 | 🐛 530 | 🌐 Objective-C | 📅 2023-02-25 - MySQL/MariaDB database management for macOS
 * [AloneMonkey/MonkeyDev](https://github.com/AloneMonkey/MonkeyDev) ⭐ 6,817 | 🐛 187 | 🌐 Python | 📅 2026-11-02 - CaptainHook Tweak、Logos Tweak and Command-line Tool、Patch iOS Apps,  Without Jailbreak.
 * [DanTheMan827/ios-app-signer](https://github.com/DanTheMan827/ios-app-signer) ⭐ 6,346 | 🐛 123 | 🌐 Objective-C | 📅 2026-09-17 - This is an app for OS X that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.
-* [iodefog/VipVideo](https://github.com/iodefog/VipVideo) ⭐ 6,243 | 🐛 37 | 🌐 Objective-C | 📅 2026-09-29 - 各大网站vip视频、世界杯直播（CCTV5）免费观看 - Mac版。付费电影，VIP会员剧等，去广告播放。自用视频或者电影URL，音乐破解URL，CCTV等电视播放URL，爱奇艺、腾讯视频、芒果视频、bilibili、美剧、韩剧、日剧、音乐破解
+* [iodefog/VipVideo](https://github.com/iodefog/VipVideo) ⭐ 6,249 | 🐛 37 | 🌐 Objective-C | 📅 2026-09-29 - 各大网站vip视频、世界杯直播（CCTV5）免费观看 - Mac版。付费电影，VIP会员剧等，去广告播放。自用视频或者电影URL，音乐破解URL，CCTV等电视播放URL，爱奇艺、腾讯视频、芒果视频、bilibili、美剧、韩剧、日剧、音乐破解
 * [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) ⭐ 5,914 | 🐛 80 | 🌐 Objective-C | 📅 2025-06-29 - A fast and clever hex editor for macOS
 * [Naituw/IPAPatch](https://github.com/Naituw/IPAPatch) ⭐ 5,317 | 🐛 43 | 🌐 Objective-C | 📅 2026-02-27 - Patch iOS Apps, The Easy Way, Without Jailbreak.
-* [pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser) ⭐ 3,719 | 🐛 10 | 🌐 Objective-C | 📅 2026-11-04 - Per-device scrolling prefs on macOS.
+* [pilotmoon/Scroll-Reverser](https://github.com/pilotmoon/Scroll-Reverser) ⭐ 3,723 | 🐛 10 | 🌐 Objective-C | 📅 2026-11-04 - Per-device scrolling prefs on macOS.
 * [ios-control/ios-deploy](https://github.com/ios-control/ios-deploy) ⭐ 3,639 | 🐛 45 | 🌐 Objective-C | 📅 2024-06-24 - Install and debug iPhone apps from the command line, without using Xcode
 * [QMUI/LookinServer](https://github.com/QMUI/LookinServer) ⭐ 2,872 | 🐛 40 | 🌐 Objective-C | 📅 2024-07-17 - Free macOS app for iOS view debugging.
 * [ealeksandrov/ProvisionQL](https://github.com/ealeksandrov/ProvisionQL) ⭐ 2,474 | 🐛 4 | 🌐 Swift | 📅 2026-08-16 - Quick Look plugin for mobile apps and provisioning profiles
@@ -5137,7 +5137,7 @@
 * [wzqcongcong/macSubstrate](https://github.com/wzqcongcong/macSubstrate) ⭐ 418 | 🐛 3 | 🌐 Objective-C | 📅 2021-03-30 - Substrate for macOS
 * [paradiseduo/IPAPatch](https://github.com/paradiseduo/IPAPatch) ⭐ 416 | 🐛 0 | 🌐 Objective-C | 📅 2025-03-18 - Patch iOS Apps, The Easy Way, Without Jailbreak.
 * [orklann/PEP](https://github.com/orklann/PEP) ⭐ 347 | 🐛 20 | 🌐 Objective-C | 📅 2021-10-17 - PEP - Free & Open Source PDF Editor for Mac
-* [NyaMisty/fouldecrypt](https://github.com/NyaMisty/fouldecrypt) ⭐ 320 | 🐛 7 | 🌐 Objective-C | 📅 2024-01-29 - A lightweight and simpling iOS binary decryptor
+* [NyaMisty/fouldecrypt](https://github.com/NyaMisty/fouldecrypt) ⭐ 321 | 🐛 7 | 🌐 Objective-C | 📅 2024-01-29 - A lightweight and simpling iOS binary decryptor
 * [xorrior/macOSTools](https://github.com/xorrior/macOSTools) ⭐ 272 | 🐛 0 | 🌐 Objective-C | 📅 2023-09-28 - macOS Offensive Tools
 * [jiangboLee/ChangeLocation](https://github.com/jiangboLee/ChangeLocation) ⭐ 209 | 🐛 6 | 🌐 Objective-C | 📅 2019-02-12 - 改变自己的定位地址(免越狱打卡)
 * [agatti/hopper-plugins](https://github.com/agatti/hopper-plugins) ⚠️ Archived - Plugins for the Hopper disassembler
@@ -5153,10 +5153,10 @@
 
 * [google/santa](https://github.com/google/santa) ⚠️ Archived - A binary authorization and monitoring system for macOS
 * [fjh658/IDA7.0\_SP](https://github.com/fjh658/IDA7.0_SP) ⭐ 862 | 🐛 6 | 🌐 Objective-C++ | 📅 2022-09-10 - IDA7.0\_SP is ida's bugfix
-* [BishopFox/bfinject](https://github.com/BishopFox/bfinject) ⭐ 645 | 🐛 34 | 🌐 Objective-C++ | 📅 2022-03-17 - Dylib injection for iOS 11.0 - 11.1.2 with LiberiOS and Electra jailbreaks
 * [evilpenguin/SSLBypass](https://github.com/evilpenguin/SSLBypass) ⭐ 265 | 🐛 1 | 🌐 Objective-C++ | 📅 2021-10-13 - iOS SSL Pinning Bypass (iOS 8 - 14)
 * [evilpenguin/MachoDecrypt](https://github.com/evilpenguin/MachoDecrypt) ⭐ 95 | 🐛 0 | 🌐 Objective-C++ | 📅 2021-10-19 - Decrypt iOS binaries at runtime
 * [hexploitable/MEMSCAN](https://github.com/hexploitable/MEMSCAN) ⭐ 93 | 🐛 5 | 🌐 Objective-C++ | 📅 2017-04-18 - A memory scanning tool which uses mach\_vm\* to either dump memory or look for a specific sequence of bytes.
+* [BishopFox/bfinject](https://github.com/BishopFox/bfinject) - Dylib injection for iOS 11.0 - 11.1.2 with LiberiOS and Electra jailbreaks
 * [dongyuwei/hallelujahIM](https://github.com/dongyuwei/hallelujahIM) - hallelujahIM(哈利路亚 英文输入法) is  an intelligent English input method with auto-suggestions and spell check features.
 
 ## Open Policy Agent
@@ -10294,7 +10294,7 @@
 * [appliedsec/pygeoip](https://github.com/appliedsec/pygeoip) - DEPRECATED: Pure Python API for Maxmind's binary GeoIP databases
 * [vesche/histstat](https://github.com/vesche/histstat) - history for netstat
 * [FeeiCN/Cobra](https://github.com/FeeiCN/Cobra) - Source Code Security Audit (源代码安全审计)
-* [abatchy17/WindowsExploits](https://github.com/abatchy17/WindowsExploits) - Windows exploits, mostly precompiled. Not being updated. Check <https://github.com/SecWiki/windows-kernel-exploits> ⭐ 8,770 | 🐛 10 | 🌐 C | 📅 2021-06-11 instead.
+* [abatchy17/WindowsExploits](https://github.com/abatchy17/WindowsExploits) - Windows exploits, mostly precompiled. Not being updated. Check <https://github.com/SecWiki/windows-kernel-exploits> ⭐ 8,771 | 🐛 10 | 🌐 C | 📅 2021-06-11 instead.
 * [plane636/rsync\_scan](https://github.com/plane636/rsync_scan) - rsync空口令扫描器
 * [gdelugre/ida-arm-system-highlight](https://github.com/gdelugre/ida-arm-system-highlight) - IDA script for highlighting and decoding ARM system instructions
 * [plane636/opmanager\_exp](https://github.com/plane636/opmanager_exp) - opmanager运维监控系统上传漏洞测试工具
@@ -10472,7 +10472,7 @@
 * [NullArray/DorkNet](https://github.com/NullArray/DorkNet) - Selenium powered Python script to automate searching for vulnerable web apps.
 * [edouardoyallon/pyscatwave](https://github.com/edouardoyallon/pyscatwave) - Fast Scattering Transform with CuPy/PyTorch
 * [essandess/isp-data-pollution](https://github.com/essandess/isp-data-pollution) - ISP Data Pollution to Protect Private Browsing History with Obfuscation
-* [kgretzky/evilginx](https://github.com/kgretzky/evilginx) - PLEASE USE NEW VERSION: <https://github.com/kgretzky/evilginx2> ⭐ 15,959 | 🐛 267 | 🌐 Go | 📅 2026-06-10
+* [kgretzky/evilginx](https://github.com/kgretzky/evilginx) - PLEASE USE NEW VERSION: <https://github.com/kgretzky/evilginx2> ⭐ 15,961 | 🐛 267 | 🌐 Go | 📅 2026-06-10
 * [opendns/og-miner](https://github.com/opendns/og-miner) - OpenDNS Graph Miner
 * [OTRF/ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - A community-driven, open-source project to share detection logic, adversary tradecraft and resources to make detection development more efficient.
 * [Moving-Electrons/TravelPhotoBackup](https://github.com/Moving-Electrons/TravelPhotoBackup) - This is an OLD repository and has been left here for reference purposes only. New repository can be found at: <https://github.com/Moving-Electrons/photo-backup>. More information at [www.movingelectrons](http://www.movingelectrons).
@@ -12203,4 +12203,4 @@ To the extent possible under law, [udpsec](https://github.com/udpsec) has waived
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
